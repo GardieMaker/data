@@ -1,2 +1,2 @@
 # data
-Archivos usados en las versiones
+Archivos usados en todas las versiones
