@@ -1,0 +1,14 @@
+
+NOTAS TRACKING
+	"0 " : Pendiente 
+	"2" : Pasado a GroupList
+
+========================
+Referencias = ** gr upo incompleto / * correccion de nombre
+
+{"groupId":5680, "name":"Vestido Cute Leprechaun", "category":"Vestidos", "rarity":"Eve nto", "note":"Nav idad 2015"},
+{"itemId":1167, "groupId":1152, "itemURL":"28ac906e5dc30d5866f22f8f15c99d97.pn g", "especial":"Obsidiana"},
+
+================================================================================================
+
+
