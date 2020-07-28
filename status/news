@@ -1,0 +1,18 @@
+<div class="news">
+    <div class="category">General</div>
+    <div class="text">
+        <a href="https://gardiemaker.blogspot.com/search/label/updates">Últimas actualizaciones</a>
+    </div>
+</div>
+<div class="news">
+    <div class="category">Changelog</div>
+    <div class="text">
+        <a href="https://gardiemaker.blogspot.com/search/label/changelog">Cambios recientes</a>
+    </div>
+</div>
+<div class="news">
+    <div class="category">Actividades</div>
+    <div class="text">
+        <a href="">No hay actividades recientes</a>
+    </div>
+</div>
