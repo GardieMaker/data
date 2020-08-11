@@ -1,4 +1,10 @@
 <div class="news">
+    <div class="date">11/08</div>
+    <div class="text">
+        <a href="https://gardiemaker.blogspot.com/2020/08/informe-de-cambios.html">[CHANGELOG] Informe de cambios</a>
+    </div>
+</div>
+<div class="news">
     <div class="date">06/08</div>
     <div class="text">
         <a href="https://gardiemaker.blogspot.com/2020/08/nuevo-conjunto-disponible.html">[ACTUALIZACIÓN] ¡Nuevo conjunto disponible!</a>
@@ -8,11 +14,5 @@
     <div class="date">04/08</div>
     <div class="text">
         <a href="https://gardiemaker.blogspot.com/2020/08/ya-puedes-postular-tu-guardiana.html">[ACTIVIDAD] ¡Ya puedes postular a tu guardiana!</a>
-    </div>
-</div>
-<div class="news">
-    <div class="date">03/08</div>
-    <div class="text">
-        <a href="https://gardiemaker.blogspot.com/2020/08/bienvenidos-gardiemaker.html">[ANUNCIO] ¡Bienvenidos a GardieMaker!</a>
     </div>
 </div>
