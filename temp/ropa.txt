@@ -311,7 +311,7 @@ Egg's Keeper (x12)
 Countess of Pan (x12)
 
 	!@21572 Body Countess of Pan / Ropa interior / Legendario M19
-		21572,841f07169e1f5841babe957ce6153911.png
+		21572,"841f07169e1f5841babe957ce6153911.png"
 		21573,4e7685b3aadb830580f5f08689da86c4.png
 		21574,
 		21575,
@@ -439,7 +439,7 @@ Far North Sovereign (x12)
 		23171,"bcc0f743e6d2722171c04c63b8ced7ea.png"
 
 	23172 Corona Far North Sovereign / Sombreros / Evento N19
-		23172,58346844c389932f76bc2b2fb7c2d98b.png
+		23172,"58346844c389932f76bc2b2fb7c2d98b.png"
 		23173,"81f3f143e83c1c852f7e04d4e041cf2b.png"
 		23174,"03eaeb5c559c414c5d7abfc67bb89f61.png"
 		23175,"68cd884dd302cde2222ae55e5852f798.png"
