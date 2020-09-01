@@ -166,6 +166,20 @@
 		15675,
 		15676,
 
+	!@15677 Vestido Wintry Monarch / Vestidos / Evento (Navidad 2017)
+		15677,a793ffebd57f4632958259654f7c843d.png
+		15678,d0505477a387734e4eeabf83de5c9e3a.png
+		15679,
+		15680,2ae0e943adb914b0569079ece28e22a9.png
+		15681,
+		15682,
+		15683,
+		15684,24daaa327570792935f66bda0d4b759f.png
+		15685,0a47538a44b1dffd5c000a97d96e967b.png
+		15686,
+		15687,
+		15688,"cc1430943ffc98ad0628dd82aa4060ef.png" NUEVO
+
 	!@15689 Botas Wintry Monarch / Zapatos / Evento (Navidad 2017)
 		15689,"0e17b6e6bb17225487c8b06ca31f3de3.png"
 		15690,39e46ca1d2270f18e8cc8232ce88695b.png
@@ -180,33 +194,19 @@
 		15699,
 		15700,
 
-	Pantalón Wintry Monarch / Pantalones / Evento (Navidad 2017)
-		1,7b423784bb64a9c4c1d2a2d0937ce2f4.png
-		2,0e13ff47e2b76021dba92e610b3d52f8.png
-		3,
-		4,413de16fa7a8b05576c3de67e2cdfb5a.png
-		5,
-		6,
-		7,
-		8,97dd0fd16ba76dbda96a6b9b1e8418ab.png
-		9,5529a9f3c1e06eaff63767d33b478cc7.png
-		10,
-		11,
-		12,
-
-	Vestido Wintry Monarch / Vestidos / Evento (Navidad 2017)
-		1,a793ffebd57f4632958259654f7c843d.png
-		2,d0505477a387734e4eeabf83de5c9e3a.png
-		3,
-		4,2ae0e943adb914b0569079ece28e22a9.png
-		5,
-		6,
-		7,
-		8,24daaa327570792935f66bda0d4b759f.png
-		9,0a47538a44b1dffd5c000a97d96e967b.png
-		10,
-		11,
-		12,
+	!@15701 Pantalón Wintry Monarch / Pantalones / Evento (Navidad 2017)
+		15701,7b423784bb64a9c4c1d2a2d0937ce2f4.png
+		15702,0e13ff47e2b76021dba92e610b3d52f8.png
+		15703,
+		15704,413de16fa7a8b05576c3de67e2cdfb5a.png
+		15705,
+		15706,
+		15707,
+		15708,97dd0fd16ba76dbda96a6b9b1e8418ab.png
+		15709,5529a9f3c1e06eaff63767d33b478cc7.png
+		15710,
+		15711,
+		15712,"f1b5d46b2ae699bc061844501b07ee4e.png" NUEVO
 
 Egg's Keeper (x12)
 
@@ -456,7 +456,7 @@ Far North Sovereign (x12)
 		23184,479d805b593c2b56499da716ce578fd8.png
 		23185,"711ebc222f9067db6145918c724ec7a2.png"
 		23186,"64de36e84c0961426e902955242811c9.png"
-		23187,daa13e20811a9991fa0be9c6db6d56af.png
+		23187,"daa13e20811a9991fa0be9c6db6d56af.png"
 		23188,3784c76bc7954c00bdbbe46f426f2b8b.png
 		23189,6
 		23190,e743afa82950e2ad52337bf8c6541b7c.png
