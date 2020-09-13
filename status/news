@@ -1,4 +1,10 @@
 <div class="news">
+    <div class="date">13/09</div>
+    <div class="text">
+        <a href="https://gardiemaker.blogspot.com/2020/09/nuevos-conjuntos-disponibles.html">[ACTUALIZACIÓN] ¡Nuevos conjuntos disponibles!</a>
+    </div>
+</div>
+<div class="news">
     <div class="date">09/09</div>
     <div class="text">
         <a href="https://gardiemaker.blogspot.com/2020/09/guardiana-destacada-semana-3.html">[PORTADA] Guardiana Destacada: Semana 3</a>
@@ -8,11 +14,5 @@
     <div class="date">02/09</div>
     <div class="text">
         <a href="https://gardiemaker.blogspot.com/2020/09/guardiana-destacada-semana-2.html">[PORTADA] Guardiana Destacada: Semana 2</a>
-    </div>
-</div>
-<div class="news">
-    <div class="date">26/08</div>
-    <div class="text">
-        <a href="https://gardiemaker.blogspot.com/2020/08/guardiana-destacada-semana-1.html">[PORTADA] Guardiana Destacada: Semana 1</a>
     </div>
 </div>
