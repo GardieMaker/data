@@ -5,10 +5,109 @@
 
 ========================= Completos =========================
 
-- VACÍO -
 
 =============================================================
 
 *************************************************************
+2251 Antiguas esposas de prisionero / Accesorios manos / Exploración
+	2251,"0fe30bea9b4983bc7046da2181ef3bcb.png"
+	26580,"651a7109dd63472479ead46b4f8f4da0.png"
+	26581,3
+	26582,4
+	26583,"59b44b5f6bb76a34d3f3b6623fa01304.png"
+	26584,6
+	26585,"8763e2a821d4d840f7b31c66aec3aefa.png"
+	26586,"8338e769d2a70887401e9c144809a29f.png"
+	26587,"d38ff4c4ff7e00a9314c0bb0737e7c7e.png"
+	26588,"8ceb4174c1072f40ac100e2c129018d8.png"
 
-- VACÍO -
+2252 Antigua bola de prisionero / Zapatos / Raro / Exploración
+	2252,"cee54e175ceb7e7aece120b3497f46ef.png"
+	26589,"58e2cce77b3b7ef524167c18b64e0220.png"
+	26590,3
+	26591,"65d6ac33b13469b9c2b4a289952d8c65.png"
+	26592,"d80c5a9755e7f16a32f3509e93bfd6d0.png"
+	26593,"c705567322918f832b01dcf1ef7ce60b.png"
+	26594,"e45c8ca88bb8d8cd975aebe83b14e268.png"
+	26595,"176d15202386d62ef8a237a61890601c.png"
+	26596,"2ced89b4d631de91ff0ad97e81658df6.png"
+	26597,"0ec8645b253a40c728eee156f4945fc1.png"
+
+Bol Kappa / Sombreros / Común / Exploración
+	4512,"0db57b8536178fe0fc2e3d8028512b14.png"
+
+5251 Insolente / Bocas / Común / Exploración
+	5251,"9e86279696e07d2e0420ca78a82ace1a.png"
+	5594,"a71f986d7219eff882ed968e0a4905fe.png"
+	5595,"84f4f0b379447f81db5e00ace8ad9230.png"
+	5596,"bf256ec5bb54f026c97284d5f7b20ad3.png"
+	5597,"53a5ac6323229d97ab00d7e822f17930.png"
+	5598,"fe4609dbbdce7f8fcc4ecb526977827e.png"
+	5599,"e4e48d344cfd4ea0ac9cbcb166562cc9.png"
+	5600,"ee440d7ba8161a2daa06ee1da55f2dbf.png"
+	5601,"6147fe8a0a10e6ffb5c8b290f74b2fad.png"
+	5602,"12ac33fa8a5cd15e5526c72ebf94dfe6.png"
+	5603,"9c00704ce76ff3884199e61860f4174b.png"
+	5604,"62149f11b8988f7227a3227b9b6a7d70.png"
+	5605,"8668b791f12780417904a442bd586fc8.png"
+	5606,"c92c5ef038dc19096edd5aac8b7273fe.png"
+	5607,"3833b64d9782180804360cebf5b101bb.png"
+	5608,"1d9e08935438e94a06af281b2f46b2c0.png"
+
+Maliciosa / Bocas / Común / Exploración
+	5567,"bfcd39771c719ec0734a5ab4abe4a896.png"
+	5568,"f5eb2ce3152e017572e9b197d37eec57.png"
+	5571,"8fbd16ed017ff2e43613bb258153290a.png"
+	5575,"e708d009be8b1827f933812392b034aa.png"
+	5577,"0afa590f7b64304146931f33684997dc.png"
+
+Idol / Cabello / Común / Exploración
+	7172,"5df42ae655ba15c8cdcbe90200fc34e9.png"
+	7173,"42b14c476028b6c3868060650f99e4fb.png"
+	7174,"9d3527d0cb5c5c5475fa8df6b20f246b.png"
+	7175,"1360e1e4fdc4401820c26a347eab1c2d.png"
+	7176,
+	7177,"3a9f55e9369db7c294378a8f76f3ad55.png"
+	7178,
+	7179,
+	7180,"7fc646233253443967fbfe9ad88e6635.png"
+	7181,"e6d65542465221f4451ed70293cea829.png"
+	7182,
+	7183,
+	7184,"90fc6b9ab8df94f3fad21baf8ad32997.png"
+	7185,
+	7186,"efeacdd384a02bb5d5fef04e3e6d66aa.png"
+	7187,"155d8f93e6447cac54fb1153cd77053a.png"
+	7188,"6d3a542925ee00a6ccfb2586d930121d.png"
+	7189,"0764a4abd132c04718f3cc68b2039eb9.png"
+	7190,"d3596bad99ad2f20b8878f7f6895351b.png"
+	7191,
+	7192,"e56e99db5c4cd9fc4a8f518f37ee6ac0.png"
+	7193,"e21bcf15d9f38c7e4f90531c5c214fb6.png"
+	7194,
+	7195,
+	7196,"62729630a54d309c36c0940cb7530f2d.png"
+	7197,"2d29873587f3570d2772f99b66465d59.png"
+	7198,
+	7199,"7633983693e058c89703b7b8a1dc94a4.png"
+	7200,
+	7201,"ac8c85f40c8c74135cfe087f15bd76cb.png"
+	7202,"1fe699154e6e93e405ebc5b8fe976e2b.png"
+	7203,
+	7204,"01dee5bbe0f4971968cf0f74ea73d1d1.png"
+	7205,
+	7206,"90580a3553b95651b32bcba58f17b888.png"
+
+Collar Eagles Pride / Collares / Épico / Exploración ?????
+	18188,"6fe6d36770473e666c3c3f6f594b362a.png"
+	18189,"bb393b2e9931f6d8c96f4b5f4d54e19d.png"
+	18196,"fd15c730cd85f00d2a65eb8e111e36fa.png"
+	18199,"bf35c564a4821c98b1ebe9b36d7bd31d.png"
+
+Maebh / Cabello / Épico / Exploración ?????
+	26639,"1fe766fa0e6bf58bf04826777a5d25da.png"
+	26642,"bb0a85f05df233f58ce7373aecc5bfb3.png"
+	26645,"f57d29986f653f5fa8d9d800060714c7.png"
+	26651,"b5c6bbc018d2059526cdafa53d994c8a.png"
+	26652,"ba4c1dd63d5c3f818f177234c2177fcb.png"
+	26657,"e7b071cad80721f5f37b590360355f64.png"
