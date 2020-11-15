@@ -5,44 +5,10 @@
 
 ========================= Completos =========================
 
+- VACIO -
+
 =============================================================
 
 *************************************************************
 
-Amah / Pieles / Épico / Exploración
-	1257,"caad65e7fc7c9ecf89285f0e0547b6c6.png"
-
-Kitsune / Pieles / Épico / Exploración
-	1258,"dcf0019a719ce2e8f73637c07703066d.png"
-
-Sagrado de Birmania / Pieles / Épico / Exploración
-	1259,"a436fbdd6c9913f0d374b544f6d5c249.png"
-	1260,"0129280d7436a8c86a1c84a26556da95.png"
-
-Vikuli / Pieles / Épico / Exploración
-	1262,"d087e9c9d3aa88e10fdaf023ef074b04.png"
-
-Diamond Hands / Pieles / Raro / Exploración
-	1268,"5a0613debd623d5aa18b0a0a30317177.png"
-
-Maebh / Cabello / Épico / Exploración
-	26638,"748ce852b9d60e6b698092a31ad0f7d2.png"
-	26639,"1fe766fa0e6bf58bf04826777a5d25da.png"
-	26640,"e26edaf44e5662d1c6756781628aba34.png"
-	26641,
-	26642,"bb0a85f05df233f58ce7373aecc5bfb3.png"
-	26643,"6a2f36321ccd6860cc1012dfa4ff5ed7.png"
-	26644,"91acbff290b69a1e9eb0a1cde6363fec.png"
-	26645,"f57d29986f653f5fa8d9d800060714c7.png"
-	26646,"06a39aba0395123955a42400cc526b49.png"
-	26647,"210a171a94328556ec0619c07de77cdf.png"
-	26648,"f046bd9c6e2a5b8effc8be25545d1d8a.png"
-	26649,"a9346f6e9740610d2c9c832945c08306.png"
-	26650,"70f99989cda3a3d0d786d92f4ccdc12e.png"
-	26651,"b5c6bbc018d2059526cdafa53d994c8a.png"
-	26652,"ba4c1dd63d5c3f818f177234c2177fcb.png"
-	26653,"8a99d506bbbe449f8b05286867142c02.png"
-	26654,
-	26655,
-	26656,"5c1081c5e20f0a5e6f96cd4f14a9da26.png"
-	26657,"e7b071cad80721f5f37b590360355f64.png"
+- VACIO -
