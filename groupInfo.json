@@ -1843,5 +1843,14 @@
 	{"groupId":26460, "name":"Vestido Wide Awake", "category":"Vestidos", "rarity":"Común", "note":"Tienda"},
 	{"groupId":26470, "name":"Collar Wide Awake", "category":"Collares", "rarity":"Común", "note":"Tienda"},
 	{"groupId":26480, "name":"Cinturón Wide Awake", "category":"Cinturones", "rarity":"Común", "note":"Tienda"},
+	{"groupId":26490, "name":"Piel Corrupted Oracle", "category":"Pieles", "rarity":"Evento", "note":"Black Friday 2020"},
+	{"groupId":26500, "name":"Alas Corrupted Oracle", "category":"Abrigos", "rarity":"Evento", "note":"Black Friday 2020"},
+	{"groupId":26510, "name":"Botas Corrupted Oracle", "category":"Zapatos", "rarity":"Evento", "note":"Black Friday 2020"},
+	{"groupId":26520, "name":"Guantes Corrupted Oracle", "category":"Guantes", "rarity":"Evento", "note":"Black Friday 2020"},
+	{"groupId":26530, "name":"Body Corrupted Oracle", "category":"Ropa interior", "rarity":"Evento", "note":"Black Friday 2020"},
+	{"groupId":26540, "name":"Cinturón Corrupted Oracle", "category":"Cinturones", "rarity":"Evento", "note":"Black Friday 2020"},
+	{"groupId":26550, "name":"Naama", "category":"Cabello", "rarity":"Evento", "note":"Black Friday 2020"},
+	{"groupId":26560, "name":"Cuernos Corrupted Oracle", "category":"Sombreros", "rarity":"Evento", "note":"Black Friday 2020"},
+	{"groupId":26570, "name":"Cristales Corrupted Oracle", "category":"Ambientes", "rarity":"Evento", "note":"Black Friday 2020"},
 	{"groupId":26638, "name":"Maebh", "category":"Cabello", "rarity":"Épico", "note":"Exploración"}
 ]
