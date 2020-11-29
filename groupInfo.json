@@ -1852,5 +1852,12 @@
 	{"groupId":26550, "name":"Naama", "category":"Cabello", "rarity":"Evento", "note":"Black Friday 2020"},
 	{"groupId":26560, "name":"Cuernos Corrupted Oracle", "category":"Sombreros", "rarity":"Evento", "note":"Black Friday 2020"},
 	{"groupId":26570, "name":"Cristales Corrupted Oracle", "category":"Ambientes", "rarity":"Evento", "note":"Black Friday 2020"},
-	{"groupId":26638, "name":"Maebh", "category":"Cabello", "rarity":"Épico", "note":"Exploración"}
+	{"groupId":26638, "name":"Maebh", "category":"Cabello", "rarity":"Épico", "note":"Exploración"},
+	{"groupId":26658, "name":"Top Healer Support", "category":"Partes de arriba", "rarity":"Común", "note":"Exploración exclusiva"},
+	{"groupId":26659, "name":"Pantalón corto Healer Support", "category":"Pantalones", "rarity":"Común", "note":"Exploración exclusiva"},
+	{"groupId":26660, "name":"Guantes Healer Support", "category":"Guantes", "rarity":"Común", "note":"Exploración exclusiva"},
+	{"groupId":26661, "name":"Chaleco Healer Support", "category":"Abrigos", "rarity":"Común", "note":"Exploración exclusiva"},
+	{"groupId":26662, "name":"Joya Healer Support", "category":"Sombreros", "rarity":"Común", "note":"Exploración exclusiva"},
+	{"groupId":26663, "name":"Medias Healer Support", "category":"Calcetines", "rarity":"Común", "note":"Exploración exclusiva"},
+	{"groupId":26664, "name":"Zapatos Healer Support", "category":"Zapatos", "rarity":"Común", "note":"Exploración exclusiva"}
 ]
