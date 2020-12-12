@@ -1769,7 +1769,7 @@
 	{"groupId":25126, "name":"Cinturón Mystic Sentinel", "category":"Cinturones", "rarity":"Común", "note":"Tienda"},
 	{"groupId":25136, "name":"Diadema Mystic Sentinel", "category":"Sombreros", "rarity":"Común", "note":"Tienda"},
 	{"groupId":25147, "name":"Ellana", "category":"Cabello", "rarity":"Común", "note":"Tienda"},
-	{"groupId":25167, "name":"Erika", "category":"Cabello", "rarity":"Común", "note":"Default"},
+	{"groupId":25167, "name":"Erika", "category":"Cabello", "rarity":"Común", "note":"Tienda"},
 	{"groupId":25187, "name":"Calcetines Guardian Returns", "category":"Calcetines", "rarity":"Común", "note":"Episodio 1 (A New Era)"},
 	{"groupId":25188, "name":"Pantalón Guardian Returns", "category":"Pantalones", "rarity":"Común", "note":"Episodio 1 (A New Era)"},
 	{"groupId":25189, "name":"Top Guardian Returns", "category":"Partes de arriba", "rarity":"Común", "note":"Episodio 1 (A New Era)"},
