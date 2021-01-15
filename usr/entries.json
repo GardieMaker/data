@@ -1,4 +1,32 @@
 [
+    {"id":168842622, "alias":"KUROJE", "featured":false, "info":{
+        "date":"2021-01-15", "name":"Kuroje",
+        "png":"https://1.bp.blogspot.com/-_tQrVM9pChw/YAIjjQJPgJI/AAAAAAAAFo4/3GXDI6IHkioKY4gfQVkwqlzUwUzeKQt2QCLcBGAsYHQ/s0/168842622.png",
+        "code":"16271&8557&16259&5093&5196&8127&12203&24692&16235&9447&25190&19153&25141&22398&19340",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/b5dca12e632fff46a8c3916eb53423db.jpg"
+    }},
+
+    {"id":311975833, "alias":"MartaIV", "featured":false, "info":{
+        "date":"2021-01-15", "name":null,
+        "png":"ttps://1.bp.blogspot.com/-ERfTCeWhR4o/YAIbBO1HFMI/AAAAAAAAFos/h8_NX5JGGKobHqiDvEfDApm8C1SAWrmXgCLcBGAsYHQ/s0/311975833.png",
+        "code":"23210&21895&1275&3978&19602&18732&18392&5161&23323&16893&11494&8954&2327&19719&11868&20140&22870&11566&17907&23403&1522&23334&10803&17851&20585&15304&16233&8640&3342&23530&23295&23582&23312&20114",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/5953004d61f2c4fb8a9dd9579213ae61.jpg"
+    }},
+
+    {"id":121005878, "alias":"Nana", "featured":false, "info":{
+        "date":"2021-01-14", "name":"Daziel",
+        "png":"https://1.bp.blogspot.com/-ZfJzRiYP4-Y/YAIYh6UY2mI/AAAAAAAAFog/-LuxPPSNWqMzPh9FE9dZ1dbHY511Wbx9QCLcBGAsYHQ/s0/121005878.png",
+        "code":"12103&6711&12271&9298&5091&13132&25151&12232&14200&16293&17914&6254&14122&21448&19093&12139&24627&12879&13673&19159&25067&5582&19762&19074&21639&6433&24315&18904&2446&6768&20115",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/e7fa6151ab5e1cbefeca680bc7c2b428.jpg"
+    }},
+
+    {"id":347589453, "alias":"MartaIV", "featured":false, "info":{
+        "date":"2021-01-14", "name":"Howl",
+        "png":"https://1.bp.blogspot.com/-3RfGKEYeSIM/YAIVWz7eNbI/AAAAAAAAFoU/vYLHUjEOlEYtIfLku9FRP0_ZsdXKsrmsgCLcBGAsYHQ/s0/347589453.png",
+        "code":"7920&15712&21895&19828&20117&16389&12074&15697&19499&18635&17176&10962&23403&8831&25337&22403&15725&21096&19072&19983&17918&17713&4660&16533&14615&22621&16238&20141&13166&19689&13727&19571&16711&7678&3120&18156&18737&17868&17940&13146&20580&14265&5385&14708&19238&12220&20331&17752&16287&17782&20837&20114",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/5953004d61f2c4fb8a9dd9579213ae61.jpg"
+    }},
+    
     {"id":157421607, "alias":"MartaIV", "featured":false, "info":{
         "date":"2021-01-14", "name":null,
         "png":"https://1.bp.blogspot.com/-Y62nLlVN02g/YACsJcpjkYI/AAAAAAAAFnw/R13ei9Dx_I4_7wH15BLH6sObDys1h13ngCLcBGAsYHQ/s0/157421607.png",
