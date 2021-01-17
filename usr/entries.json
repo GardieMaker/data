@@ -1,4 +1,46 @@
 [
+    {"id":437080275, "alias":"Helena", "featured":false, "info":{
+        "date":"2021-01-17", "name":null,
+        "png":"https://1.bp.blogspot.com/-ahcBaUvMTQI/YASi7t8ztvI/AAAAAAAAFqQ/WczfxVzYfeEPQyW3OoD7e4Ig2EiAVMExACLcBGAsYHQ/s0/437080275.png",
+        "code":"17922&24808&11749&18360&21771&18195&5602&4431",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/0870bd10fd96dcdf7bc50755ce48dc6b.jpg"
+    }},
+
+    {"id":106320796, "alias":"Chissek", "featured":false, "info":{
+        "date":"2021-01-17", "name":"reina oscura",
+        "png":"https://1.bp.blogspot.com/-aR3j8jILGCc/YASiRsQpLXI/AAAAAAAAFqI/-wMiZCaeQiESm2fFnMPk40e50CuLNHRqgCLcBGAsYHQ/s0/106320796.png",
+        "code":"1276&16269&4758&23663&21893&26454&14429&24176&12064&15685&9094&24900&8534&15528&22391&22353&21827&14265&14479&25196",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/5c986bc68d9afc7a9562f8cba874b26e.jpg"
+    }},
+
+    {"id":378105730, "alias":"Chissek", "featured":false, "info":{
+        "date":"2021-01-17", "name":"Ornak humanizado",
+        "png":"https://1.bp.blogspot.com/-Bo70DhjykwA/YASgui281pI/AAAAAAAAFp8/9hlmyeOMJ4crNKnLzF66JmAHtJnaPk-zACLcBGAsYHQ/s0/378105730.png",
+        "code":"21891&14503&20128&21877&14838&24900&23654&24279&21829&13784&11849&17587",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/ebe3cacec9acff9a1ae9d9554a3192c0.jpg"
+    }},
+    
+    {"id":518895838, "alias":"Chissek", "featured":false, "info":{
+        "date":"2021-01-17", "name":"Anabelle",
+        "png":"https://1.bp.blogspot.com/-pHQdj-hVlQQ/YASfbmLjfII/AAAAAAAAFpw/HcQNPs3zxpMwH6ZE1nYdOu9h9s5VqEZIQCLcBGAsYHQ/s0/518895838.png",
+        "code":"21893&23314&1276&16260&26533&13913&11343&23171&17555&17981&16606&10437&15296&24168&8534&7806&20721&10336&23375&8786&24944&12290&25207",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/24d9d1ee8f8500be303b20dd5f1415e1.jpg"
+    }},
+
+    {"id":485028937, "alias":"Aine", "featured":false, "info":{
+        "date":"2021-01-16", "name":null,
+        "png":"https://1.bp.blogspot.com/-aw5ntdm79gM/YASdZo0T1SI/AAAAAAAAFpk/x7NztK-V9rUBK70n72aRS5GAw9QXJFoewCLcBGAsYHQ/s0/485028937.png",
+        "code":"21895&25974&25418&24309&6931&691&16282&16273&8457&23414&18308&2386&17690&12596&12991&12081&13046&12804&25139&13361&17555&26199&5193&16347&23356&15823&12624&6768&12607",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/ebe3cacec9acff9a1ae9d9554a3192c0.jpg"
+    }},
+
+    {"id":356671077, "alias":"Akemi", "featured":false, "info":{
+        "date":"2021-01-16", "name":null,
+        "png":"https://1.bp.blogspot.com/-4hr9i-G1ZEQ/YAScuaRYs1I/AAAAAAAAFpc/hNSqwx2no2w6unhRhbf7s0hXpqwlTXxtgCLcBGAsYHQ/s0/356671077.png",
+        "code":"16280&16409&21891&25962&691&16282&17570&17726&12805&20134&17737&16257&17605&13411&24122&23653&24155&16245&6768",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/ebe3cacec9acff9a1ae9d9554a3192c0.jpg"
+    }},
+
     {"id":168842622, "alias":"KUROJE", "featured":false, "info":{
         "date":"2021-01-15", "name":"Kuroje",
         "png":"https://1.bp.blogspot.com/-_tQrVM9pChw/YAIjjQJPgJI/AAAAAAAAFo4/3GXDI6IHkioKY4gfQVkwqlzUwUzeKQt2QCLcBGAsYHQ/s0/168842622.png",
