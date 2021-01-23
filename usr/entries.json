@@ -1,4 +1,60 @@
 [
+    {"id":531878775, "alias":"Bluem", "featured":false, "info":{
+        "date": "2021-01-23", "name": "Santa Guerrera",
+        "code": "25062&691&18993&20994&2971&19623&12062&17020&5554&19738&10146&22711&25923",
+        "png":"https://1.bp.blogspot.com/-jAQVe32Q9-Q/YAx7cBRkHbI/AAAAAAAAFt8/kYsVCbJvsFMZas0Ukya85okqaN6Ip9lMQCLcBGAsYHQ/s0/531878775.png",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/ebe3cacec9acff9a1ae9d9554a3192c0.jpg"
+    }},
+    
+    {"id":201325552, "alias":"ShiroNeKo-D", "featured":false, "info":{
+        "date": "2021-01-22", "name": null,
+        "code": "25955&17833&23212&1251&16267&18278&25066&20269&19515&8526&19503&8311&24205&24925&22620&5588&12596&14225&24217&16973&24313&25208",
+        "png":"https://1.bp.blogspot.com/-bjU5DjOufZY/YAx6p0gCTnI/AAAAAAAAFt0/ZLewYdPEiwIMmuKYNOW-H5CbTu4f5sj9QCLcBGAsYHQ/s0/201325552.png",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/e9b585d4f48cf9a565a83625ca7ab747.jpg"
+    }},
+
+    {"id":224572141, "alias":"MartaIV", "featured":false, "info":{
+        "date": "2021-01-22", "name": null,
+        "code": "23312&1277&23940&5193&23546&22838&18994&12914&19719&19502&8448&17171&21357&17907&23298&17415&10430&20261&9098&25926&15800&16240&16282&15485&24158&16265&16687&24374&23413&22626&24691&15300&20333",
+        "png":"https://1.bp.blogspot.com/-2HtOxIC8goY/YAx5rANGUsI/AAAAAAAAFts/JTgWCn74-TEHG5iReiYkjU5VULuXMULmgCLcBGAsYHQ/s0/224572141.png",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/96c00f19553e7cf3a6750f4ef3c5351c.jpg"
+    }},
+
+    {"id":901821967, "alias":"MartaIV", "featured":false, "info":{
+        "date": "2021-01-22", "name": null,
+        "code": "21900&25420&9341&9300&24831&5269&21871&5444&26532&26502&8537&22244&8412&10299&18380&19075&24694&23094&25957&26572&22031",
+        "png":"https://1.bp.blogspot.com/-yEPRdSbts78/YAx4ebfHYSI/AAAAAAAAFtg/mx9dNyyL0oYpwc2mx7UrxcuKt9vE8WcwwCLcBGAsYHQ/s0/901821967.png",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/687089d68e47d461bfcd8e176ebff9c2.jpg"
+    }},
+
+    {"id":307749268, "alias":"DennisLestrange", "featured":false, "info":{
+        "date": "2021-01-22", "name": "QueenFaerie",
+        "code": "8898&9305&23155&17678&16602&21822&19068&21638&17933&20273&5241&25210",
+        "png":"https://1.bp.blogspot.com/-8zCPIDgIlw4/YAx3rYEASzI/AAAAAAAAFtU/Cb6okRgzGYQkJ0H25vwvXLUNJL7I-xbtQCLcBGAsYHQ/s0/307749268.png",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/866c518ae55596a6aff60f125f03c9b1.jpg"
+    }},
+
+    {"id":615131795, "alias": "DennisLestrange", "featured":false, "info":{
+        "date": "2021-01-22", "name": "Oracle Erika",
+        "code": "26499&4396&11846&22645&7292&5211&12103&26569&11850&12128&2417",
+        "png":"https://1.bp.blogspot.com/-TGLvxS8rLJ0/YAx2-eifQZI/AAAAAAAAFtM/9TkfJyNatgUdBi5OJ35kj0KST79_glYyQCLcBGAsYHQ/s0/615131795.png",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/84e3521e9bb8e4370ea249c5caed4774.jpg"
+    }},
+    
+    {"id":372936002, "alias":"ShiroNeKo-D", "featured":false, "info": {
+        "date": "2021-01-21", "name": "Llorona",
+        "code": "19283&21602&8556&24827&5161&19159&18163&18279&20581&5091&21884&5423&16413&5295&20231&26480&19340",
+        "png":"https://1.bp.blogspot.com/-J-L1G99FMEA/YAx1_DZpkLI/AAAAAAAAFtE/qaCLUFB7AOk1PafnpPw68-c6MhxcxQGWwCLcBGAsYHQ/s0/372936002.png",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/b5dca12e632fff46a8c3916eb53423db.jpg"
+    }},
+
+    {"id":544472584, "alias": "Joceline", "featured":false, "info":{
+        "date": "2021-01-21", "name": null,
+        "code": "1251&3369&26451&15893&23653&14430&14472&12609&20155&6224&23952&12592&23356&14395&20214&2324&6768&25209",
+        "png":"https://1.bp.blogspot.com/-XwhsIvIITvc/YAx0nLsCHVI/AAAAAAAAFs4/d4v4yQB8pogZRZmIMOFVdO-6unbPf_PlwCLcBGAsYHQ/s0/544472584.png",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/37915cbd9266307c96f505d42890f3b5.jpg"
+    }},
+
     {"id":375659277, "alias": "Bluem", "featured":false, "info":{
         "date": "2021-01-21", "name": "Jack Sparrow",
         "code": "26045&691&21903&18632&11592&22436&22025&8074&18283&4401&23653&14277&13812&20997",
