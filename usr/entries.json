@@ -1,4 +1,18 @@
 [
+    {"id":825598909, "alias":"Kyra", "featured":false, "info":{
+        "date": "2021-01-25", "name": "Frozen Queen",
+        "code": "23154&25955&6449&21896&26569&12066&24663&15196&15882&11454&9302&17910&18162&9835&16268&19069&16236&16715&11424&24175&19504&13138&19876&15841&16516&19863&15865&6362&5234&4392&24160&11800&23202&9397&8322&12227&11558&25072&26175&9891&12085&18853&19081&6450&16285&19353",
+        "png":"https://1.bp.blogspot.com/-5s2VSeiuIvI/YA8TGGzL6zI/AAAAAAAAA3A/0TvDTP_FYawLOmSAsJsTHbA5V5sV8dO3ACLcBGAsYHQ/s0/825598909.png",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/f09cc9b21a0cf86b553ede2973ba1e8e.jpg"
+    }},
+
+    {"id":182676975, "alias":"Chissek", "featured":false, "info":{
+        "date": "2021-01-24", "name":null,
+        "code": "22646&26095&13877&24815&5810&12986&24286&15296&11867&10427&10332&10783&25963&22706&25196",
+        "png":"https://1.bp.blogspot.com/-ulWD9lGVbn0/YA8RmfrqVcI/AAAAAAAAA20/so38Z7oQal8RqFsxleGgEsnrTxecKdOfgCLcBGAsYHQ/s0/182676975.png",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/5c986bc68d9afc7a9562f8cba874b26e.jpg"
+    }},
+
     {"id":531878775, "alias":"Bluem", "featured":false, "info":{
         "date": "2021-01-23", "name": "Santa Guerrera",
         "code": "25062&691&18993&20994&2971&19623&12062&17020&5554&19738&10146&22711&25923",
