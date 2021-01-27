@@ -1,155 +1,225 @@
 [
+    {"id":926216417, "alias":"TheGirl", "featured":false, "info":{
+        "date":"2021-01-27", "name":"Yuki, the angel of cups",
+        "code":"25056&7927&13107&22645&21895&12599&12610&12619&13066&13143&16365&6134&13132&13096&22763&10951&23653&10199&2446&16278&21879",
+        "png":"https://1.bp.blogspot.com/-g575YtneLf0/YBHpA8QwzEI/AAAAAAAAA6U/F4JNTQ7vEIk-UbljbNYAYNlyUoL3LNDXwCLcBGAsYHQ/s0/926216417.png",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/ebe3cacec9acff9a1ae9d9554a3192c0.jpg"
+    }},
+
+    {"id":911099855, "alias":"Joceline", "featured":false, "info":{
+        "date":"2021-01-27", "name":"Yaksha (máscara)",
+        "code":"25428&16279&6149&11596&23850&6144&24301&1249&5161&25393&16066&21310&9749&8791&24986&10964&13817&11122&14592&2361&17029&13930&23429&16434&8077&24946&26481&21608&17935&19745&12221&13611&24936&9555&8826&8573&18568&21513&16267&19340",
+        "png":"https://1.bp.blogspot.com/-r4GLpk_6wUg/YBHnlCOtMhI/AAAAAAAAA6I/FOH3h5LRnaU_j5W9VcH4Ro5GoOje3ejUQCLcBGAsYHQ/s0/911099855.png",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/b5dca12e632fff46a8c3916eb53423db.jpg"
+    }},
+
+    {"id":738107753, "alias":"Joceline", "featured":false, "info":{
+        "date":"2021-01-27", "name":"Yaksha",
+        "code":"25428&16279&6149&11596&23850&6144&24301&1249&5161&16672&25393&16066&21310&9749&8791&24986&10964&13817&11122&14592&2361&17029&13930&23429&16434&8077&24946&26481&21608&17935&19745&12221&13611&24936&19340",
+        "png":"https://1.bp.blogspot.com/-Soq5yJHpOis/YBHmktwYq_I/AAAAAAAAA6A/IHBKOGak_KAmxqWdhmbRTQgNLyXlHhAcACLcBGAsYHQ/s0/738107753.png",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/b5dca12e632fff46a8c3916eb53423db.jpg"
+    }},
+
+    {"id":594209429, "alias":"Aphrodite", "featured":false, "info":{
+        "date":"2021-01-26", "name":"Love Goddess",
+        "code":"21895&16273&5672&24292&12063&17797&24316&24171&25142&16258&18278&16392&12597&14204&24113&24832&4375&24328&5203&17775&18852&4852&13903&16327&17878&22347&8330&17753&24274&12219&24159&7808&26578&16292&6655&20333",
+        "png":"https://1.bp.blogspot.com/--k5ZYo3eLvw/YBHlb3nh19I/AAAAAAAAA54/so0WlrJ0_TQ7LTdz0nk6ymsdz4IzHAtPgCLcBGAsYHQ/s0/594209429.png",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/96c00f19553e7cf3a6750f4ef3c5351c.jpg"
+    }},
+
+    {"id":200995651, "alias":"Aradia", "featured":false, "info":{
+        "date":"2021-01-26", "name":"Yumeko Cosplay",
+        "code":"1251&18283&18158&18716&9759&18537&9517&15544&23535&17378&9898&17057&6677&22365&6768&25194",
+        "png":"https://1.bp.blogspot.com/-FR9CDzS-39M/YBHkT0t203I/AAAAAAAAA5w/jCbgDievyC4MZdvL2lQM9BqstLwD9au6wCLcBGAsYHQ/s0/200995651.png",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/6b433454b653a8accf326b0000047fb2.png"
+    }},
+
+    {"id":616564058, "alias":"Midnight", "featured":false, "info":{
+        "date":"2021-01-26", "name":"Iluminada",
+        "code":"691&24167&5092&5195&23301&18212&22645&24304&11868&21667&24256&21033&24335&22395&16403&18308&25209",
+        "png":"https://1.bp.blogspot.com/-cgZHB2GipkU/YBHjNc549rI/AAAAAAAAA5Y/u-ckIxpheZsyEB5_ZP5cwhP9g6MQTW1owCLcBGAsYHQ/s0/616564058.png",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/37915cbd9266307c96f505d42890f3b5.jpg"
+    }},
+
+    {"id":273163121, "alias":"ShiroNeKo-D", "featured":false, "info":{
+        "date":"2021-01-26", "name":"Yashiro Nene",
+        "code":"18168&1249&18278&6391&7276&22860&10582&19522&21178&8925&11648&20836&25458&23761&5203&6768&25209",
+        "png":"https://1.bp.blogspot.com/-ZREK9h1baR4/YBHhroU0chI/AAAAAAAAA5M/QVEaGX7ISdsCBJDbR9FdKWVCgTbssACeQCLcBGAsYHQ/s0/273163121.png",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/37915cbd9266307c96f505d42890f3b5.jpg"
+    }},
+    
+    {"id":144243730, "alias":"ShiroNeKo-D", "featured":false, "info":{
+        "date":"2021-01-26", "name":"Tsukasa Yugi",
+        "code":"19285&1249&16266&18158&18273&18710&13391&15428&17194&25786&22854&18443&8533&5114&25208",
+        "png":"https://1.bp.blogspot.com/-5TpnKf0dZ98/YBHg6BBWLfI/AAAAAAAAA40/bWFUySmXG0sPgYQWL_49aKeJA6ZPYQrRACLcBGAsYHQ/s0/144243730.png",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/e9b585d4f48cf9a565a83625ca7ab747.jpg"
+    }},
+
+    {"id":601624845, "alias":"ShiroNeKo-D", "featured":false, "info":{
+        "date":"2021-01-26", "name":null,
+        "code":"16270&11870&24364&18158&19067&18279&19612&7776&19501&17706&19146&16284&22066&18330&24339&5213&11625&24206&17747&23414&24311&6768&24348",
+        "png":"https://1.bp.blogspot.com/-RbRoKj7eoFs/YBHfD8LKEPI/AAAAAAAAA4o/t6mQkY7XmeMHOswk-7JaojBXGNQ4rj40wCLcBGAsYHQ/s0/601624845.png",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/a2daa65b25e483289cb7c1feab914caa.jpg"
+    }},
+
+    {"id":878252130, "alias":"brokenendings", "featured":false, "info":{
+        "date": "2021-01-25", "name": null,
+        "code":"25058&16278&26572&21901&15498&14767&23219&24664&19235&24473&20144&21822&8921&21352&6755&25324&10796&22697&21147&16393&10300&2371&10966&17916&12211&18587&13137&15838&19068&26412&10334&17029&17018&16487&10167&26037&25010&23271&5391&23772&24787&23847&2244&15197&22404&14918&26566&16533&16435&22619&11442&14620&18975&9442&15763&21209&16345&22033",
+        "png":"https://1.bp.blogspot.com/-BHAiVlGkFWo/YBHcoUT1DAI/AAAAAAAAA4M/seojijV7sYUx8jmclVndUHazO_6v0cLhwCLcBGAsYHQ/s0/878252130.png",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/ed762016507ded578d6d54c1fed42f03.jpg"
+    }},
+
     {"id":825598909, "alias":"Kyra", "featured":false, "info":{
-        "date": "2021-01-25", "name": "Frozen Queen",
-        "code": "23154&25955&6449&21896&26569&12066&24663&15196&15882&11454&9302&17910&18162&9835&16268&19069&16236&16715&11424&24175&19504&13138&19876&15841&16516&19863&15865&6362&5234&4392&24160&11800&23202&9397&8322&12227&11558&25072&26175&9891&12085&18853&19081&6450&16285&19353",
+        "date":"2021-01-25", "name":"Frozen Queen",
+        "code":"23154&25955&6449&21896&26569&12066&24663&15196&15882&11454&9302&17910&18162&9835&16268&19069&16236&16715&11424&24175&19504&13138&19876&15841&16516&19863&15865&6362&5234&4392&24160&11800&23202&9397&8322&12227&11558&25072&26175&9891&12085&18853&19081&6450&16285&19353",
         "png":"https://1.bp.blogspot.com/-5s2VSeiuIvI/YA8TGGzL6zI/AAAAAAAAA3A/0TvDTP_FYawLOmSAsJsTHbA5V5sV8dO3ACLcBGAsYHQ/s0/825598909.png",
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/f09cc9b21a0cf86b553ede2973ba1e8e.jpg"
     }},
 
     {"id":182676975, "alias":"Chissek", "featured":false, "info":{
-        "date": "2021-01-24", "name":null,
-        "code": "22646&26095&13877&24815&5810&12986&24286&15296&11867&10427&10332&10783&25963&22706&25196",
+        "date":"2021-01-24", "name":null,
+        "code":"22646&26095&13877&24815&5810&12986&24286&15296&11867&10427&10332&10783&25963&22706&25196",
         "png":"https://1.bp.blogspot.com/-ulWD9lGVbn0/YA8RmfrqVcI/AAAAAAAAA20/so38Z7oQal8RqFsxleGgEsnrTxecKdOfgCLcBGAsYHQ/s0/182676975.png",
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/5c986bc68d9afc7a9562f8cba874b26e.jpg"
     }},
 
     {"id":531878775, "alias":"Bluem", "featured":false, "info":{
-        "date": "2021-01-23", "name": "Santa Guerrera",
-        "code": "25062&691&18993&20994&2971&19623&12062&17020&5554&19738&10146&22711&25923",
+        "date":"2021-01-23", "name":"Santa Guerrera",
+        "code":"25062&691&18993&20994&2971&19623&12062&17020&5554&19738&10146&22711&25923",
         "png":"https://1.bp.blogspot.com/-jAQVe32Q9-Q/YAx7cBRkHbI/AAAAAAAAFt8/kYsVCbJvsFMZas0Ukya85okqaN6Ip9lMQCLcBGAsYHQ/s0/531878775.png",
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/ebe3cacec9acff9a1ae9d9554a3192c0.jpg"
     }},
     
     {"id":201325552, "alias":"ShiroNeKo-D", "featured":false, "info":{
-        "date": "2021-01-22", "name": null,
-        "code": "25955&17833&23212&1251&16267&18278&25066&20269&19515&8526&19503&8311&24205&24925&22620&5588&12596&14225&24217&16973&24313&25208",
+        "date":"2021-01-22", "name":null,
+        "code":"25955&17833&23212&1251&16267&18278&25066&20269&19515&8526&19503&8311&24205&24925&22620&5588&12596&14225&24217&16973&24313&25208",
         "png":"https://1.bp.blogspot.com/-bjU5DjOufZY/YAx6p0gCTnI/AAAAAAAAFt0/ZLewYdPEiwIMmuKYNOW-H5CbTu4f5sj9QCLcBGAsYHQ/s0/201325552.png",
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/e9b585d4f48cf9a565a83625ca7ab747.jpg"
     }},
 
     {"id":224572141, "alias":"MartaIV", "featured":false, "info":{
-        "date": "2021-01-22", "name": null,
-        "code": "23312&1277&23940&5193&23546&22838&18994&12914&19719&19502&8448&17171&21357&17907&23298&17415&10430&20261&9098&25926&15800&16240&16282&15485&24158&16265&16687&24374&23413&22626&24691&15300&20333",
+        "date":"2021-01-22", "name":null,
+        "code":"23312&1277&23940&5193&23546&22838&18994&12914&19719&19502&8448&17171&21357&17907&23298&17415&10430&20261&9098&25926&15800&16240&16282&15485&24158&16265&16687&24374&23413&22626&24691&15300&20333",
         "png":"https://1.bp.blogspot.com/-2HtOxIC8goY/YAx5rANGUsI/AAAAAAAAFts/JTgWCn74-TEHG5iReiYkjU5VULuXMULmgCLcBGAsYHQ/s0/224572141.png",
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/96c00f19553e7cf3a6750f4ef3c5351c.jpg"
     }},
 
     {"id":901821967, "alias":"MartaIV", "featured":false, "info":{
-        "date": "2021-01-22", "name": null,
-        "code": "21900&25420&9341&9300&24831&5269&21871&5444&26532&26502&8537&22244&8412&10299&18380&19075&24694&23094&25957&26572&22031",
+        "date":"2021-01-22", "name":null,
+        "code":"21900&25420&9341&9300&24831&5269&21871&5444&26532&26502&8537&22244&8412&10299&18380&19075&24694&23094&25957&26572&22031",
         "png":"https://1.bp.blogspot.com/-yEPRdSbts78/YAx4ebfHYSI/AAAAAAAAFtg/mx9dNyyL0oYpwc2mx7UrxcuKt9vE8WcwwCLcBGAsYHQ/s0/901821967.png",
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/687089d68e47d461bfcd8e176ebff9c2.jpg"
     }},
 
     {"id":307749268, "alias":"DennisLestrange", "featured":false, "info":{
-        "date": "2021-01-22", "name": "QueenFaerie",
-        "code": "8898&9305&23155&17678&16602&21822&19068&21638&17933&20273&5241&25210",
+        "date":"2021-01-22", "name":"QueenFaerie",
+        "code":"8898&9305&23155&17678&16602&21822&19068&21638&17933&20273&5241&25210",
         "png":"https://1.bp.blogspot.com/-8zCPIDgIlw4/YAx3rYEASzI/AAAAAAAAFtU/Cb6okRgzGYQkJ0H25vwvXLUNJL7I-xbtQCLcBGAsYHQ/s0/307749268.png",
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/866c518ae55596a6aff60f125f03c9b1.jpg"
     }},
 
-    {"id":615131795, "alias": "DennisLestrange", "featured":false, "info":{
-        "date": "2021-01-22", "name": "Oracle Erika",
-        "code": "26499&4396&11846&22645&7292&5211&12103&26569&11850&12128&2417",
+    {"id":615131795, "alias":"DennisLestrange", "featured":false, "info":{
+        "date":"2021-01-22", "name":"Oracle Erika",
+        "code":"26499&4396&11846&22645&7292&5211&12103&26569&11850&12128&2417",
         "png":"https://1.bp.blogspot.com/-TGLvxS8rLJ0/YAx2-eifQZI/AAAAAAAAFtM/9TkfJyNatgUdBi5OJ35kj0KST79_glYyQCLcBGAsYHQ/s0/615131795.png",
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/84e3521e9bb8e4370ea249c5caed4774.jpg"
     }},
     
     {"id":372936002, "alias":"ShiroNeKo-D", "featured":false, "info": {
-        "date": "2021-01-21", "name": "Llorona",
-        "code": "19283&21602&8556&24827&5161&19159&18163&18279&20581&5091&21884&5423&16413&5295&20231&26480&19340",
+        "date":"2021-01-21", "name":"Llorona",
+        "code":"19283&21602&8556&24827&5161&19159&18163&18279&20581&5091&21884&5423&16413&5295&20231&26480&19340",
         "png":"https://1.bp.blogspot.com/-J-L1G99FMEA/YAx1_DZpkLI/AAAAAAAAFtE/qaCLUFB7AOk1PafnpPw68-c6MhxcxQGWwCLcBGAsYHQ/s0/372936002.png",
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/b5dca12e632fff46a8c3916eb53423db.jpg"
     }},
 
-    {"id":544472584, "alias": "Joceline", "featured":false, "info":{
-        "date": "2021-01-21", "name": null,
-        "code": "1251&3369&26451&15893&23653&14430&14472&12609&20155&6224&23952&12592&23356&14395&20214&2324&6768&25209",
+    {"id":544472584, "alias":"Joceline", "featured":false, "info":{
+        "date":"2021-01-21", "name":null,
+        "code":"1251&3369&26451&15893&23653&14430&14472&12609&20155&6224&23952&12592&23356&14395&20214&2324&6768&25209",
         "png":"https://1.bp.blogspot.com/-XwhsIvIITvc/YAx0nLsCHVI/AAAAAAAAFs4/d4v4yQB8pogZRZmIMOFVdO-6unbPf_PlwCLcBGAsYHQ/s0/544472584.png",
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/37915cbd9266307c96f505d42890f3b5.jpg"
     }},
 
-    {"id":375659277, "alias": "Bluem", "featured":false, "info":{
-        "date": "2021-01-21", "name": "Jack Sparrow",
-        "code": "26045&691&21903&18632&11592&22436&22025&8074&18283&4401&23653&14277&13812&20997",
+    {"id":375659277, "alias":"Bluem", "featured":false, "info":{
+        "date":"2021-01-21", "name":"Jack Sparrow",
+        "code":"26045&691&21903&18632&11592&22436&22025&8074&18283&4401&23653&14277&13812&20997",
         "png":"https://1.bp.blogspot.com/-YaVFfNqiwfY/YAnoM4iOvbI/AAAAAAAAFss/hysJ2n9QR8UyV4mVofbNLegZ5IH6scLiQCLcBGAsYHQ/s0/375659277.png",
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/ebe3cacec9acff9a1ae9d9554a3192c0.jpg"
     }},
 
-    {"id":484199714, "alias": "ShiroNeKo-D", "featured":false, "info":{
-        "date": "2021-01-21",
-        "code": "12826&1249&18158&20789&23537&13384&20777&14395&23940&25447&16689&18528&17170&7806&5595&23744&25452&14212&25542&6986",
+    {"id":484199714, "alias":"ShiroNeKo-D", "featured":false, "info":{
+        "date":"2021-01-21", "name":null,
+        "code":"12826&1249&18158&20789&23537&13384&20777&14395&23940&25447&16689&18528&17170&7806&5595&23744&25452&14212&25542&6986",
         "png":"https://1.bp.blogspot.com/-zxjaXEiZK4Y/YAnnOOQzEFI/AAAAAAAAFsk/ZoO1xDIwHPwSBUErg0wBxrHxsg3ro2WTACLcBGAsYHQ/s0/484199714.png",
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/f8c22d04104e0b19a6ea7bb4ac059613.jpg"
     }},
 
-    {"id":280441301, "alias": "ShiroNeKo-D", "featured":false, "info":{
-        "date": "2021-01-21", "name":null,
-        "code": "21895&23212&12826&24665&9304&18278&5161&20269&23414&18212&21883&5430&16294&16973&11630&17854&13967&17823&20228&24348",
+    {"id":280441301, "alias":"ShiroNeKo-D", "featured":false, "info":{
+        "date":"2021-01-21", "name":null,
+        "code":"21895&23212&12826&24665&9304&18278&5161&20269&23414&18212&21883&5430&16294&16973&11630&17854&13967&17823&20228&24348",
         "png":"https://1.bp.blogspot.com/-tCdaGD9v3U0/YAnmWrs08uI/AAAAAAAAFsc/HSsKfFr2pOIOTXrNZh6tjcw4gIMh4fzJACLcBGAsYHQ/s0/280441301.png",
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/a2daa65b25e483289cb7c1feab914caa.jpg"
     }},
 
-    {"id":914029930, "alias": "ShiroNeKo-D", "featured":false, "info":{
-        "date": "2021-01-20", "name":null,
-        "code": "24906&16370&1249&16261&18272&20272&17859&16286&17172&11868&16317&13184&13784&10469&23871&16522&20610&15821&5243&25963&20114",
+    {"id":914029930, "alias":"ShiroNeKo-D", "featured":false, "info":{
+        "date":"2021-01-20", "name":null,
+        "code":"24906&16370&1249&16261&18272&20272&17859&16286&17172&11868&16317&13184&13784&10469&23871&16522&20610&15821&5243&25963&20114",
         "png":"https://1.bp.blogspot.com/-NqIIzfNEANE/YAnlObMjUQI/AAAAAAAAFsQ/Y5rKzI2RPOQaBQDRL-RTTZHybK87jtjcACLcBGAsYHQ/s0/914029930.png",
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/5953004d61f2c4fb8a9dd9579213ae61.jpg"
     }},
 
-    {"id":501873951, "alias": "Aleric", "featured":false, "info":{
-        "date": "2021-01-20", "name":null,
-        "code": "1275&18156&18402&20277&5261&23450&24664&12065&13633&9396&13611&20330&16974&16342&15876&16485&25206",
+    {"id":501873951, "alias":"Aleric", "featured":false, "info":{
+        "date":"2021-01-20", "name":null,
+        "code":"1275&18156&18402&20277&5261&23450&24664&12065&13633&9396&13611&20330&16974&16342&15876&16485&25206",
         "png":"https://1.bp.blogspot.com/-5mtU1REJQ-s/YAnkBB0saKI/AAAAAAAAFsE/OIs87MY-RywxTav_MXdVYLaKfxKqKZPdwCLcBGAsYHQ/s0/501873951.png",
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/92b0afc4a7095c6102eeecaf18245f21.jpg"
     }},
 
-    {"id":386812442, "alias": "ShiroNeKo-D", "featured":false, "info":{
-        "date": "2021-01-20", "name":null,
-        "code": "23312&21895&23673&1249&23163&23510&23599&16261&18278&23949&7766&18398&23151&7658&7805&5203&2996&12975&6768&12624&20333",
+    {"id":386812442, "alias":"ShiroNeKo-D", "featured":false, "info":{
+        "date":"2021-01-20", "name":null,
+        "code":"23312&21895&23673&1249&23163&23510&23599&16261&18278&23949&7766&18398&23151&7658&7805&5203&2996&12975&6768&12624&20333",
         "png":"https://1.bp.blogspot.com/-lMdZo7gf9So/YAniW_c24yI/AAAAAAAAFr4/MNOjAtPGuTYFyA_jfugGv-CIwQa7MzAfwCLcBGAsYHQ/s0/386812442.png",
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/96c00f19553e7cf3a6750f4ef3c5351c.jpg"
     }},
 
-    {"id":731632198, "alias": "ShiroNeKo-D", "featured":false, "info":{
-        "date": "2021-01-20", "name":null,
-        "code": "24906&23248&1249&20155&21362&25542&13361&22349&10424&18280&5203&20264&21100&12611&14418&24335&17171&8423&23416&6768&20727&22779&25963&23105&25208",
+    {"id":731632198, "alias":"ShiroNeKo-D", "featured":false, "info":{
+        "date":"2021-01-20", "name":null,
+        "code":"24906&23248&1249&20155&21362&25542&13361&22349&10424&18280&5203&20264&21100&12611&14418&24335&17171&8423&23416&6768&20727&22779&25963&23105&25208",
         "png":"https://1.bp.blogspot.com/-IGZxVxzgmvI/YAnhfmDs0YI/AAAAAAAAFrw/suS2LAI0mWg6Oe27D_prVZLyZ3S5pr2tQCLcBGAsYHQ/s0/731632198.png",
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/e9b585d4f48cf9a565a83625ca7ab747.jpg"
     }},
 
-    {"id":562823868, "alias": "ShiroNeKo-D", "featured":false, "info":{
-        "date": "2021-01-20", "name":null,
-        "code": "26500&9300&8569&14263&16681&23659&25222&17175&19872&25696&26520&18999&26447&26573&23844&9155&23468&25236&12769&22899&22033",
+    {"id":562823868, "alias":"ShiroNeKo-D", "featured":false, "info":{
+        "date":"2021-01-20", "name":null,
+        "code":"26500&9300&8569&14263&16681&23659&25222&17175&19872&25696&26520&18999&26447&26573&23844&9155&23468&25236&12769&22899&22033",
         "png":"https://1.bp.blogspot.com/-EsZq5bbs3YU/YAngKTg6kOI/AAAAAAAAFrk/IVmDu-aWtYUurRd8kcmqIpEb7YmtrbHYACLcBGAsYHQ/s0/562823868.png",
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/ed762016507ded578d6d54c1fed42f03.jpg"
     }},
     
-    {"id":197342909, "alias": "Aoi", "featured":false, "info":{
-        "date": "2021-01-20", "name":null,
-        "code": "16271&21894&25060&21352&25420&26027&21826&25328&22403&26148&26562&16511&25409&17781&7922&9842&18283&5104&18152&24155&16701&16233&4421&16282&16449&12175&12031&12079&12100&16462&25141&23913&12187&12136&9494&22551&24827&13173&20574&11869&8908&20231&15245&18913&16402&15225&6768&25210",
+    {"id":197342909, "alias":"Aoi", "featured":false, "info":{
+        "date":"2021-01-20", "name":null,
+        "code":"16271&21894&25060&21352&25420&26027&21826&25328&22403&26148&26562&16511&25409&17781&7922&9842&18283&5104&18152&24155&16701&16233&4421&16282&16449&12175&12031&12079&12100&16462&25141&23913&12187&12136&9494&22551&24827&13173&20574&11869&8908&20231&15245&18913&16402&15225&6768&25210",
         "png":"https://1.bp.blogspot.com/-WR-sLxqf-eg/YAnfkAFdYNI/AAAAAAAAFrc/Yw3xixnsNJgXkcj6TPq8Cysw4m5EIuV2wCPcBGAYYCw/s0/197342909.png",
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/866c518ae55596a6aff60f125f03c9b1.jpg"
     }},
 
-    {"id":134744721, "alias": "ShiroNeKo-D", "featured":false, "info":{
-        "date": "2021-01-20", "name":null,
-        "code": "1249&10943&5232&26460&25885&9243&12547&2446&24679&17811&24348",
+    {"id":134744721, "alias":"ShiroNeKo-D", "featured":false, "info":{
+        "date":"2021-01-20", "name":null,
+        "code":"1249&10943&5232&26460&25885&9243&12547&2446&24679&17811&24348",
         "png":"https://1.bp.blogspot.com/-SGRRDEem0WI/YAnebna84zI/AAAAAAAAFrQ/zQxjbMKndIcr9vZgvqOxl210y3ymGpiewCLcBGAsYHQ/s0/134744721.png",
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/a2daa65b25e483289cb7c1feab914caa.jpg"
     }},
 
-    {"id":186599159, "alias": "ShiroNeKo-D", "featured":true, "info":{
-        "date": "2021-01-20", "name": "bunny of the stars",
-        "code": "21895&16278&21844&1249&16389&18273&12621&21448&20269&10362&14395&5161&15474&16644&23733&11417&6768&12607",
+    {"id":186599159, "alias":"ShiroNeKo-D", "featured":true, "info":{
+        "date":"2021-01-20", "name": "bunny of the stars",
+        "code":"21895&16278&21844&1249&16389&18273&12621&21448&20269&10362&14395&5161&15474&16644&23733&11417&6768&12607",
         "png":"https://1.bp.blogspot.com/-IeECWDzBeb8/YAncACe-GeI/AAAAAAAAFrE/eQwI7dR5qHMUrH5oD_MqFbrpbvr3IX7lwCLcBGAsYHQ/s0/186599159.png",
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/ebe3cacec9acff9a1ae9d9554a3192c0.jpg"
     }},
 
-    {"id":923405964, "alias": "Aoi", "featured":false, "info":{
-        "date": "2021-01-20", "name":null,
+    {"id":923405964, "alias":"Aoi", "featured":false, "info":{
+        "date":"2021-01-20", "name":null,
         "png":"https://1.bp.blogspot.com/-1vOpFiWCGI4/YAnZpHC_FrI/AAAAAAAAFq4/Nrj3OStvQ-kREyNPDn77KN_a2B7cPph9gCLcBGAsYHQ/s0/923405964.png",
-        "code": "16272&21894&25061&18806&26562&9494&25420&25409&17627&17762&9305&17781&18283&17708&16287&17691&11579&17638&17759&17616&24827&16701&17596&20252&8908&16658&22607&25069&26572&24312&23097&6768&14217",
+        "code":"16272&21894&25061&18806&26562&9494&25420&25409&17627&17762&9305&17781&18283&17708&16287&17691&11579&17638&17759&17616&24827&16701&17596&20252&8908&16658&22607&25069&26572&24312&23097&6768&14217",
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/df5f3b3f8fcf85fb7b4355fa63ae299f.jpg"        
     }},
     
