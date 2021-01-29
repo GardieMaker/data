@@ -1,4 +1,46 @@
 [
+    {"id":136684531, "alias":"Joceline", "featured":false, "info":{
+        "date":"2021-01-29", "name":"Bardo",
+        "code":"13329&24299&1249&14800&15672&8013&13384&23709&2205&5554&17171&19212&21448&7708&10368&13321&19842&14458&17381&16066&10945&13064&22871&24266&23745&23298&1431&16985&6985",
+        "png":"https://1.bp.blogspot.com/-9q0tILfmXV0/YBR3HbGbCbI/AAAAAAAAA78/dkm0Bd2JWeonm8xCnXDhfFAFkA0NZnLvwCLcBGAsYHQ/s0/136684531.png",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/02a37319279272ca3f1fae8de83ff685.jpg"
+    }},
+
+    {"id":576018009, "alias":"broken-endings", "featured":false, "info":{
+        "date":"2021-01-28", "name":null,
+        "code":"23103&17744&17949&17930&15725&13786&23286&14555&12047&20126&16510&12201&17278&17029&17009&18965&19143&12224&26545&18181&21870&20699&23338&25332&13118&26570&12588&22682&18325&13649&11591&2338&5278&24699&26560&18920&11489&9833&11425&25075&25206",
+        "png":"https://1.bp.blogspot.com/-ckSwewhohb0/YBR2HjV-t1I/AAAAAAAAA70/F3zU9d6q-nk1MkEC3NhWIHDkcK3xNnjPgCLcBGAsYHQ/s0/576018009.png",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/92b0afc4a7095c6102eeecaf18245f21.jpg"
+    }},
+
+    {"id":488768822, "alias":"Icy", "featured":false, "info":{
+        "date":"2021-01-28", "name":"Frozen Maid",
+        "code":"25955&16276&6449&21896&12066&15890&18865&18877&1267&11549&17715&10778&5558&11502&10811&10800&25066&18889&11417&18793&17850&18841&11558&24266&12222&13415&16571&13470&6450&3369&11469&16284&15311",
+        "png":"https://1.bp.blogspot.com/-S8slZn9cdZw/YBR0Py2n7vI/AAAAAAAAA7o/OVQqYua3GwUs6SJbnzI_JaQI9KrhfCtygCLcBGAsYHQ/s0/488768822.png",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/fe6e7fa5d3c5153ea51c24fb15771735.jpg"
+    }},
+
+    {"id":291820086, "alias":"Vicdes", "featured":false, "info":{
+        "date":"2021-01-28", "name":null,
+        "code":"1254&18281&16704&3369&14064&7675&22645&18819&17973&24309&17647&21658&18188&23356&16331&14821&25138&8864&17754",
+        "png":"https://1.bp.blogspot.com/-yYaHWIF2jiM/YBRyCsYpZaI/AAAAAAAAA7c/118eBy9sICI9rNt9Ezw2JHyZJag_afkawCLcBGAsYHQ/s0/291820086.png",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/ebe3cacec9acff9a1ae9d9554a3192c0.jpg"
+    }},
+
+    {"id":603012118, "alias":"ShiroNeKo-D", "featured":false, "info":{
+        "date":"2021-01-28", "name":null,
+        "code":"26549&22403&1249&18283&20272&18623&18635&18611&23911&25248&16066&11456&5560&20330&18801&14261&22033",
+        "png":"https://1.bp.blogspot.com/-r0YzDbDg3jw/YBRwdalATpI/AAAAAAAAA7Q/6g45MFwJoaccitx3e6c70RS-GYKWKg7HACLcBGAsYHQ/s0/603012118.png",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/ed762016507ded578d6d54c1fed42f03.jpg"
+    }},
+
+    {"id":911262806, "alias":"ShiroNeKo-D", "featured":false, "info":{
+        "date":"2021-01-28", "name":null,
+        "code":"21362&10346&26569&1249&10946&14944&10582&19503&23413&20228&10324&21687&23549&14679&11427&25905&5595&6768&22033",
+        "png":"https://1.bp.blogspot.com/-QFftGt71aWQ/YBRvc8Dr5aI/AAAAAAAAA7I/Ttz6-Ip3DzkmjwBfFRWa8NuGkgRtFXLGgCLcBGAsYHQ/s0/911262806.png",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/ed762016507ded578d6d54c1fed42f03.jpg"
+    }},
+
     {"id":926216417, "alias":"TheGirl", "featured":false, "info":{
         "date":"2021-01-27", "name":"Yuki, the angel of cups",
         "code":"25056&7927&13107&22645&21895&12599&12610&12619&13066&13143&16365&6134&13132&13096&22763&10951&23653&10199&2446&16278&21879",
@@ -62,7 +104,7 @@
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/a2daa65b25e483289cb7c1feab914caa.jpg"
     }},
 
-    {"id":878252130, "alias":"brokenendings", "featured":false, "info":{
+    {"id":878252130, "alias":"broken-endings", "featured":false, "info":{
         "date": "2021-01-25", "name": null,
         "code":"25058&16278&26572&21901&15498&14767&23219&24664&19235&24473&20144&21822&8921&21352&6755&25324&10796&22697&21147&16393&10300&2371&10966&17916&12211&18587&13137&15838&19068&26412&10334&17029&17018&16487&10167&26037&25010&23271&5391&23772&24787&23847&2244&15197&22404&14918&26566&16533&16435&22619&11442&14620&18975&9442&15763&21209&16345&22033",
         "png":"https://1.bp.blogspot.com/-BHAiVlGkFWo/YBHcoUT1DAI/AAAAAAAAA4M/seojijV7sYUx8jmclVndUHazO_6v0cLhwCLcBGAsYHQ/s0/878252130.png",
@@ -314,70 +356,70 @@
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/ebe3cacec9acff9a1ae9d9554a3192c0.jpg"
     }},
 
-    {"id":454227602, "alias":"brokenendings", "featured":false, "info":{
+    {"id":454227602, "alias":"broken-endings", "featured":false, "info":{
         "date":"2021-01-14", "name":null,
         "png":"https://1.bp.blogspot.com/-LFKzs6lXeR0/YACrIyIDfJI/AAAAAAAAFno/HDiPr9cIQmI2TYq0x_jchLyOuGaYvm7NwCLcBGAsYHQ/s0/454227602.png",
         "code":"1276&1960&19879&20139&6139&18994&11062&18616&14327&13045&9426&4456&14386&14349&23340&17608&20406&16318&11627&23298&8534&16696&13581&5215&5626&6984",
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/4f5a90efc73b771255b7939aebf0eaff.jpg"
     }},
 
-    {"id":484474609, "alias":"brokenendings", "featured":false, "info":{
+    {"id":484474609, "alias":"broken-endings", "featured":false, "info":{
         "date":"2021-01-14", "name":null,
         "png":"https://1.bp.blogspot.com/-rC5MIOvs--Q/YACqOCsgSOI/AAAAAAAAFng/mMzws29QXP82YNEtmJ7H2HNcjM56IEiFgCLcBGAsYHQ/s0/484474609.png",
         "code":"21900&2354&11068&17365&7926&21459&10379&4381&12720&6170&9703&4725&24316&18123&18135&23543&14459&12199&1371&22008&14598&11573&7314&6408&16985&5116&13156&22617&20409&8141&16487&5268&2709&8881&4533&10459",
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/fa367d2364d1b64f8a83d5eafed05fc4.jpg"
     }},
 
-    {"id":543422543, "alias":"brokenendings", "featured":false, "info":{
+    {"id":543422543, "alias":"broken-endings", "featured":false, "info":{
         "date":"2021-01-14", "name":null,
         "png":"https://1.bp.blogspot.com/-u2FbwjdK60k/YACpNxwcnGI/AAAAAAAAFnY/9lP5oNd98YcjANHnDNy0MEgekbXpmz4rgCLcBGAsYHQ/s0/543422543.png",
         "code":"6107&24313&21901&14377&16304&17803&11575&16195&12113&11540&14339&16269&9581&14046&17861&17910&7802&17825&11498&24172&23095&16280&24262&22620&12767&21869&16335&17967&11590&21354&12855&22632&22613&22344&14298&11467&7813&2334&6996",
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/8788bc88ae3a0894e1143a64248b5d54.jpg"
     }},
 
-    {"id":267645132, "alias":"brokenendings", "featured":false, "info":{
+    {"id":267645132, "alias":"broken-endings", "featured":false, "info":{
         "date":"2021-01-14", "name":null,
         "png":"https://1.bp.blogspot.com/-pX-5iRfK7Ts/YACoMuxYBlI/AAAAAAAAFnM/wfdcuk3g8G4wmD59QTXw3tpypNNp_w3UQCLcBGAsYHQ/s0/267645132.png",
         "code":"17923&13133&24171&11469&16518&16259&24495&24804&9840&5234&24483&11549&17684&24471&10958&23692&12078&16897&3123&17614&19146&19751&19243&6141&24828&3930&17321&24679&11502&8958&11558&14219&24263&3541",
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/c30f5fca258d7f74f4edf6b95cac8658.jpg"
     }},
 
-    {"id":455347343, "alias":"brokenendings", "featured":false, "info":{
+    {"id":455347343, "alias":"broken-endings", "featured":false, "info":{
         "date":"2021-01-14", "name":null,
         "png":"https://1.bp.blogspot.com/-Lo7mZ5EU1TQ/YACngm2PpAI/AAAAAAAAFnE/9PHLNfZAmPc4810fpBztzmcOnYXssTcIACLcBGAsYHQ/s0/455347343.png",
         "code":"16273&19066&17895&17929&23414&22623&12596&19611&18274&17558&21607&22681&14112&17685&16297&16502&6838&21825&24078&21895&12130&14378&13351&13646&24279&24449&16437&22747&5213&6916&12607&13588&14479&6768&2337&12229&20114",
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/5953004d61f2c4fb8a9dd9579213ae61.jpg"
     }},
 
-    {"id":681111036, "alias":"brokenendings", "featured":false, "info":{
+    {"id":681111036, "alias":"broken-endings", "featured":false, "info":{
         "date":"2021-01-14", "name":null,
         "png":"https://1.bp.blogspot.com/-o1lIdG5UCLo/YACmo2DOS5I/AAAAAAAAFm8/ryvQfQF5yrgOQJPKeiWOYDuCKy8QlRPuwCLcBGAsYHQ/s0/681111036.png",
         "code":"24674&8210&7920&13674&6156&13946&17698&5271&24955&12466&17636&14469&16726&10548&19683&15348&13656&20412&15373&3766&16469&10902&4371&14034&24985&19806&3247&3541",
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/c30f5fca258d7f74f4edf6b95cac8658.jpg"
     }},
 
-    {"id":898032027, "alias":"brokenendings", "featured":false, "info":{
+    {"id":898032027, "alias":"broken-endings", "featured":false, "info":{
         "date":"2021-01-14", "name":null,
         "png":"https://1.bp.blogspot.com/-aueD1E3Z_io/YACllMX-YII/AAAAAAAAFmw/uCk_lFuTfBcjHZMckZTiYrjWxYQNpyA8gCLcBGAsYHQ/s0/898032027.png",
         "code":"21896&23214&9305&13676&17765&19289&23734&17368&17219&21824&18325&20610&22561&19760&24057&13610&24583&13935&23821&24904&18170&15840&5548&20580&21529&24167&23336&18916&9640&20114",
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/5953004d61f2c4fb8a9dd9579213ae61.jpg"
     }},
 
-    {"id":640839915, "alias":"brokenendings", "featured":false, "info":{
+    {"id":640839915, "alias":"broken-endings", "featured":false, "info":{
         "date":"2021-01-14", "name":null,
         "png":"https://1.bp.blogspot.com/-kbh56XveNyU/YACkTisoRaI/AAAAAAAAFmk/DzwosSQ9ce4SATMR2gEAaMdkbL_nCnU5gCLcBGAsYHQ/s0/640839915.png",
         "code":"16275&3647&21361&21901&21152&17029&17930&18861&16500&24091&19971&8234&15399&22646&14620&12098&23278&9563&19329&7675&18566&14260&5114&15510&18546&21469&24079&22403&12186&3122&19136&20699&14198&18838&24580&18915&18825&8965&24693&14217",
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/df5f3b3f8fcf85fb7b4355fa63ae299f.jpg"
     }},
 
-    {"id":562620043, "alias":"brokenendings", "featured":false, "info":{
+    {"id":562620043, "alias":"broken-endings", "featured":false, "info":{
         "date":"2021-01-14", "name":null,
         "png":"https://1.bp.blogspot.com/-wdx0EbpoMrQ/YACjS3wUBrI/AAAAAAAAFmY/EEjJKV5ZY80shK9RfDszphZZkpeb-kavgCLcBGAsYHQ/s0/562620043.png",
         "code":"21353&2385&5011&7716&4993&20152&5018&7386&1261&13136&16261&1366&1764&1371&6492&19895&13815&4725&8706&5005&23187&18283&23273&24814&7635&6124&6524&19748&19140&19245&10712&20384&18193&8163&15315&14265&6995",
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/953121129c27312d782f8289cadb3e5a.jpg"
     }},
     
-    {"id":382599219, "alias":"brokenendings", "featured":false, "info":{
+    {"id":382599219, "alias":"broken-endings", "featured":false, "info":{
         "date":"2021-01-14", "name":null,
         "png":"https://1.bp.blogspot.com/-glr0jmO6Jtg/YACigZNxtXI/AAAAAAAAFmQ/z4SjRpyuRq0_otjaZPjrjoDHxhdcrhP1ACLcBGAsYHQ/s0/382599219.png",
         "code":"6450&11178&1277&4395&16051&6123&16373&11697&16123&15515&6121&21578&6449&11653&24302&15675&11670&16467&8954&19445&15402&13501&21626&17188&15663&5211&22509",
@@ -720,14 +762,14 @@
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/2420dc8846a8e10e617b59c8f36484d7.jpg"
     }},
 
-    {"id":362735727, "alias":"brokenendings", "featured":false, "info":{
+    {"id":362735727, "alias":"broken-endings", "featured":false, "info":{
         "date":"2020-09-24", "name":null,
         "png":"https://1.bp.blogspot.com/-ung2auc3MS4/X26SVPXQoWI/AAAAAAAAAhQ/FJK7shuS6p0FB-PEIwSQH9FjoTmqT8VUACLcBGAsYHQ/s1132/44653005.png",
         "code":"5132&11553&7930&12811&22955&5242&4806&23697&22438&13070&21896&14740&23337&14235&21362&19686&12141&7697&21146&12609&7680&3114&16495&16437&12501&10251&4745&12880&19093&15413&3702&9350&3254&17516&23094&21480&22393&24167&19353",
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/f09cc9b21a0cf86b553ede2973ba1e8e.jpg"
     }},
 
-    {"id":938706133, "alias":"brokenendings", "featured":false, "info":{
+    {"id":938706133, "alias":"broken-endings", "featured":false, "info":{
         "date":"2020-09-24", "name":null,
         "png":"https://1.bp.blogspot.com/-dcgXhUnH9t0/X26QdRqWWqI/AAAAAAAAAhE/r-exmIfOshQrTYr3on1bwy0HKKVkAtgOACLcBGAsYHQ/s1132/44653004.png",
         "code":"21892&3574&23023&17364&1275&19967&22689&12884&13674&6175&16505&18964&10065&7680&23202&11524&18212&10197&10813&14150&13190&24275&18283&20353&9640&5564&11630&19813&13619&22602&17696&21630&9355&18895&11453&15238&6996",
@@ -1231,21 +1273,21 @@
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/53e514ef4755715255b473e067064acd.jpg"
     }},
 
-    {"id":773094572, "alias":"brokenendings", "featured":false, "info":{
+    {"id":773094572, "alias":"broken-endings", "featured":false, "info":{
         "date":"2020-08-21", "name":null,
         "png":"https://1.bp.blogspot.com/-JIlMXOcurnA/X0HBwvpklDI/AAAAAAAAAQs/YZgnWFAXaZMAf6fgMP3hq3aW04n3IfbFACLcBGAsYHQ/s1132/44653003.png",
         "code":"19304&16276&5159&16511&13912&21131&16449&9517&11576&22691&19220&18585&19686&16268&21871&22680&22472&9393&11955&16379&22438&18936&17607&23337&10957&20231&2364&17700&20003&9350&4646&7872&18147&13215&9496&16884&14216",
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/e6c9d725437b3f68aa7ee746aac199ac.jpg"
     }},
 
-    {"id":312984562, "alias":"brokenendings", "featured":false, "info":{
+    {"id":312984562, "alias":"broken-endings", "featured":false, "info":{
         "date":"2020-08-21", "name":null,
         "png":"https://1.bp.blogspot.com/-J0PTXGE7vyE/X0G_DAKxW6I/AAAAAAAAAQg/JfT4sufNnCg7MHNxmlvf6ekL-c_ZiYyEACLcBGAsYHQ/s1132/44653002.png",
         "code":"22561&1277&24900&12170&21526&1735&1453&6969&22913&10438&23909&23817&6883&17874&12076&8140&5702&11406&16244&5409&16737&21167&21442&13213&13357&18217&5582&20270&21064&12999&22853&6704&19851&11628&20832&9478&20704",
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/b0f2a926f4a0fca74f78ded2f929a4d1.jpg"
     }},
 
-    {"id":398310958, "alias":"brokenendings", "featured":true, "info":{
+    {"id":398310958, "alias":"broken-endings", "featured":true, "info":{
         "date":"2020-08-21", "name":null,
         "png":"https://1.bp.blogspot.com/-OrvzUcpMHJY/X0G8lq8oVPI/AAAAAAAAAQU/paPzIhhgcXg-cosVMtjz0loUVETb_R5ngCLcBGAsYHQ/s1132/44653001.png",
         "code":"20145&12074&14211&7926&13908&1575&13468&7851&12320&17018&12419&16500&13352&13954&16259&18283&21868&18547&4809&3123&12193&7683&14015&22377&13413&5192&4579&24272&13584&10457",
