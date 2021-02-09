@@ -1,4 +1,25 @@
 [
+    {"id":576797202, "alias":"MartaIV", "featured":false, "info":{
+        "date":"2021/02/08", "name": null,
+        "code":"21827&21897&19068&16271&4972&7925&23655&16259&16691&4607&9517&12068&5405&22624&10804&6177&19512&17918&20734&16288&13406&12115&15306&23905&22541&10332&8954&12282&16407&25198",
+        "png":"https://1.bp.blogspot.com/-X8M3odrgNu8/YCLXeOubvlI/AAAAAAAABBY/0ADm2QEl3-8qyaIfz_wA-nEvod9iIPE3QCLcBGAsYHQ/s0/576797202.png",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/c88a19e81dcf9b4ad133ac9bd743d20a.jpg"
+    }},
+
+    {"id":456985064, "alias":"broken-endings", "featured":false, "info":{
+        "date":"2021/02/06", "name": null,
+        "code":"15498&15253&25983&20496&19894&6290&10694&16805&21343&14249&9717&25085&2242&25289&26003&10298&15768&18222&6129&14289&10811&18320&24958&4961&19756&26447&5277&22697&2628&19246&4638&5381&23549&22676&19690&5020&10755&13890&20699&14176&13132&14116&23934&15354&12508&17648&6311&15399&17612&21577&16145&10712&6456&26063&12234&7748&6977&13671&22014&8926&23329&20719&7386&16342&25992&15804&13942&19122&1764&7710&13469&18915&17314&19340",
+        "png":"https://1.bp.blogspot.com/-nJeHZAVE7gg/YCLWeN8kO_I/AAAAAAAABBM/-o-TDHjDGVYsyjG8LTRnnYZL6zdpywsTwCLcBGAsYHQ/s0/456985064.png",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/b5dca12e632fff46a8c3916eb53423db.jpg"
+    }},
+
+    {"id":382034367, "alias":"Nana", "featured":false, "info":{
+        "date":"2021/02/06", "name": "Goddess of nature",
+        "code":"23311&23208&23290&23258&1276&18156&18272&24338&25018&23299&12036&13078&12012&16910&4414&16240&25833&22977&21060&13183&24271&23300&5161&17324&12617&25133&16402&2384&4436",
+        "png":"https://1.bp.blogspot.com/-OyGEF_9l4sk/YCLVvJ2NRZI/AAAAAAAABBE/U-mDCwtZHVoVO1UQ9MpKUrKVLcJPBbJpgCLcBGAsYHQ/s0/382034367.png",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/79f0bfe80a25c4f7560d3f45409cdfb3.jpg"
+    }},
+
     {"id":360666926, "alias":"MartaIV", "featured":false, "info":{
         "date":"2021/02/04", "name":"Creature of Abyss",
         "code":"24211&7922&5231&16264&18282&4375&24160&9804&6167&10001&12073&24360&24615&24449&2323&17910&17781&5413&22628&23521&24635&13415&24705&23934&24651&23709&4079&17826&24151&24579&23745&15298&24314&12829&24347",
