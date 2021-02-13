@@ -1,4 +1,32 @@
 [
+    {"id":137859954, "alias":"Chissek", "featured":false, "info":{
+        "date":"2021/02/13", "name":null,
+        "code":"21901&26503&5115&25438&7294&26523&10031&5071&24811&25396&11628&25365&16649&20145&19675&25071&25386&22033",
+        "png":"https://1.bp.blogspot.com/-iijvTjb2SZU/YChPb7x6RqI/AAAAAAAABC8/7_4dyceNxEgX3RPQd-tBz_1-60a9q4d9gCLcBGAsYHQ/s0/137859954.png",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/ed762016507ded578d6d54c1fed42f03.jpg"
+    }},
+
+    {"id":396813578, "alias":"Joceline", "featured":false, "info":{
+        "date":"2021/02/12", "name":null,
+        "code":"1276&23948&7678&16266&23340&14365&21274&12867&18283&20358&16691&5161&21625&20484&23298&12900&12997&21168&21222&20333",
+        "png":"https://1.bp.blogspot.com/-V5M9SU9OhK8/YChOsY52MyI/AAAAAAAABC0/oSxEFj4gfE83Tuo9dEDIADAhSiWtISF1ACLcBGAsYHQ/s0/396813578.png",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/96c00f19553e7cf3a6750f4ef3c5351c.jpg"
+    }},
+
+    {"id":630370642, "alias":"Shiki", "featured":false, "info":{
+        "date":"2021/02/11", "name":"Hecatnymeth",
+        "code":"25058&12098&22646&1249&26447&17705&7294&8533&21868&24127&25419&26530&10277&4579&14265&20330&22361&17782&23354&23377&23426&23346&23437&3647&24176&8954&22635&17755&17733&22031",
+        "png":"https://1.bp.blogspot.com/-X-MGdvBJOzQ/YChM-Ci-byI/AAAAAAAABCo/RPJQ5fKY_xkpGgW1I-IsXTarjomIrtU4QCLcBGAsYHQ/s0/630370642.png",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/687089d68e47d461bfcd8e176ebff9c2.jpg"
+    }},
+
+    {"id":520684553, "alias":"Zunay", "featured":false, "info":{
+        "date":"2021/02/10", "name":null,
+        "code":"25210&1249&24947&15296&18153&19202&15274&5268&18272&4381&25987&20874&8214&25826&17285&25787&14289&25241&26563&11111",
+        "png":"https://1.bp.blogspot.com/-l2HyH054_MU/YChKN81M5BI/AAAAAAAABCc/R98Zbqyc-XkBnYee-YHHJPgzmP2ggz7egCLcBGAsYHQ/s0/520684553.png",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/866c518ae55596a6aff60f125f03c9b1.jpg"
+    }},
+
     {"id":850028545, "alias":"ShiroNeKo-D", "featured":false, "info":{
         "date":"2021/02/09", "name":"Milotic",
         "code":"16276&18181&1251&18272&18158&12018&16679&13908&17871&21417&22035&24674&24339&5243&17934&16864&16979&6768&24348",
