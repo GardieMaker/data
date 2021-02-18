@@ -1,4 +1,60 @@
 [
+    {"id":778063079, "alias":"DennisLestrange", "featured":false, "info":{
+        "date":"2021/02/19", "name":"Lolita's Doll",
+        "code":"1249&21448&13384&23805&16145&25482&6371&21464&23636&7935&25538&22508",
+        "png":"https://1.bp.blogspot.com/-11t4jv86Lc0/YC78S6DbvUI/AAAAAAAABJM/GVr44w7vVEMIEdXLLNZTnmX1OAWVilsuQCLcBGAsYHQ/s0/778063079.png",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/c936237bfad9f920e5c245168a2f1af7.jpg"
+    }},
+
+    {"id":400474239, "alias":"Chissek", "featured":false, "info":{
+        "date":"2021/02/18", "name":null,
+        "code":"21898&17797&13130&26694&26826&26681&25232&15410&26892&26560&26726&25986&10797&17971&26937&19272&8534&25070&18531&14658&14265&11032&25287&23096&8457&16787",
+        "png":"https://1.bp.blogspot.com/-HhayiG0Y3Qc/YC77pZJjuDI/AAAAAAAABJE/EiBHhdvMLt4UeNXtYvJfQUHG8WLmOoUnQCLcBGAsYHQ/s0/400474239.png",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/76300c1f87aaed1606983f024708860e.jpg"
+    }},
+
+    {"id":389510425, "alias":"Koemi Mayoko", "featured":false, "info":{
+        "date":"2021/02/18", "name":"LoveKiller",
+        "code":"22646&1276&9476&26890&26911&26927&26870&26832&18975&18382&26942&14265&26947&15240&25069&23351",
+        "png":"https://1.bp.blogspot.com/-teMWCzQqbic/YC77BUenLUI/AAAAAAAABI4/BEPX2eZTxBUDmy1PisJZt11KUDjax6cFwCLcBGAsYHQ/s0/389510425.png",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/ebe3cacec9acff9a1ae9d9554a3192c0.jpg"
+    }},
+
+    {"id":710300685, "alias":"Hyunmiia", "featured":false, "info":{
+        "date":"2021/02/17", "name":"Angelina",
+        "code":"691&18850&26530&8905&18939&10755&10462&26847&16009&18382&13633&14260&6768&15574&14253&19340",
+        "png":"https://1.bp.blogspot.com/-jCPdlALJU5E/YC76OLF-BTI/AAAAAAAABIw/p65x0gDNrEAdKOI8a4qfRHdK0ncWdTt5QCLcBGAsYHQ/s0/710300685.png",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/b5dca12e632fff46a8c3916eb53423db.jpg"
+    }},
+
+    {"id":147077238, "alias":"DennisLestrange", "featured":false, "info":{
+        "date":"2021/02/17", "name":"Silvermist",
+        "code":"23212&1249&20241&25150&25886&25955&11427&5241",
+        "png":"https://1.bp.blogspot.com/-Z9iwobO3d5g/YC75osQLPCI/AAAAAAAABIk/O30wNo4ROZYVwhH8BwB2dFebyeeCYOx0gCLcBGAsYHQ/s0/147077238.png",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/ebe3cacec9acff9a1ae9d9554a3192c0.jpg"
+    }},
+
+    {"id":117634837, "alias":"Hyunmiia", "featured":false, "info":{
+        "date":"2021/02/17", "name":"Analya",
+        "code":"6710&21854&26814&26821&26671&17787&12020&16525&24669&16795&14239&21879&21274&23547&21858&26950&23659&12110&12854&10756&6658&2273&12766&20115",
+        "png":"https://1.bp.blogspot.com/-Qr9UzvZpm0g/YC746EnhOOI/AAAAAAAABIc/DwzJoXag8ioStYFXZ67qp5FwtoC0hWNkACLcBGAsYHQ/s0/117634837.png",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/e7fa6151ab5e1cbefeca680bc7c2b428.jpg"
+    }},
+
+    {"id":127248125, "alias":"Koemi Mayoko", "featured":false, "info":{
+        "date":"2021/02/17", "name":"Heather",
+        "code":"26811&26682&26695&8368&26847&26860&23820&26946&15206&25133&20331&8586&2977",
+        "png":"https://1.bp.blogspot.com/-shtIsxldfP0/YC74HIhzhXI/AAAAAAAABIQ/181sLJZhzM8V6s-NTS4o-nYsquUrcNT2wCLcBGAsYHQ/s0/127248125.png",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/ebe3cacec9acff9a1ae9d9554a3192c0.jpg"
+    }},
+
+    {"id":492737042, "alias":"Koemi Mayoko", "featured":false, "info":{
+        "date":"2021/02/17", "name":"Kiara Hinamory",
+        "code":"21901&21361&691&26817&26875&21149&26855&26895&25168&25236&5200&26184&25068",
+        "png":"https://1.bp.blogspot.com/-FTqo2ts1cXI/YC73QdHVtII/AAAAAAAABII/Nt_iQveQToYTfZCwqZroW0apxa7RpkifQCLcBGAsYHQ/s0/492737042.png",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/ebe3cacec9acff9a1ae9d9554a3192c0.jpg"
+    }},
+
     {"id":108085259, "alias":"MartaIV", "featured":false, "info":{
         "date":"2021/02/16", "name":null,
         "code":"21887&23241&23307&23219&7922&26832&21891&5581&27197&24673&26866&26722&19723&20261&25881&26692&24905&26947&24165&23409&22626&23318&20581&13183&14702&15300&14267&14334&12861&24149&23762",
