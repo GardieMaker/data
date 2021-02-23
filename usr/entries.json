@@ -1,4 +1,74 @@
 [
+    {"id":108043335, "alias":"ShiroNeKo-D", "featured":false, "info":{
+        "date":"2021/02/23", "name":null,
+        "code":"26165&21849&18324&1251&16265&16689&5242&7805&19504&23952&20300&23526&23413&23424&17611&25915&11378&22897&23105&2446&20333",
+        "png":"a9dfe2fc9e2c390724adbadddf6b4e1d25573",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/96c00f19553e7cf3a6750f4ef3c5351c.jpg"
+    }},
+
+    {"id":873502461, "alias":"ShiroNeKo-D", "featured":false, "info":{
+        "date":"2021/02/23", "name":null,
+        "code":"24906&21602&19377&1251&18278&7768&7277&8350&20228&5161&19503&6838&16365&16238&16389&8429&17939&12596&18904&17415&12103&14479&26579&6768&25208",
+        "png":"a9dfe06445c02725847abae7cc47683fcb53e",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/e9b585d4f48cf9a565a83625ca7ab747.jpg"
+    }},
+
+    {"id":470226409, "alias":"Chissek", "featured":false, "info":{
+        "date":"2021/02/23", "name":null,
+        "code":"16272&21359&1276&16290&12161&16266&17572&17981&10426&8895&21899&12014&12198&16795&13583&12126&14324&16638&16828&22397&10332&15296&12174&16402&25196",
+        "png":"27cod73b227b52fcd4bc5930f516f48b969b1",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/5c986bc68d9afc7a9562f8cba874b26e.jpg"
+    }},
+
+    {"id":743821493, "alias":"Chissek", "featured":false, "info":{
+        "date":"2021/02/23", "name":null,
+        "code":"1267&24807&23658&12015&26689&14309&13131&12200&26669&12778&12045&13105&26889&15354&15366&24770&19678&12110&5541&22712&10791&20114",
+        "png":"27cod350168b0d9414d26b3d020c0ff422cad",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/5953004d61f2c4fb8a9dd9579213ae61.jpg"
+    }},
+
+    {"id":736892794, "alias":"Rose", "featured":false, "info":{
+        "date":"2021/02/23", "name":"Life Love- Viktor Nikiforov",
+        "code":"26814&11846&10943&7935&23730&26865&26272&6449&16644&13170&19579&6450&24234&15579&8016&16165&26954&22973&15311",
+        "png":"27cod4a056d3346c44d9ea002b3b3e45c3bda",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/fe6e7fa5d3c5153ea51c24fb15771735.jpg"
+    }},
+
+    {"id":935354035, "alias":"Chissek", "featured":false, "info":{
+        "date":"2021/02/23", "name":"Hera (destripando la historia)",
+        "code":"1254&17555&20242&21357&16273&6101&26453&12196&21891&23658&13616&8787&17434&6768&19339",
+        "png":"27codc38824d45c614289b0ac78a527c411f6",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/dbce9343d5f581886e3fcbe01398cd59.jpg"
+    }},
+
+    {"id":502785158, "alias":"Chissek", "featured":false, "info":{
+        "date":"2021/02/22", "name":null,
+        "code":"1276&13913&24799&19284&24818&19146&15470&19302&19205&21686&4648&15839&8534&19267&6189&23384&23352&5105&22031",
+        "png":"27cod5b52ba1d3fd54ad4b77f0e372231fc95",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/687089d68e47d461bfcd8e176ebff9c2.jpg"
+    }},
+
+    {"id":948000193, "alias":"Rose", "featured":false, "info":{
+        "date":"2021/02/22", "name":"Aime",
+        "code":"25432&26841&19274&5235&9872&23787&23823&21439&6798&21202&25111&25091&25546&2448&7811&9514&11623&15296&20382&19270&6996",
+        "png":"27cod0edab6c7f7ac4580bf76d7ad2dc238ae",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/8788bc88ae3a0894e1143a64248b5d54.jpg"
+    }},
+
+    {"id":497280006, "alias":"Chissek", "featured":false, "info":{
+        "date":"2021/02/22", "name":null,
+        "code":"1276&18152&16260&4758&24823&24815&26452&13913&17389&22651&21895&24277&12986&21462&9486&16560&21826&24177&17591&20703",
+        "png":"27cod74381efac53846469b20c124f8fa39ad",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/c6016fb96a955f866991b4869afb065b.jpg"
+    }},
+
+    {"id":579750536, "alias":"Chissek", "featured":false, "info":{
+        "date":"2021/02/22", "name":null,
+        "code":"21327&18163&16259&23271&24815&21895&23209&13108&26532&16270&21363&15779&15679&12702&16893&10335&23354&12171&13612&12290&20333",
+        "png":"27cod3360c9d102b641e2886c377b462aad13",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/96c00f19553e7cf3a6750f4ef3c5351c.jpg"
+    }},
+
     {"id":233759984, "alias":"Rose", "featured":false, "info":{
         "date":"2021/02/22", "name": "Aime",
         "code":"17925&23405&17712&23663&21899&18156&19609&24168&16281&12785&5079&26368&5722&20248&23427&21277&15306&24635&12842&12129&10560&15655&24156&19564&24153&20052&11590&19353",
@@ -1203,7 +1273,7 @@
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/953121129c27312d782f8289cadb3e5a.jpg"
     }},
 
-    {"id":959713645, "alias":"Aleric", "featured":false, "info":{
+    {"id":959713645, "alias":"Aleric", "featured":true, "info":{
         "date":"2020/09/26", "name":null,
         "png":"7tprsfda624183b7442188541471f0d1914bb",
         "code":"23212&1275&18212&18728&12619&12780&5161&23416&24173&6531&8429&18332&17532&14484&6768&19353",
