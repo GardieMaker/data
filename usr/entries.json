@@ -832,7 +832,7 @@
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/84e3521e9bb8e4370ea249c5caed4774.jpg"
     }},
     
-    {"id":372936002, "alias":"ShiroNeKo-D", "featured":false, "info": {
+    {"id":372936002, "alias":"ShiroNeKo-D", "featured":true, "info": {
         "date":"2021/01/21", "name":"Llorona",
         "code":"19283&21602&8556&24827&5161&19159&18163&18279&20581&5091&21884&5423&16413&5295&20231&26480&19340",
         "png":"7tprsa4aab99cc2274ca3b21e99ad7267c565",
