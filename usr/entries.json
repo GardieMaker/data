@@ -847,7 +847,7 @@
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/96c00f19553e7cf3a6750f4ef3c5351c.jpg"
     }},
 
-    {"id":225730198, "alias":"Chissek", "featured":false, "info":{
+    {"id":225730198, "alias":"Chissek", "featured":true, "info":{
         "date":"2021/01/30", "name":null,
         "code":"6724&1276&10774&16259&17555&8909&26533&16277&9394&14752&21435&21353&11946&14265&10379&23836&9436&2976&15369&14658&25212",
         "png":"7tprs54788168cb8f4d7b9d3901362ddf385d",
