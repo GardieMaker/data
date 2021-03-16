@@ -1,4 +1,60 @@
 [
+    {"id":765797150, "alias":"Chissek", "featured":false, "info":{
+        "date":"2021/03/15", "name":null,
+        "code":"25320&5037&19322&26530&17398&18614&12588&9818&15351&24938&26910&15236&15226&5114&3647&18739",
+        "png":"klly78e174ce14efa436295e3345956e11b98",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/834ae96cbbcad5e4b6274468c7e048ca.jpg"
+    }},
+
+    {"id":454710911, "alias":"MartaIV", "featured":false, "info":{
+        "date":"2021/03/15", "name":null,
+        "code":"25428&17692&17929&11868&5193&16258&18283&24809&16322&25676&12137&14430&12611&14461&14378&16523&6157&5722&21639&9383&25923&24579&21208&15303&18793&13501&13490&26948&20333",
+        "png":"klly7840f850d4dca47ccbabef4e29578d4da",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/96c00f19553e7cf3a6750f4ef3c5351c.jpg"
+    }},
+
+    {"id":175706030, "alias":"Nana", "featured":false, "info":{
+        "date":"2021/03/15", "name":"Kiiro",
+        "code":"20047&17927&10770&14074&12130&12042&11794&4375&3252&20452&14172&25830&5553&12321&14728&17006&6905&12178&6768&20333",
+        "png":"klly7e1f66b9e24364efe87b407c84d8d28fa",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/96c00f19553e7cf3a6750f4ef3c5351c.jpg"
+    }},
+
+    {"id":104306078, "alias":"Erya", "featured":false, "info":{
+        "date":"2021/03/15", "name":"Belle",
+        "code":"11167&10584&691&18283&23653&23509&16696&20716&18147&3660&20789&23343&4153&23388",
+        "png":"klly715bbc18426a24996b6b9165643958e49",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/ebe3cacec9acff9a1ae9d9554a3192c0.jpg"
+    }},
+
+    {"id":702340915, "alias":"Erya", "featured":false, "info":{
+        "date":"2021/03/15", "name":"Raiponce",
+        "code":"691&23653&22934&27197&23517&18126&26720&13632&23436&8652&25837",
+        "png":"klly758f5cca10be24d8baa9643ae2d65d025",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/ebe3cacec9acff9a1ae9d9554a3192c0.jpg"
+    }},
+
+    {"id":679661955, "alias":"Erya", "featured":false, "info":{
+        "date":"2021/03/15", "name":"Blanche Neige",
+        "code":"8849&1249&25454&5195&6406&2535&11474&6109&13083&14167&4811&3110&4453&8652&12977&8526",
+        "png":"klly7959e1a13228d4e5a8f48b22570d8d47e",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/ebe3cacec9acff9a1ae9d9554a3192c0.jpg"
+    }},
+
+    {"id":675896632, "alias":"Kiami", "featured":false, "info":{
+        "date":"2021/03/14", "name":"Ursula",
+        "code":"17961&18155&16268&18283&15023&8908&18725&21982&15296&19561&22146&24154&23762",
+        "png":"klly7b3ed5ccab6ed477689af3e31fc84bc80",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/9f49c2b228b005cd857f4483a5730fc3.jpg"
+    }},
+
+    {"id":972790166, "alias":"Gabi Games", "featured":false, "info":{
+        "date":"2021/03/13", "name":null,
+        "code":"1246&21868&8368&25733&5581&8534&26183&19583&18311&20228&6134&24315&19152&19353",
+        "png":"klly79f4d42431a5d462a8db51af0ef8ca3be",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/f09cc9b21a0cf86b553ede2973ba1e8e.jpg"
+    }},
+
     {"id":796065991, "alias":"Vicdes", "featured":false, "info":{
         "date":"2021/03/13", "name":null,
         "code":"1276&7805&18283&20236&5195&26457&26855&17689&16390&24264&9887&16330&16358&22609&24918&8870&12054&2981",
