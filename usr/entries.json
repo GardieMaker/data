@@ -1400,7 +1400,7 @@
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/4f5a90efc73b771255b7939aebf0eaff.jpg"
     }},
 
-    {"id":484474609, "alias":"broken-endings", "featured":false, "info":{
+    {"id":484474609, "alias":"broken-endings", "featured":true, "info":{
         "date":"2021/01/14", "name":null,
         "png":"7tprs463a5426e4f142daa4f5dcae7e0786d9",
         "code":"21900&2354&11068&17365&7926&21459&10379&4381&12720&6170&9703&4725&24316&18123&18135&23543&14459&12199&1371&22008&14598&11573&7314&6408&16985&5116&13156&22617&20409&8141&16487&5268&2709&8881&4533&10459",
