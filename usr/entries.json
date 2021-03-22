@@ -1,4 +1,95 @@
 [
+    {"id":874670406, "alias":"Erya", "featured":false, "info":{
+        "date":"2021/03/22", "name":"Daphné",
+        "code":"7926&5192&18736&1747&22228&8427&7149&11768&4496&22031",
+        "png":"98es3a7d258c652fb4e868d7042450f4b9cce",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/687089d68e47d461bfcd8e176ebff9c2.jpg"
+    }},
+
+    {"id":894543383, "alias":"Rose", "featured":false, "info":{
+        "date":"2021/03/22", "name":"Quiromagno",
+        "code":"26108&21900&5365&16285&18718&23770&15298&25074&12861&12773&20011&24686&26374&25981&24770&17169&14066&16346&9093&2385&25212",
+        "png":"98es3008d517b7da0433c9b5adfd918066666",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/7842bcdf84b0df33db84ff71a47f8090.jpg"
+    }},
+
+    {"id":254134224, "alias":"Erya", "featured":false, "info":{
+        "date":"2021/03/22", "name":"light heartless",
+        "code":"2369&26807&22645&18726&5232&20347&22349&24664&14112&12419&16375&16429&23415&12074&27237&12205&12282&19339",
+        "png":"98es35178f0acc7b34e589717094660bb92ed",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/dbce9343d5f581886e3fcbe01398cd59.jpg"
+    }},
+
+    {"id":581958297, "alias":"AdyCeci", "featured":false, "info":{
+        "date":"2021/03/22", "name":null,
+        "code":"21844&691&5428&16294&22645&5195&20269&23416&17759&17859&23379&21879&17737&16353&16257&12133&11871&5626&23325&20228&6655&20333",
+        "png":"98es34883156ac5cc44e69d5db99b8304af07",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/96c00f19553e7cf3a6750f4ef3c5351c.jpg"
+    }},
+
+    {"id":396381301, "alias":"AdyCeci", "featured":false, "info":{
+        "date":"2021/03/22", "name":"Princesa Tiana",
+        "code":"8457&16986&7921&13045&2327&17721&21657&23153&2334&23554&23930&23709&20280&5195&16615&8284&10339&3325&12821&2384&6768&6986",
+        "png":"98es32d7e21bc0a84460a825bd9c656a91666",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/f8c22d04104e0b19a6ea7bb4ac059613.jpg"
+    }},
+
+    {"id":887747220, "alias":"Nana", "featured":false, "info":{
+        "date":"2021/03/22", "name":"Aoi",
+        "code":"25064&25700&12021&16285&16367&23963&21354&26841&12912&24939&13237&12422&11912&13409&13204&18811&5234&15657&20614&25208",
+        "png":"98es322f22dc9da1b42ba8ebdf64c95903254",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/e9b585d4f48cf9a565a83625ca7ab747.jpg"
+    }},
+
+    {"id":985795429, "alias":"Erya", "featured":false, "info":{
+        "date":"2021/03/21", "name":"prince Ali",
+        "code":"6129&15854&7921&26456&6168&17031&19448&5201&18735&18698&12150&20141&14800&15600&22383&24313&3217&9581&20011&10015&25209",
+        "png":"98es3a22c4c31cb6c4ee79425c361b5bd8154",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/37915cbd9266307c96f505d42890f3b5.jpg"
+    }},
+
+    {"id":730522794, "alias":"Erya", "featured":false, "info":{
+        "date":"2021/03/21", "name":"Aladdin",
+        "code":"7921&26456&19448&3568&21961&5231&18735&18698&14885&12150&24313&10457",
+        "png":"98es3957c23779606433a9940286c875af79b",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/0dafc123ad850f6e5b8f4a99ad2234b9.jpg"
+    }},
+
+    {"id":128381706, "alias":"Erya", "featured":false, "info":{
+        "date":"2021/03/21", "name":"Poucelina",
+        "code":"7926&17424&5193&22955&20259&14722&17876&23417&21857&17019&19077&22754&7748&23608&25951&2980",
+        "png":"98es3b2c1e0e6dd1a48b682fee628eb5f1c31",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/dd6382ad5eaac20c841bb10b98abded8.png"
+    }},
+
+    {"id":973464011, "alias":"Erya", "featured":false, "info":{
+        "date":"2021/03/21", "name":"Wonder woman",
+        "code":"7926&18283&5195&19721&20267&23025&23538&6170&12187&1989&19351&19813&3691&22707&19339",
+        "png":"98es360a6e58dce14476cac0e419e832b281c",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/dbce9343d5f581886e3fcbe01398cd59.jpg"
+    }},
+
+    {"id":179172028, "alias":"Erya", "featured":false, "info":{
+        "date":"2021/03/20", "name":"Anna",
+        "code":"691&23653&22935&10131&8434&12295&14742&11691&16318&20865&9123&18897&14620&15631&11776&6450&15311",
+        "png":"98es3e21069f0bc6c4442acbe682883e86e49",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/fe6e7fa5d3c5153ea51c24fb15771735.jpg"
+    }},
+
+    {"id":606548967, "alias":"Erya", "featured":false, "info":{
+        "date":"2021/03/20", "name":"Mulan",
+        "code":"691&5212&9647&14193&14738&18550&9395&15879&13188&9534&4289&18149&25195",
+        "png":"98es3d2e2590d17804dfead64d1cbd8c4706d",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/f695367ed0d27066634e25a761436cff.jpg"
+    }},
+
+    {"id":227040010, "alias":"Erya", "featured":false, "info":{
+        "date":"2021/03/20", "name":"Esmeralda",
+        "code":"1256&5245&13870&12127&21113&20380&14711&24428&11069&23429&13182&6972&1396&3273&25203",
+        "png":"98es3187aa8d445894e6fb22e69633137bff1",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/a84c0a17188fe6a96ed76951e32c5732.jpg"
+    }},
+
     {"id":388925367, "alias":"Kiami", "featured":false, "info":{
         "date":"2021/03/20", "name":"Tinkerbell",
         "code":"23212&691&2090&12602&12819&12638&5192&16986&20333",
