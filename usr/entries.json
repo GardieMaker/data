@@ -1,19 +1,19 @@
 [
-    {"id":932541744, "alias":"broken-endings", "featured":false, "info":{
+    {"id":932541744, "alias":"broken-endings", "featured":false, "type":"cosplay", "info":{
         "date":"2021/03/26", "name":"Sonic the Hedgehog",
         "code":"17924&8823&26446&10236&15731&17245&18974&19977&20108&19241&24061&15481&9153&23281&9768&17305&22677&16755&5290&24783&11157&24627&10467&18996&14142&26234&11074&6700&8424&11421&10460",
         "png":"nkf2neb008dd9e7744809a1c605aac8f4e7ad",
         "background":"https://www.eldarya.com/assets/img/item/player/web_full/55e9e05d1538e19b6862275f9f787c35.jpg"
     }},
 
-    {"id":734341025, "alias":"broken-endings", "featured":false, "info":{
+    {"id":734341025, "alias":"broken-endings", "featured":false, "type":"cosplay", "info":{
         "date":"2021/03/26", "name":"Super Mario",
         "code":"691&5242&10902&21900&18534&22955&7656&18164&6596&22377&6557&2684&19808&17596&7749&10136&26031&8457&23979&17726&6023&13357&13722&4811&16140&18996&17325&23733&6408&6768&6344&4437",
         "png":"nkf2n5582562d25dd4c1f893a1135e7fe631b",
         "background":"https://www.eldarya.com/assets/img/item/player/web_full/7798320f6d057aef7c93a61a2ccf251e.jpg"
     }},
 
-    {"id":994028038, "alias":"Erya", "featured":false, "info":{
+    {"id":994028038, "alias":"Erya", "featured":false, "type":"cosplay", "info":{
         "date":"2021/03/25", "name":"Gothel",
         "code":"7926&5195&9643&24037&16271&13077&10650&19118&19890&5552&2609&11655&4832&23094&6986",
         "png":"nkf2n6060bb271abf45e6aaba03e3220dd815",
@@ -41,42 +41,42 @@
         "background":"https://www.eldarya.com/assets/img/item/player/web_full/894f17dac52604c023efe59bcb51479e.jpg"
     }},
 
-    {"id":751404856, "alias":"Kiami", "featured":false, "info":{
+    {"id":751404856, "alias":"Kiami", "featured":false, "type":"cosplay", "info":{
         "date":"2021/03/25", "name":"Buttercup",
         "code":"18647&691&9834&16263&9806&10965&9848&25020&18283&14262&9395&4374&8582&14250&8910&5118&24266&14289&19060&9890&3243&26885&8581&8926&22033",
         "png":"nkf2ndd2a7fd363d54996844ef0de7857da12",
         "background":"https://www.eldarya.com/assets/img/item/player/web_full/ed762016507ded578d6d54c1fed42f03.jpg"
     }},
 
-    {"id":691022257, "alias":"Kiami", "featured":false, "info":{
+    {"id":691022257, "alias":"Kiami", "featured":false, "type":"cosplay", "info":{
         "date":"2021/03/25", "name":"Bubbles",
         "code":"24906&1251&19601&14172&22956&23533&17219&23620&20244&5551&13166&8685&23352&24263&7468&21221&18826&9892&2256",
         "png":"nkf2n76743b18b56946d2bda1c1757207a171",
         "background":"https://www.eldarya.com/assets/img/item/player/web_full/e26059967cc4c9675b027105fc95c4a7.jpg"
     }},
 
-    {"id":755259506, "alias":"Kiami", "featured":false, "info":{
+    {"id":755259506, "alias":"Kiami", "featured":false, "type":"cosplay", "info":{
         "date":"2021/03/25", "name":"Blossom",
         "code":"1249&19606&16258&23441&21363&26117&12986&20600&23541&11651&2115&5203&16985&13000&9893&23569&24268&20717&2257",
         "png":"nkf2n0d12e37e3d6244bab9df4f63eb081d17",
         "background":"https://www.eldarya.com/assets/img/item/player/web_full/7d5f58d9ab5ef9d1e269ea554be3f34d.jpg"
     }},
 
-    {"id":287382030, "alias":"Erya", "featured":false, "info":{
+    {"id":287382030, "alias":"Erya", "featured":false, "type":"cosplay", "info":{
         "date":"2021/03/24", "name":"Cléopatre",
         "code":"17923&5215&13902&21626&14709&19653&20140&13930&11867&10162&12419&3217&12291&18823&19671&15833&7990&3541",
         "png":"nkf2n7da0b53a2e4e4019bba32de25e33ac3c",
         "background":"https://www.eldarya.com/assets/img/item/player/web_full/c30f5fca258d7f74f4edf6b95cac8658.jpg"
     }},
 
-    {"id":918342283, "alias":"Erya", "featured":false, "info":{
+    {"id":918342283, "alias":"Erya", "featured":false, "type":"cosplay", "info":{
         "date":"2021/03/24", "name":"Feyre",
         "code":"7926&13913&18283&17705&5235&21858&24301&18897&23155&20280&22437&7148&8534&8884&20331&25202",
         "png":"nkf2ne66eeb6eb9514489be47edef8b0b974c",
         "background":"https://www.eldarya.com/assets/img/item/player/web_full/8ff0e65dbdb21d7c4d0aa0cf9b881082.jpg"
     }},
 
-    {"id":947476253, "alias":"Erya", "featured":false, "info":{
+    {"id":947476253, "alias":"Erya", "featured":false, "type":"cosplay", "info":{
         "date":"2021/03/24", "name":"Hercules",
         "code":"21891&691&5241&16273&21357&24184&23026&14975&11689&18728&24283&23543&13355&13678&2238&22707&19808&20704",
         "png":"nkf2n78038be36df34b2e92ae03469fff85ca",
@@ -90,49 +90,49 @@
         "background":"https://www.eldarya.com/assets/img/item/player/web_full/5c986bc68d9afc7a9562f8cba874b26e.jpg"
     }},
 
-    {"id":661498700, "alias":"Erya", "featured":false, "info":{
+    {"id":661498700, "alias":"Erya", "featured":false, "type":"cosplay", "info":{
         "date":"2021/03/24", "name":"Kim Possible",
         "code":"7926&23663&2088&17351&12209&4266&21365&8585&13194&13812&23835&25194",
         "png":"nkf2n0eef7712880c42a687c98a0ccff41edc",
         "background":"https://www.eldarya.com/assets/img/item/player/web_full/6b433454b653a8accf326b0000047fb2.png"
     }},
 
-    {"id":852755121, "alias":"Erya", "featured":false, "info":{
+    {"id":852755121, "alias":"Erya", "featured":false, "type":"cosplay", "info":{
         "date":"2021/03/23", "name":"Purroy",
         "code":"17793&21668&17065&22955&6824&22006&23847&11594&21491&19740&22677&24630&18531&20418&25211",
         "png":"nkf2n52de20e65b9642639c8849ef01f268d8",
         "background":"https://www.eldarya.com/assets/img/item/player/web_full/a3e038a59cd4e3ec0f309a0475072c4d.jpg"
     }},
 
-    {"id":764698952, "alias":"Erya", "featured":false, "info":{
+    {"id":764698952, "alias":"Erya", "featured":false, "type":"cosplay", "info":{
         "date":"2021/03/23", "name":"Purroko",
         "code":"8594&7920&17981&10926&6825&15375&14269&18879&12461&3695&23352&13183&13173&3252&8339&4762",
         "png":"nkf2n0febda9b23b34caea8cb89d9c92049b5",
         "background":"https://www.eldarya.com/assets/img/item/player/web_full/890542a4d6b2b5ea41bbcc19629aee98.jpg"
     }},
 
-    {"id":257808328, "alias":"Erya", "featured":false, "info":{
+    {"id":257808328, "alias":"Erya", "featured":false, "type":"cosplay", "info":{
         "date":"2021/03/23", "name":"Purriry",
         "code":"19908&7922&11253&21578&21128&17911&18283&5205&4371&6804&23557&16865&7874&14367&22355&24826&3231&25205",
         "png":"nkf2nea3b33b3bb954690bead80da3cf9668b",
         "background":"https://www.eldarya.com/assets/img/item/player/web_full/e7ea3447710c03f3b6ef155c234621bd.jpg"
     }},
 
-    {"id":731085400, "alias":"AdyCeci", "featured":false, "info":{
+    {"id":731085400, "alias":"AdyCeci", "featured":false, "type":"cosplay", "info":{
         "date":"2021/03/23", "name":"Bruja Escarlata",
         "code":"691&14251&18987&20409&22439&25292&8066&18163&25069&5245&4391&9830&22584&15308&25309&10485&25268&14217",
         "png":"nkf2n43883099708b42ffa5eb717b8c500bd3",
         "background":"https://www.eldarya.com/assets/img/item/player/web_full/df5f3b3f8fcf85fb7b4355fa63ae299f.jpg"
     }},
 
-    {"id":400386119, "alias":"Erya", "featured":false, "info":{
+    {"id":400386119, "alias":"Erya", "featured":false, "type":"cosplay", "info":{
         "date":"2021/03/23", "name":"Purreru",
         "code":"1260&5231&18276&20272&6806&23981&22436&23566&22395&13173&21964&23761&25197",
         "png":"nkf2n1ea75fcad74642dd8cc0b4b54c7be25c",
         "background":"https://www.eldarya.com/assets/img/item/player/web_full/d0c624b2d3d878096f3b018114046df1.jpg"  
     }},
 
-    {"id":547694250, "alias":"Erya", "featured":false, "info":{
+    {"id":547694250, "alias":"Erya", "featured":false, "type":"cosplay", "info":{
         "date":"2021/03/23", "name":"Purral",
         "code":"24370&8455&14189&17917&23654&18281&4413&6799&2893&1575&14130&20395&25203",
         "png":"nkf2n165819273fab43f686e544a99f5a5b68",
@@ -153,14 +153,14 @@
         "background":"https://www.eldarya.com/assets/img/item/player/web_full/866c518ae55596a6aff60f125f03c9b1.jpg"
     }},
 
-    {"id":874670406, "alias":"Erya", "featured":false, "info":{
+    {"id":874670406, "alias":"Erya", "featured":false, "type":"cosplay", "info":{
         "date":"2021/03/22", "name":"Daphné",
         "code":"7926&5192&18736&1747&22228&8427&7149&11768&4496&22031",
         "png":"98es3a7d258c652fb4e868d7042450f4b9cce",
         "background":"https://www.eldarya.com/assets/img/item/player/web_full/687089d68e47d461bfcd8e176ebff9c2.jpg"
     }},
 
-    {"id":894543383, "alias":"Rose", "featured":false, "info":{
+    {"id":894543383, "alias":"Rose", "featured":false, "type":"cosplay", "info":{
         "date":"2021/03/22", "name":"Quiromagno",
         "code":"26108&21900&5365&16285&18718&23770&15298&25074&12861&12773&20011&24686&26374&25981&24770&17169&14066&16346&9093&2385&25212",
         "png":"98es3008d517b7da0433c9b5adfd918066666",
@@ -181,7 +181,7 @@
         "background":"https://www.eldarya.com/assets/img/item/player/web_full/96c00f19553e7cf3a6750f4ef3c5351c.jpg"
     }},
 
-    {"id":396381301, "alias":"AdyCeci", "featured":false, "info":{
+    {"id":396381301, "alias":"AdyCeci", "featured":false, "type":"cosplay", "info":{
         "date":"2021/03/22", "name":"Princesa Tiana",
         "code":"8457&16986&7921&13045&2327&17721&21657&23153&2334&23554&23930&23709&20280&5195&16615&8284&10339&3325&12821&2384&6768&6986",
         "png":"98es32d7e21bc0a84460a825bd9c656a91666",
@@ -195,56 +195,56 @@
         "background":"https://www.eldarya.com/assets/img/item/player/web_full/e9b585d4f48cf9a565a83625ca7ab747.jpg"
     }},
 
-    {"id":985795429, "alias":"Erya", "featured":false, "info":{
+    {"id":985795429, "alias":"Erya", "featured":false, "type":"cosplay", "info":{
         "date":"2021/03/21", "name":"prince Ali",
         "code":"6129&15854&7921&26456&6168&17031&19448&5201&18735&18698&12150&20141&14800&15600&22383&24313&3217&9581&20011&10015&25209",
         "png":"98es3a22c4c31cb6c4ee79425c361b5bd8154",
         "background":"https://www.eldarya.com/assets/img/item/player/web_full/37915cbd9266307c96f505d42890f3b5.jpg"
     }},
 
-    {"id":730522794, "alias":"Erya", "featured":false, "info":{
+    {"id":730522794, "alias":"Erya", "featured":false, "type":"cosplay", "info":{
         "date":"2021/03/21", "name":"Aladdin",
         "code":"7921&26456&19448&3568&21961&5231&18735&18698&14885&12150&24313&10457",
         "png":"98es3957c23779606433a9940286c875af79b",
         "background":"https://www.eldarya.com/assets/img/item/player/web_full/0dafc123ad850f6e5b8f4a99ad2234b9.jpg"
     }},
 
-    {"id":128381706, "alias":"Erya", "featured":false, "info":{
+    {"id":128381706, "alias":"Erya", "featured":false, "type":"cosplay", "info":{
         "date":"2021/03/21", "name":"Poucelina",
         "code":"7926&17424&5193&22955&20259&14722&17876&23417&21857&17019&19077&22754&7748&23608&25951&2980",
         "png":"98es3b2c1e0e6dd1a48b682fee628eb5f1c31",
         "background":"https://www.eldarya.com/assets/img/item/player/web_full/dd6382ad5eaac20c841bb10b98abded8.png"
     }},
 
-    {"id":973464011, "alias":"Erya", "featured":false, "info":{
+    {"id":973464011, "alias":"Erya", "featured":false, "type":"cosplay", "info":{
         "date":"2021/03/21", "name":"Wonder woman",
         "code":"7926&18283&5195&19721&20267&23025&23538&6170&12187&1989&19351&19813&3691&22707&19339",
         "png":"98es360a6e58dce14476cac0e419e832b281c",
         "background":"https://www.eldarya.com/assets/img/item/player/web_full/dbce9343d5f581886e3fcbe01398cd59.jpg"
     }},
 
-    {"id":179172028, "alias":"Erya", "featured":false, "info":{
+    {"id":179172028, "alias":"Erya", "featured":false, "type":"cosplay", "info":{
         "date":"2021/03/20", "name":"Anna",
         "code":"691&23653&22935&10131&8434&12295&14742&11691&16318&20865&9123&18897&14620&15631&11776&6450&15311",
         "png":"98es3e21069f0bc6c4442acbe682883e86e49",
         "background":"https://www.eldarya.com/assets/img/item/player/web_full/fe6e7fa5d3c5153ea51c24fb15771735.jpg"
     }},
 
-    {"id":606548967, "alias":"Erya", "featured":false, "info":{
+    {"id":606548967, "alias":"Erya", "featured":false, "type":"cosplay", "info":{
         "date":"2021/03/20", "name":"Mulan",
         "code":"691&5212&9647&14193&14738&18550&9395&15879&13188&9534&4289&18149&25195",
         "png":"98es3d2e2590d17804dfead64d1cbd8c4706d",
         "background":"https://www.eldarya.com/assets/img/item/player/web_full/f695367ed0d27066634e25a761436cff.jpg"
     }},
 
-    {"id":227040010, "alias":"Erya", "featured":false, "info":{
+    {"id":227040010, "alias":"Erya", "featured":false, "type":"cosplay", "info":{
         "date":"2021/03/20", "name":"Esmeralda",
         "code":"1256&5245&13870&12127&21113&20380&14711&24428&11069&23429&13182&6972&1396&3273&25203",
         "png":"98es3187aa8d445894e6fb22e69633137bff1",
         "background":"https://www.eldarya.com/assets/img/item/player/web_full/a84c0a17188fe6a96ed76951e32c5732.jpg"
     }},
 
-    {"id":388925367, "alias":"Kiami", "featured":false, "info":{
+    {"id":388925367, "alias":"Kiami", "featured":false, "type":"cosplay", "info":{
         "date":"2021/03/20", "name":"Tinkerbell",
         "code":"23212&691&2090&12602&12819&12638&5192&16986&20333",
         "png":"clp6ec139d263958b46f18037917d526e8086",
@@ -258,63 +258,63 @@
         "background":"https://www.eldarya.com/assets/img/item/player/web_full/9f49c2b228b005cd857f4483a5730fc3.jpg"
     }},
 
-    {"id":291713018, "alias":"Erya", "featured":false, "info":{
+    {"id":291713018, "alias":"Erya", "featured":false, "type":"cosplay", "info":{
         "date":"2021/03/20", "name": "Belle princesse",
         "code":"20200&21663&691&18283&20280&5195&12090&11438&23267&12081&26724&22533&8652&16347&16402&6768&25210",
         "png":"clp6e64c3e2e788924afd8ab92d8e1f4f15ed",
         "background":"https://www.eldarya.com/assets/img/item/player/web_full/866c518ae55596a6aff60f125f03c9b1.jpg"
     }},
 
-    {"id":888873923, "alias":"Kiami", "featured":false, "info":{
+    {"id":888873923, "alias":"Kiami", "featured":false, "type":"cosplay", "info":{
         "date":"2021/03/19", "name": "Princess Rosalina",
         "code":"16195&1249&21892&11417&16276&16265&19882&15306&4392&19819&16628&5161&14877&22779&2994&19554&9388&24264&6768&25208",
         "png":"clp6e75191d8e7aac4e67859c2d5daea6b7ec",
         "background":"https://www.eldarya.com/assets/img/item/player/web_full/e9b585d4f48cf9a565a83625ca7ab747.jpg"
     }},
 
-    {"id":335527310, "alias":"Kiami", "featured":false, "info":{
+    {"id":335527310, "alias":"Kiami", "featured":false, "type":"cosplay", "info":{
         "date":"2021/03/19", "name": "Princess Peach",
         "code":"23171&1249&18272&19963&19885&10260&16265&2090&21083&23159&5193&19839&3248&6768&14881&16389&19093&8279&9383&24263&12179&12290&25209",
         "png":"clp6e2465ac27b91c4067a2562aa47a5bd8d2",
         "background":"https://www.eldarya.com/assets/img/item/player/web_full/37915cbd9266307c96f505d42890f3b5.jpg"
     }},
 
-    {"id":755050597, "alias":"Kiami", "featured":false, "info":{
+    {"id":755050597, "alias":"Kiami", "featured":false, "type":"cosplay", "info":{
         "date":"2021/03/19", "name": "Princess Daisy",
         "code":"1253&18272&23168&20348&16265&22959&1993&12622&23156&5192&19830&9384&23733&3247&6768&12624&20843&14881&2256",
         "png":"clp6eacd8d8c125cb45b2827e118fe63ac996",
         "background":"https://www.eldarya.com/assets/img/item/player/web_full/e26059967cc4c9675b027105fc95c4a7.jpg"
     }},
 
-    {"id":549787029, "alias":"Kiami", "featured":false, "info":{
+    {"id":549787029, "alias":"Kiami", "featured":false, "type":"cosplay", "info":{
         "date":"2021/03/18", "name": "Princesa Aurora",
         "code":"16274&18803&1249&18283&21083&3369&16392&14347&10469&19885&23159&5193&11870&6579&19668&13119&9893&2981",
         "png":"clp6eae95efd6eddd4a3684df27fce2f7cd1c",
         "background":"https://www.eldarya.com/assets/img/item/player/web_full/5d7e097f1719d5ee592bca8461914ee3.jpg"
     }},
 
-    {"id":959493903, "alias":"Kiami", "featured":false, "info":{
+    {"id":959493903, "alias":"Kiami", "featured":false, "type":"cosplay", "info":{
         "date":"2021/03/18", "name": "Rose (Aurora)",
         "code":"1249&18283&20370&21083&20789&20785&20415&3369&14334&5192&12603&10460",
         "png":"clp6e68b43e27a3034a91a7ed6ef4f03b3674",
         "background":"https://www.eldarya.com/assets/img/item/player/web_full/55e9e05d1538e19b6862275f9f787c35.jpg"
     }},
 
-    {"id":407044195, "alias":"Erya", "featured":false, "info":{
+    {"id":407044195, "alias":"Erya", "featured":false, "type":"cosplay", "info":{
         "date":"2021/03/18", "name": "Ezarel",
         "code":"691&7935&10129&17032&8270&11614&16725&21355&12045&15616&4736&14740&16437&2742&9603&11373&8534&6737&3574&9505&25211",
         "png":"clp6ee7e93129bc4b4d049054672232c2b634",
         "background":"https://www.eldarya.com/assets/img/item/player/web_full/a3e038a59cd4e3ec0f309a0475072c4d.jpg"
     }},
 
-    {"id":212508228, "alias":"Kiami", "featured":false, "info":{
+    {"id":212508228, "alias":"Kiami", "featured":false, "type":"cosplay", "info":{
         "date":"2021/03/18", "name": "Rapunzel",
         "code":"21891&691&23378&14340&12611&16258&22937&11475&20410&5243&20223&25835&25193",
         "png":"clp6ecfdabe7633db4786b0f94f00312ac51d",
         "background":"https://www.eldarya.com/assets/img/item/player/web_full/7f359939d2273dac0ee734235e236914.png"
     }},
 
-    {"id":193235053, "alias":"Kiami", "featured":false, "info":{
+    {"id":193235053, "alias":"Kiami", "featured":false, "type":"cosplay", "info":{
         "date":"2021/03/18", "name": "Chat Noir",
         "code":"14210&691&18838&15729&9608&16038&8533&19088&8579&26880&18987&14265&2239&14665&5626&6768&25210",
         "png":"clp6ed51d2c7b7e3443789dc40d751d7a7ae0",
@@ -356,7 +356,7 @@
         "background":"https://www.eldarya.com/assets/img/item/player/web_full/76300c1f87aaed1606983f024708860e.jpg"
     }},
 
-    {"id":574624213, "alias":"Erya", "featured":false, "info":{
+    {"id":574624213, "alias":"Erya", "featured":false, "type":"cosplay", "info":{
         "date":"2021/03/17", "name":"Wakanda",
         "code":"1259&14210&13786&18838&21915&23275&19705&17351&18963&21469&18849&26855&24811&23730&18623&13164&25288&16390&18976&19857",
         "png":"ni56h1445ffa733a848ffb9ec4e15cc2feee6",
@@ -384,7 +384,7 @@
         "background":"https://www.eldarya.com/assets/img/item/player/web_full/834ae96cbbcad5e4b6274468c7e048ca.jpg"
     }},
 
-    {"id":714993688, "alias":"Erya", "featured":false, "info":{
+    {"id":714993688, "alias":"Erya", "featured":false, "type":"cosplay", "info":{
         "date":"2021/03/16", "name":"Ladybug",
         "code":"691&15735&13135&1066&2092&12088&19708&5202&14823&18973&8571&14742&9519&17214&24201&21996&18623&10321&16393&4851&9364&18999&19208&11569&17705&17918&23431&16796&11242&10102",
         "png":"ni56hef847a2ae8c041a3a09b64aa57d1816c",
@@ -398,28 +398,28 @@
         "background":"https://www.eldarya.com/assets/img/item/player/web_full/e9b585d4f48cf9a565a83625ca7ab747.jpg"
     }},
 
-    {"id":573000961, "alias":"Erya", "featured":false, "info":{
+    {"id":573000961, "alias":"Erya", "featured":false, "type":"cosplay", "info":{
         "date":"2021/03/16", "name":"Bo Peep",
         "code":"23946&691&23653&22955&7644&23689&12188&20413&23685&19993&23345&22871&5725&11034",
         "png":"ni56h67c3f29e40654a46b3399fe4a3b86fa1",
         "background":"https://www.eldarya.com/assets/img/item/player/web_full/ebe3cacec9acff9a1ae9d9554a3192c0.jpg"
     }},
 
-    {"id":826346063, "alias":"Kiami", "featured":false, "info":{
+    {"id":826346063, "alias":"Kiami", "featured":false, "type":"cosplay", "info":{
         "date":"2021/03/16", "name":"Alice",
         "code":"10584&11172&691&12794&16269&21083&21362&23952&21448&20613&22956&5581&7421&17383&21122&4437",
         "png":"ni56hecd7ad073e1f4fb1adbb10c5a0dbbcca",
         "background":"https://www.eldarya.com/assets/img/item/player/web_full/7798320f6d057aef7c93a61a2ccf251e.jpg"
     }},
 
-    {"id":515400702, "alias":"Kiami", "featured":false, "info":{
+    {"id":515400702, "alias":"Kiami", "featured":false, "type":"cosplay", "info":{
         "date":"2021/03/16", "name":"Cruella de Vil",
         "code":"23187&8695&1249&16266&18283&20240&13290&8908&14764&23725&19907&11421&19830&18784&15296&22977&14217",
         "png":"ni56h7c42cdca018f4dc9b8b6b738910cb2b8",
         "background":"https://www.eldarya.com/assets/img/item/player/web_full/df5f3b3f8fcf85fb7b4355fa63ae299f.jpg"
     }},
 
-    {"id":146726617, "alias":"Kiami", "featured":false, "info":{
+    {"id":146726617, "alias":"Kiami", "featured":false, "type":"cosplay", "info":{
         "date":"2021/03/16", "name":"Ariel",
         "code":"4523&22956&5205&21791&18070&3111&17811&4432",
         "png":"ni56hede0018216e545ac88170e01f549dc7a",
@@ -454,28 +454,28 @@
         "background":"https://www.eldarya.com/assets/img/item/player/web_full/96c00f19553e7cf3a6750f4ef3c5351c.jpg"
     }},
 
-    {"id":104306078, "alias":"Erya", "featured":false, "info":{
+    {"id":104306078, "alias":"Erya", "featured":false, "type":"cosplay", "info":{
         "date":"2021/03/15", "name":"Belle",
         "code":"11167&10584&691&18283&23653&23509&16696&20716&18147&3660&20789&23343&4153&23388",
         "png":"klly715bbc18426a24996b6b9165643958e49",
         "background":"https://www.eldarya.com/assets/img/item/player/web_full/ebe3cacec9acff9a1ae9d9554a3192c0.jpg"
     }},
 
-    {"id":702340915, "alias":"Erya", "featured":false, "info":{
+    {"id":702340915, "alias":"Erya", "featured":false, "type":"cosplay", "info":{
         "date":"2021/03/15", "name":"Raiponce",
         "code":"691&23653&22934&27197&23517&18126&26720&13632&23436&8652&25837",
         "png":"klly758f5cca10be24d8baa9643ae2d65d025",
         "background":"https://www.eldarya.com/assets/img/item/player/web_full/ebe3cacec9acff9a1ae9d9554a3192c0.jpg"
     }},
 
-    {"id":679661955, "alias":"Erya", "featured":false, "info":{
+    {"id":679661955, "alias":"Erya", "featured":false, "type":"cosplay", "info":{
         "date":"2021/03/15", "name":"Blanche Neige",
         "code":"8849&1249&25454&5195&6406&2535&11474&6109&13083&14167&4811&3110&4453&8652&12977&8526",
         "png":"klly7959e1a13228d4e5a8f48b22570d8d47e",
         "background":"https://www.eldarya.com/assets/img/item/player/web_full/ebe3cacec9acff9a1ae9d9554a3192c0.jpg"
     }},
 
-    {"id":675896632, "alias":"Kiami", "featured":false, "info":{
+    {"id":675896632, "alias":"Kiami", "featured":false, "type":"cosplay", "info":{
         "date":"2021/03/14", "name":"Ursula",
         "code":"17961&18155&16268&18283&15023&8908&18725&21982&15296&19561&22146&24154&23762",
         "png":"klly7b3ed5ccab6ed477689af3e31fc84bc80",
@@ -510,7 +510,7 @@
         "background":"https://www.eldarya.com/assets/img/item/player/web_full/f695367ed0d27066634e25a761436cff.jpg"
     }},
 
-    {"id":496439157, "alias":"Erya", "featured":false, "info":{
+    {"id":496439157, "alias":"Erya", "featured":false, "type":"cosplay", "info":{
         "date":"2021/03/11", "name":"Beast",
         "code":"20764&16271&1262&26692&9283&20149&23663&18283&14566&14268&13889&22438&18975&17094&26729&19145&14262&23790&23854&16402&5626",
         "png":"nhkfr750d8a83e5924620ba369089183b38c1",
@@ -524,14 +524,14 @@
         "background":"https://www.eldarya.com/assets/img/item/player/web_full/894f17dac52604c023efe59bcb51479e.jpg"
     }},
 
-    {"id":937222476, "alias":"Kiami", "featured":false, "info":{
+    {"id":937222476, "alias":"Kiami", "featured":false, "type":"cosplay", "info":{
         "date":"2021/03/11", "name":"Angewomon cosplay",
         "code":"16270&12103&18940&11417&1249&20600&25223&6711&23378&6721&7985&6916&5161&12127&6929&6768",
         "png":"nhkfre52b6ff32b7d49bea32f775fad25bc37",
         "background":"https://www.eldarya.com/assets/img/item/player/web_full/ebe3cacec9acff9a1ae9d9554a3192c0.jpg"
     }},
 
-    {"id":745393336, "alias":"Kiami", "featured":false, "info":{
+    {"id":745393336, "alias":"Kiami", "featured":false, "type":"cosplay", "info":{
         "date":"2021/03/11", "name":"Lilimon cosplay",
         "code":"23210&1249&12815&12798&8457&23270&26706&23653&3330&10571&1421&3564&7087&6454&12826",
         "png":"nhkfr71e2626cf5fe45078a9b0888cc13ed1f",
@@ -608,14 +608,14 @@
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/96c00f19553e7cf3a6750f4ef3c5351c.jpg"
     }},
 
-    {"id":601289547, "alias":"Kiami", "featured":false, "info":{
+    {"id":601289547, "alias":"Kiami", "featured":false, "type":"cosplay", "info":{
         "date":"2021/03/09", "name":"Felicia cosplay",
         "code":"4989&691&23734&5398&5017&5008&8572&22956&7935&24925&10466&2248",
         "png":"ghf0pf31c59a040f5432fb522a0b0134c22c0",
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/ebe3cacec9acff9a1ae9d9554a3192c0.jpg"
     }},
 
-    {"id":176864762, "alias":"Kiami", "featured":false, "info":{
+    {"id":176864762, "alias":"Kiami", "featured":false, "type":"cosplay", "info":{
         "date":"2021/03/09", "name":"Morrigan cosplay",
         "code":"691&19497&8549&4370&19214&16985&9968&8906&23470&10462&1844&5363&2246&10477&6996",
         "png":"ghf0pc170684af3ca493b84093e45c0e7dbdb",
@@ -679,14 +679,14 @@
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/9f49c2b228b005cd857f4483a5730fc3.jpg"
     }},
 
-    {"id":265931236, "alias":"DennisLestrange", "featured":false, "info":{
+    {"id":265931236, "alias":"DennisLestrange", "featured":false, "type":"cosplay", "info":{
         "date":"2021/03/07", "name":"Amazonas del Zodiaco (Leo)",
         "code":"25256&1255&24074&13867&5261&21237&13190&19419&24076&22665&14214&14289&25271",
         "png":"n3hbi75b95fd9a95f407eb55a151a2d8ea7d0",
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/ebe3cacec9acff9a1ae9d9554a3192c0.jpg"
     }},
 
-    {"id":545304835, "alias":"DennisLestrange", "featured":false, "info":{
+    {"id":545304835, "alias":"DennisLestrange", "featured":false, "type":"cosplay", "info":{
         "date":"2021/03/07", "name":"Cardia",
         "code":"1249&14428&21519&2098&13816&20302&21455&19871&5241",
         "png":"n3hbicea128e36d0d49ed8b82b5a74335438d",
@@ -833,7 +833,7 @@
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/ebe3cacec9acff9a1ae9d9554a3192c0.jpg"
     }},
 
-    {"id":312545456, "alias":"Chissek", "featured":false, "info":{
+    {"id":312545456, "alias":"Chissek", "featured":false, "type":"cosplay", "info":{
         "date":"2021/02/27", "name":"genio (aladdin)",
         "code":"16280&21896&17919&22960&5244&26459&20323&21354&13431&17195&12418&13173&11869&23095&6996",
         "png":"ndmxwc248a5ffbfb94d0282d2a69794e09db8",
@@ -903,14 +903,14 @@
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/5953004d61f2c4fb8a9dd9579213ae61.jpg"
     }},
 
-    {"id":736892794, "alias":"Rose", "featured":false, "info":{
+    {"id":736892794, "alias":"Rose", "featured":false, "type":"cosplay", "info":{
         "date":"2021/02/23", "name":"Life Love- Viktor Nikiforov",
         "code":"26814&11846&10943&7935&23730&26865&26272&6449&16644&13170&19579&6450&24234&15579&8016&16165&26954&22973&15311",
         "png":"27cod4a056d3346c44d9ea002b3b3e45c3bda",
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/fe6e7fa5d3c5153ea51c24fb15771735.jpg"
     }},
 
-    {"id":935354035, "alias":"Chissek", "featured":false, "info":{
+    {"id":935354035, "alias":"Chissek", "featured":false, "type":"cosplay", "info":{
         "date":"2021/02/23", "name":"Hera (destripando la historia)",
         "code":"1254&17555&20242&21357&16273&6101&26453&12196&21891&23658&13616&8787&17434&6768&19339",
         "png":"27codc38824d45c614289b0ac78a527c411f6",
@@ -1022,7 +1022,7 @@
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/866c518ae55596a6aff60f125f03c9b1.jpg"
     }},
 
-    {"id":171979867, "alias":"Chissek", "featured":false, "info":{
+    {"id":171979867, "alias":"Chissek", "featured":false, "type":"cosplay", "info":{
         "date":"2021/02/20", "name":"Sir Nighteye",
         "code":"1253&26531&18966&19591&11617&16259&22909&17555&23659&26212&10391&10661&14265&13583&25193",
         "png":"1ky5zc47b9b6074b544d68d325c32d10c247e",
@@ -1071,7 +1071,7 @@
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/ed762016507ded578d6d54c1fed42f03.jpg"
     }},
 
-    {"id":803022602, "alias":"Nana", "featured":false, "info":{
+    {"id":803022602, "alias":"Nana", "featured":false, "type":"cosplay", "info":{
         "date":"2021/02/19", "name":"Himiko Toga",
         "code":"1249&18152&24692&22939&9759&26936&1776&323&22245&10797&5303&23538&10982&22907&6277&11393&9485&22805&5720&6030&9515&6996",
         "png":"1ky5z16a8c41825374f39ac3992c7332508e7",
@@ -1106,7 +1106,7 @@
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/b5dca12e632fff46a8c3916eb53423db.jpg"
     }},
 
-    {"id":147077238, "alias":"DennisLestrange", "featured":false, "info":{
+    {"id":147077238, "alias":"DennisLestrange", "featured":false, "type":"cosplay", "info":{
         "date":"2021/02/17", "name":"Silvermist",
         "code":"23212&1249&20241&25150&25886&25955&11427&5241",
         "png":"7tprs33085266a0ef4d8ab0f7a2308e9da580",
@@ -1204,7 +1204,7 @@
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/b5dca12e632fff46a8c3916eb53423db.jpg"
     }},
 
-    {"id":791167669, "alias":"ShiroNeKo-D", "featured":false, "info":{
+    {"id":791167669, "alias":"ShiroNeKo-D", "featured":false, "type":"cosplay", "info":{
         "date":"2021/02/15", "name":"Alicia",
         "code":"23311&26026&18372&1251&10943&20801&21687&23513&10582&23477&8457&12996&23733&25449&5202&23435&6768&16788",
         "png":"7tprs860f8b39df0e46f58694f395cee9a274",
@@ -1281,7 +1281,7 @@
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/866c518ae55596a6aff60f125f03c9b1.jpg"
     }},
 
-    {"id":850028545, "alias":"ShiroNeKo-D", "featured":false, "info":{
+    {"id":850028545, "alias":"ShiroNeKo-D", "featured":false, "type":"cosplay", "info":{
         "date":"2021/02/09", "name":"Milotic",
         "code":"16276&18181&1251&18272&18158&12018&16679&13908&17871&21417&22035&24674&24339&5243&17934&16864&16979&6768&24348",
         "png":"7tprsb6378ca6ca2d4eaeaeb189bb8e36559d",
@@ -1358,7 +1358,7 @@
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/31d6c7d9bbaf96340c94a9b73ac98302.jpg"
     }},
 
-    {"id":449353570, "alias":"MartaIV", "featured":false, "info":{
+    {"id":449353570, "alias":"MartaIV", "featured":false, "type":"cosplay", "info":{
         "date":"2021/02/03", "name":"Toralei",
         "code":"1262&9833&17981&16260&14656&25258&18283&17552&17046&20158&23432&21281&11260&2498&8961&16985&23723",
         "png":"7tprsd770cc78424a4b01a5996f438ce35908",
@@ -1470,7 +1470,7 @@
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/ebe3cacec9acff9a1ae9d9554a3192c0.jpg"
     }},
 
-    {"id":136684531, "alias":"Joceline", "featured":false, "info":{
+    {"id":136684531, "alias":"Joceline", "featured":false, "type":"cosplay", "info":{
         "date":"2021/01/29", "name":"Bardo",
         "code":"13329&24299&1249&14800&15672&8013&13384&23709&2205&5554&17171&19212&21448&7708&10368&13321&19842&14458&17381&16066&10945&13064&22871&24266&23745&23298&1431&16985&6985",
         "png":"7tprs23ff3011f5204604a7984d76a28dd9a9",
@@ -1519,14 +1519,14 @@
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/ebe3cacec9acff9a1ae9d9554a3192c0.jpg"
     }},
 
-    {"id":911099855, "alias":"Joceline", "featured":false, "info":{
+    {"id":911099855, "alias":"Joceline", "featured":false, "type":"cosplay", "info":{
         "date":"2021/01/27", "name":"Yaksha (máscara)",
         "code":"25428&16279&6149&11596&23850&6144&24301&1249&5161&25393&16066&21310&9749&8791&24986&10964&13817&11122&14592&2361&17029&13930&23429&16434&8077&24946&26481&21608&17935&19745&12221&13611&24936&9555&8826&8573&18568&21513&16267&19340",
         "png":"7tprsd124642505ac4a2cb19b30562e0f7926",
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/b5dca12e632fff46a8c3916eb53423db.jpg"
     }},
 
-    {"id":738107753, "alias":"Joceline", "featured":false, "info":{
+    {"id":738107753, "alias":"Joceline", "featured":false, "type":"cosplay", "info":{
         "date":"2021/01/27", "name":"Yaksha",
         "code":"25428&16279&6149&11596&23850&6144&24301&1249&5161&16672&25393&16066&21310&9749&8791&24986&10964&13817&11122&14592&2361&17029&13930&23429&16434&8077&24946&26481&21608&17935&19745&12221&13611&24936&19340",
         "png":"7tprs0cdf7f2bc33247ce95906866bd36c39f",
@@ -1540,7 +1540,7 @@
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/96c00f19553e7cf3a6750f4ef3c5351c.jpg"
     }},
 
-    {"id":200995651, "alias":"Aradia", "featured":false, "info":{
+    {"id":200995651, "alias":"Aradia", "featured":false, "type":"cosplay", "info":{
         "date":"2021/01/26", "name":"Yumeko Cosplay",
         "code":"1251&18283&18158&18716&9759&18537&9517&15544&23535&17378&9898&17057&6677&22365&6768&25194",
         "png":"7tprs07c021b2eb354e1b987156d2a0b5f006",
@@ -1554,14 +1554,14 @@
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/37915cbd9266307c96f505d42890f3b5.jpg"
     }},
 
-    {"id":273163121, "alias":"ShiroNeKo-D", "featured":false, "info":{
+    {"id":273163121, "alias":"ShiroNeKo-D", "featured":false, "type":"cosplay", "info":{
         "date":"2021/01/26", "name":"Yashiro Nene",
         "code":"18168&1249&18278&6391&7276&22860&10582&19522&21178&8925&11648&20836&25458&23761&5203&6768&25209",
         "png":"7tprs5ddd18f37afb487896a94ad6f346a40b",
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/37915cbd9266307c96f505d42890f3b5.jpg"
     }},
     
-    {"id":144243730, "alias":"ShiroNeKo-D", "featured":false, "info":{
+    {"id":144243730, "alias":"ShiroNeKo-D", "featured":false, "type":"cosplay", "info":{
         "date":"2021/01/26", "name":"Tsukasa Yugi",
         "code":"19285&1249&16266&18158&18273&18710&13391&15428&17194&25786&22854&18443&8533&5114&25208",
         "png":"7tprsc7920cccd4384c04b007cad7ea0f975b",
@@ -1652,7 +1652,7 @@
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/37915cbd9266307c96f505d42890f3b5.jpg"
     }},
 
-    {"id":375659277, "alias":"Bluem", "featured":false, "info":{
+    {"id":375659277, "alias":"Bluem", "featured":false, "type":"cosplay", "info":{
         "date":"2021/01/21", "name":"Jack Sparrow",
         "code":"26045&691&21903&18632&11592&22436&22025&8074&18283&4401&23653&14277&13812&20997",
         "png":"7tprs97b1684f5cbc4538a54a60b7a8e17e52",
@@ -1764,7 +1764,7 @@
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/5c986bc68d9afc7a9562f8cba874b26e.jpg"
     }},
 
-    {"id":378105730, "alias":"Chissek", "featured":false, "info":{
+    {"id":378105730, "alias":"Chissek", "featured":false, "type":"cosplay", "info":{
         "date":"2021/01/17", "name":"Ornak humanizado",
         "png":"7tprs53662527f37246c1a997fab6fced1013",
         "code":"21891&14503&20128&21877&14838&24900&23654&24279&21829&13784&11849&17587",
@@ -2233,7 +2233,7 @@
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/2420dc8846a8e10e617b59c8f36484d7.jpg"
     }},
 
-    {"id":362735727, "alias":"broken-endings", "featured":false, "info":{
+    {"id":362735727, "alias":"broken-endings", "featured":false, "type":"cosplay", "info":{
         "date":"2020/09/24", "name":null,
         "png":"7tprsf5a7bd7411b14ade9f7a93e91967d4b3",
         "code":"5132&11553&7930&12811&22955&5242&4806&23697&22438&13070&21896&14740&23337&14235&21362&19686&12141&7697&21146&12609&7680&3114&16495&16437&12501&10251&4745&12880&19093&15413&3702&9350&3254&17516&23094&21480&22393&24167&19353",
@@ -2569,7 +2569,7 @@
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/ebe3cacec9acff9a1ae9d9554a3192c0.jpg"
     }},
 
-    {"id":402400558, "alias":"LiinDor", "featured":true, "info":{
+    {"id":402400558, "alias":"LiinDor", "featured":true, "type":"cosplay", "info":{
         "date":"2020/08/25", "name":null,
         "png":"7tprs6725b7290ec54ebcab6909bc969fb760",
         "code":"16278&23241&23265&1249&9558&16511&23289&11520&12160&16462&24617&17312&16381&12064&23403&14334&16987&22623&17316&16402&20333",
@@ -2702,7 +2702,7 @@
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/c596ddf7d4eca57771ae9a675f5aa1f5.jpg"
     }},
 
-    {"id":350501854, "alias":"Zendary", "featured":false, "info":{
+    {"id":350501854, "alias":"Zendary", "featured":false, "type":"cosplay", "info":{
         "date":"2020/08/23", "name":null,
         "png":"7tprs5d6e58b3d59c4df69c0258ca1bcb3d81",
         "code":"1250&20237&5241&21954&7402&14060&6025&13052&22004&23854&18928&8585&3098&20835&12373&4756&8534&2980",
