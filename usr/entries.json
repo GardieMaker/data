@@ -370,7 +370,7 @@
         "background":"https://www.eldarya.com/assets/img/item/player/web_full/e7fa6151ab5e1cbefeca680bc7c2b428.jpg"
     }},
 
-    {"id":157547523, "alias":"Kiami", "featured":false, "info":{
+    {"id":157547523, "alias":"Kiami", "featured":true, "info":{
         "date":"2021/03/26", "name":"Bell",
         "code":"18801&1249&8912&9844&5444&19522&17752&5092&11417&19672&19250&19080&24269&14265&20115",
         "png":"ahaoa20e70ef5c3e746aeac85596243d15100",
