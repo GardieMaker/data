@@ -1,4 +1,123 @@
 [
+    {"id":394604724, "alias":"Nana", "featured":false, "info":{
+        "date":"2021/04/01", "name":"Murasaki",
+        "code":"1278&10934&11575&5402&16275&5449&18804&5374&18265&5388&12954&14153&10427&17024&13786&18539&17974&5416&16867&18900&22401&13965&10341&13148&14265&22033",
+        "png":"9eiqyde89b2aaf87f4764a3ea833ce41a295b",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/ed762016507ded578d6d54c1fed42f03.jpg"
+    }},
+
+    {"id":935253708, "alias":"Chissek", "featured":false, "info":{
+        "date":"2021/04/01", "name":null,
+        "code":"1276&16321&18534&14383&19350&18833&23378&3339&8265&6305&5072&23659&8534&14418&13784&6988",
+        "png":"9eiqyc54eae99cab4496f8640f9fb25c5a4df",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/6cef3f21eea121071f4fe1c4fb8d3328.jpg"
+    }},
+
+    {"id":156467201, "alias":"Rose", "featured":false, "info":{
+        "date":"2021/04/01", "name":"Rainbow Fairy",
+        "code":"24906&23214&17922&12008&23284&19607&23655&24901&24902&21529&11749&19515&6903&6864&17685&9892&17663&19401&19576&19564&24157&2269&19353",
+        "png":"9eiqy7e7fdf2ed0144e6bb684008c37da2373",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/f09cc9b21a0cf86b553ede2973ba1e8e.jpg"
+    }},
+
+    {"id":836818338, "alias":"Erya", "featured":false, "info":{
+        "date":"2021/03/31", "name":"Eliel",
+        "code":"17923&5201&18703&18697&23847&21364&13167&22609&23056&20998&24942&23811&24312&8583&10459",
+        "png":"9eiqyed55c2e10b5049f383a025f41f467ef8",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/fa367d2364d1b64f8a83d5eafed05fc4.jpg"
+    }},
+
+    {"id":777520630, "alias":"AdyCeci", "featured":false, "info":{
+        "date":"2021/03/30", "name":"Pascua",
+        "code":"12888&691&23541&7586&22964&5195&23635&6855&7422&23955&23751&23293&23549&21021&12133&13062&23319&24157&20727&20700",
+        "png":"9eiqyce381ca750c842fab1c1fa7f02a47bf1",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/1defb37258fdd08c05a5996eee7b28d3.jpg"
+    }},
+
+    {"id":952554616, "alias":"MartaIV", "featured":false, "info":{
+        "date":"2021/03/30", "name":null,
+        "code":"23313&23215&16271&26727&26687&12084&1273&5554&21901&15727&16260&18282&4368&23014&19705&18994&17171&14282&14233&13045&16317&16456&12145&26855&16395&13190&18926&22396&16708&17342&20582&17918&16530&16243&23521&14621&24276&13608&17859&18188&16283&13129&25212",
+        "png":"9eiqy171237a98cb04505ad86e18ac11af615",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/7842bcdf84b0df33db84ff71a47f8090.jpg"
+    }},
+
+    {"id":220694892, "alias":"Millie", "featured":false, "info":{
+        "date":"2021/03/30", "name":"Diosa de la Luz",
+        "code":"18368&17929&18308&24831&6157&19980&13479&19604&18274&16261&4758&17489&5235&15485&6655&13088&8526&6768&15308&20395&25210",
+        "png":"9eiqy3a43da70ea454be498d5aa588a2f18a3",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/866c518ae55596a6aff60f125f03c9b1.jpg"
+    }},
+
+    {"id":636642523, "alias":"Millie", "featured":false, "info":{
+        "date":"2021/03/30", "name":null,
+        "code":"21891&22645&16389&1249&16233&9427&20272&5588&7660&23391&24167&18393&6768&20333",
+        "png":"9eiqycd9d3cbd97144a1086466cbc585c3526",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/96c00f19553e7cf3a6750f4ef3c5351c.jpg"
+    }},
+
+    {"id":115935803, "alias":"MartaIV", "featured":false, "info":{
+        "date":"2021/03/30", "name":"Princess Marta",
+        "code":"23302&1250&23653&16258&21895&24832&16695&23447&16270&3617&17172&16292&7701&15308&19848&2326&16380&20225&26948&16401&20333",
+        "png":"9eiqy40a8de42a32440799d487decbfbdbdfd",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/96c00f19553e7cf3a6750f4ef3c5351c.jpg"
+    }},
+
+    {"id":662520888, "alias":"Erya", "featured":false, "info":{
+        "date":"2021/03/30", "name":"Zohar (frère de Seraya)",
+        "code":"16271&20986&17923&5201&10954&23869&23073&23428&22007&21013&24977&16786",
+        "png":"9eiqy338edb8f762044eb93eac04ae463f7ea",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/def68a8d1b2d42a2936736a5b63028bd.jpg"
+    }},
+
+    {"id":406542347, "alias":"Erya", "featured":false, "info":{
+        "date":"2021/03/30", "name":"Zohar beast (frère de Seraya)",
+        "code":"2250&24962&16271&1262&14288&8564&5099&18975&15305&26430&23869&25468&21977&25250&26546&9510&17161&22032",
+        "png":"9eiqy80e081adc6744e818319b6414f777525",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/a1bb36dda9bc7e81bf91f913092653f6.jpg"
+    }},
+
+    {"id":672021837, "alias":"Kyra", "featured":false, "info":{
+        "date":"2021/03/30", "name":"Opal Angel",
+        "code":"25062&21895&6716&6711&12271&21362&4659&16281&19074&17777&17797&16258&21136&16389&19576&5242&6838&10368&23358&6851&8330&5445&12103&23416&6916&23379&12220&18282&16282&24315&26579&6929&11303&4387&6981&23334&19353",
+        "png":"9eiqy9e713dac26c04f3b9c699af41d96ea07",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/f09cc9b21a0cf86b553ede2973ba1e8e.jpg"
+    }},
+
+    {"id":160857797, "alias":"Koemi Mayoko", "featured":false, "type":"cosplay", "info":{
+        "date":"2021/03/30", "name":"Candace Flynn",
+        "code":"1252&4390&5588&18973&23533&20833&22580&10481&5717",
+        "png":"9eiqyba55a6bd33404ee58ca72f84415e3b61",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/ebe3cacec9acff9a1ae9d9554a3192c0.jpg"
+    }},
+
+    {"id":502146173, "alias":"Zunay", "featured":false, "info":{
+        "date":"2021/03/29", "name":"Sovereign Demon",
+        "code":"25419&26188&18844&24815&18153&24827&18716&23451&14554&20086&10966&25388&26864&24427&18985&25997&18798&19059&15296&17312&19071&19340",
+        "png":"9eiqy6ed7b5940a9c4af7a8344d74aa63a939",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/b5dca12e632fff46a8c3916eb53423db.jpg"
+    }},
+
+    {"id":894822485, "alias":"Zunay", "featured":false, "info":{
+        "date":"2021/03/29", "name":"Yuuko",
+        "code":"24906&1251&19336&26941&13069&7471&18153&323&18126&4815&19498&25288&2448&3369&15305&6785&21271&25001&20358&23835&21061&6988",
+        "png":"9eiqybf92fccdd7cd4577a9db42c28f0ff7aa",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/6cef3f21eea121071f4fe1c4fb8d3328.jpg"
+    }},
+
+    {"id":956254621, "alias":"Zunay", "featured":false, "info":{
+        "date":"2021/03/29", "name":"Zhun",
+        "code":"26027&9308&25419&25325&10755&17918&24833&13880&19333&15430&2236&22020&9336&26046&17320&18985&22404&19235&19256&18806&22033",
+        "png":"9eiqya3fd06299f4845eab95bf3e8717c4531",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/ed762016507ded578d6d54c1fed42f03.jpg"
+    }},
+
+    {"id":768932352, "alias":"Zunay", "featured":false, "info":{
+        "date":"2021/03/29", "name":"Nao",
+        "code":"12434&17806&1249&18281&6566&9893&7936&20220&5203&24211&8781&23483&17804&13068&3615&13156&13355&16786",
+        "png":"9eiqyfe015f5f0f6f4eccb5a288e556d92a4c",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/def68a8d1b2d42a2936736a5b63028bd.jpg"
+    }},
+
     {"id":924378392, "alias":"MartaIV", "featured":false, "info":{
         "date":"2021/03/29", "name":"La Amante",
         "code":"9448&1250&6405&3251&19856&14275&5245&5392&12223&22242&16290&12067&12163&25292&14702&4646&9378&22389&2981",
