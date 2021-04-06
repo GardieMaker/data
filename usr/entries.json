@@ -1680,7 +1680,7 @@
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/c936237bfad9f920e5c245168a2f1af7.jpg"
     }},
 
-    {"id":400474239, "alias":"Chissek", "featured":false, "info":{
+    {"id":400474239, "alias":"Chissek", "featured":true, "info":{
         "date":"2021/02/18", "name":null,
         "code":"21898&17797&13130&26694&26826&26681&25232&15410&26892&26560&26726&25986&10797&17971&26937&19272&8534&25070&18531&14658&14265&11032&25287&23096&8457&16787",
         "png":"7tprsc19c558f3b9b4daeb14c8cffc77cfebb",
