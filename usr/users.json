@@ -78,10 +78,12 @@
     {"alias":"Nikoru", "verified":true},
     {"alias":"Niney", "verified":false},
     {"alias":"NOX91", "verified":true},
+    {"alias":"Panfrulo", "verified":true},
     {"alias":"Romi.I", "verified":true},
     {"alias":"Rose", "verified":true},
     {"alias":"Rotu", "verified":false},
     {"alias":"Ryu", "verified":true},
+    {"alias":"S.Malfoy", "verified":true},
     {"alias":"Shiki", "verified":true},
     {"alias":"Shiratorikuu", "verified":false},
     {"alias":"ShiroNeKo-D", "verified":true},
@@ -103,5 +105,6 @@
     {"alias":"Zan", "verified":false},
     {"alias":"Zendary", "verified":true},
     {"alias":"Zunay", "verified":true, "blacklist":true},
+    {"alias":"zuzucy", "verified":true},
     {"alias":"Zyannia", "verified":false}
 ]

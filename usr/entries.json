@@ -1,4 +1,67 @@
 [
+    {"id":904179140, "alias":"Millie", "featured":false, "info":{
+        "date":"2021/04/09", "name":null,
+        "code":"17797&16428&11479&7938&11897&7786&5581&14881&12148&6918&26948&15311",
+        "png":"nqzg5ba6fe666f5e34238a9b8bbd5fb1ed53b",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/fe6e7fa5d3c5153ea51c24fb15771735.jpg"
+    }},
+
+    {"id":242524459, "alias":"Hyunmiia", "featured":false, "info":{
+        "date":"2021/04/08", "name":"Zydelia",
+        "code":"16434&22646&16366&1276&18391&4396&14917&15888&16437&12074&23146&23663&12829&9441&18342&6996",
+        "png":"nqzg568de354cd7734e548c6ce9e52099c485",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/8788bc88ae3a0894e1143a64248b5d54.jpg"
+    }},
+
+    {"id":302034185, "alias":"Panfrulo", "featured":false, "type":"cosplay", "info":{
+        "date":"2021/04/08", "name":"Abyssal Black Flame Dragon",
+        "code":"16275&21361&26500&26493&24961&17894&17909&21870&18980&18606&9754&26907&3647&26435&25208",
+        "png":"nqzg5ea39e63b75f94f14b7e9679b481a961b",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/e9b585d4f48cf9a565a83625ca7ab747.jpg"
+    }},
+
+    {"id":251698243, "alias":"Millie", "featured":false, "info":{
+        "date":"2021/04/08", "name":"Skye",
+        "code":"1276&7808&13192&12320&8053&18278&16265&10946&16643&5581&14289&8333&12826&6768&24348",
+        "png":"nqzg5746d938a941945298221ba857ff48560",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/a2daa65b25e483289cb7c1feab914caa.jpg"
+    }},
+
+    {"id":434552526, "alias":"Panfrulo", "featured":false, "info":{
+        "date":"2021/04/08", "name":"Freezing Antelope",
+        "code":"26069&6395&26660&16220&18537&17969&19236&24160&24978&25137&24314&23099&20113",
+        "png":"nqzg5110e51525746498385528ffb8ba34e8b",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/362197e83064d6220ab171a5374489cb.jpg"
+    }},
+
+    {"id":353776420, "alias":"Panfrulo", "featured":false, "info":{
+        "date":"2021/04/08", "name":"Siamese Kitty",
+        "code":"11553&1261&21605&22689&6830&24815&5539&9622&26920&17312&11119&5022&19238&12175&12339&11089&20704",
+        "png":"nqzg51a7b4a5b32a4403f9991fcd9b454ec4b",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/b0f2a926f4a0fca74f78ded2f929a4d1.jpg"
+    }},
+
+    {"id":141486221, "alias":"Nana", "featured":false, "info":{
+        "date":"2021/04/08", "name":"Fallen girl",
+        "code":"23302&8606&1249&14037&4456&4414&17859&13183&24905&8421&23978&23930&11869&20729&8600&8686&25764&23300&23653&2996&20333",
+        "png":"nqzg5d4a98518d252497483036d7568323b2e",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/96c00f19553e7cf3a6750f4ef3c5351c.jpg"
+    }},
+
+    {"id":546321482, "alias":"zuzucy", "featured":false, "info":{
+        "date":"2021/04/08", "name":null,
+        "code":"691&5405&22885&5161&2117&19438&24179&23108&7622&6594&6768&2258",
+        "png":"nqzg5bf6b45b584f44824890ef2e50775b0a8",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/4228e992d6e063c41608d43ddba932e3.jpg"
+    }},
+    
+    {"id":146576173, "alias":"S.Malfoy", "featured":false, "info":{
+        "date":"2021/04/07", "name":"Shadow",
+        "code":"1275&26840&8906&13904&26705&22646&25222&12098&26936&21493&26885&22345&24329&25151&25236&20114",
+        "png":"nqzg551e683958f384dbba5bf18a89a65b9b6",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/5953004d61f2c4fb8a9dd9579213ae61.jpg"
+    }},
+
     {"id":536388724, "alias":"Millie", "featured":false, "info":{
         "date":"2021/04/06", "name":null,
         "code":"1276&16261&24905&24819&26662&4758&16559&14781&14881&15653&13344&26578&24318&6768&23094&14830&15310",
