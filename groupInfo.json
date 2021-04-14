@@ -1312,7 +1312,7 @@
 	{"groupId":18533, "name":"Botas Poison Dionae *", "category":"Zapatos", "rarity":"Legendario", "note":"Exploración", "especial":"absenta"},
 	{"groupId":18534, "name":"Dorothy", "category":"Ambientes", "rarity":"Legendario", "note":"Exploración", "especial":"absenta"},
 	{"groupId":18535, "name":"Gisele", "category":"Cabello", "rarity":"Legendario", "note":"Exploración", "especial":"absenta"},
-	{"groupId":18536, "name":"Poison Diona Tunic (x)", "category":"Vestidos", "rarity":"Legendario", "note":"Tienda Antigua", "especial":"antique"},
+	{"groupId":18536, "name":"Poison Diona Tunic (x)", "category":"Vestidos", "rarity":"Legendario", "note":"Tienda Antigua", "especial":"absenta"},
 	{"groupId":18537, "name":"Satsuki", "category":"Cabello", "rarity":"Legendario", "note":"Exploración", "especial":"sombra"},
 	{"groupId":18538, "name":"Botas Sweet Shinobi", "category":"Zapatos", "rarity":"Legendario", "note":"Exploración", "especial":"sombra"},
 	{"groupId":18539, "name":"Cinturón Sweet Shinobi", "category":"Cinturones", "rarity":"Legendario", "note":"Exploración", "especial":"sombra"},
