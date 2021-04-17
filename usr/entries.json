@@ -1,4 +1,53 @@
 [
+    {"id":941134751, "alias":"Chihiro", "featured":false, "info":{
+        "date":"2021/04/17", "name":"Arcoiris",
+        "code":"21844&20712&1251&9831&14050&2092&21529&23521&16270&16233&17895&25873&21667&21883&12771&7935&3227&13143&20583&18296&16801&18332&17418&11849&17415&20724&2271&6768&21058",
+        "png":"nszgp3203126096944a05bd9c307ef33a8d90",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/e44f971281eef7406d9668286d3a3fac.jpg"
+    }},
+
+    {"id":571245022, "alias":"Erya", "featured":false, "type":"cosplay", "info":{
+        "date":"2021/04/16", "name":"Belle",
+        "code":"6449&11691&691&26450&19708&15893&19885&23425&19975&18965&19079&11635&23653&4153&20278&23392&20717&6450&5728",
+        "png":"nszgpdfa7ae00ca024de6af5703625625e5e0",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/b9246a9ec638e7fe55a8fa9d5202d177.jpg"
+    }},
+
+    {"id":126636316, "alias":"KC1111", "featured":false, "info":{
+        "date":"2021/04/16", "name":"Kacey",
+        "code":"7930&16672&8569&8908&2563&17859&18871&23975&15833&17737&6768&23842&22033",
+        "png":"nszgp8f17e0e49e18481d9ff54caed16a3aef",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/ed762016507ded578d6d54c1fed42f03.jpg"
+    }},
+
+    {"id":377909558, "alias":"Rose", "featured":false, "info":{
+        "date":"2021/04/16", "name":"Princess Tanglang",
+        "code":"21352&23235&1251&8541&17064&18283&10485&25867&4421&11791&18550&15296&22971&9420&16271&10651&22329&3794&10668&16402&2385&4182&16974&7825&16251&13026&3538",
+        "png":"nszgpa66f2e487b644f51b43b79c038cd2378",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/f08e5d7dd03fab1e02f7c405ef881069.jpg"
+    }},
+
+    {"id":568086002, "alias":"Laine", "featured":false, "info":{
+        "date":"2021/04/14", "name":"Renacer fenix",
+        "code":"26546&21891&22651&17711&17800&18160&19608&17440&12268&12136&24312&16272&12016&10267&10299&14271&10322&21888&21820&19668&8537&24686&26576&6768&5268&21877",
+        "png":"nszgpdcf573bd9f674105bffc94c31e50c337",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/ebe3cacec9acff9a1ae9d9554a3192c0.jpg"
+    }},
+
+    {"id":295628310, "alias":"Jinx", "featured":false, "info":{
+        "date":"2021/04/14", "name":null,
+        "code":"17925&16329&16317&16294&16270&16282&16258&16257&16245&16233&4376&23958&24900&5242&16401&26662&24832&23301&19353",
+        "png":"nszgp535dcb8d0dad4c7faf38d8d03dd03873",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/f09cc9b21a0cf86b553ede2973ba1e8e.jpg"
+    }},
+
+    {"id":361415718, "alias":"KUROJE", "featured":false, "info":{
+        "date":"2021/04/14", "name":"Kuroje",
+        "code":"1256&16266&4375&16522&5268&26923&20226&8955&12803&14323&13154&16398&14337&16430&23094&12624&4437",
+        "png":"nszgp9f99ee2545b443b7829ee282d80b4809",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/7798320f6d057aef7c93a61a2ccf251e.jpg"
+    }},
+
     {"id":387675873, "alias":"MartaIV", "featured":false, "info":{
         "date":"2021/04/12", "name":null,
         "code":"17796&21891&24827&13128&16260&16696&8908&21410&22223&17181&14269&14274&11869&17859&19668&8534&18819&13183&15296&11310&8537&10469&16271&16402&14217",
@@ -19,6 +68,7 @@
         "png":"41ywyb26d800fc65a431bbbe0f03a81572b19",
         "background":"https://www.eldarya.com/assets/img/item/player/web_full/a1bb36dda9bc7e81bf91f913092653f6.jpg"
     }},
+
     {"id":130880349, "alias":"Melincort", "featured":false, "info":{
         "date":"2021/04/11", "name":"Ageleia",
         "code":"21844&24223&1253&18274&18847&16395&10001&4378&5195&19740&12193&12619&12610&10185&18380&11868&14457&13190&12599&11594&16282&11336&8740&6768&18212&14214&24062&24336&24173&24161&25208",
