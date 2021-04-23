@@ -618,7 +618,7 @@
 	},
 	{"groupId":2241, "category":"Partes de arriba", "rarity":"Legendario", "note":"Exploración", "especial":"obsidiana", 
 		"spanish":"Top Magma Berseker",
-		"english":"(x)Top Magma Berseker",
+		"english":"Magma Berserk Top",
 		"french":""
 	},
 	{"groupId":2242, "category":"Zapatos", "rarity":"Legendario", "note":"Exploración", "especial":"sombra", 
@@ -6193,7 +6193,7 @@
 	},
 	{"groupId":17423, "category":"Accesorios manos", "rarity":"Legendario", "note":"Exploración", "especial":"obsidiana", 
 		"spanish":"Brebaje divino Valhalla's Guardian",
-		"english":"(x)Brebaje divino Valhalla's Guardian",
+		"english":"Valhalla's Guardian Divine Drink",
 		"french":""
 	},
 	{"groupId":17424, "category":"Accesorios manos", "rarity":"Legendario", "note":"Premio del mes", "especial":"premios", 
