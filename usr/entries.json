@@ -1,4 +1,32 @@
 [
+    {"id":216939957, "alias":"Gabi Games", "featured":false, "info":{
+        "date":"2021/04/23", "name":"Gabriela",
+        "code":"23302&691&10954&20301&8893&5203&8534&23260&20228&6768&5626&20333",
+        "png":"mt6pb8fa97ada716344a98ecb4b25ec06c1d6",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/96c00f19553e7cf3a6750f4ef3c5351c.jpg"
+    }},
+
+    {"id":783055281, "alias":"KUROJE", "featured":false, "info":{
+        "date":"2021/04/23", "name":"kuroje",
+        "code":"23241&20118&7851&7924&20275&5565&26692&14324&13436&18508&17233&1765",
+        "png":"mt6pb77d1107614fe4377baada59e844f9693",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/ebe3cacec9acff9a1ae9d9554a3192c0.jpg"
+    }},
+
+    {"id":237122835, "alias":"AdyCeci", "featured":false, "info":{
+        "date":"2021/04/22", "name":null,
+        "code":"23311&23319&691&12597&16268&7662&24614&20153&24162&24100&16694&26663&13192&12085&17859&18308&5195&13173&8575&21058",
+        "png":"mt6pbc80c0ec0d05048fea38d6659d2ef4645",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/e44f971281eef7406d9668286d3a3fac.jpg"
+    }},
+
+    {"id":933456878, "alias":"Erya", "featured":false, "info":{
+        "date":"2021/04/22", "name":null,
+        "code":"8128&22006&23787&22689&20973&6830&26856&18283&23025&14211&23663&23907&20267&22758&15857&24967&14270&20573&22472&6983",
+        "png":"mt6pb8b3ce6a4ceae4871aaabdd82a95dc3f1",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/dbfdcf9c63a6ede3857c36e26b383478.jpg"
+    }},
+
     {"id":147650893, "alias":"MartaIV", "featured":false, "info":{
         "date":"2021/04/20", "name":null,
         "code":"17777&1250&23653&16264&18283&16695&20153&24205&22269&24172&8961&24100&23413&18190&9892&21060&17755&20232&16404&21058",
