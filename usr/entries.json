@@ -1,4 +1,18 @@
 [
+    {"id":925641879, "alias":"Aradia", "featured":false, "info":{
+        "date":"2021/04/26", "name":"Imperial Queen",
+        "code":"1251&16265&18281&4415&5242&20132&26210&19829&8303&6104&17353&6093&20610&7942&12180&3721&8534&16786",
+        "png":"hi9m05f869d68a2484c12bd69b09876dcc552",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/def68a8d1b2d42a2936736a5b63028bd.jpg"
+    }},
+
+    {"id":537631738, "alias":"Mil", "featured":false, "info":{
+        "date":"2021/04/25", "name":"Mil",
+        "code":"1253&24902&5200&22526&21772&21139&10223&13192&21659&10209&6768&6450&22386&18316&6905&21037&25196",
+        "png":"hi9m058c88724d86946429b6f755291917d1b",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/5c986bc68d9afc7a9562f8cba874b26e.jpg"
+    }},
+
     {"id":216939957, "alias":"Gabi Games", "featured":false, "info":{
         "date":"2021/04/23", "name":"Gabriela",
         "code":"23302&691&10954&20301&8893&5203&8534&23260&20228&6768&5626&20333",
