@@ -8279,7 +8279,7 @@
 		"french":""
 	},
 	{"groupId":23296, "category":"Partes de arriba", "rarity":"Evento", "note":"San Valentín 2020", 
-		"spanish":"Top Tempting Heralist",
+		"spanish":"Top Tempting Herbalist",
 		"english":"Tempting Herbalist Top",
 		"french":""
 	},
@@ -9599,7 +9599,8 @@
 	{"groupId":26638, "category":"Cabello", "rarity":"Épico", "note":"Exploración", 
 		"spanish":"Maebh (NE)",
 		"english":"Maebh (NE)",
-		"french":""
+		"french":"",
+		"tag":"incomplete"
 	},
 	{"groupId":26658, "category":"Partes de arriba", "rarity":"Común", "note":"Exploración exclusiva", 
 		"spanish":"Top Healer Support",
