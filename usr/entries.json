@@ -1,4 +1,46 @@
 [
+    {"id":616421533, "alias":"Luciel_Lilith", "featured":false, "info":{
+        "date":"2021/05/01", "name":"Ellen",
+        "code":"24906&21895&11845&6711&1268&26438&15736&24168&5161&18283&16259&16689&5391&20213&5405&12209&16270&15712&16703&12103&12769&19290&16341&6167&20145&25924&12271&18392&16525&18196&12857&3071&19672&16377&12437&11559&6433&18904&25964&6768&21363&3647",
+        "png":"nylx06fbfb2f5fb4b4ddea2a479547683f496",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/ebe3cacec9acff9a1ae9d9554a3192c0.jpg"
+    }},
+
+    {"id":993837021, "alias":"Luciel_Lilith", "featured":false, "info":{
+        "date":"2021/05/01", "name":"Alana",
+        "code":"1268&14264&13135&14203&13913&8908&16689&18378&7426&1405&2328&2327&16645&1395&2326&8600",
+        "png":"nylx0e6a385f332ee41809a5b9ee366de2cd5",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/ebe3cacec9acff9a1ae9d9554a3192c0.jpg"
+    }},
+
+    {"id":491615295, "alias":"Alessana", "featured":false, "info":{
+        "date":"2021/04/30", "name":"Demonio",
+        "code":"24961&18647&26500&14642&25686&20332&24833&8574&25499&5323&19322&25388&26510&5335&25762&25385&19254&22032",
+        "png":"nylx0d6a0a4b4af194195aa307c0217527f6e",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/a1bb36dda9bc7e81bf91f913092653f6.jpg"
+    }},
+
+    {"id":718476661, "alias":"Alessana", "featured":false, "info":{
+        "date":"2021/04/30", "name":"Diosa de la noche",
+        "code":"16411&21896&23451&12623&16373&1275&15894&15882&20272&23653&17733&22635&15846&15834&25136&24340&15858&26427&2446&25208",
+        "png":"nylx0a1cf36620db24b58b9801e1b1b2b5d22",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/e9b585d4f48cf9a565a83625ca7ab747.jpg"
+    }},
+    
+    {"id":167234053, "alias":"Chissek", "featured":false, "info":{
+        "date":"2021/04/29", "name":null,
+        "code":"1276&13913&17565&24820&14196&26533&12989&13121&24906&11615&21895&14270&6716&15296&13099&12079&11594&8824&11997&12271&8534&22389&3458&16402&21058",
+        "png":"nylx0f1209e555c9e4df3b4fc015e7c0212a8",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/e44f971281eef7406d9668286d3a3fac.jpg"
+    }},
+    
+    {"id":279882272, "alias":"Alessana", "featured":false, "info":{
+        "date":"2021/04/28", "name":"Angel Rafael",
+        "code":"24315&22645&18904&16426&1246&24304&24905&21667&20272&23653&20469&21607&21035&21644&20574&6655&24167&21058",
+        "png":"nylx0ead51021399e47979b6f5cad507b5738",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/e44f971281eef7406d9668286d3a3fac.jpg"
+    }},
+
     {"id":925641879, "alias":"Aradia", "featured":false, "info":{
         "date":"2021/04/26", "name":"Imperial Queen",
         "code":"1251&16265&18281&4415&5242&20132&26210&19829&8303&6104&17353&6093&20610&7942&12180&3721&8534&16786",
