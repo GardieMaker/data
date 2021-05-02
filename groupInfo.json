@@ -656,7 +656,7 @@
 		"english":"Forest",
 		"french":""
 	},
-	{"groupId":2249, "category":"Sombreros", "rarity":"Común", "note":"Tienda Antigua", "especial":"antique", 
+	{"groupId":2249, "category":"Sombreros", "rarity":"Común", "note":"Exploración", 
 		"spanish":"(x)Unicorn Horn",
 		"english":"Unicorn Horn",
 		"french":""
@@ -5305,7 +5305,7 @@
 	},
 	{"groupId":14288, "category":"Accesorios manos", "rarity":"Legendario", "note":"Exploración", "especial":"sombra", 
 		"spanish":"Daga Sweet Shinobi",
-		"english":"(x)Daga Sweet Shinobi",
+		"english":"Sweet Shinobi Dagger",
 		"french":""
 	},
 	{"groupId":14289, "category":"Accesorios manos", "rarity":"Legendario", "note":"Exploración", "especial":"obsidiana", 
@@ -9596,9 +9596,17 @@
 		"english":"Corrupted Oracle Crystals",
 		"french":""
 	},
+
+	{"groupId":26618, "category":"Cabello", "rarity":"Común", "note":"Exploración",
+		"spanish":"Lindsay",
+		"english":"Lindsay",
+		"french":"",
+		"tag":"incomplete"
+	},
+
 	{"groupId":26638, "category":"Cabello", "rarity":"Épico", "note":"Exploración", 
-		"spanish":"Maebh (NE)",
-		"english":"Maebh (NE)",
+		"spanish":"Maebh",
+		"english":"Maebh",
 		"french":"",
 		"tag":"incomplete"
 	},
