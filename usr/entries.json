@@ -181,7 +181,7 @@
         "background":"https://www.eldarya.com/assets/img/item/player/web_full/96c00f19553e7cf3a6750f4ef3c5351c.jpg"
     }},
 
-    {"id":673528873, "alias":"Chissek", "featured":false, "info":{
+    {"id":673528873, "alias":"Chissek", "featured":true, "info":{
         "date":"2021/04/17", "name":null,
         "code":"1276&16268&5088&21895&12021&24815&10369&5443&12778&12200&10382&21476&17228&13030&14664&13065&14265&5626&8534&22395&16401&6768&21058",    
         "png":"nu61kd2e247c0cc23486988d7e37c001f7895",
