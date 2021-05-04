@@ -1,4 +1,67 @@
 [
+    {"id":870096335, "alias":"Luciel_Lilith", "featured":false, "info":{
+        "date":"2021/05/04", "name":"Adara",
+        "code":"1276&12172&6528&7422&16389&11559&19607&12437&15308&22511&16377&16341&20270&5161",
+        "png":"nzqna27762587e0bc49cda22d9748f92620f4",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/ebe3cacec9acff9a1ae9d9554a3192c0.jpg"
+    }},
+
+    {"id":673481256, "alias":"Erya", "featured":false, "info":{
+        "date":"2021/05/03", "name":null,
+        "code":"14211&1275&14200&21443&19123&5099&5282&4865&20567&16241&11520&26530&6277&18873&26039&26855&17689&25288&18189&5303&23907&9514&26662&6992",
+        "png":"nzqnae2bd1f08010b4d6382c627c04570641e",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/a66b626ed7d3df743b4cb31cc231c572.jpg"
+    }},
+
+    {"id":153345834, "alias":"Erya", "featured":false, "info":{
+        "date":"2021/05/03", "name":null,
+        "code":"17923&12479&24646&10710&16523&16574&13478&6170&20610&8141&13352&13121&16317&10650&13184&23660&20267&12175",
+        "png":"nzqna25175ffcc45b49e297bf212c73894253",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/ebe3cacec9acff9a1ae9d9554a3192c0.jpg"
+    }},
+
+    {"id":350278962, "alias":"KUROJE", "featured":false, "type":"cosplay", "info":{
+        "date":"2021/05/03", "name":"Neytiri",
+        "code":"1279&24335&7678&18710&12469&14034&8964&23663&19351&8878&14846&8457&2446&2386&3538",
+        "png":"nzqna4cda7eefebce42e1a020cbc47beaafcf",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/f08e5d7dd03fab1e02f7c405ef881069.jpg"
+    }},
+
+    {"id":279115552, "alias":"Erya", "featured":false, "info":{
+        "date":"2021/05/03", "name":"Ivy",
+        "code":"4980&1265&10964&25882&4716&26830&26044&26355&5197&16318&24433&16430&8457&3576&25070&2636&16347&23599&3352&7813&6983",
+        "png":"nzqnaa6202d5431d447bf8010b48cbbe11124",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/dbfdcf9c63a6ede3857c36e26b383478.jpg"
+    }},
+
+    {"id":907441486, "alias":"Chissek", "featured":false, "info":{
+        "date":"2021/05/03", "name":null,
+        "code":"1276&14196&16258&18157&17572&17975&13913&26508&26453&23043&21997&26563&13277&19239&17254&9483&26895&8534&22386&18392&15296&25206",
+        "png":"nzqna9cdf87b10afb46afa963ed129d71c78b",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/92b0afc4a7095c6102eeecaf18245f21.jpg"
+    }},
+
+    {"id":346703216, "alias":"KUROJE", "featured":false, "info":{
+        "date":"2021/05/02", "name":"Fox",
+        "code":"12466&1258&13895&13135&17804&23663&26674&14842&20224&12036&17806&12084&12225&2234&26004&12607&14265&2446&25963&26579&19340",
+        "png":"nzqna609ab308b75c482b83ff85ea1d465583",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/b5dca12e632fff46a8c3916eb53423db.jpg"
+    }},
+
+    {"id":539932751, "alias":"Luciel_Lilith", "featured":false, "info":{
+        "date":"2021/05/01", "name":"Epona",
+        "code":"23217&26112&24802&5246&16712&13082&23552&17940&26053&25968&25962&12823&2385&20333",
+        "png":"nzqna65ae945e89664b3d99ec6798819f55e5",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/96c00f19553e7cf3a6750f4ef3c5351c.jpg"
+    }},
+
+    {"id":145200300, "alias":"Alessana", "featured":false, "info":{
+        "date":"2021/05/01", "name":"Diosa guerrera cósmica",
+        "code":"23099&26187&24287&24299&17631&17620&24275&17609&24902&23653&24251&17587&17605&8959&24335&24311&19353",
+        "png":"nzqna523845796297489d981255e8460d1d52",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/f09cc9b21a0cf86b553ede2973ba1e8e.jpg"
+    }},
+
     {"id":616421533, "alias":"Luciel_Lilith", "featured":false, "info":{
         "date":"2021/05/01", "name":"Ellen",
         "code":"24906&21895&11845&6711&1268&26438&15736&24168&5161&18283&16259&16689&5391&20213&5405&12209&16270&15712&16703&12103&12769&19290&16341&6167&20145&25924&12271&18392&16525&18196&12857&3071&19672&16377&12437&11559&6433&18904&25964&6768&21363&3647",
