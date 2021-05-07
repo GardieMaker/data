@@ -6509,7 +6509,7 @@
 	},
 	{"groupId":18539, "category":"Cinturones", "rarity":"Legendario", "note":"Exploración", "especial":"sombra", 
 		"spanish":"Cinturón Sweet Shinobi",
-		"english":"(x)Cinturón Sweet Shinobi",
+		"english":"Sweet Shinobi Cape",
 		"french":""
 	},
 	{"groupId":18540, "category":"Abrigos", "rarity":"Legendario", "note":"Exploración", "especial":"sombra", 
@@ -9600,15 +9600,13 @@
 	{"groupId":26618, "category":"Cabello", "rarity":"Común", "note":"Exploración",
 		"spanish":"Lindsay",
 		"english":"Lindsay",
-		"french":"",
-		"tag":"incomplete"
+		"french":""
 	},
 
 	{"groupId":26638, "category":"Cabello", "rarity":"Épico", "note":"Exploración", 
 		"spanish":"Maebh",
 		"english":"Maebh",
-		"french":"",
-		"tag":"incomplete"
+		"french":""
 	},
 	{"groupId":26658, "category":"Partes de arriba", "rarity":"Común", "note":"Exploración exclusiva", 
 		"spanish":"Top Healer Support",
