@@ -1,4 +1,88 @@
 [
+    {"id":465767592, "alias":"Alessana", "featured":false, "info":{
+        "date":"2021/05/07", "name":"Novia Sirena",
+        "code":"16403&3512&1352&16389&16413&20273&23653&16645&15834&23358&22038&16353&26427&25136&16377&21770",
+        "png":"1ld36295ffca4ebd142339f6af53eb483c478",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/53e514ef4755715255b473e067064acd.jpg"
+    }},
+
+    {"id":430680451, "alias":"Evvie", "featured":false, "info":{
+        "date":"2021/05/07", "name":"Evvie ♡",
+        "code":"1249&22239&4617&18714&5235&25755&14415&23840&14226&20397&23348&25310&25210",
+        "png":"1ld36c918fe07ddac43f48f5d7ccbeb814f4e",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/866c518ae55596a6aff60f125f03c9b1.jpg"
+    }},
+
+    {"id":700102661, "alias":"Alessana", "featured":false, "info":{
+        "date":"2021/05/07", "name":"Guerrera angelical de acero",
+        "code":"18903&14211&22646&1275&24947&22685&22661&24066&18575&24937&18587&8584&20568&18544&18635&24042&22709&22721&18975&13894&5261&18382&24174&3241&20114",
+        "png":"1ld367caf513453fc44c4b16076a454ba2a1b",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/5953004d61f2c4fb8a9dd9579213ae61.jpg"
+    }},
+
+    {"id":769322240, "alias":"Luxii", "featured":false, "info":{
+        "date":"2021/05/07", "name":null,
+        "code":"26110&11564&12109&22645&9710&23509&22669&24938&26165&16470&24978&17559&5264&5631&18680&8835&19353",
+        "png":"1ld3638cf954c409d48df9a508e20dbd256b6",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/f09cc9b21a0cf86b553ede2973ba1e8e.jpg"
+    }},
+
+    {"id":368885691, "alias":"Luciel_Lilith", "featured":false, "info":{
+        "date":"2021/05/07", "name":"Yelina",
+        "code":"7922&23533&10549&13502&15782&12986&2479&5603&3363",
+        "png":"1ld362d105c4c19c94731a7c9eeed91a3c826",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/ebe3cacec9acff9a1ae9d9554a3192c0.jpg"
+    }},
+
+    {"id":386839490, "alias":"Luciel_Lilith", "featured":false, "info":{
+        "date":"2021/05/07", "name":"Aneu",
+        "code":"1246&22960&6806&5609&25003&23790&17359&20810&15408&21167&23850&11777",
+        "png":"1ld36b78b4d45e7374a80b24367701662f599",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/ebe3cacec9acff9a1ae9d9554a3192c0.jpg"
+    }},
+
+    {"id":995277283, "alias":"Luciel_Lilith", "featured":false, "type":"cosplay", "info":{
+        "date":"2021/05/06", "name":"Jasmine",
+        "code":"1270&17580&5206&14122&16026&17203&3109&16909&19865&15857&6563",
+        "png":"1ld36447b8ff59e9b49619f4988e4c5ab0f4a",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/ebe3cacec9acff9a1ae9d9554a3192c0.jpg"
+    }},
+
+    {"id":297897614, "alias":"Erya", "featured":false, "info":{
+        "date":"2021/05/05", "name":null,
+        "code":"4988&12457&21477&2236&6487&1262&6251&24815&18283&19895&20267&6282&22697&25224&6867&26004&18913&3800&16198&7693&23818&17094&18975&15305&16996&14847&22032",
+        "png":"1ld36eadb6fb97e6646d58554e32e99cfbd93",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/a1bb36dda9bc7e81bf91f913092653f6.jpg"
+    }},
+
+    {"id":561632239, "alias":"Luciel_Lilith", "featured":false, "info":{
+        "date":"2021/05/05", "name":"Aingeru",
+        "code":"6711&1277&8413&18383&10772&20273&16276&19790&6178&6189&5609&6660&1733&17396&12910&23355&13351&21362&20378&21464&8786&15305&25200",
+        "png":"1ld3628746b7d6e984c72b690959e1010efd7",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/91a060ff406709187da1bf98b658c509.jpg"
+    }},
+
+    {"id":796068065, "alias":"ShiroNeKo-D", "featured":false, "info":{
+        "date":"2021/05/05", "name":"Cómo usar la fea cofia arpía",
+        "code":"21891&23265&4949&1251&5232&5082&20355&17275&7941&25152&17181&11589&16449&20224&16787",
+        "png":"1ld36713608c45ab14d0c9ac0608a26defd66",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/76300c1f87aaed1606983f024708860e.jpg"
+    }},
+
+    {"id":245817397, "alias":"Luciel_Lilith", "featured":false, "info":{
+        "date":"2021/05/05", "name":"Samay",
+        "code":"21895&6901&22645&9305&21868&16233&23521&14112&12205&4803&12074&16644&5581&24694&15840&15240&22032",
+        "png":"1ld362dbdc5168d6344a889a4ab578a0df8f1",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/a1bb36dda9bc7e81bf91f913092653f6.jpg"
+    }},
+
+    {"id":492577116, "alias":"Luciel_Lilith", "featured":false, "info":{
+        "date":"2021/05/05", "name":"Izaro",
+        "code":"24906&21895&11845&691&17575&5554&26451&23639&15308&12616&17718&25873&12043&23521&6528&7422&8534&23952&11550&16353&12172&13964&16377&16341&8457&22872&12440&12820&23105&16401&2446",
+        "png":"1ld36d33bcbe2ae8949d0969a351b8116fa05",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/ebe3cacec9acff9a1ae9d9554a3192c0.jpg"
+    }},
+
     {"id":870096335, "alias":"Luciel_Lilith", "featured":false, "info":{
         "date":"2021/05/04", "name":"Adara",
         "code":"1276&12172&6528&7422&16389&11559&19607&12437&15308&22511&16377&16341&20270&5161",
