@@ -2268,7 +2268,7 @@
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/ebe3cacec9acff9a1ae9d9554a3192c0.jpg"
     }},
 
-    {"id":710300685, "alias":"Hyunmiia", "featured":false, "info":{
+    {"id":710300685, "alias":"Hyunmiia", "featured":true, "info":{
         "date":"2021/02/17", "name":"Angelina",
         "code":"691&18850&26530&8905&18939&10755&10462&26847&16009&18382&13633&14260&6768&15574&14253&19340",
         "png":"7tprs35bb91e0476748b1b302822ea1ef07bb",
