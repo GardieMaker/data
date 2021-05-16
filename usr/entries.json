@@ -1,4 +1,81 @@
 [
+    {"id":649037355, "alias":"SkahBlue", "featured":false, "info":{
+        "date":"2021/05/15", "name":"Beautiful",
+        "code":"22645&21583&1245&21607&21619&5245&24902&8962&4494&21398&5296&2269&21631&21667&5728",
+        "png":"0woeu77b93ecf0e7a4dd89bfad250c70e5651",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/b9246a9ec638e7fe55a8fa9d5202d177.jpg"
+    }},
+
+    {"id":770034003, "alias":"Aradia", "featured":false, "type":"cosplay", "info":{
+        "date":"2021/05/15", "name":"Mina Ashido",
+        "code":"24369&15734&5048&5203&26799&24771&9998&14311&19501&24675&17909&21179&23836&20114",
+        "png":"0woeu80224dc31ce641668067259c21b52ccb",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/5953004d61f2c4fb8a9dd9579213ae61.jpg"
+    }},
+
+    {"id":816934497, "alias":"Alessana", "featured":false, "info":{
+        "date":"2021/05/14", "name":"Dragón Acuático del Oeste",
+        "code":"26499&25015&24945&24093&17447&24995&24069&24955&24935&24081&4395&24814&24985&24975&26432&24965&25210",
+        "png":"0woeu471e1de47d87428b9ec2c2cfb887eda4",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/866c518ae55596a6aff60f125f03c9b1.jpg"
+    }},
+
+    {"id":173073683, "alias":"Hyunmiia", "featured":false, "info":{
+        "date":"2021/05/14", "name":null,
+        "code":"21853&1276&16435&8412&16523&24309&9106&12202&14323&18547&5116&23654&4375&17691&9434&17877&12079&16506&16487&16462&18767&17598&16176&16272&25210",
+        "png":"0woeub8cfbca24acd48ab9439ff54aea568ca",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/866c518ae55596a6aff60f125f03c9b1.jpg"
+    }},
+
+    {"id":892722875, "alias":"Hyunmiia", "featured":false, "info":{
+        "date":"2021/05/14", "name":null,
+        "code":"22410&24959&26491&26531&14205&26501&23071&26868&26878&13878&13129&24828&16438&13181&10222&14112&26561&26858&26898&24811&21560&13187&8651&8693&8657&16280&6768&25206",
+        "png":"0woeu3a09d985e5bc4c499fe0de863fe6e066",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/92b0afc4a7095c6102eeecaf18245f21.jpg"
+    }},
+
+    {"id":555570175, "alias":"Hyunmiia", "featured":false, "info":{
+        "date":"2021/05/14", "name":"Cristal",
+        "code":"26193&16531&16709&6254&16457&5678&4395&17862&16495&2018&23658&26183&14883&16407&25202",
+        "png":"0woeu4ceae6ec6f5a4a50b78b4842e0a0b79d",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/8ff0e65dbdb21d7c4d0aa0cf9b881082.jpg"
+    }},
+
+    {"id":155366218, "alias":"Hyunmiia", "featured":false, "info":{
+        "date":"2021/05/14", "name":"Astéria",
+        "code":"1276&17785&23511&9517&23653&23346&23535&15873&14618&4369&22535&24235&25200",
+        "png":"0woeu1924fc71e8da46d081269853e4090386",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/91a060ff406709187da1bf98b658c509.jpg"
+    }},
+
+    {"id":655568400, "alias":"Alessana", "featured":false, "info":{
+        "date":"2021/05/14", "name":"Centinela de los abismos",
+        "code":"2243&14246&1275&26885&25388&7294&26855&18623&13894&5211&18537&26875&24981&26895&25308&26936&26560&25236&3647&6998",
+        "png":"0woeubaa8b09b916d4366b87288c2cfcaceee",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/7446fdf0a70db212307b30ed47d8f979.jpg"
+    }},
+
+    {"id":964510978, "alias":"Alessana", "featured":false, "info":{
+        "date":"2021/05/13", "name":"Emperatriz Dragón",
+        "code":"25060&5370&19377&1268&23451&15835&15893&15881&15665&23653&20272&15653&15821&25145&23303&8534&6768&19339",
+        "png":"0woeu30f673547fcc40b6bd7277aa2d77bf96",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/dbce9343d5f581886e3fcbe01398cd59.jpg"
+    }},
+
+    {"id":649361332, "alias":"Alessana", "featured":false, "info":{
+        "date":"2021/05/13", "name":null,
+        "code":"25955&13591&1275&24306&23538&23521&16862&23423&26658&26859&23372&16340&16014&24671&24902&5192&21630&22618&24227&22360&13187&8331&15857&24313&25202",
+        "png":"0woeu6945101df14a4bd4b904eed01704abea",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/8ff0e65dbdb21d7c4d0aa0cf9b881082.jpg"    
+    }},
+
+    {"id":784513700, "alias":"Moonlight", "featured":false, "info":{
+        "date":"2021/05/12", "name":"Persephone",
+        "code":"23314&17797&16258&3369&21899&5193&24167&24157&26686&11857&21883&16368&12856&17854&6582&17866&8686&23101&17878&23133&23325&20228&23334&16401&12820&25963&6768&20333",
+        "png":"0woeuaf2595c2d52341fc9eb6be3eac5d1567",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/96c00f19553e7cf3a6750f4ef3c5351c.jpg"       
+    }},
+
     {"id":705714893, "alias":"Kuru", "featured":false, "info":{
         "date":"2021/05/11", "name":null,
         "code":"1251&6449&5303&8579&20269&26133&20941&19202&8214&8254&18590&6123&18602&22244&18638&5211&25129&6429&6450&15311", 
