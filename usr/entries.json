@@ -2205,7 +2205,7 @@
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/96c00f19553e7cf3a6750f4ef3c5351c.jpg"
     }},
 
-    {"id":765472027, "alias":"Koemi Mayoko", "featured":false, "info":{
+    {"id":765472027, "alias":"Koemi Mayoko", "featured":true, "info":{
         "date":"2021/02/21", "name": "Renata",
         "code":"26071&18158&18276&7805&2460&5243&16506&14198&24634&15308&17233&21095&1431&9887&8652&8017&15823&6986",
         "png":"3gap323a5c4541f8d44dba39bc9c117b8baa7",
