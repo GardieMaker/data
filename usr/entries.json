@@ -195,7 +195,7 @@
         "background":"https://www.eldarya.com/assets/img/item/player/web_full/def68a8d1b2d42a2936736a5b63028bd.jpg"
     }},
 
-    {"id":811681587, "alias":"Gabi Games", "featured":false, "info":{
+    {"id":811681587, "alias":"Gabi Games", "featured":true, "info":{
         "date":"2021/05/11", "name":"Malvavisco",
         "code":"6711&4989&11846&1268&2103&5203&18051&13119&10171&12910&11870&12881&11594&17810&2980", 
         "png":"km0eu9b4e31fce264428f81132e7e54cc9eca",
