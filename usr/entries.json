@@ -1,4 +1,60 @@
 [
+    {"id":757546931, "alias":"Akemi", "featured":false, "info":{
+        "date":"2021/05/25", "name":null,
+        "code":"16280&21895&16516&26133&1245&17859&16268&21354&12961&19492&17726&14231&12912&23653&18273&17598&20267&14268&6909&16008&7315&8607&25208",
+        "png":"",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/e9b585d4f48cf9a565a83625ca7ab747.jpg"
+    }},
+
+    {"id":983174565, "alias":"Akemi", "featured":false, "info":{
+        "date":"2021/05/25", "name":null,
+        "code":"21880&18799&21892&25064&25415&25427&26814&13142&5303&8569&18283&23410&21352&19305&16280&10039&26509&26728&26033&23842&19148&8954&26565&26939&5109&26841&20952&26549&26946&25379&25392&26908&24696&15265&13583&22033",
+        "png":"",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/ed762016507ded578d6d54c1fed42f03.jpg"
+    }},
+
+    {"id":694547628, "alias":"Oni", "featured":false, "type":"cosplay", "info":{
+        "date":"2021/05/25", "name":"Jade princess",
+        "code":"25141&7990&1248&8540&9969&8273&7942&14725&16233&5609&14213&8858&12321&14326&14292&16501&21126&19240&4381&11594&16012&19352&8425&26578&24318&6768&25210",
+        "png":"",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/866c518ae55596a6aff60f125f03c9b1.jpg"
+    }},
+
+    {"id":187592595, "alias":"DennisLestrange", "featured":false, "info":{
+        "date":"2021/05/25", "name":"Viuda",
+        "code":"26814&25831&18283&19908&18550&16808&4236&16667&5161&10341&22326&21637&19148&16786",
+        "png":"",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/def68a8d1b2d42a2936736a5b63028bd.jpg"
+    }},
+
+    {"id":853997420, "alias":"Luciel_Lilith", "featured":false, "info":{
+        "date":"2021/05/24", "name":"Nohi",
+        "code":"16278&21356&24906&26499&23661&12914&17416&23275&18530&22871&19868&26899&15521&19651&25963&21058",
+        "png":"",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/e44f971281eef7406d9668286d3a3fac.jpg"
+    }},
+
+    {"id":957859515, "alias":"Luciel_Lilith", "featured":false, "info":{
+        "date":"2021/05/24", "name":"Aleyna",
+        "code":"7924&13132&14198&13905&14703&24611&8210&17902&13479&10933&5554&23884&8179&17936&24679&24347",
+        "png":"",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/88e4a8ee118750cbd968a9966e491cd5.jpg"
+    }},
+
+    {"id":249372763, "alias":"Luciel_Lilith", "featured":false, "info":{
+        "date":"2021/05/24", "name":"Brianne",
+        "code":"26065&21873&5626&5198&18372&6942&7019&23373&6929&25136&24675",
+        "png":"",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/ebe3cacec9acff9a1ae9d9554a3192c0.jpg"
+    }},
+
+    {"id":286803305, "alias":"AdyCeci", "featured":false, "info":{
+        "date":"2021/05/24", "name":"Pascua 2021",
+        "code":"691&13125&13158&27197&13081&24155&16260&19841&16345&20280&5195&23318&13070&23414&16353&12976&16402&12823&20700",
+        "png":"",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/1defb37258fdd08c05a5996eee7b28d3.jpg"
+    }},
+
     {"id":992531415, "alias":"Panfrulo", "featured":false, "info":{
         "date":"2021/05/23", "name":"Dríade del bosque",
         "code":"1258&16905&13155&4373&12608&25024&25966&16520&7805&17973&1420&8457&2977&3536",
