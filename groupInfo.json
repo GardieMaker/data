@@ -6387,6 +6387,11 @@
 		"english":"Eagles Pride Leg Band",
 		"french":""
 	},
+	{"groupId":18248, "category":"Zapatos", "rarity":"Legendario", "note":"Tienda Antigua", "especial":"antique",
+		"spanish":"(x)Eagles Pride Shoes",
+		"english":"Eagles Pride Shoes",
+		"french":""
+	},
 	{"groupId":18260, "category":"Pantalones", "rarity":"Épico", "note":"Exploración", 
 		"spanish":"Falda Eagles Pride",
 		"english":"Eagles Pride Skirt",
@@ -9756,6 +9761,167 @@
 	{"groupId":26946, "category":"Ambientes", "rarity":"Evento", "note":"San Valentín 2021", 
 		"spanish":"Corazones Missing Piece",
 		"english":"Missing Piece Hearts",
+		"french":""
+	},
+	{"groupId":26956, "category":"Pieles", "rarity":"Evento", "note":"Pascua 2021",
+		"spanish":"Piel Purreko's friend",
+		"english":"(x)Piel Purreko's friend",
+		"french":""
+	},
+	{"groupId":26966, "category":"Zapatos", "rarity":"Evento", "note":"Pascua 2021",
+		"spanish":"Zapatos Purreko's friend",
+		"english":"(x)Zapatos Purreko's friend",
+		"french":""
+	},
+	{"groupId":26976, "category":"Cinturones", "rarity":"Evento", "note":"Pascua 2021",
+		"spanish":"Cola Purreko's friend",
+		"english":"(x)Cola Purreko's friend",
+		"french":""
+	},
+	{"groupId":26996, "category":"Cabello", "rarity":"Evento", "note":"Pascua 2021",
+		"spanish":"Bastet",
+		"english":"(x)Bastet",
+		"french":""
+	},
+	{"groupId":27016, "category":"Sombreros", "rarity":"Evento", "note":"Pascua 2021",
+		"spanish":"Orejas Purreko's friend",
+		"english":"(x)Orejas Purreko's friend",
+		"french":""
+	},
+	{"groupId":27036, "category":"Abrigos", "rarity":"Evento", "note":"Pascua 2021",
+		"spanish":"Chal Purreko's friend",
+		"english":"(x)Chal Purreko's friend",
+		"french":""
+	},
+	{"groupId":27046, "category":"Pantalones", "rarity":"Evento", "note":"Pascua 2021",
+		"spanish":"Bermudas Purreko's friend",
+		"english":"(x)Bermudas Purreko's friend",
+		"french":""
+	},
+	{"groupId":27056, "category":"Partes de arriba", "rarity":"Evento", "note":"Pascua 2021",
+		"spanish":"Camisa Purreko's friend",
+		"english":"(x)Camisa Purreko's friend",
+		"french":""
+	},
+	{"groupId":27066, "category":"Cinturones", "rarity":"Evento", "note":"Pascua 2021",
+		"spanish":"Cinturón Purreko's friend",
+		"english":"(x)Cinturón Purreko's friend",
+		"french":""
+	},
+	{"groupId":27076, "category":"Guantes", "rarity":"Evento", "note":"Pascua 2021",
+		"spanish":"Guantes Purreko's friend",
+		"english":"(x)Guantes Purreko's friend",
+		"french":""
+	},
+	{"groupId":27086, "category":"Accesorios manos", "rarity":"Evento", "note":"Pascua 2021",
+		"spanish":"Globo Children's Nightmare",
+		"english":"(x)Globo Children's Nightmare",
+		"french":""
+	},
+	{"groupId":27096, "category":"Collares", "rarity":"Evento", "note":"Pascua 2021",
+		"spanish":"Collar Children's Nightmare",
+		"english":"(x)Collar Children's Nightmare",
+		"french":""
+	},
+
+	{"groupId":27106, "category":"Accesorios cara", "rarity":"Evento", "note":"Pascua 2021",
+		"spanish":"Gafas Children's Nightmare",
+		"english":"(x)Gafas Children's Nightmare",
+		"french":""
+	},
+
+	{"groupId":27116, "category":"Vestidos", "rarity":"Evento", "note":"Pascua 2021",
+		"spanish":"Vestido Children's Nightmare",
+		"english":"(x)Vestido Children's Nightmare",
+		"french":""
+	},
+
+	{"groupId":27126, "category":"Pieles", "rarity":"Evento", "note":"Pascua 2021",
+		"spanish":"Piel Children’s Nightmare",
+		"english":"(x)Piel Children’s Nightmare",
+		"french":""
+	},
+
+	{"groupId":27136, "category":"Cabello", "rarity":"Evento", "note":"Pascua 2021",
+		"spanish":"Misty",
+		"english":"(x)Misty",
+		"french":""
+	},
+
+	{"groupId":27265, "category":"Zapatos", "rarity":"Evento", "note":"Pascua 2021",
+		"spanish":"Zapatillas Plushie Dreams",
+		"english":"(x)Zapatillas Plushie Dreams",
+		"french":""
+	},
+
+	{"groupId":27275, "category":"Vestidos", "rarity":"Evento", "note":"Pascua 2021",
+		"spanish":"Combinación Plushie Dreams",
+		"english":"(x)Combinación Plushie Dreams",
+		"french":""
+	},
+
+	{"groupId":27285, "category":"Accesorios cara", "rarity":"Evento", "note":"Pascua 2021",
+		"spanish":"Máscara Plushie Dreams *",
+		"english":"(x)Máscara Plushie Dreams *",
+		"french":""	
+	},
+
+	{"groupId":27295, "category":"Ambientes", "rarity":"Evento", "note":"Pascua 2021",
+		"spanish":"Nieve estrella Plushie Dreams",
+		"english":"(x)Nieve estrella Plushie Dreams",
+		"french":""
+	},
+
+	{"groupId":27305, "category":"Cabello", "rarity":"Evento", "note":"Pascua 2021",
+		"spanish":"Masha",
+		"english":"(x)Masha",
+		"french":""
+	},
+
+	{"groupId":27331, "category":"Cabello", "rarity":"Evento", "note":"Pascua 2021",
+		"spanish":"Oasis",
+		"english":"(x)Oasis",
+		"french":""
+	},
+
+	{"groupId":27357, "category":"Accesorios manos", "rarity":"Evento", "note":"Pascua 2021",
+		"spanish":"Pistola de plasma Children's Hero *",
+		"english":"(x)Pistola de plasma Children's Hero *",
+		"french":""
+	},
+
+	{"groupId":27367, "category":"Partes de arriba", "rarity":"Evento", "note":"Pascua 2021",
+		"spanish":"Chaleco Children's Hero",
+		"english":"(x)Chaleco Children's Hero",
+		"french":""
+	},
+
+	{"groupId":27377, "category":"Pantalones", "rarity":"Evento", "note":"Pascua 2021",
+		"spanish":"Pantalón Children's Hero",
+		"english":"(x)Pantalón Children's Hero",
+		"french":""
+	},
+
+	{"groupId":27387, "category":"Guantes", "rarity":"Evento", "note":"Pascua 2021",
+		"spanish":"Guantes Children's Hero",
+		"english":"(x)Guantes Children's Hero",
+		"french":""
+	},
+
+	{"groupId":27397, "category":"Zapatos", "rarity":"Evento", "note":"Pascua 2021",
+		"spanish":"Botas Children's Hero",
+		"english":"(x)Botas Children's Hero",
+		"french":""
+	},
+
+	{"groupId":27407, "category":"Ambientes", "rarity":"Evento", "note":"Pascua 2021",
+		"spanish":"Píxeles Children's Hero",
+		"english":"(x)Píxeles Children's Hero",
+		"french":""
+	},
+	{"groupId":28625, "category":"Cinturones", "rarity":"Evento", "note":"Pascua 2021",
+		"spanish":"Cinturón Children's Hero *",
+		"english":"(x)Cinturón Children's Hero *",
 		"french":""
 	}
 ]
