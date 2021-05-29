@@ -1,4 +1,74 @@
 [
+    {"id":643226716, "alias":"Genesis♥", "featured":false, "info":{
+        "date":"2021/05/29", "name":"Purpleva",
+        "code":"16280&15214&10033&21895&1264&26818&3647&27411&26735&19322&26936&15236&13823&24255&23910&27116&25693&25071&25958&25399&15226&25198",
+        "png":"o9x57fa5455fdff894553a29dc429a31cd474",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/c88a19e81dcf9b4ad133ac9bd743d20a.jpg"
+    }},
+
+    {"id":574351894, "alias":"MartaIV", "featured":false, "type":"cosplay", "info":{
+        "date":"2021/05/28", "name":"Lyra (El lamento de la Sirena)",
+        "code":"3482&5193&16685&27253&14205&25885&24674&12009&9893&24348",
+        "png":"o9x57541c47a49a7d485fbf883c5f87dd7d70",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/a2daa65b25e483289cb7c1feab914caa.jpg"
+    }},
+
+    {"id":626623351, "alias":"Aradia", "featured":false, "info":{
+        "date":"2021/05/27", "name":"Purreko Explorer",
+        "code":"23945&26958&17705&18153&8573&18283&27233&20989&24997&23025&20997&23835&4391&23771&27263&6738&7463&14131&26978&25128&21212&2450&22235&15296&21192&25204",
+        "png":"o9x575f7075a77fa146c4b7063dd7ba0439a1",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/f3cc41c0a91d674ba95498df9ecc1f06.jpg"
+    }},
+
+    {"id":335798059, "alias":"Alessana", "featured":false, "info":{
+        "date":"2021/05/27", "name":"gato",
+        "code":"26979&1258&25078&10962&19522&27059&4396&23653&13132&16049&26969&27079&13239&5628&10468&27019&13187&18392&6768&3546",
+        "png":"o9x57340e03105635464e99916d1b850fa79c",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/533facedbd38609b04a8130b7d7e57a4.jpg"
+    }},
+
+    {"id":140990012, "alias":"Alessana", "featured":false, "info":{
+        "date":"2021/05/27", "name":"Oscuridad",
+        "code":"19068&22407&25686&26905&27122&26039&25358&25368&25499&19322&9278&19056&25328&22472&18804&22033",
+        "png":"o9x576bb7212a3f834777a52a67652b9483de",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/ed762016507ded578d6d54c1fed42f03.jpg"
+    }},
+
+    {"id":912740002, "alias":"Koemi Mayoko", "featured":false, "info":{
+        "date":"2021/05/27", "name":"Kitty Music Power",
+        "code":"13329&691&18158&18274&4402&26979&5242&27079&14709&11614&27059&18537&27019&14621&27409&26662&15300&13344&21759&25206",
+        "png":"o9x57b9568228b60f41d2995e55b133d340e0",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/92b0afc4a7095c6102eeecaf18245f21.jpg"
+    }},
+
+    {"id":444501803, "alias":"Gabi Games", "featured":false, "info":{
+        "date":"2021/05/27", "name":"Gabi Gatichu",
+        "code":"691&5099&26985&8906&27058&27036&21148&26968&27078&22533&27025&27415&21058",
+        "png":"o9x577e36f49a42fa4e26b7bd127cddf407c1",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/e44f971281eef7406d9668286d3a3fac.jpg"
+    }},
+
+    {"id":634833508, "alias":"MartaIV", "featured":false, "info":{
+        "date":"2021/05/26", "name":"Cute Kitty",
+        "code":"1275&5192&18278&20278&21899&23447&9494&27016&16292&22859&27036&23848&23533&26971&27061&15299&20717&27301&20333",
+        "png":"o9x5715ed5a56c1ed47578c638760fc973e46",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/96c00f19553e7cf3a6750f4ef3c5351c.jpg"
+    }},
+
+    {"id":642156664, "alias":"Aoi", "featured":false, "info":{
+        "date":"2021/05/26", "name":null,
+        "code":"25061&16272&21897&27411&25420&21359&17778&27302&26814&23653&19159&18153&16282&24823&26894&26832&25397&12223&22451&16241&24427&20320&8962&18798&14918&15296&19071&23104&27086&25385&22033",
+        "png":"o9x577b978d7796b946f19132ad8bb8061912",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/ed762016507ded578d6d54c1fed42f03.jpg"
+    }},
+
+    {"id":214068570, "alias":"Luciel_Lilith", "featured":false, "info":{
+        "date":"2021/05/25", "name":"Winani",
+        "code":"11845&1276&26530&23832&20974&23853&26900&18283&23844&18719&8908&8127&3224&8575&9516&16801&19352&22366&21352&6996",
+        "png":"o9x572b628b12fd17438f814bb02168def70d",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/8788bc88ae3a0894e1143a64248b5d54.jpg"
+    }},
+
     {"id":757546931, "alias":"Akemi", "featured":false, "info":{
         "date":"2021/05/25", "name":null,
         "code":"16280&21895&16516&26133&1245&17859&16268&21354&12961&19492&17726&14231&12912&23653&18273&17598&20267&14268&6909&16008&7315&8607&25208",
