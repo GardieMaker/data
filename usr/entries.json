@@ -335,7 +335,7 @@
         "background":"https://www.eldarya.com/assets/img/item/player/web_full/7446fdf0a70db212307b30ed47d8f979.jpg"
     }},
 
-    {"id":964510978, "alias":"Alessana", "featured":false, "info":{
+    {"id":964510978, "alias":"Alessana", "featured":true, "info":{
         "date":"2021/05/13", "name":"Emperatriz Dragón",
         "code":"25060&5370&19377&1268&23451&15835&15893&15881&15665&23653&20272&15653&15821&25145&23303&8534&6768&19339",
         "png":"0woeu30f673547fcc40b6bd7277aa2d77bf96",
