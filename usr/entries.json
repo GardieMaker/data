@@ -1,4 +1,151 @@
 [
+    {"id":172283643, "alias":"Aradia", "featured":false, "info":{
+        "date":"2021/06/05", "name":null,
+        "code":"21844&23212&1251&18158&16258&18277&4391&5195&17781&16724&23521&25219&21662&7665&20222&8962&23950&21060&6768&12824&17859&2274&10570&25205",
+        "png":"55s434f00505a08314a2ea4604f18dcabcc86",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/e7ea3447710c03f3b6ef155c234621bd.jpg"
+    }},
+
+    {"id":842714483, "alias":"ShiroNeKo-D", "featured":false, "info":{
+        "date":"2021/06/05", "name":null,
+        "code":"24666&1251&18283&17554&26166&21443&2374&22663&23434&19774&26885&14246&14830&5567&6655&6768&25208",
+        "png":"55s432ff444eef6f74f9d813cf6ded06f7e32",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/e9b585d4f48cf9a565a83625ca7ab747.jpg"
+    }},
+
+    {"id":792393157, "alias":"ShiroNeKo-D", "featured":false, "info":{
+        "date":"2021/06/05", "name":null,
+        "code":"21891&26546&1272&17708&24827&18810&11589&19147&26896&22537&24957&17981&25383&25957&6768&21059",
+        "png":"55s430d6b107e527245938a1aef4747bad33d",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/ea07abfb2c6d3fcb3934c3ee79d2bea8.jpg"
+    }},
+
+    {"id":313550201, "alias":"ShiroNeKo-D", "featured":false, "info":{
+        "date":"2021/06/05", "name":null,
+        "code":"25065&26905&27133&17387&8581&8579&23275&21500&8582&27140&25248&26579&24692&25208",
+        "png":"55s43cb09b16ef7e74859a2e7eae92c9e4f3e",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/e9b585d4f48cf9a565a83625ca7ab747.jpg"
+    }},
+
+    {"id":168464176, "alias":"ShiroNeKo-D", "featured":false, "info":{
+        "date":"2021/06/05", "name":null,
+        "code":"16274&24363&26262&11607&23274&5237&23968&26714&16973&24309&19680&23132&27366&24319&6768&17293&25210",
+        "png":"55s4322cc2c344c21488696dc1d3028c15254",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/866c518ae55596a6aff60f125f03c9b1.jpg"
+    }},
+
+    {"id":119009210, "alias":"Genesis", "featured":false, "info":{
+        "date":"2021/06/05", "name":"Murcy",
+        "code":"25427&16280&16372&1249&27414&11611&26855&5044&21893&8909&25182&25068&23385&23352&26510&8351&23844&26993&8150&27035&11467&6998",
+        "png":"55s4392d3de8c2b704670baa302adf7b7fbb9",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/7446fdf0a70db212307b30ed47d8f979.jpg"
+    }},
+
+    {"id":419405883, "alias":"ShiroNeKo-D", "featured":false, "info":{
+        "date":"2021/06/04", "name":null,
+        "code":"21901&1251&17869&18273&5088&23166&21606&25170&24284&5212&16792&22386&15845&19679&24979&6983",
+        "png":"55s43b9cc31558fb74a1c961ddae83318d3da",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/dbfdcf9c63a6ede3857c36e26b383478.jpg"
+    }},
+
+    {"id":906621835, "alias":"ShiroNeKo-D", "featured":false, "info":{
+        "date":"2021/06/04", "name":null,
+        "code":"21896&6450&26153&1267&18162&18273&20269&11941&27041&20133&25982&20075&24675&24335&5569&25210",
+        "png":"55s43715420c1e01d4349b7166cdfe6e57951",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/866c518ae55596a6aff60f125f03c9b1.jpg"
+    }},
+
+    {"id":802412573, "alias":"ShiroNeKo-D", "featured":false, "info":{
+        "date":"2021/06/04", "name":null,
+        "code":"1251&18964&23071&21823&27301&16276&24989&16367&27291&5233&26890&22991&16884&27387&15746&17737&6768&20114",
+        "png":"55s431686b25310f24b37925ac1cf7fdfa425",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/5953004d61f2c4fb8a9dd9579213ae61.jpg"
+    }},
+
+    {"id":543006604, "alias":"ShiroNeKo-D", "featured":false, "info":{
+        "date":"2021/06/04", "name":null,
+        "code":"25056&1249&16276&25248&14194&21995&21276&27176&15505&16885&21222&25956&26885&6399&24825&27067&21493&5567&26979&26785&25268&20424&2446&20114",
+        "png":"55s435ec2b48caa6b4636a6e9d883c4818bed",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/5953004d61f2c4fb8a9dd9579213ae61.jpg"
+    }},
+
+    {"id":579632517, "alias":"ShiroNeKo-D", "featured":false, "info":{
+        "date":"2021/06/04", "name":null,
+        "code":"16273&1250&17178&16261&9603&26647&17804&17806&23745&16317&16233&23653&23799&23798&7805&21599&25082&23835&27066&25280&22338&12624&16787",
+        "png":"55s4348bf41711f1941709c3b25a66300c474",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/76300c1f87aaed1606983f024708860e.jpg"
+    }},
+
+    {"id":427667268, "alias":"Alessana", "featured":false, "info":{
+        "date":"2021/06/04", "name":"Voz del Anuncio",
+        "code":"21895&27409&11857&19377&1276&16266&19609&23448&24217&16735&16758&13744&7853&14225&13777&24671&17368&16746&24205&16752&13134&4395&5193&13787&18324&26427&17833&24483&8786&3719&25207",
+        "png":"55s43df3e7681738e49138332029b7af6cc5a",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/24d9d1ee8f8500be303b20dd5f1415e1.jpg"
+    }},
+
+    {"id":798997407, "alias":"ShiroNeKo-D", "featured":false, "info":{
+        "date":"2021/06/04", "name":null,
+        "code":"24906&24215&1271&18158&18280&16689&27149&16401&23737&23045&24998&12073&17973&11534&17939&27041&6768&13416&13640&25208",
+        "png":"55s438a9848ee214b4a1994399eafbd49d333",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/e9b585d4f48cf9a565a83625ca7ab747.jpg"
+    }},
+
+    {"id":617679785, "alias":"ShiroNeKo-D", "featured":false, "info":{
+        "date":"2021/06/04", "name":null,
+        "code":"1251&26806&8962&10921&23653&7805&2996&10584&13384&20801&11064&14149&10582&23428&8570&10581&23745&23749&23782&11290&25209",
+        "png":"55s43c2ef082fa9ce40988f8d828fb46f2476",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/37915cbd9266307c96f505d42890f3b5.jpg"
+    }},
+
+    {"id":834150436, "alias":"ShiroNeKo-D", "featured":false, "info":{
+        "date":"2021/06/04", "name":null,
+        "code":"13170&1251&5206&19522&26860&21692&8570&10947&26885&13290&8962&25547&13163&20114",
+        "png":"55s439eec7d5c6daf4dd0a90edbe68e0f8427",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/5953004d61f2c4fb8a9dd9579213ae61.jpg"
+    }},
+
+    {"id":870543247, "alias":"ShiroNeKo-D", "featured":false, "info":{
+        "date":"2021/06/04", "name":null,
+        "code":"19274&17285&14260&1252&18963&8213&3633&18158&18273&18623&15697&16674&22665&24827&20957&5567&26705&5117&27260&17594&6768",
+        "png":"55s43190aa1718f944915a9fb6dd616801e02",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/ebe3cacec9acff9a1ae9d9554a3192c0.jpg"
+    }},
+
+    {"id":539091617, "alias":"Yashiko", "featured":false, "info":{
+        "date":"2021/06/03", "name":"Luto Eterno",
+        "code":"21897&19304&16271&25419&27411&21612&22646&24961&3647&27302&21660&26807&26840&25359&25229&26895&25369&23659&26887&23116&18816&22473&25378&26573&26946&23104&2976&18903&15306&22033",
+        "png":"55s43488d2fe2091d46c38de7fa329fa0dd02",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/ed762016507ded578d6d54c1fed42f03.jpg"
+    }},
+
+    {"id":619099176, "alias":"Genesis", "featured":false, "type":"cosplay", "info":{
+        "date":"2021/06/03", "name":"Aldaric♡",
+        "code":"27295&17803&18155&23234&19601&18283&4395&5204&10772&3680&21354&9689&12078&21975&22024&26025&1367&9894&16276&27407&17448&1405&14219&25199",
+        "png":"55s43885cd15dc2ac4ec48eb838d2e2972ad6",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/e0a5905bb12abb0dd3049cd4abe8cbaf.jpg"
+    }},
+
+    {"id":409591748, "alias":"Rose", "featured":false, "info":{
+        "date":"2021/06/02", "name":"Aime fairy alchemist",
+        "code":"21362&23209&1275&23405&17714&23653&18156&23427&18278&23512&19601&4384&12237&24157&20295&13027&12285&6559&11460&15306&23438&21500&12772&5722&3073&3126&12152&15655&24267&25196",
+        "png":"55s439dab916be9844a89abff069a62a89b96",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/5c986bc68d9afc7a9562f8cba874b26e.jpg"
+    }},
+
+    {"id":986928921, "alias":"Erya", "featured":false, "type":"cosplay", "info":{
+        "date":"2021/06/02", "name":"Gaston",
+        "code":"691&5201&4391&16026&7592&14167&21998&6170&11151&11073&8884&27072&6988",
+        "png":"55s4315a8d1d8ad0b4a0cbb3a9346621a7ce5",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/6cef3f21eea121071f4fe1c4fb8d3328.jpg"
+    }},
+
+    {"id":376622777, "alias":"Ro", "featured":false, "type":"cosplay", "info":{
+        "date":"2021/06/02", "name":"Lady Dimitrescu",
+        "code":"23948&21897&1249&13169&16993&23730&22448&6091&16266&20347&13718&7902&17683&5539&4378&5284&16347&4878&20115",
+        "png":"55s43c6d070c55a1a455e91adee297b40df01",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/e7fa6151ab5e1cbefeca680bc7c2b428.jpg"
+    }},
+
     {"id":138774530, "alias":"ShiroNeKo-D", "featured":false, "type":"cosplay", "info":{
         "date":"2021/06/01", "name":"Sheik",
         "code":"7998&16278&1251&18273&16675&5203&6025&26941&10138&26998&6600&27377&10159&13248&25275&2446&17296&14288&25207",
@@ -69,7 +216,7 @@
         "background":"https://www.eldarya.com/assets/img/item/player/web_full/df5f3b3f8fcf85fb7b4355fa63ae299f.jpg"
     }},
 
-    {"id":737278670, "alias":"Genesis♥", "featured":false, "info":{
+    {"id":737278670, "alias":"Genesis", "featured":false, "info":{
         "date":"2021/05/30", "name":"Mariquita venenosa",
         "code":"16274&21895&27415&12790&12777&1249&18283&23464&4400&23653&18359&20244&25917&4851&25957&24823&23592&9886&20331&25194",
         "png":"obte08339743ebaa94ec39642e16af5744674",
@@ -104,7 +251,7 @@
         "background":"https://www.eldarya.com/assets/img/item/player/web_full/687089d68e47d461bfcd8e176ebff9c2.jpg"
     }},
 
-    {"id":643226716, "alias":"Genesis♥", "featured":false, "info":{
+    {"id":643226716, "alias":"Genesis", "featured":false, "info":{
         "date":"2021/05/29", "name":"Purpleva",
         "code":"16280&15214&10033&21895&1264&26818&3647&27411&26735&19322&26936&15236&13823&24255&23910&27116&25693&25071&25958&25399&15226&25198",
         "png":"o9x57fa5455fdff894553a29dc429a31cd474",
@@ -377,21 +524,21 @@
         "background":"https://www.eldarya.com/assets/img/item/player/web_full/dd6382ad5eaac20c841bb10b98abded8.png"
     }},
 
-    {"id":395756789, "alias":"Genesis♥", "featured":false, "info":{
+    {"id":395756789, "alias":"Genesis", "featured":false, "info":{
         "date":"2021/05/10", "name":"Lucirio",
         "code":"21844&1276&15241&12824&5091&5195&13563&18877&26686&23101&23248&17685&19151&21464&22342&21500&20572&24155&18395&6996", 
         "png":"km0euae68d0ac743548dfae0718686b90e759",
         "background":"https://www.eldarya.com/assets/img/item/player/web_full/8788bc88ae3a0894e1143a64248b5d54.jpg"
     }},
 
-    {"id":908874347, "alias":"Genesis♥", "featured":false, "info":{
+    {"id":908874347, "alias":"Genesis", "featured":false, "info":{
         "date":"2021/05/10", "name":"Rusalka",
         "code":"16422&14243&8927&26182&16274&24681&26300&2400&17851&10964&3687&13130&26824&25726&24585&24811&25070&13823&12854&25136&4435", 
         "png":"km0euc41fed44f53f4a4c93cc484bb1cdbcfd",
         "background":"https://www.eldarya.com/assets/img/item/player/web_full/b3990b3be11f0d801d97d42b5d9fdeef.jpg"
     }},
 
-    {"id":587982128, "alias":"Genesis♥", "featured":false, "info":{
+    {"id":587982128, "alias":"Genesis", "featured":false, "info":{
         "date":"2021/05/09", "name":"Opal Mermaid",
         "code":"23212&3512&4395&19601&9404&12597&20076&5242&21803&12004&24833&23950&24579&20228&11464&18392&24675&23105&6768&25963&24155&16344&26579&6929&24269&17939&4432", 
         "png":"km0eu0643a92e329a461182d80e3819e77635",
