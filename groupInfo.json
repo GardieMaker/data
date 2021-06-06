@@ -7949,10 +7949,6 @@
 		"spanish":"Peto Athena's Legacy",
 		"english":"(x)Peto Athena's Legacy"
 	},
-	{"groupId":28625, "category":"Cinturones", "rarity":"Evento", "note":"Pascua 2021",
-		"spanish":"Cinturón Children's Hero *",
-		"english":"(x)Cinturón Children's Hero *"
-	},
 
 	{"groupId":28287, "category":"Cabello", "rarity":"Común", "note":"Costales", "especial":"costales",
 		"tag":"incomplete",
@@ -7979,5 +7975,9 @@
 		"tag":"incomplete",
 		"spanish":"Joyas cabeza Magical Feels",
 		"english":"(x)Joyas cabeza Magical Feels"
+	},
+	{"groupId":28625, "category":"Cinturones", "rarity":"Evento", "note":"Pascua 2021",
+		"spanish":"Cinturón Children's Hero *",
+		"english":"(x)Cinturón Children's Hero *"
 	}
 ]
