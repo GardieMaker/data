@@ -7944,35 +7944,159 @@
 		"spanish":"Píxeles Children's Hero",
 		"english":"(x)Píxeles Children's Hero"
 	},
+	{"groupId":27564, "category":"Accesorios manos", "rarity":"Legendario", "note":"Costales", "especial":"costales",
+		"spanish":"(x)Path of the Sun Sceptre",
+		"english":"Path of the Sun Sceptre"
+	},
+	{"groupId":27574, "category":"Sombreros", "rarity":"Legendario", "note":"Costales", "especial":"costales",
+		"spanish":"(x)Path of the Sun Crown",
+		"english":"Path of the Sun Crown"
+	},
+	{"groupId":27584, "category":"Accesorios cara", "rarity":"Legendario", "note":"Costales", "especial":"costales",
+		"spanish":"(x)Path of the Sun Veil",
+		"english":"Path of the Sun Veil"
+	},
+	{"groupId":27594, "category":"Partes de arriba", "rarity":"Legendario", "note":"Costales", "especial":"costales",
+		"spanish":"(x)Path of the Sun Bustier",
+		"english":"Path of the Sun Bustier"
+	},
+    {"groupId":27604, "category":"Abrigos", "rarity":"Legendario", "note":"Costales", "especial":"costales",
+    	"spanish":"(x)Path of the Sun Coat",
+    	"english":"Path of the Sun Coat"
+    },
+    {"groupId":27614, "category":"Vestidos", "rarity":"Legendario", "note":"Costales", "especial":"costales",
+    	"spanish":"(x)Path of the Sun Dress",
+    	"english":"Path of the Sun Dress"
+    },
+    {"groupId":27624, "category":"Partes de arriba", "rarity":"Legendario", "note":"Costales", "especial":"costales",
+    	"spanish":"(x)Path of the Sun Top",
+    	"english":"Path of the Sun Top"
+    },
+    {"groupId":27634, "category":"Zapatos", "rarity":"Legendario", "note":"Costales", "especial":"costales",
+    	"spanish":"(x)Path of the Sun Sandals",
+    	"english":"Path of the Sun Sandals"
+    },
+    {"groupId":27644, "category":"Cabello", "rarity":"Legendario", "note":"Costales", "especial":"costales",
+    	"spanish":"(x)Marici",
+    	"english":"Marici"
+    },
+	{"groupId":28171, "category":"Pantalones", "rarity":"Épico", "note":"Costales", "especial":"costales",
+		"spanish":"Pantalón Athena's Legacy",
+		"english":"(x)Pantalón Athena's Legacy"
+	},
+	{"groupId":28181, "category":"Partes de arriba", "rarity":"Épico", "note":"Costales", "especial":"costales",
+		"spanish":"Top Athena's Legacy",
+		"english":"(x)Top Athena's Legacy"
+	},
 	{"groupId":28191, "category":"Partes de arriba", "rarity":"Épico", "note":"Costales", "especial":"costales",
-		"tag":"incomplete",
 		"spanish":"Peto Athena's Legacy",
 		"english":"(x)Peto Athena's Legacy"
 	},
-
+	{"groupId":28201, "category":"Cinturones", "rarity":"Épico", "note":"Costales", "especial":"costales",
+		"spanish":"Cinturón Athena's Legacy",
+		"english":"(x)Cinturón Athena's Legacy"
+	},
+	{"groupId":28211, "category":"Accesorios manos", "rarity":"Épico", "note":"Costales", "especial":"costales",
+		"spanish":"Joyas Athena's Legacy",
+		"english":"(x)Joyas Athena's Legacy"
+	},
+	{"groupId":28221, "category":"Zapatos", "rarity":"Épico", "note":"Costales", "especial":"costales",
+		"spanish":"Botas Athena's Legacy",
+		"english":"(x)Botas Athena's Legacy"
+	},
+	{"groupId":28231, "category":"Accesorios manos", "rarity":"Épico", "note":"Costales", "especial":"costales",
+		"spanish":"Espada Athena's Legacy",
+		"english":"(x)Espada Athena's Legacy"
+	},
+	{"groupId":28241, "category":"Accesorios manos", "rarity":"Épico", "note":"Costales", "especial":"costales",
+		"spanish":"Escudo Athena's Legacy",
+		"english":"(x)Escudo Athena's Legacy"
+	},
+	{"groupId":28251, "category":"Sombreros", "rarity":"Épico", "note":"Costales", "especial":"costales",
+		"spanish":"Casco Athena's Legacy",
+		"english":"(x)Casco Athena's Legacy"
+	},
+	{"groupId":28261, "category":"Cabello", "rarity":"Épico", "note":"Costales", "especial":"costales",
+		"spanish":"Ageleis",
+		"english":"(x)Ageleis"
+	},
 	{"groupId":28287, "category":"Cabello", "rarity":"Común", "note":"Costales", "especial":"costales",
-		"tag":"incomplete",
 		"spanish":"Zazel",
 		"english":"(x)Zazel"
 	},
-
 	{"groupId":28313, "category":"Pantalones", "rarity":"Común", "note":"Costales", "especial":"costales",
-		"tag":"incomplete",
 		"spanish":"Short Funambulist",
 		"english":"(x)Short Funambulist"
 	},
+	{"groupId":28323, "category":"Partes de arriba", "rarity":"Común", "note":"Costales", "especial":"costales",
+		"spanish":"Top Funambulist",
+		"english":"(x)Top Funambulist"
+	},
+	{"groupId":28333, "category":"Calcetines", "rarity":"Común", "note":"Costales", "especial":"costales",
+		"spanish":"Medias Funambulist",
+		"english":"(x)Medias Funambulist"
+	},
+	{"groupId":28343, "category":"Calcetines", "rarity":"Común", "note":"Costales", "especial":"costales",
+		"spanish":"Vendas Funambulist",
+		"english":"(x)Vendas Funambulist"
+	},
+	{"groupId":28353, "category":"Cinturones", "rarity":"Común", "note":"Costales", "especial":"costales",
+		"spanish":"Corsé Funambulist",
+		"english":"(x)Corsé Funambulist"
+	},
+	{"groupId":28363, "category":"Cinturones", "rarity":"Común", "note":"Costales", "especial":"costales",
+		"spanish":"Cinturón Funambulist",
+		"english":"(x)Cinturón Funambulist"
+	},
+	{"groupId":28373, "category":"Guantes", "rarity":"Común", "note":"Costales", "especial":"costales",
+		"spanish":"Mitones Funambulist",
+		"english":"(x)Mitones Funambulist"
+	},
+	{"groupId":28383, "category":"Zapatos", "rarity":"Común", "note":"Costales", "especial":"costales",
+		"spanish":"Zapatos Funambulist",
+		"english":"(x)Zapatos Funambulist"
+	},
+	{"groupId":28393, "category":"Abrigos", "rarity":"Común", "note":"Costales", "especial":"costales",
+		"spanish":"Chaqueta Funambulist",
+		"english":"(x)Chaqueta Funambulist"
+	},
+	{"groupId":28403, "category":"Cabello", "rarity":"Raro", "note":"Costales", "especial":"costales",
+		"spanish":"Kisaragi",
+		"english":"(x)Kisaragi"
+	},
+	{"groupId":28429, "category":"Zapatos", "rarity":"Raro", "note":"Costales", "especial":"costales",
+		"spanish":"Botas Magical Feels",
+		"english":"(x)Botas Magical Feels"
+	},
+	{"groupId":28439, "category":"Cinturones", "rarity":"Raro", "note":"Costales", "especial":"costales",
+		"spanish":"Volantes Magical Feels",
+		"english":"(x)Volantes Magical Feels"
+	},
 	{"groupId":28449, "category":"Pantalones", "rarity":"Raro", "note":"Costales", "especial":"costales",
-		"tag":"incomplete",
 		"spanish":"Falda Magical Feels",
 		"english":"(x)Falda Magical Feels"
 	},
 	{"groupId":28459, "category":"Accesorios manos", "rarity":"Raro", "note":"Costales", "especial":"costales",
-		"tag":"incomplete",
 		"spanish":"Mangas Magical Feels",
 		"english":"(x)Mangas Magical Feels"
 	},
+	{"groupId":28469, "category":"Partes de arriba", "rarity":"Raro", "note":"Costales", "especial":"costales",
+		"spanish":"Top Magical Feels",
+		"english":"(x)Top Magical Feels"
+	},
+	{"groupId":28479, "category":"Cinturones", "rarity":"Raro", "note":"Costales", "especial":"costales",
+		"spanish":"Corsé Magical Feels",
+		"english":"(x)Corsé Magical Feels"
+	},
+	{"groupId":28489, "category":"Collares", "rarity":"Raro", "note":"Costales", "especial":"costales",
+		"spanish":"Cuello Magical Feels",
+		"english":"(x)Cuello Magical Feels"
+	},
+	{"groupId":28499, "category":"Abrigos", "rarity":"Raro", "note":"Costales", "especial":"costales",
+		"spanish":"Mangas anchas Magical Feels",
+		"english":"(x)Mangas anchas Magical Feels"
+	},
 	{"groupId":28509, "category":"Accesorios cara", "rarity":"Raro", "note":"Costales", "especial":"costales",
-		"tag":"incomplete",
 		"spanish":"Joyas cabeza Magical Feels",
 		"english":"(x)Joyas cabeza Magical Feels"
 	},
