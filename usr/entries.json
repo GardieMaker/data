@@ -1,4 +1,74 @@
 [
+    {"id":464161063, "alias":"Chissek", "featured":false, "info":{
+        "date":"2021/06/14", "name":null,
+        "code":"1276&17705&24823&16319&23521&12800&17411&27636&16263&5064&8913&20640&8534&18392&14377&17599&11867&14709&13183&14265&25201",
+        "png":"oge0od181dea9184440be82c4e13e30670bbf",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/f1590e660b5347c764b0de8ba7014cd3.jpg"
+    }},
+
+    {"id":499428623, "alias":"Chissek", "featured":false, "info":{
+        "date":"2021/06/14", "name":"gala de invierno",
+        "code":"1253&19843&19876&21131&21675&17684&16264&17576&19904&25170&18787&17969&19069&5799",
+        "png":"oge0o48ab499be7434069906fb94e1bfc19fb",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/d396609e1661b12fe919acd29a3de5ec.jpg"
+    }},
+
+    {"id":660671411, "alias":"Chissek", "featured":false, "info":{
+        "date":"2021/06/14", "name":null,
+        "code":"1276&8908&15726&5072&14200&22274&26530&22232&18955&18943&17178&5112&14662&22626&18979&14268&21059",
+        "png":"oge0oe7572c1655a7442eb62dd4d6c08908da",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/ea07abfb2c6d3fcb3934c3ee79d2bea8.jpg"
+    }},
+
+    {"id":381057000, "alias":"Chissek", "featured":false, "info":{
+        "date":"2021/06/14", "name":"princesa sirena",
+        "code":"24836&24176&18274&18161&16261&28422&23279&5205&28181&27605&26906&22044&17835&23927&21823&3528&14265&24628&24680&23105&4432",
+        "png":"oge0occ50c4895048403bad47b107d28bc17e",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/63e72b1ae300c4f868151723457dc26f.jpg"
+    }},
+
+    {"id":176422087, "alias":"Luxi", "featured":false, "info":{
+        "date":"2021/06/13", "name":"Guardiana del fuego",
+        "code":"25419&26506&14519&23278&19335&24252&17914&16487&18847&24982&22032",
+        "png":"oge0o260af0a17d8b4afdb430de3d034eeee7",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/a1bb36dda9bc7e81bf91f913092653f6.jpg"
+    }},
+
+    {"id":527786409, "alias":"Aradia", "featured":false, "info":{
+        "date":"2021/06/13", "name":"Steampunk vibes(?",
+        "code":"21327&18283&18153&8924&16685&20346&21443&23771&28442&24997&14742&24285&28363&20997&23835&20952&21061&21212&8962&13812&15296&21491&23775&21487&6736&9514&6768&14243&2450&25212",
+        "png":"oge0odc04b5145f4f4309ab92016dc2ffbe82",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/7842bcdf84b0df33db84ff71a47f8090.jpg"
+    }},
+
+    {"id":641858441, "alias":"Panfrulo", "featured":false, "info":{
+        "date":"2021/06/13", "name":"Princesa helada",
+        "code":"691&18278&23184&18158&26667&12998&17219&6143&20804&22862&20255&16270&23149&23722&28507&16380&22961&23653&12250&6627&23703&23358&9387&20729&15311",
+        "png":"oge0o3077cf0faf3b4ce085ce58dda608d734",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/fe6e7fa5d3c5153ea51c24fb15771735.jpg"
+    }},
+
+    {"id":482195708, "alias":"Alessana", "featured":false, "info":{
+        "date":"2021/06/13", "name":"Sombra",
+        "code":"21897&27133&23275&19341&21998&8577&13167&25268&25071&14246&8582&19744&27611&18195&6998",
+        "png":"oge0o7cbcab252d1d437190981b3c02b6c428",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/7446fdf0a70db212307b30ed47d8f979.jpg"
+    }},
+
+    {"id":597658164, "alias":"Chissek", "featured":false, "info":{
+        "date":"2021/06/13", "name":null,
+        "code":"21330&16260&18158&18727&28294&17968&26450&26904&28176&28472&13817&15331&25108&22968&23570&8534&7805&18392&22386&20331&22475&6985",
+        "png":"oge0o8c7c34cc14f24099bb7a95cf3bcb392a",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/02a37319279272ca3f1fae8de83ff685.jpg"
+    }},
+
+    {"id":938392656, "alias":"Chissek", "featured":false, "info":{
+        "date":"2021/06/13", "name":"princesa Anabelle",
+        "code":"1253&14196&13913&16258&6379&9872&11868&27614&22436&17981&21891&26560&22401&12132&11869&27664&15833&8534&7805&15857&11867&25381&13183&14337&19346&14265&23094&16403&21058",
+        "png":"oge0ocff4926f0f65428588c9165907a30831",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/e44f971281eef7406d9668286d3a3fac.jpg"
+    }},
+
     {"id":905991817, "alias":"AdyCeci", "featured":false, "info":{
         "date":"2021/06/12", "name":"Music",
         "code":"16280&691&21361&18538&18541&4400&17411&16658&18539&17407&5195&16287&24153&24155&15866&23762",
@@ -944,7 +1014,7 @@
         "background":"https://www.eldarya.com/assets/img/item/player/web_full/5953004d61f2c4fb8a9dd9579213ae61.jpg"
     }},
 
-    {"id":769322240, "alias":"Luxii", "featured":false, "info":{
+    {"id":769322240, "alias":"Luxi", "featured":false, "info":{
         "date":"2021/05/07", "name":null,
         "code":"26110&11564&12109&22645&9710&23509&22669&24938&26165&16470&24978&17559&5264&5631&18680&8835&19353",
         "png":"1ld3638cf954c409d48df9a508e20dbd256b6",
