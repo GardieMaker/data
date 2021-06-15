@@ -4242,7 +4242,7 @@
         "background":"https://www.eldarya.com/assets/img/item/player/web_full/7d5f58d9ab5ef9d1e269ea554be3f34d.jpg"
     }},
 
-    {"id":897523168, "alias":"angye", "featured":false, "info":{
+    {"id":897523168, "alias":"angye", "featured":true, "info":{
         "date":"2020/09/27", "name":null,
         "png":"7tprsb8f3082846274f88940ea269a9527d8a",
         "code":"1275&16375&19142&19201&20229&19499&16906&16907&17171&18733&14292&19850&5195&23579&19227&22896&19535&2385&23097&6995",
