@@ -8056,39 +8056,39 @@
         "english":"(x)Meseta hostil, de noche"
     },
 	{"groupId":27564, "category":"Accesorios manos", "rarity":"Legendario", "note":"Costales", "especial":"costales",
-		"spanish":"(x)Path of the Sun Sceptre",
+		"spanish":"Cetro Path of the Sun",
 		"english":"Path of the Sun Sceptre"
 	},
 	{"groupId":27574, "category":"Sombreros", "rarity":"Legendario", "note":"Costales", "especial":"costales",
-		"spanish":"(x)Path of the Sun Crown",
+		"spanish":"Corona Path of the Sun",
 		"english":"Path of the Sun Crown"
 	},
 	{"groupId":27584, "category":"Accesorios cara", "rarity":"Legendario", "note":"Costales", "especial":"costales",
-		"spanish":"(x)Path of the Sun Veil",
+		"spanish":"Velo Path of the Sun",
 		"english":"Path of the Sun Veil"
 	},
 	{"groupId":27594, "category":"Partes de arriba", "rarity":"Legendario", "note":"Costales", "especial":"costales",
-		"spanish":"(x)Path of the Sun Bustier",
+		"spanish":"Top Path of the Sun",
 		"english":"Path of the Sun Bustier"
 	},
     {"groupId":27604, "category":"Abrigos", "rarity":"Legendario", "note":"Costales", "especial":"costales",
-    	"spanish":"(x)Path of the Sun Coat",
+    	"spanish":"Abrigo Path of the Sun",
     	"english":"Path of the Sun Coat"
     },
     {"groupId":27614, "category":"Vestidos", "rarity":"Legendario", "note":"Costales", "especial":"costales",
-    	"spanish":"(x)Path of the Sun Dress",
+    	"spanish":"Vestido Path of the Sun",
     	"english":"Path of the Sun Dress"
     },
     {"groupId":27624, "category":"Partes de arriba", "rarity":"Legendario", "note":"Costales", "especial":"costales",
-    	"spanish":"(x)Path of the Sun Top",
+    	"spanish":"Blusa Path of the Sun",
     	"english":"Path of the Sun Top"
     },
     {"groupId":27634, "category":"Zapatos", "rarity":"Legendario", "note":"Costales", "especial":"costales",
-    	"spanish":"(x)Path of the Sun Sandals",
+    	"spanish":"Sandalias Path of the Sun",
     	"english":"Path of the Sun Sandals"
     },
     {"groupId":27644, "category":"Cabello", "rarity":"Legendario", "note":"Costales", "especial":"costales",
-    	"spanish":"(x)Marici",
+    	"spanish":"Marici",
     	"english":"Marici"
     },
 	{"groupId":28171, "category":"Pantalones", "rarity":"Épico", "note":"Costales", "especial":"costales",
