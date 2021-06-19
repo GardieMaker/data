@@ -7289,6 +7289,22 @@
 		"spanish":"The Guardian's Sword",
 		"english":"The Guardian's Sword"
 	},
+	{"groupId":25214, "category":"Fondos", "rarity":"Común", "note":"Tienda",
+	    "spanish":"(x)Circle of Mushrooms",
+	    "english":"Circle of Mushrooms"
+	},
+	{"groupId":25215, "category":"Fondos", "rarity":"Común", "note":"Tienda",
+	    "spanish":"(x)Circle of Mushrooms",
+	    "english":"Circle of Mushrooms"
+	},
+	{"groupId":25216, "category":"Fondos", "rarity":"Común", "note":"Tienda",
+	    "spanish":"(x)Deep Forest",
+	    "english":"Deep Forest"
+	},
+	{"groupId":25217, "category":"Fondos", "rarity":"Común", "note":"Tienda",
+	    "spanish":"(x)Deep Forest",
+	    "english":"Deep Forest"
+	},
 	{"groupId":25218, "category":"Accesorios manos", "rarity":"Común", "note":"Episodio 1 (A New Era)", "especial":"episodios", 
 		"spanish":"Mangas Guardian Returns",
 		"english":"Guardian Returns Sleeves"
@@ -7297,14 +7313,46 @@
 		"spanish":"Ropa interior Guardian Returns",
 		"english":"Basic Lingerie"
 	},
+    {"groupId":25220, "category":"Fondos", "rarity":"Común", "note":"Tienda",
+        "spanish":"(x)Edge of the Forest",
+        "english":"Edge of the Forest"
+    },
+    {"groupId":25221, "category":"Fondos", "rarity":"Común", "note":"Tienda",
+        "spanish":"(x)Edge of the Forest",
+        "english":"Edge of the Forest"
+    },
 	{"groupId":25222, "category":"Ropa interior", "rarity":"Común", "note":"Tienda", 
 		"spanish":"Body Shadow Walker",
 		"english":"Shadow Walker Body Blouse"
 	},
+    {"groupId":25227, "category":"Fondos", "rarity":"Común", "note":"Tienda",
+        "spanish":"(x)Crossroad",
+        "english":"Crossroad"
+    },
+    {"groupId":25233, "category":"Fondos", "rarity":"Común", "note":"Tienda",
+        "spanish":"(x)Crossroad",
+        "english":"Crossroad"
+    },
+    {"groupId":25234, "category":"Fondos", "rarity":"Común", "note":"Tienda",
+        "spanish":"(x)Burrow",
+        "english":"Burrow"
+    },
+    {"groupId":25235, "category":"Fondos", "rarity":"Común", "note":"Tienda",
+        "spanish":"(x)Burrow",
+        "english":"Burrow"
+    },
 	{"groupId":25236, "category":"Sombreros", "rarity":"Común", "note":"Tienda", 
 		"spanish":"Capucha Shadow Walker",
 		"english":"Shadow Walker Hood"
 	},
+    {"groupId":25240, "category":"Fondos", "rarity":"Común", "note":"Tienda",
+        "spanish":"(x)Council Room",
+        "english":"Council Room"
+    },
+    {"groupId":25246, "category":"Fondos", "rarity":"Común", "note":"Tienda",
+        "spanish":"(x)Council Room",
+        "english":"Council Room"
+    },
 	{"groupId":25248, "category":"Abrigos", "rarity":"Común", "note":"Tienda", 
 		"spanish":"Capa Shadow Walker",
 		"english":"Shadow Walker Cape"
@@ -7416,6 +7464,18 @@
 	{"groupId":25539, "category":"Sombreros", "rarity":"Evento", "note":"Halloween 2020", 
 		"spanish":"Diadema Rag Doll",
 		"english":"Rag Doll Headband"
+	},
+	{"groupId":25640, "category":"Fondos", "rarity":"Común", "note":"Exploración",
+	    "spanish":"Abismos",
+	    "english":"(x)Abismos"
+	},
+	{"groupId":25641, "category":"Fondos", "rarity":"Común", "note":"Exploración",
+	    "spanish":"Orillas heladas",
+	    "english":"(x)Orillas heladas"
+	},
+	{"groupId":25642, "category":"Fondos", "rarity":"Común", "note":"Exploración",
+	    "spanish":"Orillas heladas",
+	    "english":"(x)Orillas heladas"
 	},
 	{"groupId":25763, "category":"Cabello", "rarity":"Evento", "note":"Navidad 2020", 
 		"spanish":"Laurine",
@@ -7691,7 +7751,6 @@
 		"spanish":"Lindsay",
 		"english":"Lindsay"
 	},
-
 	{"groupId":26638, "category":"Cabello", "rarity":"Épico", "note":"Exploración", 
 		"spanish":"Maebh",
 		"english":"Maebh"
@@ -7864,86 +7923,138 @@
 		"spanish":"Collar Children's Nightmare",
 		"english":"(x)Collar Children's Nightmare"
 	},
-
 	{"groupId":27106, "category":"Accesorios cara", "rarity":"Evento", "note":"Pascua 2021",
 		"spanish":"Gafas Children's Nightmare",
 		"english":"(x)Gafas Children's Nightmare"
 	},
-
 	{"groupId":27116, "category":"Vestidos", "rarity":"Evento", "note":"Pascua 2021",
 		"spanish":"Vestido Children's Nightmare",
 		"english":"(x)Vestido Children's Nightmare"
 	},
-
 	{"groupId":27126, "category":"Pieles", "rarity":"Evento", "note":"Pascua 2021",
 		"spanish":"Piel Children’s Nightmare",
 		"english":"(x)Piel Children’s Nightmare"
 	},
-
 	{"groupId":27136, "category":"Cabello", "rarity":"Evento", "note":"Pascua 2021",
 		"spanish":"Misty",
 		"english":"(x)Misty"
 	},
-
 	{"groupId":27265, "category":"Zapatos", "rarity":"Evento", "note":"Pascua 2021",
 		"spanish":"Zapatillas Plushie Dreams",
 		"english":"(x)Zapatillas Plushie Dreams"
 	},
-
 	{"groupId":27275, "category":"Vestidos", "rarity":"Evento", "note":"Pascua 2021",
 		"spanish":"Combinación Plushie Dreams",
 		"english":"(x)Combinación Plushie Dreams"
 	},
-
 	{"groupId":27285, "category":"Accesorios cara", "rarity":"Evento", "note":"Pascua 2021",
 		"spanish":"Máscara Plushie Dreams *",
 		"english":"(x)Máscara Plushie Dreams *"
 	},
-
 	{"groupId":27295, "category":"Ambientes", "rarity":"Evento", "note":"Pascua 2021",
 		"spanish":"Nieve estrella Plushie Dreams",
 		"english":"(x)Nieve estrella Plushie Dreams"
 	},
-
 	{"groupId":27305, "category":"Cabello", "rarity":"Evento", "note":"Pascua 2021",
 		"spanish":"Masha",
 		"english":"(x)Masha"
 	},
-
 	{"groupId":27331, "category":"Cabello", "rarity":"Evento", "note":"Pascua 2021",
 		"spanish":"Oasis",
 		"english":"(x)Oasis"
 	},
-
 	{"groupId":27357, "category":"Accesorios manos", "rarity":"Evento", "note":"Pascua 2021",
 		"spanish":"Pistola de plasma Children's Hero *",
 		"english":"(x)Pistola de plasma Children's Hero *"
 	},
-
 	{"groupId":27367, "category":"Partes de arriba", "rarity":"Evento", "note":"Pascua 2021",
 		"spanish":"Chaleco Children's Hero",
 		"english":"(x)Chaleco Children's Hero"
 	},
-
 	{"groupId":27377, "category":"Pantalones", "rarity":"Evento", "note":"Pascua 2021",
 		"spanish":"Pantalón Children's Hero",
 		"english":"(x)Pantalón Children's Hero"
 	},
-
 	{"groupId":27387, "category":"Guantes", "rarity":"Evento", "note":"Pascua 2021",
 		"spanish":"Guantes Children's Hero",
 		"english":"(x)Guantes Children's Hero"
 	},
-
 	{"groupId":27397, "category":"Zapatos", "rarity":"Evento", "note":"Pascua 2021",
 		"spanish":"Botas Children's Hero",
 		"english":"(x)Botas Children's Hero"
 	},
-
 	{"groupId":27407, "category":"Ambientes", "rarity":"Evento", "note":"Pascua 2021",
 		"spanish":"Píxeles Children's Hero",
 		"english":"(x)Píxeles Children's Hero"
 	},
+    {"groupId":27418, "category":"Partes de arriba", "rarity":"Común", "note":"Exploración",
+        "spanish":"Jersey Malvavisco",
+        "english":"(x)Jersey Malvavisco"
+    },
+    {"groupId":27428, "category":"Fondos", "rarity":"Común", "note":"Tienda",
+        "spanish":"Techo terraza",
+        "english":"(x)Techo terraza"
+    },
+	{"groupId":27429, "category":"Abrigos", "rarity":"Común", "note":"Exploración",
+        "spanish":"Jersey Polar",
+        "english":"(x)Jersey Polar"
+    },
+    {"groupId":27439, "category":"Cinturones", "rarity":"Común", "note":"Exploración",
+        "spanish":"Cinturón Cristalizado",
+        "english":"(x)Cinturón Cristalizado"
+    },
+    {"groupId":27449, "category":"Zapatos", "rarity":"Común", "note":"Exploración",
+        "spanish":"Botas acuáticas",
+        "english":"(x)Botas acuáticas"
+    },
+    {"groupId":27459, "category":"Ropa interior", "rarity":"Común", "note":"Exploración",
+        "spanish":"Mono Escualo",
+        "english":"(x)Mono Escualo"
+    },
+    {"groupId":27469, "category":"Collares", "rarity":"Común", "note":"Exploración",
+        "spanish":"Collar Gotas",
+        "english":"(x)Collar Gotas"
+    },
+    {"groupId":27479, "category":"Cinturones", "rarity":"Épico", "note":"Tienda", "especial":"episodios",
+        "spanish":"Cinturón Pride of Hatteras",
+        "english":"(x)Cinturón Pride of Hatteras"
+    },
+    {"groupId":27489, "category":"Zapatos", "rarity":"Épico", "note":"Tienda", "especial":"episodios",
+        "spanish":"Botas Pride of Hatteras",
+        "english":"(x)Botas Pride of Hatteras"
+    },
+    {"groupId":27499, "category":"Vestidos", "rarity":"Épico", "note":"Tienda", "especial":"episodios",
+        "spanish":"Vestido Pride of Hatteras",
+        "english":"(x)Vestido Pride of Hatteras"
+    },
+    {"groupId":27509, "category":"Abrigos", "rarity":"Épico", "note":"Tienda", "especial":"episodios",
+        "spanish":"Abrigo Pride of Hatteras",
+        "english":"(x)Abrigo Pride of Hatteras"
+    },
+    {"groupId":27519, "category":"Guantes", "rarity":"Épico", "note":"Tienda", "especial":"episodios",
+        "spanish":"Guantes Pride of Hatteras",
+        "english":"(x)Guantes Pride of Hatteras"
+    },
+    {"groupId":27529, "category":"Pantalones", "rarity":"Épico", "note":"Tienda", "especial":"episodios",
+        "spanish":"Pantalón Pride of Hatteras",
+        "english":"(x)Pantalón Pride of Hatteras"
+    },
+    {"groupId":27539, "category":"Abrigos", "rarity":"Épico", "note":"Tienda", "especial":"episodios",
+        "spanish":"Armadura Pride of Hatteras",
+        "english":"(x)Armadura Pride of Hatteras"
+    },
+    {"groupId":27549, "category":"Fondos", "rarity":"Común", "note":"Tienda",
+        "spanish":"Techo terraza, de noche",
+        "english":"(x)Techo terraza, de noche"
+    },
+    {"groupId":27550, "category":"Fondos", "rarity":"Común", "note":"Tienda",
+        "spanish":"Planta baja",
+        "english":"(x)Planta baja"
+    },
+    {"groupId":27553, "category":"Fondos", "rarity":"Común", "note":"Tienda",
+        "spanish":"Meseta hostil, de noche",
+        "english":"(x)Meseta hostil, de noche"
+    },
 	{"groupId":27564, "category":"Accesorios manos", "rarity":"Legendario", "note":"Costales", "especial":"costales",
 		"spanish":"(x)Path of the Sun Sceptre",
 		"english":"Path of the Sun Sceptre"
