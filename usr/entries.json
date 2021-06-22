@@ -1,4 +1,60 @@
 [
+    {"id":312665840, "alias":"AdyCeci", "featured":false, "info":{
+        "date":"2021/06/22", "name":"Nayeon Alcohol Free",
+        "code":"10465&691&21147&10726&22534&4400&5195&16823&11417&16987&8652&20724&24347",
+        "png":"oifyxb66914b4c86540ecbb224e84824cfd90",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/88e4a8ee118750cbd968a9966e491cd5.jpg"
+    }},
+
+    {"id":226937935, "alias":"Lillia", "featured":false, "info":{
+        "date":"2021/06/22", "name":"Luxie",
+        "code":"21895&27301&1247&27645&28441&17550&5192&28471&28451&28468&28491&28481&28501&28518&28431&27565&24231&15225&6768&23094&25209",
+        "png":"oifyx08b9f8bf9c0b44a7b8020e1f2403f677",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/37915cbd9266307c96f505d42890f3b5.jpg"
+    }},
+
+    {"id":733394215, "alias":"Alessana", "featured":false, "info":{
+        "date":"2021/06/22", "name":"Mujer Lobo",
+        "code":"28175&26959&4992&5002&18927&6287&5020&5011&25998&10310&6309&6447&25977&25221",
+        "png":"oifyxbefccf8c2d6f4b2f8f60ace7dd40b9c5",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/10434e8252d36f7c25f152e52b389603.jpg"
+    }},
+
+    {"id":704930766, "alias":"Panfrulo", "featured":false, "info":{
+        "date":"2021/06/22", "name":null,
+        "code":"26499&23416&16294&11908&7758&5548&16282&26569&26183&19353",
+        "png":"oifyx2aaa67dbff5849629e6774223a8b2ac6",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/f09cc9b21a0cf86b553ede2973ba1e8e.jpg"
+    }},
+
+    {"id":361065902, "alias":"IImicaII", "featured":false, "info":{
+        "date":"2021/06/22", "name":"Viaje a las montañas",
+        "code":"21823&1246&16317&7907&20220&27651&27505&5212&18392&21220&23775&23393&2162&27428",
+        "png":"oifyxfe4e86ce66c9431e928b1a511d35f32e",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/94b0dcbf4d6539124b24f65691b6026c.jpg"
+    }},
+
+    {"id":298903243, "alias":"Panfrulo", "featured":false, "info":{
+        "date":"2021/06/21", "name":"Gatita espacial",
+        "code":"27259&26957&1776&27467&24805&24811&27224&27019&22728&1304&17751&10468&13812&25642",
+        "png":"oifyxd7a5368c593949f5be724baef33689b6",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/6261852a0b389bba7041538602fe1984.jpg"
+    }},
+
+    {"id":444701146, "alias":"Lynn", "featured":false, "info":{
+        "date":"2021/06/21", "name":"Cancer spirit guardian",
+        "code":"24361&20270&5244&24756&24663&24607&24686&24486&24638&14049&24621&24579&24674&24474&24590&24347",
+        "png":"oifyxe7a0c2ca9f7f40e6bc3fd25d4c57de5c",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/88e4a8ee118750cbd968a9966e491cd5.jpg"
+    }},
+
+    {"id":262979277, "alias":"Lynn", "featured":false, "info":{
+        "date":"2021/06/21", "name":"Lynn adventure time (Balenvia)",
+        "code":"691&20357&13394&692&21364&5193&21455&14265&25075&1987&24167&8534&13196&10460",
+        "png":"oifyx3899e63bb3464e92be75e2037ef404e1",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/55e9e05d1538e19b6862275f9f787c35.jpg"
+    }},
+
     {"id":668540322, "alias":"Lynn", "featured":false, "info":{
         "date":"2021/06/20", "name":"Lilith fit 4 New Era",
         "code":"1276&4389&5235&23787&22341&24997&10485&23844&22238&25069&14265&26919&25203",
@@ -27,7 +83,7 @@
         "background":"https://www.eldarya.com/assets/img/item/player/web_full/ebe3cacec9acff9a1ae9d9554a3192c0.jpg"
     }},
 
-    {"id":321978173, "alias":"Evvie", "featured":false, "type":"cosplay", "info":{
+    {"id":321978173, "alias":"Febe", "featured":false, "type":"cosplay", "info":{
         "date":"2021/06/19", "name":"Lady Loki",
         "code":"7925&17890&16574&10217&11616&26227&4373&23066&20396&27509&16232&5219&25214",
         "png":"2mej298539fb098f44b668466fc1e7123b1ca",
@@ -1350,8 +1406,8 @@
         "background":"https://www.eldarya.com/assets/img/item/player/web_full/53e514ef4755715255b473e067064acd.jpg"
     }},
 
-    {"id":430680451, "alias":"Evvie", "featured":false, "info":{
-        "date":"2021/05/07", "name":"Evvie ♡",
+    {"id":430680451, "alias":"Febe", "featured":false, "info":{
+        "date":"2021/05/07", "name":"Febe ♡",
         "code":"1249&22239&4617&18714&5235&25755&14415&23840&14226&20397&23348&25310&25210",
         "png":"1ld36c918fe07ddac43f48f5d7ccbeb814f4e",
         "background":"https://www.eldarya.com/assets/img/item/player/web_full/866c518ae55596a6aff60f125f03c9b1.jpg"
