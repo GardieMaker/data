@@ -769,7 +769,7 @@
         "background":"https://www.eldarya.com/assets/img/item/player/web_full/37915cbd9266307c96f505d42890f3b5.jpg"
     }},
 
-    {"id":998839419, "alias":"ShiroNeKo-D", "featured":false, "info":{
+    {"id":998839419, "alias":"ShiroNeKo-D", "featured":true, "info":{
         "date":"2021/06/07", "name":null,
         "code":"16276&27298&27615&27579&1251&14223&14222&14221&12218&21583&18156&18278&27605&24142&21868&5193&23413&17418&6768&26579&25208",
         "png":"6hy7bdd3e7b45f93642f8b3ec33c250a18e0a",
