@@ -1,4 +1,165 @@
 [
+    {"id":762814738, "alias":"Millie", "featured":false, "info":{
+        "date":"2021/06/25", "name":"Bichota queen",
+        "code":"21895&1276&5215&16666&12879&16265&17891&8469&17683&8053&13602&19352&12277&8789&6724&16355&23094&18549",
+        "png":"6rsb04d6a6215225f450ea14a138850758151",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/113dabb349d3797b5791df479ff7df02.jpg"
+    }},
+
+    {"id":673927338, "alias":"Alessana", "featured":false, "info":{
+        "date":"2021/06/25", "name":"Lucifer",
+        "code":"21891&6902&12102&6713&6718&1275&23446&16376&28180&18891&18855&19818&18867&20118&24902&23653&6928&26906&6655&12270&19668&15833&28509&25234",
+        "png":"6rsb0a16592c5d907464a9d792e27600871bb",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/ff127c4b152504330c23c396584471b1.jpg"
+    }},
+
+    {"id":744146208, "alias":"Lynn", "featured":false, "info":{
+        "date":"2021/06/25", "name":"Lynn Shadow walker",
+        "code":"691&25258&28329&5195&692&22510&13194&2379&25248&13196&8534&23844&14265&25075&25216",
+        "png":"6rsb0215bbbe795e4471ba7f41bc8427f5b7b",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/f72d841fdf9ae9541037d7e0f29e6984.jpg"
+    }},
+
+    {"id":606421932, "alias":"Alessana", "featured":false, "info":{
+        "date":"2021/06/25", "name":"Espíritu de Invierno",
+        "code":"25056&21895&6449&27295&18380&8557&25136&25396&24127&19343&24905&22623&27615&17782&20273&5192&27565&8016&2446&6450&25641",
+        "png":"6rsb0aa0ec6f8a1ef45dfb1cb1658ef92adfd",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/73705696918c88734fbb82f1a5554a23.jpg"
+    }},
+
+    {"id":922176571, "alias":"Chissek", "featured":false, "info":{
+        "date":"2021/06/25", "name":null,
+        "code":"24958&1276&17910&24830&28337&27462&27449&14265&28377&16268&24807&8210&23770&23455&24147&20727&24674&25956&15359&15360&6769&24347",
+        "png":"6rsb037d6bb00588345469c67d4b4ea2dae5f",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/88e4a8ee118750cbd968a9966e491cd5.jpg"
+    }},
+
+    {"id":435144911, "alias":"Genesis", "featured":false, "info":{
+        "date":"2021/06/24", "name":"Khadine ♥",
+        "code":"23852&1249&11802&28333&21202&26452&8373&22840&23816&18158&16266&18283&8582&4410&23145&8908&25448&8570&25302&20427&24345&18394&16406&24348",
+        "png":"6rsb0ae4c7c1831254496866fcb499ce29163",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/a2daa65b25e483289cb7c1feab914caa.jpg"
+    }},
+
+    {"id":931981054, "alias":"Genesis", "featured":false, "info":{
+        "date":"2021/06/24", "name":"Meline ♥",
+        "code":"16270&1249&10906&12790&18158&18283&16266&4425&23464&23823&24905&12063&8906&27620&28374&17854&8624&7739&8962&7805&16344&13502&23747&12239&26662&25217",
+        "png":"6rsb0abd42438efdd48748e9789167f31207e",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/1cb101403ebd68f0eb46336f5c8160cd.jpg"
+    }},
+
+    {"id":884251328, "alias":"Lynn", "featured":false, "info":{
+        "date":"2021/06/24", "name":"Lilith music festival (18 years)",
+        "code":"27612&1276&4389&5235&18271&8575&14365&14167&18259&15798&19199&25069&20331&16786",
+        "png":"6rsb0d04d6c9ca15349698c49515dc35f033b",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/def68a8d1b2d42a2936736a5b63028bd.jpg"
+    }},
+
+    {"id":400114123, "alias":"Genesis", "featured":false, "info":{
+        "date":"2021/06/24", "name":"Erizel ♥",
+        "code":"18534&1249&18274&17174&27506&4405&5202&22985&8457&21491&8962&21170&22030&23349&23293&20425&6768&23745&18393&21058",
+        "png":"6rsb073a081098e154f61912f041fa7b3bfff",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/e44f971281eef7406d9668286d3a3fac.jpg"
+    }},
+
+    {"id":465435537, "alias":"ShiroNeKo-D", "featured":false, "info":{
+        "date":"2021/06/24", "name":null,
+        "code":"21896&6711&6891&16519&26569&1251&24825&19577&7783&16397&23149&27595&16654&5213&26579&2446&6768&11456&25208",
+        "png":"6rsb0852505d3a3cf4672aad0b18c62e3d6b1",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/e9b585d4f48cf9a565a83625ca7ab747.jpg"
+    }},
+
+    {"id":494191238, "alias":"berny chan", "featured":false, "type":"cosplay", "info":{
+        "date":"2021/06/24", "name":"Rarity (mlp)",
+        "code":"16365&1277&18280&4390&23663&8374&23509&13378&3108&16649&2249&18212&14212&22973&27017&23094&6768&18308&25207",
+        "png":"6rsb0159ab6c2f8264b0aba9bba8ab27c98b4",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/24d9d1ee8f8500be303b20dd5f1415e1.jpg"
+    }},
+
+    {"id":102279558, "alias":"ShiroNeKo-D", "featured":false, "info":{
+        "date":"2021/06/24", "name":null,
+        "code":"5114&4992&6450&1251&11695&24692&26025&27536&8579&28207&25278&13194&11639&20276&8578&27516&28288&6496&12280&5575&10757&25641",
+        "png":"6rsb09d58b9e448a540f38e4c9a053ef9817d",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/73705696918c88734fbb82f1a5554a23.jpg"
+    }},
+
+    {"id":373720636, "alias":"berny chan", "featured":false, "type":"cosplay", "info":{
+        "date":"2021/06/24", "name":"Lagoona Blue",
+        "code":"24361&18277&22934&5554&12557&24349&2842&21959&28313&28337&24462&25825&24474&7812&23761&13173&2324&24347",
+        "png":"6rsb07444875226974edb82d6b5d772119106",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/88e4a8ee118750cbd968a9966e491cd5.jpg"
+    }},
+
+    {"id":914703423, "alias":"ShiroNeKo-D", "featured":false, "info":{
+        "date":"2021/06/24", "name":null,
+        "code":"25056&12124&21861&1251&5566&17777&12597&18280&16319&14071&14239&18865&25374&16397&17931&11877&27577&20273&2446&6768&24978&22033",
+        "png":"6rsb03c72a837bc3b455dac77fe8cbc147a1b",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/ed762016507ded578d6d54c1fed42f03.jpg"
+    }},
+
+    {"id":342240330, "alias":"ShiroNeKo-D", "featured":false, "info":{
+        "date":"2021/06/24", "name":null,
+        "code":"23214&25962&12602&1251&7805&18278&23414&14634&17855&20269&22511&4977&5232&22611&12158&25221",
+        "png":"6rsb0535ccf85e26a4b3c8e2c2bba94387369",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/10434e8252d36f7c25f152e52b389603.jpg"
+    }},
+
+    {"id":776346262, "alias":"ShiroNeKo-D", "featured":false, "info":{
+        "date":"2021/06/24", "name":null,
+        "code":"13333&23855&1251&18274&28334&18989&26897&14913&18965&26913&26661&21301&4313&20220&5243&8962&10665&21592&23100&13186&10457",
+        "png":"6rsb080520739e20e4f06907853a359a58da2",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/0dafc123ad850f6e5b8f4a99ad2234b9.jpg"
+    }},
+
+    {"id":273636962, "alias":"Aradia", "featured":false, "info":{
+        "date":"2021/06/24", "name":"Music Witch",
+        "code":"13329&1279&18272&9519&7294&5204&6389&28314&10509&27407&18780&8964&27640&13311&14413&24227&23960&22779&21759&21654&6768",
+        "png":"6rsb091b2c33a28ed4f4b9abd84571bafeebf",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/ebe3cacec9acff9a1ae9d9554a3192c0.jpg"
+    }},
+
+    {"id":827419659, "alias":"ShiroNeKo-D", "featured":false, "info":{
+        "date":"2021/06/24", "name":null,
+        "code":"19309&16278&6711&1251&26440&19159&24827&11941&5233&20570&8574&21856&21882&6101&6090&12076&28181&19076&20581&26572&18308&6768&20114",
+        "png":"6rsb0c8f18361b8fe49d5b18968803ff204aa",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/5953004d61f2c4fb8a9dd9579213ae61.jpg"
+    }},
+
+    {"id":369731327, "alias":"ShiroNeKo-D", "featured":false, "info":{
+        "date":"2021/06/23", "name":null,
+        "code":"21596&11817&7924&18279&20236&28466&26882&19236&20162&26707&23298&16494&14805&27469&18766&17327&5245&17321&8783&2446&20114",
+        "png":"6rsb0f5a6b1bd9e4644398f09a15efce447db",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/5953004d61f2c4fb8a9dd9579213ae61.jpg"
+    }},
+
+    {"id":265177747, "alias":"Athennea", "featured":false, "info":{
+        "date":"2021/06/23", "name":"Eris",
+        "code":"1246&13880&8908&26530&26881&14262&26901&13334&14918&15151&22605&26946&13644&15296&14272&25214",
+        "png":"6rsb0694bfe6b7e4546c79306b041dc64af7c",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/b6d9f483150b7dc06e42736a2cb174fd.jpg"
+    }},
+
+    {"id":772208586, "alias":"Lynn", "featured":false, "info":{
+        "date":"2021/06/23", "name":"Aries Spirit guardian",
+        "code":"21894&26086&13173&17526&28323&13161&17561&5271&14265&11028&23097&21359&5102&19340",
+        "png":"6rsb03c039fd173504fb9a5e1a8ef1c8ffd3e",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/b5dca12e632fff46a8c3916eb53423db.jpg"
+    }},
+
+    {"id":608746707, "alias":"Erya", "featured":false, "info":{
+        "date":"2021/06/23", "name":null,
+        "code":"4988&1262&16511&14847&26692&17705&18883&23794&23764&6251&18283&16685&17094&26858&28361&28485&24430&28178&27597&22723&15297&16402&22006&25215",
+        "png":"6rsb0243dadf3eaa24b368894e7d60863f135",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/5a9fcb13e48d3c04f446e4af4025120e.jpg"
+    }},
+
+    {"id":634724890, "alias":"Lillia", "featured":false, "info":{
+        "date":"2021/06/23", "name":"Lylit",
+        "code":"25419&26807&9753&18283&25079&19877&19199&20329&23844&4702&19148&21868&27092&25529&14252&26946&25399&21352&14217",
+        "png":"6rsb01cd695c5fbd84277ab62b1e5215f2f4e",
+        "background":"https://www.eldarya.com/assets/img/item/player/web_full/df5f3b3f8fcf85fb7b4355fa63ae299f.jpg"
+    }},
+
     {"id":312665840, "alias":"AdyCeci", "featured":false, "info":{
         "date":"2021/06/22", "name":"Nayeon Alcohol Free",
         "code":"10465&691&21147&10726&22534&4400&5195&16823&11417&16987&8652&20724&24347",
