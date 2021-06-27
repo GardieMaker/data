@@ -1,4 +1,53 @@
 [
+    {"id":511561005, "alias":"Sophie", "featured":false, "info":{
+        "date":"2021/06/27", "name":"Fallen Angel",
+        "code":"26496i26447i26828i22646i9754i28343i14264i28323i22235i14587i23835i24997i24947i25126i8584i14246i5552i25071i26568i26923i19148i25399i18903i3647i20330i10310i22031",
+        "png":"jmp9jd6e229a5f1684bae8e6de343e52da36a",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/687089d68e47d461bfcd8e176ebff9c2.jpg"
+    }},
+
+    {"id":479042916, "alias":"broken-endings", "featured":false, "type":"cosplay", "info":{
+        "date":"2021/06/26", "name":"Queen Amidala",
+        "code":"2379i13818i1252i8552i18587i5264i11673i26440i19762i15734i18282i15676i6093i6148i6104i20279i17034i14829i13785i3679i25377i9894i25787i12079i6137i24942i24340i4055i25696i7813i18331i3769i16487i18396i24833i26405i24589i18164i15835i19246i28490i25240",
+        "png":"jmp9jfcbb40a9751d44639871732529f3a78a",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/e9c0f020e8302595baca9bb64f0827e6.jpg"
+    }},
+
+    {"id":636326159, "alias":"Lynn", "featured":false, "info":{
+        "date":"2021/06/26", "name":"sagittarius guardian spirit",
+        "code":"17797i23657i22939i24292i11909i17673i17602i16275i17735i16195i21362i25198",
+        "png":"jmp9jef73dfc558564db5be0e3fb39f814d56",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/c88a19e81dcf9b4ad133ac9bd743d20a.jpg"
+    }},
+
+    {"id":768202247, "alias":"Lynn", "featured":false, "info":{
+        "date":"2021/06/26", "name":"Lynn ep 5 New Era (2)",
+        "code":"691i26451i692i5193i23796i22510i11617i25248i25236i21289i24167i8534i10474i23844i2379i22239i27516i25075i14265i27550",
+        "png":"jmp9jfdaf7790b1bb400fb5b7dee2199482ac",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/e8ae8ca5c80e978312c513c38b461a8a.jpg"
+    }},
+
+    {"id":306379988, "alias":"Lynn", "featured":false, "info":{
+        "date":"2021/06/26", "name":"Lilith ep 5 New Era",
+        "code":"1276i5235i4389i25219i19705i21366i7386i25069i6129i26919i26785i8575i26765i25641",
+        "png":"jmp9j148b56f0ccd04c7f96070d6d3679c92e",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/73705696918c88734fbb82f1a5554a23.jpg"
+    }},
+
+    {"id":541527974, "alias":"Aradia", "featured":false, "info":{
+        "date":"2021/06/26", "name":"Director de Orquesta",
+        "code":"27409i7930i16258i14918i18158i16685i27193i14665i23509i13329i11614i13318i22909i26660i13163i13187i6233i5203i2996i8534i25196",
+        "png":"jmp9jcebdf292cdc94f95a26cb2d48618f5dd",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/5c986bc68d9afc7a9562f8cba874b26e.jpg"
+    }},
+
+    {"id":316738150, "alias":"broken-endings", "featured":false, "info":{
+        "date":"2021/06/26", "name":null,
+        "code":"26165i27595i28263i6767i16389i15870i23263i18530i28181i24809i18969i22864i19496i17180i14558i28338i20984i16897i24679i14225i11630i19504i27449i16445i8835i6363i15834i19604i28516i15846i5218i24266i24078i24978i24626i20114",
+        "png":"jmp9ja3c2e8caccce429e9b0b1aa3b867a902",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/5953004d61f2c4fb8a9dd9579213ae61.jpg"
+    }},
+
     {"id":762814738, "alias":"Millie", "featured":false, "info":{
         "date":"2021/06/25", "name":"Bichota queen",
         "code":"21895i1276i5215i16666i12879i16265i17891i8469i17683i8053i13602i19352i12277i8789i6724i16355i23094i18549",
