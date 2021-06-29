@@ -1658,7 +1658,7 @@
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/ebe3cacec9acff9a1ae9d9554a3192c0.jpg"
     }},
 
-    {"id":386839490, "alias":"Luciel_Lilith", "featured":false, "info":{
+    {"id":386839490, "alias":"Luciel_Lilith", "featured":true, "info":{
         "date":"2021/05/07", "name":"Aneu",
         "code":"1246i22960i6806i5609i25003i23790i17359i20810i15408i21167i23850i11777",
         "png":"1ld36b78b4d45e7374a80b24367701662f599",
