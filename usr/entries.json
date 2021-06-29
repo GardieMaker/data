@@ -1,4 +1,18 @@
 [
+    {"id":848214726, "alias":"Chissek", "featured":false, "info":{
+        "date":"2021/06/29", "name":null,
+        "code":"7926i14196i10963i16319i23766i14291i16265i23278i27624i28295i27534i27642i15296i22362i22335i8534i22386i25240",
+        "png":"okykwc90386a0dd9a4e22b615a2d20e277a35",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/e9c0f020e8302595baca9bb64f0827e6.jpg"
+    }},
+
+    {"id":689479998, "alias":"broken-endings", "featured":false, "info":{
+        "date":"2021/06/28", "name":null,
+        "code":"27575i23208i21895i26963i17741i16906i6530i13188i14317i27614i24617i17020i27610i16261i24831i18272i20249i18330i23183i21786i5192i20228i6970i6556i2688i18069i15859i16380i20147i24278i21058",
+        "png":"okykwbc2a917e63e94878a0af3b25df406d2c",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/e44f971281eef7406d9668286d3a3fac.jpg"
+    }},
+
     {"id":511561005, "alias":"Sophie", "featured":false, "info":{
         "date":"2021/06/27", "name":"Fallen Angel",
         "code":"26496i26447i26828i22646i9754i28343i14264i28323i22235i14587i23835i24997i24947i25126i8584i14246i5552i25071i26568i26923i19148i25399i18903i3647i20330i10310i22031",
