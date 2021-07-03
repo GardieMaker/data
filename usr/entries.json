@@ -1,4 +1,74 @@
 [
+    {"id":282851739, "alias":"ShiroNeKo-D", "featured":false, "info":{
+        "date":"2021/07/03", "name":null,
+        "code":"27295i25965i1245i24663i10778i18993i19601i1121i16686i18969i13351i5560i15675i16862i26022i24042i15663i25233",
+        "png":"av1ss2b7598fa2a484387b84747e15c33e623",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/20e17d442ae2086847b334c85fbeef6f.jpg"
+    }},
+
+    {"id":396214606, "alias":"MartaIV", "featured":false, "type":"cosplay", "info":{
+        "date":"2021/07/02", "name":"Cleo de Nile",
+        "code":"7926i28343i25889i13138i28323i16269i8210i1565i21891i25803i11867i23468i17981i4395i1575i27634i19806i15857i27070i2986i19353",
+        "png":"av1ss57bdc5070a44414c9640ea0ba5ffa721",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/f09cc9b21a0cf86b553ede2973ba1e8e.jpg"
+    }},
+
+    {"id":827833315, "alias":"Gabi Games", "featured":false, "info":{
+        "date":"2021/07/02", "name":"Faery Gabi",
+        "code":"691i18158i21094i16233i12793i12780i12815i18350i8534i2113i5243i13062i17384i16257i16758i9893i21058",
+        "png":"av1ss99d16d0669a645109272e95ef9e8c62f",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/e44f971281eef7406d9668286d3a3fac.jpg"
+    }},
+
+    {"id":544686220, "alias":"MartaIV", "featured":false, "type":"cosplay", "info":{
+        "date":"2021/07/02", "name":"Frankie (Monster High)",
+        "code":"4671i17981i16263i4414i22761i15296i22836i21704i23719i4705i10112i17383i18219i18740",
+        "png":"av1ss09823854ea734c30970adf57ef16778b",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/a11a80969eae42d913fb8d94ee446656.jpg"
+    }},
+
+    {"id":512230123, "alias":"MartaIV", "featured":false, "type":"cosplay", "info":{
+        "date":"2021/07/02", "name":"Angie (Resident Evil VIII)",
+        "code":"25429i25419i22960i23763i26195i5295i16389i20223i16413i18196i9894i22032",
+        "png":"av1ssf0b63adacc5e4e0d9d6d8beccd58ed42",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/a1bb36dda9bc7e81bf91f913092653f6.jpg"
+    }},
+
+    {"id":113082106, "alias":"Alessana", "featured":false, "type":"cosplay", "info":{
+        "date":"2021/07/01", "name":"Maulix",
+        "code":"27298i26959i16889i16890i12170i27282i17116i16887i16884i17563i5249i7826i25235",
+        "png":"av1ss23a9befbabd245b48ee52d791c7d37ba",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/d74fe9f26e97cfc21b8d22fbd7bdb8d0.jpg"
+    }},
+
+    {"id":474000907, "alias":"Luciel_Lilith", "featured":false, "info":{
+        "date":"2021/07/01", "name":"Naysa",
+        "code":"21895i11845i27416i1257i16282i5195i18727i6838i6903i6916i6851i6864i27565i6942i6955i2518i18314i6768i19353",
+        "png":"av1ssea0b67b87c694cfca885d3070e164e63",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/f09cc9b21a0cf86b553ede2973ba1e8e.jpg"
+    }},
+
+    {"id":332068705, "alias":"Chissek", "featured":false, "info":{
+        "date":"2021/06/30", "name":null,
+        "code":"1276i26533i16268i25259i20269i26562i23765i24082i26178i27507i26926i26412i8534i22393i25129i25310i25069i13817i24177i7805i27549",
+        "png":"av1ssd0928a98ae1e4098aba4447d4af63579",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/d17087d35519130f2ddf31e87b55e21a.jpg"
+    }},
+
+    {"id":904778797, "alias":"Alessana", "featured":false, "info":{
+        "date":"2021/06/30", "name":null,
+        "code":"21895i12128i21821i1276i16832i14555i18064i13942i21602i7854i1737i7891i7875i23653i4396i12181i2976i25139i15858i25233",
+        "png":"av1ss8245e65a8e1440fc94006b8e70086cc5",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/20e17d442ae2086847b334c85fbeef6f.jpg"
+    }},
+
+    {"id":461293344, "alias":"Alessana", "featured":false, "info":{
+        "date":"2021/06/30", "name":"Reina de Cristal",
+        "code":"27581i26133i26174i20050i26184i26191i28408i20512i20523i20490i24800i17974i20074i17420i24265i24153i11467i2333i24167i24155i25217",
+        "png":"av1ss65a864a0bd254ddabfce44d70c6e429e",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/1cb101403ebd68f0eb46336f5c8160cd.jpg"
+    }},
+
     {"id":848214726, "alias":"Chissek", "featured":false, "info":{
         "date":"2021/06/29", "name":null,
         "code":"7926i14196i10963i16319i23766i14291i16265i23278i27624i28295i27534i27642i15296i22362i22335i8534i22386i25240",
