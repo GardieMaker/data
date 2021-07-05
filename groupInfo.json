@@ -8055,6 +8055,10 @@
         "spanish":"Meseta hostil, de noche",
         "english":"(x)Meseta hostil, de noche"
     },
+    {"groupId":27554, "category":"Ambientes", "rarity":"Legendario", "note":"Costales", "especial":"costales",
+    	"spanish":"Aura Path of the Sun",
+    	"english":"Path of the Sun Aura"
+    },
 	{"groupId":27564, "category":"Accesorios manos", "rarity":"Legendario", "note":"Costales", "especial":"costales",
 		"spanish":"Cetro Path of the Sun",
 		"english":"Path of the Sun Sceptre"
