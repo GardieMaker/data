@@ -8095,6 +8095,174 @@
     	"spanish":"Marici",
     	"english":"Marici"
     },
+    {"groupId":27670, "category":"Ambientes", "rarity":"Evento", "note":"Música 2021", 
+        "spanish":"Jaula Stolen Voice",
+        "english":"(x)Jaula Stolen Voice"
+    },
+    {"groupId":27680, "category":"Sombreros", "rarity":"Evento", "note":"Música 2021", 
+        "spanish":"Tocado Stolen Voice",
+        "english":"(x)Tocado Stolen Voice"
+    },
+    {"groupId":27690, "category":"Abrigos", "rarity":"Evento", "note":"Música 2021", 
+        "spanish":"Hombreras Stolen Voice",
+        "english":"(x)Hombreras Stolen Voice"
+    },
+    {"groupId":27700, "category":"Abrigos", "rarity":"Evento", "note":"Música 2021", 
+        "spanish":"Mangas Stolen Voice",
+        "english":"(x)Mangas Stolen Voice"
+    },
+    {"groupId":27710, "category":"Accesorios cara", "rarity":"Evento", "note":"Música 2021", 
+        "spanish":"Pendientes Stolen Voice",
+        "english":"(x)Pendientes Stolen Voice"
+    },
+    {"groupId":27720, "category":"Pantalones", "rarity":"Evento", "note":"Música 2021", 
+        "spanish":"Falda Stolen Voice",
+        "english":"(x)Falda Stolen Voice"
+    },
+    {"groupId":27730, "category":"Ropa interior", "rarity":"Evento", "note":"Música 2021", 
+        "spanish":"Body Stolen Voice",
+        "english":"(x)Body Stolen Voice"
+    },
+    {"groupId":27740, "category":"Zapatos", "rarity":"Evento", "note":"Música 2021", 
+        "spanish":"Botas Stolen Voice",
+        "english":"(x)Botas Stolen Voice"
+    },
+    {"groupId":27750, "category":"Ojos", "rarity":"Evento", "note":"Música 2021", 
+        "spanish":"Ojos Stolen Voice",
+        "english":"(x)Ojos Stolen Voice"
+    },
+    {"groupId":27760, "category":"Pieles", "rarity":"Evento", "note":"Música 2021", 
+        "spanish":"Piel Stolen Voice",
+        "english":"(x)Piel Stolen Voice"
+    },
+    {"groupId":27770, "category":"Ambientes", "rarity":"Evento", "note":"Música 2021", 
+        "spanish":"Fondo de jaula Stolen Voice",
+        "english":"(x)Fondo de jaula Stolen Voice"
+    },
+    {"groupId":27780, "category":"Cabello", "rarity":"Evento", "note":"Música 2021", 
+        "spanish":"Shodan",
+        "english":"(x)Shodan"
+    },
+    {"groupId":27806, "category":"Accesorios cara", "rarity":"Evento", "note":"Música 2021", 
+        "spanish":"Pendientes Diva Fenghuang",
+        "english":"(x)Pendientes Diva Fenghuang"
+    },
+    {"groupId":27816, "category":"Cabello", "rarity":"Evento", "note":"Música 2021", 
+        "spanish":"Huang Chu",
+        "english":"(x)Huang Chu"
+    },
+    {"groupId":27842, "category":"Abrigos", "rarity":"Evento", "note":"Música 2021", 
+        "spanish":"Chaqueta Diva Fenghuang",
+        "english":"(x)Chaqueta Diva Fenghuang"
+    },
+    {"groupId":27852, "category":"Cinturones", "rarity":"Evento", "note":"Música 2021", 
+        "spanish":"Cinturón Diva Fenghuang",
+        "english":"(x)Cinturón Diva Fenghuang"
+    },
+    {"groupId":27862, "category":"Cinturones", "rarity":"Evento", "note":"Música 2021", 
+        "spanish":"Corset Diva Fenghuang",
+        "english":"(x)Corset Diva Fenghuang"
+    },
+    {"groupId":27872, "category":"Vestidos", "rarity":"Evento", "note":"Música 2021", 
+        "spanish":"Sobrevestido Diva Fenghuang",
+        "english":"(x)Sobrevestido Diva Fenghuang"
+    },
+    {"groupId":27882, "category":"Vestidos", "rarity":"Evento", "note":"Música 2021", 
+        "spanish":"Vestido Diva Fenghuang",
+        "english":"(x)Vestido Diva Fenghuang"
+    },
+    {"groupId":27892, "category":"Guantes", "rarity":"Evento", "note":"Música 2021", 
+        "spanish":"Guantes Diva Fenghuang",
+        "english":"(x)Guantes Diva Fenghuang"
+    },
+    {"groupId":27902, "category":"Calcetines", "rarity":"Evento", "note":"Música 2021", 
+        "spanish":"Medias Diva Fenghuang",
+        "english":"(x)Medias Diva Fenghuang"
+    },
+    {"groupId":27912, "category":"Zapatos", "rarity":"Evento", "note":"Música 2021", 
+        "spanish":"Zapatos Diva Fenghuang",
+        "english":"(x)Zapatos Diva Fenghuang"
+    },
+    {"groupId":27922, "category":"Cabello", "rarity":"Evento", "note":"Música 2021", 
+        "spanish":"Koori",
+        "english":"(x)Koori"
+    },
+    {"groupId":27949, "category":"Calcetines", "rarity":"Evento", "note":"Música 2021", 
+        "spanish":"Medias Diva Kitsune",
+        "english":"(x)Medias Diva Kitsune"
+    },
+    {"groupId":27959, "category":"Zapatos", "rarity":"Evento", "note":"Música 2021", 
+        "spanish":"Zapatos Diva Kitsune",
+        "english":"(x)Zapatos Diva Kitsune"
+    },
+    {"groupId":27969, "category":"Vestidos", "rarity":"Evento", "note":"Música 2021", 
+        "spanish":"Vestido Diva Kitsune",
+        "english":"(x)Vestido Diva Kitsune"
+    },
+    {"groupId":27979, "category":"Accesorios manos", "rarity":"Evento", "note":"Música 2021", 
+        "spanish":"Brazaletes Diva Kitsune",
+        "english":"(x)Brazaletes Diva Kitsune"
+    },
+    {"groupId":27989, "category":"Cinturones", "rarity":"Evento", "note":"Música 2021", 
+        "spanish":"Piercing en el ombligo Diva Kitsune",
+        "english":"(x)Piercing en el ombligo Diva Kitsune"
+    },
+    {"groupId":27999, "category":"Partes de arriba", "rarity":"Evento", "note":"Música 2021", 
+        "spanish":"Corpiño Diva Kitsune",
+        "english":"(x)Corpiño Diva Kitsune"
+    },
+    {"groupId":28009, "category":"Cinturones", "rarity":"Evento", "note":"Música 2021", 
+        "spanish":"Cinturón Diva Kitsune",
+        "english":"(x)Cinturón Diva Kitsune"
+    },
+    {"groupId":28019, "category":"Sombreros", "rarity":"Evento", "note":"Música 2021", 
+        "spanish":"Orejas Diva Kitsune",
+        "english":"(x)Orejas Diva Kitsune"
+    },
+    {"groupId":28045, "category":"Accesorios manos", "rarity":"Evento", "note":"Música 2021", 
+        "spanish":"Anillos Diva Kitsune",
+        "english":"(x)Anillos Diva Kitsune"
+    },
+	{"groupId":28055, "category":"Cabello", "rarity":"Evento", "note":"Música 2021", 
+	    "spanish":"Karenn",
+	    "english":"(x)Karenn"
+	},
+	{"groupId":28081, "category":"Calcetines", "rarity":"Evento", "note":"Música 2021", 
+	    "spanish":"Medias Diva Vampire",
+	    "english":"(x)Medias Diva Vampire"
+	},
+	{"groupId":28091, "category":"Zapatos", "rarity":"Evento", "note":"Música 2021", 
+	    "spanish":"Botas Diva Vampira",
+	    "english":"(x)Botas Diva Vampira"
+	},
+	{"groupId":28101, "category":"Cinturones", "rarity":"Evento", "note":"Música 2021", 
+	    "spanish":"Cinturón Diva Vampira",
+	    "english":"(x)Cinturón Diva Vampira"
+	},
+	{"groupId":28111, "category":"Vestidos", "rarity":"Evento", "note":"Música 2021", 
+	    "spanish":"Vestido Diva Vampira",
+	    "english":"(x)Vestido Diva Vampira"
+	},
+	{"groupId":28121, "category":"Partes de arriba", "rarity":"Evento", "note":"Música 2021", 
+	    "spanish":"Corpiño Diva Vampira",
+	    "english":"(x)Corpiño Diva Vampira"
+	},
+	{"groupId":28131, "category":"Accesorios manos", "rarity":"Evento", "note":"Música 2021", 
+	    "spanish":"Manguitos Diva Vampire",
+	    "english":"(x)Manguitos Diva Vampire"
+	},
+	{"groupId":28141, "category":"Accesorios manos", "rarity":"Evento", "note":"Música 2021", 
+	    "spanish":"Pulsera Diva Vampira",
+	    "english":"(x)Pulsera Diva Vampira"
+	},
+	{"groupId":28151, "category":"Abrigos", "rarity":"Evento", "note":"Música 2021", 
+	    "spanish":"Hombreras Diva Vampira",
+	    "english":"(x)Hombreras Diva Vampira"
+	},
+	{"groupId":28161, "category":"Collares", "rarity":"Evento", "note":"Música 2021", 
+	    "spanish":"Collar Diva Vampira",
+	    "english":"(x)Collar Diva Vampira"
+	},
 	{"groupId":28171, "category":"Pantalones", "rarity":"Épico", "note":"Costales", "especial":"costales",
 		"spanish":"Pantalón Athena's Legacy",
 		"english":"(x)Pantalón Athena's Legacy"
