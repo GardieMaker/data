@@ -1,4 +1,102 @@
 [
+    {"id":846174731, "alias":"Lynn", "featured":false, "info":{
+        "date":"2021/07/06", "name":"Lynn Music Event",
+        "code":"22645i691i5193i16264i18156i17781i692i27969i28009i27989i27979i28045i27999i25190i21527i22510i14265i25075i26662i8534i24167i14367i25210",
+        "png":"om681fe1398c6f56042e5a0c5d89cd015a13c",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/866c518ae55596a6aff60f125f03c9b1.jpg"
+    }},
+
+    {"id":645220361, "alias":"Sirenity", "featured":false, "info":{
+        "date":"2021/07/06", "name":"Polaris",
+        "code":"1248i18153i18276i26977i27755i5245i27925i13465i28134i28021i28114i27595i27625i28050i27605i27565i27555i26579i24269i25196",
+        "png":"om681b5371b945e9a4eb3922e405584ccbd6b",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/5c986bc68d9afc7a9562f8cba874b26e.jpg"
+    }},
+
+    {"id":925368731, "alias":"Alessana", "featured":false, "info":{
+        "date":"2021/07/06", "name":"Emperatriz Suprema",
+        "code":"21891i25697i21844i21856i27761i28152i28082i28092i28102i28181i27969i24900i27700i27690i27576i27554i27680i27710i28009i28122i28162i28509i27759i23653i27565i28231i21639i22386i27989i27959i25234",
+        "png":"om6812e8a13b1d7f64bb9b1c6b9a21800dd95",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/ff127c4b152504330c23c396584471b1.jpg"
+    }},
+
+    {"id":194617231, "alias":"ShiroNeKo-D", "featured":false, "info":{
+        "date":"2021/07/06", "name":null,
+        "code":"21896i27585i27575i1272i5245i19498i27730i14621i28152i18988i13361i24905i27969i20272i28102i20096i25145i27555i24333i2446i6768i25208",
+        "png":"om68152e0ef412f8e43b7b8f392d887ee7f32",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/e9b585d4f48cf9a565a83625ca7ab747.jpg"
+    }},
+
+    {"id":475154428, "alias":"Genesis", "featured":false, "info":{
+        "date":"2021/07/06", "name":"Cat Jazz",
+        "code":"13333i27416i1260i10918i8908i27644i28190i13116i13411i17378i24301i13480i21070i13642i13444i27554i27475i13183i9898i19834i27016i26976i25210",
+        "png":"om681e24af917cdf3486c81ff677b96882278",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/866c518ae55596a6aff60f125f03c9b1.jpg"
+    }},
+
+    {"id":658315620, "alias":"Genesis", "featured":false, "info":{
+        "date":"2021/07/06", "name":"Jazz",
+        "code":"13333i27416i1254i10918i8908i27644i28190i13116i13411i17378i24301i13480i21070i13642i13444i27554i27475i13183i9898i19834i25210",
+        "png":"om6816fa8cedf9ada403b97b69565f4773bfe",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/866c518ae55596a6aff60f125f03c9b1.jpg"
+    }},
+
+    {"id":839372115, "alias":"MartaIV", "featured":false, "info":{
+        "date":"2021/07/05", "name":"Krypta",
+        "code":"26192i5236i26825i24308i20139i17666i16283i26933i16279i23177i26180i25070i23762",
+        "png":"om6812749a66fbc0840638b4a3d938adda1f0",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/9f49c2b228b005cd857f4483a5730fc3.jpg"
+    }},
+
+    {"id":100406859, "alias":"Sirenity", "featured":false, "info":{
+        "date":"2021/07/05", "name":"Selenath",
+        "code":"4989i1248i19608i18153i5215i18276i16686i26530i26705i4999i5017i27496i26715i26889i26860i26900i27526i27486i25144i22247i22713i19906i22701i6768i25641",
+        "png":"om6811d570b9a28b543fca63f4f14e7198edf",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/73705696918c88734fbb82f1a5554a23.jpg"
+    }},
+
+    {"id":567726041, "alias":"Sirenity", "featured":false, "info":{
+        "date":"2021/07/05", "name":"Celenath",
+        "code":"4989i1270i18152i26889i18283i4408i26705i5215i4999i5017i26715i26900i26906i24910i27526i10157i6449i28231i28241i27496i25313i24271i2449i6768i25642",
+        "png":"om681c29b2122eb864049a02cfd44ce1f21a3",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/6261852a0b389bba7041538602fe1984.jpg"
+    }},
+
+    {"id":398070475, "alias":"Lynn", "featured":false, "info":{
+        "date":"2021/07/05", "name":"Lynn (Rare Mémoria) Trihibrid complet",
+        "code":"26500i691i16258i18283i5193i22645i692i16318i27631i20253i23426i8575i25075i7635i8534i24167i22397i17931i14239i20113",
+        "png":"om68177924fe170aa4911a37425b137a0c738",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/362197e83064d6220ab171a5374489cb.jpg"
+    }},
+
+    {"id":305023965, "alias":"MartaIV", "featured":false, "info":{
+        "date":"2021/07/04", "name":"Morgana",
+        "code":"16272i27132i5269i18701i26692i5392i14272i14205i16290i27622i25408i26927i27572i27582i26572i24177i21059",
+        "png":"om681e6c333b073d5490c987a3d0b08c9b562",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/ea07abfb2c6d3fcb3934c3ee79d2bea8.jpg"
+    }},
+
+    {"id":171272428, "alias":"MartaIV", "featured":false, "info":{
+        "date":"2021/07/04", "name":"Guardiana del Abismo",
+        "code":"26285i26439i24817i14198i24833i11526i16267i28324i24801i25697i26045i26427i15306i13585i25382i24676i25640",
+        "png":"om68165de3a87f3e44f629d9c446544008153",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/5149b7037971e511161d733dffde71cc.jpg"
+    }},
+
+    {"id":648814433, "alias":"MartaIV", "featured":false, "info":{
+        "date":"2021/07/04", "name":"Lady Northern Lights",
+        "code":"16365i21362i23416i17801i23212i21895i14546i23655i10917i27647i17707i17914i16389i20155i24265i18312i25145i16428i9894i23105i19576i27298i26579i19353",
+        "png":"om681f51364e152054e049400fc72ef9c1412",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/f09cc9b21a0cf86b553ede2973ba1e8e.jpg"
+    }},
+
+    {"id":312848127, "alias":"Alessana", "featured":false, "info":{
+        "date":"2021/07/04", "name":"Primavera",
+        "code":"27574i23302i14707i17781i3636i14333i1268i21139i14355i12528i12296i14170i23653i10437i17565i20301i23295i12150i23301i23300i23303i13787i20333",
+        "png":"om681c52c07841b3c4719807e0301b65d300f",
+        "background":"https://www.eldarya.es/assets/img/item/player/web_full/96c00f19553e7cf3a6750f4ef3c5351c.jpg"
+    }},
+
     {"id":282851739, "alias":"ShiroNeKo-D", "featured":false, "info":{
         "date":"2021/07/03", "name":null,
         "code":"27295i25965i1245i24663i10778i18993i19601i1121i16686i18969i13351i5560i15675i16862i26022i24042i15663i25233",
