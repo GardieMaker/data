@@ -2155,7 +2155,7 @@
         "background":"https://www.eldarya.es/assets/img/item/player/web_full/5953004d61f2c4fb8a9dd9579213ae61.jpg"
     }},
 
-    {"id":890420358, "alias":"Millie", "featured":false, "info":{
+    {"id":890420358, "alias":"Millie", "featured":true, "info":{
         "date":"2021/04/11", "name":null,
         "code":"1276i19604i16265i18276i5161i10469i6399i24167i21662i22531i24154i26714i21484i21060i6768i25200",
         "png":"41ywy86b4f91607654ca5a13fc93c67628cc5",
