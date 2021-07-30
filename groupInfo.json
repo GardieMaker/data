@@ -8051,6 +8051,14 @@
         "spanish":"Planta baja",
         "english":"(x)Planta baja"
     },
+	{"groupId":27551, "category":"Fondos", "rarity":"Común", "note":"Exploración",
+		"spanish":"Planta baja de noche",
+		"english":"(x)Planta baja de noche"
+	},
+	{"groupId":27552, "category":"Fondos", "rarity":"Común", "note":"Exploración",
+		"spanish":"Meseta hostil",
+		"english":"(x)Meseta hostil"
+	},
     {"groupId":27553, "category":"Fondos", "rarity":"Común", "note":"Tienda",
         "spanish":"Meseta hostil, de noche",
         "english":"(x)Meseta hostil, de noche"
@@ -8386,5 +8394,17 @@
 	{"groupId":28625, "category":"Cinturones", "rarity":"Evento", "note":"Pascua 2021",
 		"spanish":"Cinturón Children's Hero *",
 		"english":"(x)Cinturón Children's Hero *"
+	},
+	{"groupId":28635, "category":"Abrigos", "rarity":"Común", "note":"Exploración",
+		"spanish":"Abrigo invierno",
+		"english":"(x)Abrigo invierno"
+	},
+	{"groupId":28645, "category":"Sombreros", "rarity":"Común", "note":"Exploración",
+		"spanish":"Gorro de esquí",
+		"english":"(x)Gorro de esquí"
+	},
+	{"groupId":28741, "category":"Collares", "rarity":"Común", "note":"Exploración",
+		"spanish":"Corbata simple",
+		"english":"(x)Corbata simple"
 	}
 ]
