@@ -8391,6 +8391,42 @@
 		"spanish":"Joyas cabeza Magical Feels",
 		"english":"(x)Joyas cabeza Magical Feels"
 	},
+	{"groupId":28519, "category":"Ambientes", "rarity":"Evento", "note":"Verano 2021", 
+    	"spanish":"Mariposas Summer Faery",
+		"english":"(x)Mariposas Summer Faery"
+	},
+	{"groupId":28529, "category":"Accesorios manos", "rarity":"Evento", "note":"Verano 2021", 
+    	"spanish":"Flor Summer Faery",
+		"english":"(x)Flor Summer Faery"
+	},
+	{"groupId":28539, "category":"Abrigos", "rarity":"Evento", "note":"Verano 2021", 
+		"spanish":"Hombreras Summer Faery",
+		"english":"(x)Hombreras Summer Faery"
+	},
+	{"groupId":28549, "category":"Vestidos", "rarity":"Evento", "note":"Verano 2021", 
+		"spanish":"Vestido Summer Faery *",
+		"english":"(x)Vestido Summer Faery *"
+	},
+	{"groupId":28559, "category":"Accesorios manos", "rarity":"Evento", "note":"Verano 2021", 
+    	"spanish":"Brazaletes Summer Faery",
+		"english":"(x)Brazaletes Summer Faery"
+	},
+	{"groupId":28569, "category":"Calcetines", "rarity":"Evento", "note":"Verano 2021", 
+		"spanish":"Pulseras tobillos Summer Faery",
+		"english":"(x)Pulseras tobillos Summer Faery"
+	},
+	{"groupId":28579, "category":"Ropa interior", "rarity":"Evento", "note":"Verano 2021", 
+		"spanish":"Body Summer Faery",
+		"english":"(x)Body Summer Faery"
+	},
+	{"groupId":28589, "category":"Cabello", "rarity":"Evento", "note":"Verano 2021", 
+		"spanish":"Inina",
+		"english":"(x)Inina"
+	},
+	{"groupId":28615, "category":"Abrigos", "rarity":"Evento", "note":"Verano 2021", 
+		"spanish":"Alas Summer Faery",
+		"english":"(x)Alas Summer Faery"
+	},
 	{"groupId":28625, "category":"Cinturones", "rarity":"Evento", "note":"Pascua 2021",
 		"spanish":"Cinturón Children's Hero *",
 		"english":"(x)Cinturón Children's Hero *"
@@ -8403,8 +8439,126 @@
 		"spanish":"Gorro de esquí",
 		"english":"(x)Gorro de esquí"
 	},
+	{"groupId":28655, "category":"Cabello", "rarity":"Evento", "note":"Verano 2021",
+		"spanish":"Marina",
+		"english":"(x)Marina"
+	},
+	{"groupId":28681, "category":"Ropa interior", "rarity":"Evento", "note":"Verano 2021",
+		"spanish":"Combinación Aquamarine Diver",
+		"english":"(x)Combinación Aquamarine Diver"
+	},
+	{"groupId":28691, "category":"Zapatos", "rarity":"Evento", "note":"Verano 2021",
+		"spanish":"Botas Aquamarine Diver",
+		"english":"(x)Botas Aquamarine Diver"
+	},
+	{"groupId":28701, "category":"Partes de arriba", "rarity":"Evento", "note":"Verano 2021",
+		"spanish":"Túnica Aquamarine Diver",
+		"english":"(x)Túnica Aquamarine Diver"
+	},
+	{"groupId":28711, "category":"Guantes", "rarity":"Evento", "note":"Verano 2021",
+		"spanish":"Guantes Aquamarine Diver",
+		"english":"(x)Guantes Aquamarine Diver"
+	},
+	{"groupId":28721, "category":"Calcetines", "rarity":"Evento", "note":"Verano 2021",
+		"spanish":"Greba Aquamarine Diver",
+		"english":"(x)Greba Aquamarine Diver"
+	},
+	{"groupId":28731, "category":"Accesorios cara", "rarity":"Evento", "note":"Verano 2021",
+		"spanish":"Gafas buceo Aquamarine Diver",
+		"english":"(x)Gafas buceo Aquamarine Diver"
+	},
 	{"groupId":28741, "category":"Collares", "rarity":"Común", "note":"Exploración",
 		"spanish":"Corbata simple",
 		"english":"(x)Corbata simple"
+	},
+	{"groupId":28806, "category":"Cabello", "rarity":"Evento", "note":"Verano 2021",
+		"spanish":"Eistir",
+		"english":"(x)Eistir"
+	},
+	{"groupId":28832, "category":"Calcetines", "rarity":"Evento", "note":"Verano 2021",
+		"spanish":"Medias Orchid Dancer",
+		"english":"(x)Medias Orchid Dancer"
+	},
+	{"groupId":28842, "category":"Zapatos", "rarity":"Evento", "note":"Verano 2021",
+		"spanish":"Sandalias Orchid Dancer",
+		"english":"(x)Sandalias Orchid Dancer"
+	},
+	{"groupId":28852, "category":"Pantalones", "rarity":"Evento", "note":"Verano 2021",
+		"spanish":"Pantalón Orchid Dancer",
+		"english":"(x)Pantalón Orchid Dancer"
+	},
+	{"groupId":28862, "category":"Partes de arriba", "rarity":"Evento", "note":"Verano 2021",
+		"spanish":"Top Orchid Dancer",
+		"english":"(x)Top Orchid Dancer"
+	},
+	{"groupId":28872, "category":"Cinturones", "rarity":"Evento", "note":"Verano 2021",
+		"spanish":"Cinturón Orchid Dancer",
+		"english":"(x)Cinturón Orchid Dancer"
+	},
+	{"groupId":28882, "category":"Pantalones", "rarity":"Evento", "note":"Verano 2021",
+		"spanish":"Falda Orchid Dancer",
+		"english":"(x)Falda Orchid Dancer"
+	},
+	{"groupId":28892, "category":"Accesorios cara", "rarity":"Evento", "note":"Verano 2021",
+		"spanish":"Velo Orchid Dancer",
+		"english":"(x)Velo Orchid Dancer"
+	},
+	{"groupId":28902, "category":"Accesorios manos", "rarity":"Evento", "note":"Verano 2021",
+		"spanish":"Pulseras Orchid Dancer",
+		"english":"(x)Pulseras Orchid Dancer"
+	},
+	{"groupId":28912, "category":"Accesorios manos", "rarity":"Evento", "note":"Verano 2021",
+		"spanish":"Mangas Orchid Dancer",
+		"english":"(x)Mangas Orchid Dancer"
+	},
+	{"groupId":28922, "category":"Collares", "rarity":"Evento", "note":"Verano 2021",
+		"spanish":"Collares Orchid Dancer",
+		"english":"(x)Collares Orchid Dancer"
+	},
+	{"groupId":28932, "category":"Abrigos", "rarity":"Evento", "note":"Verano 2021",
+		"spanish":"Alas Moth Lady",
+		"english":"(x)Alas Moth Lady"
+	},
+	{"groupId":28942, "category":"Pieles", "rarity":"Evento", "note":"Verano 2021",
+		"spanish":"Piel Moth Lady",
+		"english":"(x)Piel Moth Lady"
+	},
+	{"groupId":28952, "category":"Ropa interior", "rarity":"Evento", "note":"Verano 2021",
+		"spanish":"Body Moth Lady",
+		"english":"(x)Body Moth Lady"
+	},
+	{"groupId":28962, "category":"Zapatos", "rarity":"Evento", "note":"Verano 2021",
+		"spanish":"Botas Moth Lady",
+		"english":"(x)Botas Moth Lady"
+	},
+	{"groupId":28972, "category":"Vestidos", "rarity":"Evento", "note":"Verano 2021",
+		"spanish":"Vestido Moth Lady",
+		"english":"(x)Vestido Moth Lady"
+	},
+	{"groupId":28982, "category":"Collares", "rarity":"Evento", "note":"Verano 2021",
+		"spanish":"Gorgera Moth Lady",
+		"english":"(x)Gorgera Moth Lady"
+	},
+	{"groupId":28992, "category":"Guantes", "rarity":"Evento", "note":"Verano 2021",
+		"spanish":"Guantes Moth Lady",
+		"english":"(x)Guantes Moth Lady"
+	},
+
+	{"groupId":29002, "category":"Ojos", "rarity":"Evento", "note":"Verano 2021",
+		"spanish":"Ojos Moth Lady",
+		"english":"(x)Ojos Moth Lady"
+	},
+	{"groupId":29012, "category":"Cabello", "rarity":"Evento", "note":"Verano 2021",
+		"spanish":"Dusty",
+		"english":"(x)Dusty"
+	},
+	{"groupId":29037, "category":"Sombreros", "rarity":"Evento", "note":"Verano 2021",
+		"spanish":"Antenas Moth Lady",
+		"english":"(x)Antenas Moth Lady"
+	},
+	{"groupId":29047, "category":"Ambientes", "rarity":"Evento", "note":"Verano 2021",
+		"spanish":"Luciérnagas Moth Lady",
+		"english":"(x)Luciérnagas Moth Lady"
 	}
+
 ]
