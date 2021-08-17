@@ -779,7 +779,7 @@
         "png":"0ua7hbbb5e2bbb97e44698360c41e3fe5ad79"
     }},
 
-    {"id":820054901, "alias":"Zunay", "featured":false, "info":{
+    {"id":820054901, "alias":"Zunay", "featured":true, "info":{
         "date":"2021/07/13", "name":"Forest Creature",
         "code":"1249i12007i1575i2827i28343i17285i18153i7296i18716i28327i24815i10966i24827i15296i28313i18986i27443i27185i27260i6988",
         "png":"0ua7h140390da29da4e73bc21d59c8db13373"
