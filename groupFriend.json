@@ -38,12 +38,10 @@
 		["https://www.eldarya.es/assets/img/npc/mood/web/5bdd503cd71ca61444c6b9c212bc5042.png"],
 		["https://www.eldarya.es/assets/img/npc/mood/web/85a8fc43758527d3b3de43ac31cb2df4.png"],
 		["https://www.eldarya.es/assets/img/npc/mood/web/6ab600fbc2266839a688ef3648bd57f1.png"],
-		["https://www.eldarya.es/assets/img/npc/mood/web/af446802eb7828069e454aed3012d512.png"]
-	]},
-	{"id":5, "name":"Leiftan Daemon", "altura":"565px", "category":"origins", "version":[
+		["https://www.eldarya.es/assets/img/npc/mood/web/af446802eb7828069e454aed3012d512.png"],
 		["https://www.eldarya.es/assets/img/npc/mood/web/b0a786f79275ae0559ea50aac3e6b570.png"]
 	]},
-	{"id":6, "name":"Chrome", "altura":"440px", "category":"origins", "version":[
+	{"id":5, "name":"Chrome", "altura":"440px", "category":"origins", "version":[
 		["https://www.eldarya.es/assets/img/npc/mood/web/ba7fce20d244bbef8da9518c782e9723.png"],
 		["https://www.eldarya.es/assets/img/npc/mood/web/575bfd8d93cfb706b90245ad55447326.png"],
 		["https://www.eldarya.es/assets/img/npc/mood/web/486818cb050b6e73684d8b5c6af62973.png"],
@@ -55,25 +53,25 @@
 		["https://www.eldarya.es/assets/img/npc/mood/web/11910cd63e4de8fbc0d6280d88c95fdd.png"],
 		["https://www.eldarya.es/assets/img/npc/mood/web/8c42255a9c1411db28f84f691607df3f.png"]
 	]},
-	{"id":7, "name":"Nevra", "altura":"565px", "category":"new-era", "version":[
+	{"id":6, "name":"Nevra", "altura":"565px", "category":"new-era", "version":[
 		["https://www.eldarya.es/assets/img/npc/library/mood/1899d2acedadc185c381859106956247.png"]
 	]},
-	{"id":8, "name":"Mathieu", "altura":"565px", "category":"new-era", "version":[
+	{"id":7, "name":"Mathieu", "altura":"565px", "category":"new-era", "version":[
 		["https://www.eldarya.es/assets/img/npc/library/mood/9132d7e589fc3d9fbcdc653aac572738.png"]
 	]},
-	{"id":9, "name":"Lance", "altura":"565px", "category":"new-era", "version":[
+	{"id":8, "name":"Lance", "altura":"565px", "category":"new-era", "version":[
 		["https://www.eldarya.es/assets/img/npc/library/mood/d43b4f75cda49487b34cbf5d17ba4ddd.png"]
 	]},
-	{"id":10, "name":"Leiftan", "altura":"565px", "category":"new-era", "version":[
+	{"id":9, "name":"Leiftan", "altura":"565px", "category":"new-era", "version":[
 		["https://www.eldarya.es/assets/img/npc/library/mood/3bceab93ed327063b6317f84a7a455cf.png"]
 	]},
-	{"id":11, "name":"Koori", "altura":"750px", "category":"new-era", "version":[
+	{"id":10, "name":"Koori", "altura":"750px", "category":"new-era", "version":[
 		["https://www.eldarya.es/assets/img/npc/library/mood/cc3157eda070a257a7c4850d0be388bd.png"]
 	]},
-	{"id":12, "name":"Karenn", "altura":"520px", "category":"new-era", "version":[
+	{"id":11, "name":"Karenn", "altura":"520px", "category":"new-era", "version":[
 		["https://www.eldarya.es/assets/img/npc/library/mood/b6b9a67efcd93f84e2c6fd8e7ca52c00.png"]
 	]},
-	{"id":13, "name":"Chrome", "altura":"540px", "category":"new-era", "version":[
+	{"id":12, "name":"Chrome", "altura":"540px", "category":"new-era", "version":[
 		["https://www.eldarya.es/assets/img/npc/library/mood/d9c89af13bcf4640c552a7d6fb321a3c.png"]
 	]}
 ]
