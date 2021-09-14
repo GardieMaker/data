@@ -5838,7 +5838,7 @@
         "code":"16280i16409i21891i25962i691i16282i17570i17726i12805i20134i17737i16257i17605i13411i24122i23653i24155i16245i6768"
     }},
 
-    {"id":168842622, "alias":"KUROJE", "featured":false, "info":{
+    {"id":168842622, "alias":"KUROJE", "featured":true, "info":{
         "date":"2021/01/15", "name":"Kuroje",
         "png":"7tprs186cdc3c63c141c5a20da65bebb525a2",
         "code":"16271i8557i16259i5093i5196i8127i12203i24692i16235i9447i25190i19153i25141i22398i19340"
