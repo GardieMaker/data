@@ -1,4 +1,166 @@
 [    
+    {"id":140493161, "alias":"NinaNikiforov", "featured":false, "info":{
+        "date":"2021/10/02", "name":null,
+        "code":"22645i21896i17919i16264i19601i16328i11564i11518i11578i11485i11432i26463i21878i16293i23662i17755i12110i18319i24127i7807i19353",
+        "png":"bvomjc9b45da666f646d2a2f456eee462577c"
+    }},
+
+    {"id":716595798, "alias":"Nana", "featured":false, "type":"cosplay", "info":{
+        "date":"2021/10/02", "name":"Scarlet",
+        "code":"25419i7925i21010i14665i4855i17387i14248i25786i5303i23835i11087i25020i25236i26562i4381i5261i10310i21059",
+        "png":"bvomjc3f44083c6624281873d42c20327f777"
+    }},
+
+    {"id":810903536, "alias":"Nana", "featured":false, "info":{
+        "date":"2021/10/02", "name":"Monja",
+        "code":"19298i18798i1277i14554i15729i27631i19136i18163i22847i8578i10199i19889i8579i28162i4855i29008i8573i11593i25236i12229i15206i19159i5303i20581i15231i25210",
+        "png":"bvomjb406740f273c43d290a9d3757c2d5419"
+    }},
+
+    {"id":288777342, "alias":"Anna", "featured":false, "info":{
+        "date":"2021/10/02", "name":"Halloween Witch",
+        "code":"4668i9831i19609i21100i19274i16266i18283i9358i4387i5412i10961i23831i23545i25806i4833i14583i28460i11530i23735i19270i14407i10632i13973i14168i21222i14715i5219i22342i17744i23711i25958i14217",
+        "png":"bvomj2b33e5bb3824449787a920dffdcfa6b2"
+    }},
+
+    {"id":896456162, "alias":"MartaIV", "featured":false, "info":{
+        "date":"2021/10/02", "name":null,
+        "code":"16369i4957i1266i5269i24803i18510i5392i16393i26692i5406i17907i16290i16511i16381i13187i15296i8638i8680i16271i16402i28526i6768i20333",
+        "png":"bvomj166d64ec329f46eab1b41a41b85d3b70"
+    }},
+
+    {"id":244873136, "alias":"Ryann", "featured":false, "info":{
+        "date":"2021/10/02", "name":null,
+        "code":"12828i27771i23211i28944i26568i19608i18272i9840i18711i12817i16045i8962i7810i5232i16347i12773i27671i25221",
+        "png":"bvomjec0326870f384f13b012723eea898cab"
+    }},
+
+    {"id":901707001, "alias":"ShiroNeKo-D", "featured":false, "info":{
+        "date":"2021/10/01", "name":null,
+        "code":"24906i20994i1272i18974i20975i18276i28822i21047i16689i5245i13014i24905i21284i15308i21190i10574i6768i10660i25235",
+        "png":"bvomj0f38b6c5584649c29ce6112801ffe899"
+    }},
+
+    {"id":125068560, "alias":"ShiroNeKo-D", "featured":false, "info":{
+        "date":"2021/10/01", "name":null,
+        "code":"8457i1250i18283i18158i16674i28927i17907i20702i5262i28141i28867i23297i28847i28050i20842i6768i17325i14213i8575i19339",
+        "png":"bvomj745967964d79413ebc3e857565e210c7"
+    }},
+
+    {"id":115437845, "alias":"ShiroNeKo-D", "featured":false, "info":{
+        "date":"2021/10/01", "name":null,
+        "code":"17819i24679i24361i17914i28343i18155i24470i29003i24827i24884i22035i18881i23761i28739i23653i24498i6768i25640",
+        "png":"bvomj41e26baf09f64493a234f1b191b07441"
+    }},
+
+    {"id":364305377, "alias":"MartaIV", "featured":false, "info":{
+        "date":"2021/10/01", "name":null,
+        "code":"23312i24906i21891i8556i5277i8573i27757i14265i28843i16271i20118i13926i22397i28925i28143i16287i25399i28655i21821i17418i26946i16403",
+        "png":"bvomjf9a0bc154c7c41b3ae390a1604116eb4"
+    }},
+
+    {"id":970898427, "alias":"ShiroNeKo-D", "featured":false, "info":{
+        "date":"2021/10/01", "name":null,
+        "code":"5106i1251i28462i7805i16260i17806i27755i29025i14835i17804i12965i27537i28703i14847i17062i23568i28211i28365i23580i25641",
+        "png":"bvomjebf1b67f723f4632b80f14011587544d"
+    }},
+
+    {"id":385296317, "alias":"ShiroNeKo-D", "featured":false, "info":{
+        "date":"2021/10/01", "name":null,
+        "code":"16278i18325i28439i1251i10917i19498i18988i29164i26660i29123i14222i28469i28479i12224i17120i13614i28527i6768i5554i8534i16347i25221",
+        "png":"bvomjedad0ee6da70489aac43cae264f383f4"
+    }},
+
+    {"id":849089641, "alias":"brokenendings", "featured":false, "info":{
+        "date":"2021/10/01", "name":"October 1st",
+        "code":"21352i25437i26831i24826i28085i27793i6971i1419i23387i20371i18967i21152i1452i21434i26568i23535i20346i28482i17022i21149i24942i12472i5593i22341i10496i10010i25131i10055i6408i14216",
+        "png":"bvomj6a24452ece0a427da4ea0d92dc627aec"
+    }},
+
+    {"id":994994192, "alias":"Nana", "featured":false, "info":{
+        "date":"2021/10/01", "name":"Calabaza Embrujada",
+        "code":"25426i1258i18161i16261i5049i17999i6249i20582i26693i6267i8927i27890i23205i16234i27623i14266i13422i28353i19106i6276i13612i5290i15831i13001i25217",
+        "png":"bvomje906f360f692401d90e39b0441eb1272"
+    }},
+
+    {"id":887733063, "alias":"Ryann", "featured":false, "info":{
+        "date":"2021/10/01", "name":null,
+        "code":"26937i25409i9300i18276i29002i8954i9830i4602i5195i7675i17697i19689i19906i19100i13070i4865i22033",
+        "png":"bvomj5892e9da362c413fa2eaed40cf40f212"
+    }},
+
+    {"id":246954072, "alias":"Anna", "featured":false, "info":{
+        "date":"2021/09/30", "name":"Cursed Harpy",
+        "code":"7928i16238i12206i22647i16278i5394i18938i19079i19115i16425i18983i18860i10433i23653i17425i19067i13137i10337i15837i28518i15730i21504i18276i18156i9830i4396i11534i14706i15297i9446i24311i17403i25139i11491i18917i18824i20113",
+        "png":"bvomj081881725c0649b3968543457ff75a0c"
+    }},
+
+    {"id":184589812, "alias":"Vivecca Dracul", "featured":false, "info":{
+        "date":"2021/09/30", "name":"La dame gold",
+        "code":"8556i27750i5195i11868i22232i22502i22297i18835i22581i26578i18787i25210",
+        "png":"bvomj9ae92bd21452444184885ed139d7ba08"
+    }},
+
+    {"id":768669993, "alias":"Lyllabella", "featured":false, "info":{
+        "date":"2021/09/30", "name":"Lyllabella Corrupted Dragon",
+        "code":"21901i25058i25419i26493i26666i26500i16319i5056i26563i21858i21846i5231i25067i25208",
+        "png":"bvomj659dd9dee1fc444a9c594012a3d2d5ce"
+    }},
+
+    {"id":151371071, "alias":"brokenendings", "featured":false, "type":"cosplay", "info":{
+        "date":"2021/09/29", "name":"Sooraya Qadir (Dust)",
+        "code":"7927i26936i17583i28893i28811i18813i21971i29114i20142i16277i8210i22007i22486i28113i27621i18963i21357i27070i28908i19340",
+        "png":"bvomj10f980272a3c49cb998e934b71be81f6"
+    }},
+
+    {"id":227132877, "alias":"Anna", "featured":false, "info":{
+        "date":"2021/09/29", "name":"Aurora Borealis",
+        "code":"26133i6450i19533i24372i9839i16268i19607i18155i25879i19136i17789i24825i26139i11424i11453i14335i22625i20074i26469i24275i11630i17943i26484i28555i5261i21831i7791i24262i19555i17939i15301i16174i27549",
+        "png":"bvomjd7840eb308a84671937409248dadf16c"
+    }},
+
+    {"id":817378712, "alias":"brokenendings", "featured":false, "info":{
+        "date":"2021/09/29", "name":null,
+        "code":"26960i19349i16514i16500i16394i14555i26512i27971i22646i29100i3679i17022i26447i25388i24811i27813i4758i18919i18022i25377i28011i28909i28050i17594i15296i26905i10340i19352i29140i25310i10426i21059",
+        "png":"bvomj7b24fc058b4048eb9af9524a6a145a0d"
+    }},
+
+    {"id":344272997, "alias":"Anna", "featured":false, "info":{
+        "date":"2021/09/29", "name":"Insectoid",
+        "code":"10308i28936i29050i23210i28514i24768i24663i12791i25805i20033i23226i27715i26012i9834i18156i19607i25136i18916i16262i18276i17026i24809i16982i17916i18577i18853i11630i18121i19513i26910i18964i16291i14199i25915i27555i21362i20113",
+        "png":"bvomj1bc5e1b6c0c74bb8a9c74469c02d870d"
+    }},
+
+    {"id":314305149, "alias":"Alessana", "featured":false, "info":{
+        "date":"2021/09/29", "name":null,
+        "code":"21891i21820i1277i27905i27195i21625i21661i20118i21613i11393i24902i23653i11673i6424i26662i11459i6768i5728",
+        "png":"bvomj29c201b366b145b390eae830dc9065b6"
+    }},
+
+    {"id":468233240, "alias":"Alessana", "featured":false, "info":{
+        "date":"2021/09/29", "name":null,
+        "code":"20057i26125i24313i26185i20325i26579i26165i20326i6262i11549i6271i11502i6253i23772i17572i22742i24765i11379i26175i20075i11558i11469i25642",
+        "png":"bvomjb38666224f2e4fc585e168b555bc651c"
+    }},
+
+    {"id":160325379, "alias":"Jarlos", "featured":false, "type":"cosplay", "info":{
+        "date":"2021/09/29", "name":"Erza (Fairy Tail)",
+        "code":"691i2091i5241i28332i9748i28069i19379i10460",
+        "png":"bvomj1f17ee4e582141a6a97153d729c8d6ef"
+    }},
+
+    {"id":537546937, "alias":"Alessana", "featured":false, "info":{
+        "date":"2021/09/29", "name":null,
+        "code":"23307i1276i18152i27730i23533i18276i27934i10465i27624i8233i29154i23653i27750i9129i27572i16171i18394i11594i21058",
+        "png":"bvomjd380daccf0e4441fb8fe8d89bbea8235"
+    }},
+
+    {"id":643727310, "alias":"Vivecca Dracul", "featured":false, "info":{
+        "date":"2021/09/29", "name":"Cigana 💞",
+        "code":"17798i24902i23660i26119i17684i17188i19569i14034i22373i2976i25196",
+        "png":"bvomj78d4d8e29185439e9a3479a70c91f9e3"
+    }},
+
     {"id":543577283, "alias":"Schnaps", "featured":false, "info":{
         "date":"2021/09/28", "name":"Osen",
         "code":"23235i2377i23816i23546i22555i22293i6859i24370i22223i19608i23799i18819i13135i16266i12872i28509i13110i18158i22859i24823i5245i4758i27718i25292i19049i15797i16241i25882i23835i23787i25000i17859i22895i17936i28929i21963i22347i27686i25141i24701i18394i7805i2386i6985",
@@ -317,7 +479,7 @@
         "png":"lmgw3c1163d79270b4a3795ed64f71fc7877e"
     }},
 
-    {"id":815684521, "alias":"broken-endings", "featured":false, "info":{
+    {"id":815684521, "alias":"brokenendings", "featured":false, "info":{
         "date":"2021/09/20", "name":null,
         "code":"29050i28974i14551i9305i24303i18214i20522i29176i16294i16450i17707i19497i23236i11572i12043i19115i18901i17685i6838i26863i13353i16258i18156i19254i18277i16340i27759i11493i24167i17611i20204i20145i5561i8954i12280i22610i19678i17731i25217",
         "png":"lmgw38b79420b2ef74afb82cee099d3ac20e0"
@@ -491,13 +653,13 @@
         "png":"p08uhe63a061b6ee646acaf1093304cb2c6bd"
     }},
 
-    {"id":414693313, "alias":"broken-endings", "featured":false, "info":{
+    {"id":414693313, "alias":"brokenendings", "featured":false, "info":{
         "date":"2021/09/14", "name":null,
         "code":"23028i1249i27894i28445i27051i28098i27643i28842i27603i29116i19674i29156i29106i22665i23432i18280i20268i28497i29020i28570i27915i17318i23709i18173i23654i25144i23745i20575i25209",
         "png":"p08uh6a8caeecebd9444087260d69aa1f4961"
     }},
 
-    {"id":111655889, "alias":"broken-endings", "featured":false, "info":{
+    {"id":111655889, "alias":"brokenendings", "featured":false, "info":{
         "date":"2021/09/14", "name":null,
         "code":"16276i17693i28570i27769i15729i13138i18156i9835i19601i18280i16264i29003i28656i28845i13925i27844i28158i28540i28975i28003i28168i28865i28915i5244i19815i18829i14878i24325i28905i28520i25233",
         "png":"p08uha4efac6ea0894cce8d4ff355e1f31115"
@@ -2177,7 +2339,7 @@
         "png":"oo7c549de968cf4b2455a8ca346dab248ac83"
     }},
 
-    {"id":336400356, "alias":"broken-endings", "featured":false, "type":"cosplay", "info":{
+    {"id":336400356, "alias":"brokenendings", "featured":false, "type":"cosplay", "info":{
         "date":"2021/07/10", "name":"Rose Quartz",
         "code":"20183i17929i23653i22963i11245i22428i27885i24278i20135i12294i13355i11056i6829i17611i12193i13788i27994i23697i27660i6136i14225i28102i19748i16437i25303i28243i27560i23762",
         "png":"oo7c5aa9f5d5fad0b42f7b3182263c6f87fe8"
@@ -2303,7 +2465,7 @@
         "png":"01xfze9172035006e45908f65bcc82c30edc8"
     }},
 
-    {"id":672000491, "alias":"broken-endings", "featured":false, "info":{
+    {"id":672000491, "alias":"brokenendings", "featured":false, "info":{
         "date":"2021/07/07", "name":null,
         "code":"18540i26895i28198i17417i12145i14548i17907i22665i11869i25801i18852i21576i26709i14224i28099i16258i26699i27751i11590i27471i25032i24143i25142i27681i17974i13192i27985i28215i27566i24171i25246",
         "png":"01xfz4d43becb2c0749e7a7cc763645a1d414"
@@ -2459,7 +2621,7 @@
         "png":"okykwc90386a0dd9a4e22b615a2d20e277a35"
     }},
 
-    {"id":689479998, "alias":"broken-endings", "featured":false, "info":{
+    {"id":689479998, "alias":"brokenendings", "featured":false, "info":{
         "date":"2021/06/28", "name":null,
         "code":"27575i23208i21895i26963i17741i16906i6530i13188i14317i27614i24617i17020i27610i16261i24831i18272i20249i18330i23183i21786i5192i20228i6970i6556i2688i18069i15859i16380i20147i24278i21058",
         "png":"okykwbc2a917e63e94878a0af3b25df406d2c"
@@ -2471,7 +2633,7 @@
         "png":"jmp9jd6e229a5f1684bae8e6de343e52da36a"
     }},
 
-    {"id":479042916, "alias":"broken-endings", "featured":false, "type":"cosplay", "info":{
+    {"id":479042916, "alias":"brokenendings", "featured":false, "type":"cosplay", "info":{
         "date":"2021/06/26", "name":"Queen Amidala",
         "code":"2379i13818i1252i8552i18587i5264i11673i26440i19762i15734i18282i15676i6093i6148i6104i20279i17034i14829i13785i3679i25377i9894i25787i12079i6137i24942i24340i4055i25696i7813i18331i3769i16487i18396i24833i26405i24589i18164i15835i19246i28490i25240",
         "png":"jmp9jfcbb40a9751d44639871732529f3a78a"
@@ -2501,7 +2663,7 @@
         "png":"jmp9jcebdf292cdc94f95a26cb2d48618f5dd"
     }},
 
-    {"id":316738150, "alias":"broken-endings", "featured":false, "info":{
+    {"id":316738150, "alias":"brokenendings", "featured":false, "info":{
         "date":"2021/06/26", "name":null,
         "code":"26165i27595i28263i6767i16389i15870i23263i18530i28181i24809i18969i22864i19496i17180i14558i28338i20984i16897i24679i14225i11630i19504i27449i16445i8835i6363i15834i19604i28516i15846i5218i24266i24078i24978i24626i20114",
         "png":"jmp9ja3c2e8caccce429e9b0b1aa3b867a902"
@@ -4685,7 +4847,7 @@
         "png":"ahaoa01a9b1168b5a436fb9f78c1c390eab75"
     }},
 
-    {"id":227795719, "alias":"broken-endings", "featured":false, "info":{
+    {"id":227795719, "alias":"brokenendings", "featured":false, "info":{
         "date":"2021/03/28", "name":null,
         "code":"4055i25437i20579i20580i6906i6557i26936i10755i2244i17029i14335i19705i18623i5398i16389i13194i22685i18963i24833i9894i17707i2879i12073i12169i14198i12186i13132i2242i5412i17300i21868i5276i10343i17744i16765i20114",
         "png":"ahaoa3876388938304a038fde18df8dcf443a"
@@ -4739,19 +4901,19 @@
         "png":"ahaoa13e9eaec04064871953af6865877a137"
     }},
 
-    {"id":363913144, "alias":"broken-endings", "featured":false, "type":"cosplay", "info":{
+    {"id":363913144, "alias":"brokenendings", "featured":false, "type":"cosplay", "info":{
         "date":"2021/03/27", "name":"90's Rogue",
         "code":"691i19806i17595i19603i5195i18283i17551i22479i13619i22384i10179i7440i18134i15551i6561i17357i19977i9101i2716i17094i21279i26706i16400i22683i10809i22735i3613i11165i25206",
         "png":"ahaoac30f79ce281344ec8b5f15a566b43b6b"
     }},
 
-    {"id":663438141, "alias":"broken-endings", "featured":false, "type":"cosplay", "info":{
+    {"id":663438141, "alias":"brokenendings", "featured":false, "type":"cosplay", "info":{
         "date":"2021/03/26", "name":"Pikachu",
         "code":"7593i17927i12018i24823i9552i18161i1125i9841i26449i23274i13035i10974i7384i12908i14662i13765i17197i12991i25074i18979i7392i15245i18067i19339",
         "png":"ahaoafa6377781c4b487fb912f98fe8021fe3"
     }},
 
-    {"id":587249987, "alias":"broken-endings", "featured":false, "type":"cosplay", "info":{
+    {"id":587249987, "alias":"brokenendings", "featured":false, "type":"cosplay", "info":{
         "date":"2021/03/26", "name":"Link's Awakening",
         "code":"6006i6672i7926i5609i2508i6595i18079i20230i6404i22384i8962i23026i15544i21180i19709i21274i22441i3096i23801i14458i23298i13155i13430i13236i2716i6503i25290i20394i22008i2446i20113",
         "png":"ahaoa774a781eae294fae80ef1271292f7522"
@@ -4787,13 +4949,13 @@
         "png":"ahaoaf2605eefa5ad4e9baf6a6b5c25f2aa4e"
     }},
 
-    {"id":932541744, "alias":"broken-endings", "featured":false, "type":"cosplay", "info":{
+    {"id":932541744, "alias":"brokenendings", "featured":false, "type":"cosplay", "info":{
         "date":"2021/03/26", "name":"Sonic the Hedgehog",
         "code":"17924i8823i26446i10236i15731i17245i18974i19977i20108i19241i24061i15481i9153i23281i9768i17305i22677i16755i5290i24783i11157i24627i10467i18996i14142i26234i11074i6700i8424i11421i10460",
         "png":"nkf2neb008dd9e7744809a1c605aac8f4e7ad"
     }},
 
-    {"id":734341025, "alias":"broken-endings", "featured":false, "type":"cosplay", "info":{
+    {"id":734341025, "alias":"brokenendings", "featured":false, "type":"cosplay", "info":{
         "date":"2021/03/26", "name":"Super Mario",
         "code":"691i5242i10902i21900i18534i22955i7656i18164i6596i22377i6557i2684i19808i17596i7749i10136i26031i8457i23979i17726i6023i13357i13722i4811i16140i18996i17325i23733i6408i6768i6344i4437",
         "png":"nkf2n5582562d25dd4c1f893a1135e7fe631b"
@@ -5898,7 +6060,7 @@
         "png":"7tprsadaf65d8eb044a3aa057a7f8f6ae4f2b"
     }},
 
-    {"id":456985064, "alias":"broken-endings", "featured":false, "info":{
+    {"id":456985064, "alias":"brokenendings", "featured":false, "info":{
         "date":"2021/02/06", "name": null,
         "code":"15498i15253i25983i20496i19894i6290i10694i16805i21343i14249i9717i25085i2242i25289i26003i10298i15768i18222i6129i14289i10811i18320i24958i4961i19756i26447i5277i22697i2628i19246i4638i5381i23549i22676i19690i5020i10755i13890i20699i14176i13132i14116i23934i15354i12508i17648i6311i15399i17612i21577i16145i10712i6456i26063i12234i7748i6977i13671i22014i8926i23329i20719i7386i16342i25992i15804i13942i19122i1764i7710i13469i18915i17314i19340",
         "png":"7tprs17e6007ba56a4d5db294f8331c468d78"
@@ -5946,7 +6108,7 @@
         "png":"7tprs8bb2ceb2851c4a8b876ec5464f312aa9"
     }},
 
-    {"id":604146378, "alias":"broken-endings", "featured":false, "info":{
+    {"id":604146378, "alias":"brokenendings", "featured":false, "info":{
         "date":"2021/02/03", "name":null,
         "code":"21893i23281i17955i17867i13010i5387i26519i23237i26446i23274i23245i4478i18609i19090i4853i16706i14339i19322i26551i14046i19253i24705i14878i17301i24580i17837i4434",
         "png":"7tprsb6b295ea1cdb415fbff31892d7df902e"
@@ -5976,13 +6138,13 @@
         "png":"7tprs781c12948ece409e9dc3457b8ba757e6"
     }},
 
-    {"id":579651252, "alias":"broken-endings", "featured":false, "info":{
+    {"id":579651252, "alias":"brokenendings", "featured":false, "info":{
         "date":"2021/02/02", "name":null,
         "code":"4473i10298i17927i15835i19761i15729i18831i6370i9289i5390i18599i10963i5692i18137i12795i9071i13015i12780i23235i10464i19202i2242i16452i19689i9705i13140i21672i12847i23274i4661i16732i12875i8530i17192i16514i16974i18923i10460",
         "png":"7tprs048ba03bc3f5441cbab95d0cfa09c1f6"
     }},
 
-    {"id":195046919, "alias":"broken-endings", "featured":false, "info":{
+    {"id":195046919, "alias":"brokenendings", "featured":false, "info":{
         "date":"2021/02/02", "name":null,
         "code":"20144i24371i22626i8160i26444i19612i18161i16265i18273i7942i20236i23461i19668i23366i11474i16369i13476i9430i18547i6459i19975i8228i13160i14328i12200i7729i20228i17230i23663i23334i26662i12176i10461",
         "png":"7tprs81e24f48a90d40a79db9dfea98ee9e7e"
@@ -6054,7 +6216,7 @@
         "png":"7tprs23ff3011f5204604a7984d76a28dd9a9"
     }},
 
-    {"id":576018009, "alias":"broken-endings", "featured":false, "info":{
+    {"id":576018009, "alias":"brokenendings", "featured":false, "info":{
         "date":"2021/01/28", "name":null,
         "code":"23103i17744i17949i17930i15725i13786i23286i14555i12047i20126i16510i12201i17278i17029i17009i18965i19143i12224i26545i18181i21870i20699i23338i25332i13118i26570i12588i22682i18325i13649i11591i2338i5278i24699i26560i18920i11489i9833i11425i25075i25206",
         "png":"7tprs5fe0cb3b822447f29dbccd477d1a0e9c"
@@ -6138,7 +6300,7 @@
         "png":"7tprsd322f9f05e4945728cb0a17d4e9f8ef6"
     }},
 
-    {"id":878252130, "alias":"broken-endings", "featured":false, "info":{
+    {"id":878252130, "alias":"brokenendings", "featured":false, "info":{
         "date": "2021/01/25", "name": null,
         "code":"25058i16278i26572i21901i15498i14767i23219i24664i19235i24473i20144i21822i8921i21352i6755i25324i10796i22697i21147i16393i10300i2371i10966i17916i12211i18587i13137i15838i19068i26412i10334i17029i17018i16487i10167i26037i25010i23271i5391i23772i24787i23847i2244i15197i22404i14918i26566i16533i16435i22619i11442i14620i18975i9442i15763i21209i16345i22033",
         "png":"7tprs96094273973645f0afdaa7fa4aef4274"
@@ -6354,61 +6516,61 @@
         "code":"20610i19064i9298i5161i17291i19495i5387i16317i14199i15903i10792i11847i19586i16233i5413i16524i8421i4748i13795i17859i4852i11867i20585i15303i10803i19025i8439i20148i19542i4505i15732i18704i13755"
     }},
 
-    {"id":454227602, "alias":"broken-endings", "featured":true, "info":{
+    {"id":454227602, "alias":"brokenendings", "featured":true, "info":{
         "date":"2021/01/14", "name":null,
         "png":"7tprs3a3ae3fdc185410995f13e8a2077af87",
         "code":"1276i1960i19879i20139i6139i18994i11062i18616i14327i13045i9426i4456i14386i14349i23340i17608i20406i16318i11627i23298i8534i16696i13581i5215i5626i6984"
     }},
 
-    {"id":484474609, "alias":"broken-endings", "featured":true, "info":{
+    {"id":484474609, "alias":"brokenendings", "featured":true, "info":{
         "date":"2021/01/14", "name":null,
         "png":"7tprs463a5426e4f142daa4f5dcae7e0786d9",
         "code":"21900i2354i11068i17365i7926i21459i10379i4381i12720i6170i9703i4725i24316i18123i18135i23543i14459i12199i1371i22008i14598i11573i7314i6408i16985i5116i13156i22617i20409i8141i16487i5268i2709i8881i4533i10459"
     }},
 
-    {"id":543422543, "alias":"broken-endings", "featured":false, "info":{
+    {"id":543422543, "alias":"brokenendings", "featured":false, "info":{
         "date":"2021/01/14", "name":null,
         "png":"7tprsc172822221a9442da79489d3e660dabc",
         "code":"6107i24313i21901i14377i16304i17803i11575i16195i12113i11540i14339i16269i9581i14046i17861i17910i7802i17825i11498i24172i23095i16280i24262i22620i12767i21869i16335i17967i11590i21354i12855i22632i22613i22344i14298i11467i7813i2334i6996"
     }},
 
-    {"id":267645132, "alias":"broken-endings", "featured":false, "info":{
+    {"id":267645132, "alias":"brokenendings", "featured":false, "info":{
         "date":"2021/01/14", "name":null,
         "png":"7tprs113e982e8ddb41e0b3a34a271facf84e",
         "code":"17923i13133i24171i11469i16518i16259i24495i24804i9840i5234i24483i11549i17684i24471i10958i23692i12078i16897i3123i17614i19146i19751i19243i6141i24828i3930i17321i24679i11502i8958i11558i14219i24263i3541"
     }},
 
-    {"id":455347343, "alias":"broken-endings", "featured":false, "info":{
+    {"id":455347343, "alias":"brokenendings", "featured":false, "info":{
         "date":"2021/01/14", "name":null,
         "png":"7tprs396f144aa9184d99a3b4d305ae93339d",
         "code":"16273i19066i17895i17929i23414i22623i12596i19611i18274i17558i21607i22681i14112i17685i16297i16502i6838i21825i24078i21895i12130i14378i13351i13646i24279i24449i16437i22747i5213i6916i12607i13588i14479i6768i2337i12229i20114"
     }},
 
-    {"id":681111036, "alias":"broken-endings", "featured":false, "info":{
+    {"id":681111036, "alias":"brokenendings", "featured":false, "info":{
         "date":"2021/01/14", "name":null,
         "png":"7tprs4f7eb289b2ed4132a954916221414be0",
         "code":"24674i8210i7920i13674i6156i13946i17698i5271i24955i12466i17636i14469i16726i10548i19683i15348i13656i20412i15373i3766i16469i10902i4371i14034i24985i19806i3247i3541"
     }},
 
-    {"id":898032027, "alias":"broken-endings", "featured":false, "info":{
+    {"id":898032027, "alias":"brokenendings", "featured":false, "info":{
         "date":"2021/01/14", "name":null,
         "png":"7tprs93ce21fff45e40e39c447d344a8055af",
         "code":"21896i23214i9305i13676i17765i19289i23734i17368i17219i21824i18325i20610i22561i19760i24057i13610i24583i13935i23821i24904i18170i15840i5548i20580i21529i24167i23336i18916i9640i20114"
     }},
 
-    {"id":640839915, "alias":"broken-endings", "featured":false, "info":{
+    {"id":640839915, "alias":"brokenendings", "featured":false, "info":{
         "date":"2021/01/14", "name":null,
         "png":"7tprsf527be39020545d7814a71b5cc86bafe",
         "code":"16275i3647i21361i21901i21152i17029i17930i18861i16500i24091i19971i8234i15399i22646i14620i12098i23278i9563i19329i7675i18566i14260i5114i15510i18546i21469i24079i22403i12186i3122i19136i20699i14198i18838i24580i18915i18825i8965i24693i14217"
     }},
 
-    {"id":562620043, "alias":"broken-endings", "featured":false, "info":{
+    {"id":562620043, "alias":"brokenendings", "featured":false, "info":{
         "date":"2021/01/14", "name":null,
         "png":"7tprs093fd0ef11d9448c99d5d3c02021e21b",
         "code":"21353i2385i5011i7716i4993i20152i5018i7386i1261i13136i16261i1366i1764i1371i6492i19895i13815i4725i8706i5005i23187i18283i23273i24814i7635i6124i6524i19748i19140i19245i10712i20384i18193i8163i15315i14265i6995"
     }},
     
-    {"id":382599219, "alias":"broken-endings", "featured":false, "info":{
+    {"id":382599219, "alias":"brokenendings", "featured":false, "info":{
         "date":"2021/01/14", "name":null,
         "png":"7tprs6dd15797a809470ea4ddcd84516fb61a",
         "code":"6450i11178i1277i4395i16051i6123i16373i11697i16123i15515i6121i21578i6449i11653i24302i15675i11670i16467i8954i19445i15402i13501i21626i17188i15663i5211i22509"
@@ -6702,13 +6864,13 @@
         "code":"6714i1270i21095i16425i16415i4401i23663i22349i6557i23095i23355i24315i16341i10458"
     }},
 
-    {"id":362735727, "alias":"broken-endings", "featured":false, "type":"cosplay", "info":{
+    {"id":362735727, "alias":"brokenendings", "featured":false, "type":"cosplay", "info":{
         "date":"2020/09/24", "name":null,
         "png":"7tprsf5a7bd7411b14ade9f7a93e91967d4b3",
         "code":"5132i11553i7930i12811i22955i5242i4806i23697i22438i13070i21896i14740i23337i14235i21362i19686i12141i7697i21146i12609i7680i3114i16495i16437i12501i10251i4745i12880i19093i15413i3702i9350i3254i17516i23094i21480i22393i24167i19353"
     }},
 
-    {"id":938706133, "alias":"broken-endings", "featured":true, "info":{
+    {"id":938706133, "alias":"brokenendings", "featured":true, "info":{
         "date":"2020/09/24", "name":null,
         "png":"7tprs5c59fdd40af34f8397d9fa2351d39261",
         "code":"21892i3574i23023i17364i1275i19967i22689i12884i13674i6175i16505i18964i10065i7680i23202i11524i18212i10197i10813i14150i13190i24275i18283i20353i9640i5564i11630i19813i13619i22602i17696i21630i9355i18895i11453i15238i6996"
@@ -7140,19 +7302,19 @@
         "code":"8893i3517i11872i12597i23654i6389i21102i23541i23436i23689i22035i23779i23581i21759i20736i21824i24148i20717i17815i21770"
     }},
 
-    {"id":773094572, "alias":"broken-endings", "featured":false, "info":{
+    {"id":773094572, "alias":"brokenendings", "featured":false, "info":{
         "date":"2020/08/21", "name":null,
         "png":"7tprs9707cd29115b4a34beb697f4eaf052eb",
         "code":"19304i16276i5159i16511i13912i21131i16449i9517i11576i22691i19220i18585i19686i16268i21871i22680i22472i9393i11955i16379i22438i18936i17607i23337i10957i20231i2364i17700i20003i9350i4646i7872i18147i13215i9496i16884i14216"
     }},
 
-    {"id":312984562, "alias":"broken-endings", "featured":false, "info":{
+    {"id":312984562, "alias":"brokenendings", "featured":false, "info":{
         "date":"2020/08/21", "name":null,
         "png":"7tprsd30356cfcd9048b3811674dd42de9d99",
         "code":"22561i1277i24900i12170i21526i1735i1453i6969i22913i10438i23909i23817i6883i17874i12076i8140i5702i11406i16244i5409i16737i21167i21442i13213i13357i18217i5582i20270i21064i12999i22853i6704i19851i11628i20832i9478i20704"
     }},
 
-    {"id":398310958, "alias":"broken-endings", "featured":true, "info":{
+    {"id":398310958, "alias":"brokenendings", "featured":true, "info":{
         "date":"2020/08/21", "name":null,
         "png":"7tprs28140a6837514a5492fac356e2a470e9",
         "code":"20145i12074i14211i7926i13908i1575i13468i7851i12320i17018i12419i16500i13352i13954i16259i18283i21868i18547i4809i3123i12193i7683i14015i22377i13413i5192i4579i24272i13584i10457"
