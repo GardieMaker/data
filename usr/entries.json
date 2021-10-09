@@ -1,4 +1,40 @@
 [    
+    {"id":362371257, "alias":"Nerissa", "featured":false, "info":{
+        "date":"2021/10/09", "name":null,
+        "code":"25056i9300i6253i5161i19150i6244i8954i18272i20272i25165i16244i5291i24626i21849i21861i16723i15305i21880i2446i27428",
+        "png":"mjbr0edc67788e0274b6a8a964ea6d23c02ae"
+    }},
+
+    {"id":758025809, "alias":"Jarlos", "featured":false, "info":{
+        "date":"2021/10/08", "name":"Demé's underworld doll",
+        "code":"25420i25701i14551i22555i26447i5261i14175i26546i10190i5037i25762i25409i20011i16435i14321i22337i19058i15305i12858i22031",
+        "png":"mjbr035e39cf1c6e74098b1e77d53e6210a4e"
+    }},
+
+    {"id":577928243, "alias":"Nana", "featured":false, "info":{
+        "date":"2021/10/08", "name":"Parálisis del sueño",
+        "code":"27124i10462i18804i25426i7924i8573i19152i7794i5581i22889i8450i13435i16440i6638i14336i15452i9894i25399i27103i25202",
+        "png":"mjbr020eb125c43084c318bcb5072794c0bdd"
+    }},
+
+    {"id":573761619, "alias":"Nana", "featured":false, "info":{
+        "date":"2021/10/08", "name":"Pesadilla",
+        "code":"21894i18801i10462i25419i27122i24961i14260i27132i25762i18951i25407i5052i19322i22403i19234i14918i5303i15826i27092i27102i28523i19159i15296i25202",
+        "png":"mjbr0dd67760e20e649a0b328e0e4e70af0f4"
+    }},
+
+    {"id":821764011, "alias":"MartaIV", "featured":false, "info":{
+        "date":"2021/10/08", "name":"Cosmix",
+        "code":"23236i16280i24372i25427i24253i16258i18282i17967i24799i3171i13110i17914i13183i19576i26686i16285i6265i28851i17895i12768i28584i28564i12074i28554i11594i24345i6274i11516i22610i26413i6247i24169i23581i15299i12856i17859i28930i27100i8630i27415i16401i12826i6768i25208",
+        "png":"mjbr0d1be866ab17a460397ed9e110ddc8e95"
+    }},
+
+    {"id":760687130, "alias":"Moonlight", "featured":false, "info":{
+        "date":"2021/10/08", "name":"Sexy Devil",
+        "code":"16272i1251i13825i21446i16266i22883i5364i18272i5378i14272i4646i16681i8908i14267i14269i18779i14268i18819i14702i9886i15296i14343i22337i22033",
+        "png":"mjbr0e974b336526d402d8b7c1c6eb8e4ff22"
+    }},
+
     {"id":730090137, "alias":"Naya Stone", "featured":false, "info":{
         "date":"2021/10/07", "name":"Mia Fortune Trancy",
         "code":"22646i1275i14555i17777i29094i19148i23659i4400i28331i8573i8583i8575i14116i26919i26563i19250i8582i29050i25215",
