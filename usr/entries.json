@@ -1,4 +1,112 @@
 [    
+    {"id":710009178, "alias":"Daemonika", "featured":false, "info":{
+        "date":"2021/10/12", "name":null,
+        "code":"21895i27409i12103i1249i17725i28092i12610i28811i28884i28102i28914i7791i23653i27585i27565i27298i6768i19353",
+        "png":"pa4vr292572550e7445878eb1da35f142922f"
+    }},
+
+    {"id":449337522, "alias":"Jarlos", "featured":false, "type":"cosplay", "info":{
+        "date":"2021/10/12", "name":"Karolina Nováková (Sweet Elite)",
+        "code":"691i993i27753i17386i13925i23372i14342i6110i5588i25207",
+        "png":"pa4vra24883faf6a94adaa7277c7be094f152"
+    }},
+
+    {"id":287431530, "alias":"Deathnss", "featured":false, "type":"cosplay", "info":{
+        "date":"2021/10/12", "name":"Merlin - Nanatsu no Taizai",
+        "code":"27411i1248i4378i5581i15295i9974i11417i9075i9155i28984i2507i2242i26573i5114i25212",
+        "png":"pa4vra4c9d86bd3e34c13b473cadfc5ce2e4c"
+    }},
+
+    {"id":321585942, "alias":"Deathnss", "featured":false, "type":"cosplay", "info":{
+        "date":"2021/10/12", "name":"Diane - Nanatzu no Taizai",
+        "code":"23312i1247i10952i23653i14148i14262i26452i14292i23976i20161i28473i22006i14289i23632i13213i29136i25234",
+        "png":"pa4vr76b3ccf3367e43288ec4cc84f766ef2f"
+    }},
+
+    {"id":108769109, "alias":"Deathnss", "featured":false, "type":"cosplay", "info":{
+        "date":"2021/10/11", "name":"Athena - Os Cavaleiros do Zodíaco",
+        "code":"691i20277i23455i27730i24905i5609i27615i11594i27554i16171i27564i19338",
+        "png":"pa4vr4e4376643c8440669188cf25a4b19d41"
+    }},
+
+    {"id":264919326, "alias":"Deathnss", "featured":false, "type":"cosplay", "info":{
+        "date":"2021/10/11", "name":"Pandora - Os Cavaleiros do Zodíaco",
+        "code":"1248i16239i7791i14764i23464i27621i19744i24286i11420i19239i28161i25378i5560i9899i25640",
+        "png":"pa4vrc2a4961cc3af42459454c9009b12f4f8"
+    }},
+
+    {"id":948502199, "alias":"Alessana", "featured":false, "info":{
+        "date":"2021/10/11", "name":null,
+        "code":"26958i8599i21099i28021i12916i12882i12962i27921i28469i13481i26977i12125i21584i13173i29140i8331i11869i23298i28522i25227",
+        "png":"pa4vr642d81a8392642ffa869682c2e66f86c"
+    }},
+
+    {"id":411305574, "alias":"Deathnss", "featured":false, "type":"cosplay", "info":{
+        "date":"2021/10/11", "name":"Shina de Cobra - Os Cavaleiros do Zodíaco",
+        "code":"27408i18798i27604i1249i8828i19715i26124i28197i24931i28212i27985i6540i15412i10469i14265i20702i21059",
+        "png":"pa4vr8419f8ff6f7946929c01e625c5ff3d05"
+    }},
+
+    {"id":760019788, "alias":"Ronnie", "featured":false, "info":{
+        "date":"2021/10/11", "name":null,
+        "code":"26493i18730i5391i5241i25386i18537i12607i26540i12126i26563i24174i19152i5416i25407i25958i22031",
+        "png":"pa4vr238d2838ca64472a9f4507c3d22f077b"
+    }},
+
+    {"id":938900299, "alias":"Anna", "featured":false, "info":{
+        "date":"2021/10/11", "name":"Celestial Guard",
+        "code":"4859i9305i9832i15749i21627i14318i20128i8412i19439i14457i13132i7787i21823i27574i21895i12599i24833i28288i17598i19738i29105i8786i15835i5588i27554i6768i25207",
+        "png":"pa4vrae019a28e20c43d9adce94a60172f89c"
+    }},
+
+    {"id":271522543, "alias":"Nana", "featured":false, "type":"cosplay", "info":{
+        "date":"2021/10/11", "name":"Lucy final",
+        "code":"18805i1249i27017i8367i6464i4381i6676i1802i25030i5609i6259i5721i6268i6277i6250i5303i4855i20587i6992",
+        "png":"pa4vr7c9f095455a84dd2adb33b21ddf3be60"
+    }},
+
+    {"id":359114585, "alias":"Nana", "featured":false, "type":"cosplay", "info":{
+        "date":"2021/10/11", "name":"Lucy",
+        "code":"18805i1249i6259i28323i1575i28343i1565i27017i7771i23453i4855i20587i6277i6268i6250i5303i4690i4678i5609i14864i8441i27553",
+        "png":"pa4vrb9a7b7b42f3e4cc3b2dd442deb348ce6"
+    }},
+
+    {"id":859071669, "alias":"Rxgnes05", "featured":false, "type":"cosplay", "info":{
+        "date":"2021/10/11", "name":"Mantis",
+        "code":"1245i24805i5588i2076i15374i1989i23201i19877i18987i1791i6768i8457i25234",
+        "png":"pa4vrfae99859406e4055ab3ce3d73a74fd11"
+    }},
+
+    {"id":823035708, "alias":"RavenNii", "featured":false, "type":"cosplay", "info":{
+        "date":"2021/10/10", "name":"Marie Anne Pierrette Paulze Lavoisier",
+        "code":"1249i20140i16365i15890i6101i20304i6134i16694i12076i11645i23653i20828i20422i25193",
+        "png":"pa4vr1d0024db42cd424792871427f01e5d95"
+    }},
+
+    {"id":849029921, "alias":"Anna", "featured":false, "info":{
+        "date":"2021/10/10", "name":"Crystal Queen",
+        "code":"17944i18606i17693i12080i20501i16513i18585i24372i9832i18156i17910i20490i27786i25878i18980i22623i16304i17610i11624i14820i6279i9995i19531i17939i15297i19612i20074i18283i13583i17575i5609i24167i23179i17599i16163i26573i25642",
+        "png":"pa4vrbb7367525fd74be9af0847462da7e0ef"
+    }},
+
+    {"id":799922951, "alias":"Rxgnes05", "featured":false, "info":{
+        "date":"2021/10/10", "name":null,
+        "code":"25060i1250i17557i21446i22235i19850i18617i19829i20302i8908i25381i25328i19064i25074i15238i15227i25214",
+        "png":"pa4vr78bb31efb1204ba38ea7c45602ee271a"
+    }},
+
+    {"id":290026920, "alias":"Nana", "featured":false, "type":"cosplay", "info":{
+        "date":"2021/10/10", "name":"Brian Wolf",
+        "code":"13330i28641i691i20985i15513i5380i5007i9090i22003i19907i13183i28162i23835i25088i4391i18923i8534i14265i15021i23771i11869i13636i4764",
+        "png":"pa4vr6c25970e15284504ab27ec4a33c36d2a"
+    }},
+
+    {"id":936593282, "alias":"Erya", "featured":false, "info":{
+        "date":"2021/10/10", "name":null,
+        "code":"6722i23423i29096i1262i14566i28570i19603i15730i18283i18835i18895i16685i12418i17094i28188i27999i24939i12200i13357i18847i10166i29106i8908i14838i28030i15297i24979i14243i27549",
+        "png":"pa4vr02e1146469a04fee94fdf518458d58c8"
+    }},
+
     {"id":362371257, "alias":"Nerissa", "featured":false, "info":{
         "date":"2021/10/09", "name":null,
         "code":"25056i9300i6253i5161i19150i6244i8954i18272i20272i25165i16244i5291i24626i21849i21861i16723i15305i21880i2446i27428",
