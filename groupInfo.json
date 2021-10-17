@@ -1492,7 +1492,7 @@
 		"portuguese":"Makoto",
 		"english":"Makoto"
 	},
-	{"groupId":3363, "category":"Cabello", "rarity":"Legendario", "note":"Tienda Antigua", "especial":"antique", 
+	{"groupId":3363, "category":"Cabello", "rarity":"Legendario", "note":"Exploración", "especial":"antique", 
 		"spanish":"Lindsey",
 		"portuguese":"Lindsey",
 		"english":"Lindsey"
@@ -10677,7 +10677,6 @@
 		"portuguese":"Luvas Moth Lady",
 		"english":"(x)Guantes Moth Lady"
 	},
-
 	{"groupId":29002, "category":"Ojos", "rarity":"Evento", "note":"Verano 2021",
 		"spanish":"Ojos Moth Lady",
 		"portuguese":"Olhos Moth Lady",
@@ -10698,32 +10697,47 @@
 		"portuguese":"Vaga-lumes Moth Lady",
 		"english":"(x)Luciérnagas Moth Lady"
 	},
-	{"groupId":29087, "category":"Pantalones", "rarity":"Común", "note":"Episodio 7 (A New Era)", "especial":"episodios",
+	{"groupId":29057, "category":"Accesorios cara", "rarity":"Común", "note":"Exploración",
+		"spanish":"Monóculo losange",
+		"portuguese":"Monóculo losango",
+		"english":"(x)Monóculo losange"
+	},
+	{"groupId":29067, "category":"Collares", "rarity":"Común", "note":"Exploración",
+		"spanish":"Collar de pompones",
+		"portuguese":"Colar de pompons",
+		"english":"(x)Collar de pompones"
+	},
+	{"groupId":29077, "category":"Calcetines", "rarity":"Común", "note":"Exploración",
+		"spanish":"Medias moisaico",
+		"portuguese":"Meias de mosaicos",
+		"english":"(x)Medias moisaico"
+	},
+	{"groupId":29087, "category":"Pantalones", "rarity":"Común", "note":"Tienda", "especial":"episodios",
 	    "spanish":"Falda Eldaryan Ball",
 	    "portuguese":"Saia Eldaryan Ball",
 	    "english":"(x)Falda Eldaryan Ball"
 	},
-	{"groupId":29097, "category":"Partes de arriba", "rarity":"Común", "note":"Episodio 7 (A New Era)", "especial":"episodios",
+	{"groupId":29097, "category":"Partes de arriba", "rarity":"Común", "note":"Tienda", "especial":"episodios",
 	    "spanish":"Top Eldaryan Ball", 
 	    "portuguese":"Blusa Eldaryan Ball",
 	    "english":"(x)Top Eldaryan Ball"
 	},
-	{"groupId":29107, "category":"Abrigos", "rarity":"Común", "note":"Episodio 7 (A New Era)", "especial":"episodios",
+	{"groupId":29107, "category":"Abrigos", "rarity":"Común", "note":"Tienda", "especial":"episodios",
 	    "spanish":"Capa Eldaryan Ball",
 	    "portuguese":"Capa Eldaryan Ball",
 	    "english":"(x)Capa Eldaryan Ball"
 	},
-	{"groupId":29117, "category":"Zapatos", "rarity":"Común", "note":"Episodio 7 (A New Era)", "especial":"episodios",
+	{"groupId":29117, "category":"Zapatos", "rarity":"Común", "note":"Tienda", "especial":"episodios",
 	    "spanish":"Zapatos Eldaryan Ball",
 	    "portuguese":"Sapatos Eldaryan Ball",
 	    "english":"(x)Zapatos Eldaryan Ball"
 	},
-	{"groupId":29127, "category":"Accesorios manos", "rarity":"Común", "note":"Episodio 7 (A New Era)", "especial":"episodios",
+	{"groupId":29127, "category":"Accesorios manos", "rarity":"Común", "note":"Tienda", "especial":"episodios",
 	    "spanish":"Brazales Eldaryan Ball",
 	    "portuguese":"Mangas Eldaryan Ball",
 	    "english":"(x)Brazales Eldaryan Ball"
 	},
-	{"groupId":29137, "category":"Sombreros", "rarity":"Común", "note":"Episodio 7 (A New Era)", "especial":"episodios",
+	{"groupId":29137, "category":"Sombreros", "rarity":"Común", "note":"Tienda", "especial":"episodios",
 	    "spanish":"Pasadores Eldaryan Ball",
 	    "portuguese":"Adereço Eldaryan Ball",
 	    "english":"(x)Pasadores Eldaryan Ball"
@@ -10742,5 +10756,55 @@
 	    "spanish":"Poncho primaveral",
 	    "portuguese":"Poncho de primavera",
 	    "english":"(x)Poncho primaveral"
+	},
+	{"groupId":29490, "category":"Abrigos", "rarity":"Raro", "note":"Tienda",
+		"spanish":"Hombreras Ranger of The Forest",
+		"portuguese":"Ombreiras Ranger of The Forest",
+		"english":"(x)Hombreras Ranger of The Forest"
+	},
+	{"groupId":29500, "category":"Partes de arriba", "rarity":"Raro", "note":"Tienda",
+		"spanish":"Armadura Ranger of The Forest",
+		"portuguese":"Armadura Ranger of The Forest",
+		"english":"(x)Armadura Ranger of The Forest"
+	},
+	{"groupId":29510, "category":"Cinturones", "rarity":"Raro", "note":"Tienda",
+		"spanish":"Cinturón Ranger of The Forest",
+		"portuguese":"Cinto Ranger of The Forest",
+		"english":"(x)Cinturón Ranger of The Forest"
+	},
+	{"groupId":29520, "category":"Cinturones", "rarity":"Raro", "note":"Tienda",
+		"spanish":"Joyas Ranger of The Forest",
+		"portuguese":"Adereço Ranger of The Forest",
+		"english":"(x)Joyas Ranger of The Forest"
+	},
+	{"groupId":29530, "category":"Partes de arriba", "rarity":"Raro", "note":"Tienda",
+		"spanish":"Túnica Ranger of The Forest",
+		"portuguese":"Blusa Ranger of The Forest",
+		"english":"(x)Túnica Ranger of The Forest"
+	},
+	{"groupId":29540, "category":"Pantalones", "rarity":"Raro", "note":"Tienda",
+		"spanish":"Pantalón Ranger of The Forest",
+		"portuguese":"Calças Ranger of The Forest",
+		"english":"(x)Pantalón Ranger of The Forest"
+	},
+	{"groupId":29550, "category":"Zapatos", "rarity":"Raro", "note":"Tienda",
+		"spanish":"Botas Ranger of The Forest",
+		"portuguese":"Botas Ranger of The Forest",
+		"english":"(x)Botas Ranger of The Forest"
+	},
+	{"groupId":29560, "category":"Accesorios manos", "rarity":"Raro", "note":"Tienda",
+		"spanish":"Brazales Ranger of The Forest",
+		"portuguese":"Pulseiras Ranger of The Forest",
+		"english":"(x)Brazales Ranger of The Forest"
+	},
+	{"groupId":29570, "category":"Ropa interior", "rarity":"Raro", "note":"Tienda",
+		"spanish":"Body Ranger of The Forest",
+		"portuguese":"Body Ranger of The Forest",
+		"english":"(x)Body Ranger of The Forest"
+	},
+	{"groupId":29580, "category":"Calcetines", "rarity":"Raro", "note":"Tienda",
+		"spanish":"Medias Ranger of The Forest",
+		"portuguese":"Meias Ranger of The Forest",
+		"english":"(x)Medias Ranger of The Forest"
 	}
 ]
