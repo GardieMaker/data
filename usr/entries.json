@@ -1,4 +1,112 @@
 [    
+    {"id":810221100, "alias":"Anna", "featured":false, "info":{
+        "date":"2021/10/18", "name":"Green",
+        "code":"10040i18320i18275i16520i26964i16262i18154i9841i12797i10339i13130i23266i19610i21782i21866i12819i4369i14196i5272i16713i2989i26036i4856i15304i23335i28519i16787",
+        "png":"bkn1zfdfc1ae889314fa7993e327ce05fb014"
+    }},
+
+    {"id":388813833, "alias":"Daemonika", "featured":false, "info":{
+        "date":"2021/10/18", "name":null,
+        "code":"1249i27653i20380i29081i29554i22429i14149i28167i7762i23653i23293i10572i25193",
+        "png":"bkn1zb313a483b73a42c285ed8153c4c34b86"
+    }},
+
+    {"id":182333845, "alias":"Jarlos", "featured":false, "info":{
+        "date":"2021/10/17", "name":"Forgotten ghost Sprettra",
+        "code":"21897i25419i10343i25319i5290i18163i19304i5101i19148i18702i24693i27123i14822i22461i5552i9278i25334i9580i22031",
+        "png":"bkn1z25ca3cbb40f8465ea3dafe6a1d9c480c"
+    }},
+
+    {"id":921978199, "alias":"Jarlos", "featured":false, "type":"cosplay", "info":{
+        "date":"2021/10/17", "name":"Talagbusao ( Trese )",
+        "code":"24690i7925i29009i10776i16325i20977i29542i3213i10803i22602i11815i8904i7450i2397i13466i22377i18173i27681i15857i25298i25214",
+        "png":"bkn1z7061be40128d471e80f3dc61ee83c8aa"
+    }},
+
+    {"id":988571820, "alias":"Anna", "featured":false, "info":{
+        "date":"2021/10/17", "name":"Wizard",
+        "code":"7928i19602i17448i22779i26571i8381i11620i27903i7789i10956i3109i24825i28006i29538i10223i7805i29061i21623i13487i17759i16824i10080i9384i16802i8952i3087i15300i17319i16893i17328i29137i6564i5246i13737i6768i14216",
+        "png":"bkn1z82943a51090b48d381885103a88c0e99"
+    }},
+
+    {"id":373264527, "alias":"Viole", "featured":false, "type":"cosplay", "info":{
+        "date":"2021/10/17", "name":null,
+        "code":"5159i5120i27191i19341i12624i12211i29088i23711i16405i29051i6231i25198",
+        "png":"bkn1z07e8e55254d54333b9b67bbb054e1628"
+    }},
+
+    {"id":403840057, "alias":"Rxgnes05", "featured":false, "type":"cosplay", "info":{
+        "date":"2021/10/17", "name":"Gamora (HQ)",
+        "code":"1280i17977i19604i27750i21718i19705i9107i22693i26885i19868i18795i19298i10462i26900i18554i27747i22031",
+        "png":"bkn1z1ab806fe97b74e0095858cce1c56b832"
+    }},
+
+    {"id":842705584, "alias":"Vivecca Dracul", "featured":false, "info":{
+        "date":"2021/10/17", "name":"💎",
+        "code":"1278i16293i21868i23663i24176i24180i24192i3432i24240i26570i25075i25208",
+        "png":"bkn1z9e51b8f9affe4d58be000a21e2b136c1"
+    }},
+
+    {"id":983053964, "alias":"Nana", "featured":false, "info":{
+        "date":"2021/10/17", "name":"Vampiro",
+        "code":"6449i23241i1277i19199i26440i14200i18647i14554i8213i25001i18163i21443i16259i18283i29008i24815i18611i24827i29147i23820i6268i27727i18835i6250i5303i6277i27582i20587i4855i8537i4865i19075i20576i15857i8573i14265i25407i16402i22032",
+        "png":"bkn1z5df2255f06c44fa09864f82b437ec717"
+    }},
+
+    {"id":922267035, "alias":"Nana", "featured":false, "type":"cosplay", "info":{
+        "date":"2021/10/17", "name":"Fantasma de la niña tierna",
+        "code":"9302i20789i8573i5044i11513i21275i18761i11560i20784i10474i25451i5585i15579i1734i8604i29048i22032",
+        "png":"bkn1z7d5172acc3f143e09da277e2e758e48f"
+    }},
+
+    {"id":652824968, "alias":"Nana", "featured":false, "type":"cosplay", "info":{
+        "date":"2021/10/17", "name":"Shun de Andromeda",
+        "code":"1249i24692i19712i19418i10713i4370i28193i20450i24934i22005i24994i22734i28013i24954i5560i27683i7977i19353",
+        "png":"bkn1zf8dd0b396583463c82b3e94d5ac56cae"
+    }},
+
+    {"id":423442184, "alias":"Nana", "featured":false, "info":{
+        "date":"2021/10/17", "name":"Centauro",
+        "code":"28152i26006i26070i18153i5650i18276i14207i28984i26042i27757i27595i12218i27469i15106i11770i20228i2689i28564i8659i2324i2920i2676i28574i28049i5593i16341i23576i25234",
+        "png":"bkn1zf463e25e856e4795a21bcb81bfd8749a"
+    }},
+
+    {"id":324963038, "alias":"Nana", "featured":false, "info":{
+        "date":"2021/10/17", "name":"Naga",
+        "code":"14504i18157i16263i18283i28151i9643i13649i28197i26908i24829i13187i24941i17463i9975i24931i13605i24951i15368i19402i25369i15172i7990i8583i10458",
+        "png":"bkn1z92f8d62b47f54948818cbe13f6ae938c"
+    }},
+
+    {"id":341026587, "alias":"Clara", "featured":false, "info":{
+        "date":"2021/10/16", "name":null,
+        "code":"26503i14505i18282i23045i23655i20220i23033i15193i26543i24693i6929i15306i6916i23105i26579i25143i21770",
+        "png":"bkn1zde8ee69058e14116ba6108fbabc34ab6"
+    }},
+
+    {"id":739322082, "alias":"Clara", "featured":false, "info":{
+        "date":"2021/10/16", "name":null,
+        "code":"19304i26808i24947i16366i25388i12005i8908i17561i27916i27621i24937i22776i19262i27578i25409i9886i25385i22709i22031",
+        "png":"bkn1zb4b68e1236ab406ca3b57ba55674dbe8"
+    }},
+
+    {"id":560406749, "alias":"Jarlos", "featured":false, "info":{
+        "date":"2021/10/16", "name":"Tess",
+        "code":"691i25006i18283i8246i8577i2243i18616i27752i5193i11335i8534i8150i23570i18296i16257i25137i16401i25216",
+        "png":"bkn1z832421a423384b01a21b4ffd0ec4b9e5"
+    }},
+
+    {"id":345545242, "alias":"Jarlos", "featured":false, "type":"cosplay", "info":{
+        "date":"2021/10/16", "name":"Porco Galliard",
+        "code":"691i14248i22000i1811i25268i5241i27750i20942i28145i15245i25199",
+        "png":"bkn1zad0bbd6c1ff54b8f9f05fd26c2afe342"
+    }},
+
+    {"id":513052982, "alias":"Deathnss", "featured":false, "type":"cosplay", "info":{
+        "date":"2021/10/16", "name":"Morrigan Aensland",
+        "code":"16271i26505i1247i27753i9372i5620i19215i23470i3713i11420i2242i2246i14265i4871i26570i25399i25208",
+        "png":"bkn1z67da03789c1a4ddb8278a9b4d922f90f"
+    }},
+
     {"id":216406396, "alias":"Anna", "featured":false, "info":{
         "date":"2021/10/15", "name":"Steam",
         "code":"5412i16278i16365i4858i12076i9305i10957i26444i6363i18156i18282i12019i24639i21856i9832i17939i24833i12128i27137i21362i5218i19559i20114",
