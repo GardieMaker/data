@@ -6606,7 +6606,7 @@
         "png":"27cod5b52ba1d3fd54ad4b77f0e372231fc95"
     }},
 
-    {"id":948000193, "alias":"Rose", "featured":false, "info":{
+    {"id":948000193, "alias":"Rose", "featured":true, "info":{
         "date":"2021/02/22", "name":"Aime",
         "code":"25432i26841i19274i5235i9872i23787i23823i21439i6798i21202i25111i25091i25546i2448i7811i9514i11623i15296i20382i19270i6996",
         "png":"27cod0edab6c7f7ac4580bf76d7ad2dc238ae"
