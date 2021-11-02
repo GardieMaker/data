@@ -9260,6 +9260,11 @@
 		"portuguese":"Top Daemonika",
 		"english":"Daemonika Bustier"
 	},
+	{"groupId":25394, "category":"Fondos", "rarity":"Evento", "note":"Halloween 2021",
+	    "spanish":"Campfire",
+	    "portuguese":"Fogueira",
+	    "english":"(x)Campfire"
+	},
 	{"groupId":25399, "category":"Ambientes", "rarity":"Evento", "note":"Halloween 2020", 
 		"spanish":"Arañas Daemonika",
 		"portuguese":"Aranhas Daemonika",
@@ -9329,6 +9334,46 @@
 		"spanish":"Diadema Rag Doll",
 		"portuguese":"Arquinho Rag Doll",
 		"english":"Rag Doll Headband"
+	},
+	{"groupId":25549, "category":"Cabello", "rarity":"Evento", "note":"Halloween 2021",
+		"spanish":"Lava",
+		"portuguese":"Lava",
+		"english":"(x)Lava"
+	},
+	{"groupId":25570, "category":"Pieles", "rarity":"Evento", "note":"Halloween 2021",
+		"spanish":"Piel Lava Child",
+		"portuguese":"Pele Lava Child",
+		"english":"(x)Piel Lava Child"
+	},
+	{"groupId":25580, "category":"Abrigos", "rarity":"Evento", "note":"Halloween 2021",
+		"spanish":"Capa Lava Child",
+		"portuguese":"Capa Lava Child",
+		"english":"(x)Capa Lava Child"
+	},
+	{"groupId":25590, "category":"Ropa interior", "rarity":"Evento", "note":"Halloween 2021",
+		"spanish":"Corpiño Lava Child",
+		"portuguese":"Body Lava Child",
+		"english":"(x)Corpiño Lava Child"
+	},
+	{"groupId":25600, "category":"Zapatos", "rarity":"Evento", "note":"Halloween 2021",
+		"spanish":"Grebas Lava Child",
+		"portuguese":"Meias Lava Child",
+		"english":"(x)Grebas Lava Child"
+	},
+	{"groupId":25610, "category":"Accesorios manos", "rarity":"Evento", "note":"Halloween 2021",
+		"spanish":"Brazales Lava Child",
+		"portuguese":"Mangas Lava Child",
+		"english":"(x)Brazales Lava Child"
+	},
+	{"groupId":25620, "category":"Guantes", "rarity":"Evento", "note":"Halloween 2021",
+		"spanish":"Mano Lava Child",
+		"portuguese":"Mão Lava Child",
+		"english":"(x)Mano Lava Child"
+	},
+	{"groupId":25630, "category":"Abrigos", "rarity":"Evento", "note":"Halloween 2021",
+		"spanish":"Hombrera Lava Child",
+		"portuguese":"Ombreiras Lava Child",
+		"english":"(x)Hombrera Lava Child"
 	},
 	{"groupId":25640, "category":"Fondos", "rarity":"Común", "note":"Exploración",
 	    "spanish":"Abismos",
@@ -10587,6 +10632,31 @@
 		"portuguese":"Gravata simples",
 		"english":"(x)Corbata simple"
 	},
+	{"groupId":28756, "category":"Sombreros", "rarity":"Evento", "note":"Halloween 2021",
+		"spanish":"Coronoa Lava Child",
+		"portuguese":"Coroa Lava Child",
+		"english":"(x)Coronoa Lava Child"
+	},
+	{"groupId":28766, "category":"Ambientes", "rarity":"Evento", "note":"Halloween 2021",
+		"spanish":"Espada fundida Lava Child",
+		"portuguese":"Espada Lava Child",
+		"english":"(x)Espada fundida Lava Child"
+	},
+	{"groupId":28767, "category":"Accesorios cara", "rarity":"Evento", "note":"Halloween 2021",
+		"spanish":"Gafas Lava Child",
+		"portuguese":"Óculos Lava Child",
+		"english":"(x)Gafas Lava Child"
+	},
+	{"groupId":28786, "category":"Guantes", "rarity":"Evento", "note":"Halloween 2021",
+		"spanish":"Guante Lava Child",
+		"portuguese":"Luva Lava Child",
+		"english":"(x)Guante Lava Child"
+	},
+	{"groupId":28796, "category":"Ambientes", "rarity":"Evento", "note":"Halloween 2021",
+		"spanish":"Cenizas calientes Lava Child",
+		"portuguese":"Cinzas Lava Child",
+		"english":"(x)Cenizas calientes Lava Child"
+	},
 	{"groupId":28806, "category":"Cabello", "rarity":"Evento", "note":"Verano 2021",
 		"spanish":"Eistir",
 		"portuguese":"Eistir",
@@ -10757,6 +10827,102 @@
 	    "portuguese":"Poncho de primavera",
 	    "english":"(x)Poncho primaveral"
 	},
+	{"groupId":29177, "category":"Pantalones", "rarity":"Evento", "note":"Halloween 2021",
+	    "spanish":"Pantalón Origins Villain",
+	    "portuguese":"Calças Origins Villain",
+	    "english":"(x)Pantalón Origins Villain"
+	},
+	{"groupId":29178, "category":"Partes de arriba", "rarity":"Evento", "note":"Halloween 2021",
+	    "spanish":"Top Origins Villain",
+	    "portuguese":"Blusa Origins Villain",
+	    "english":"(x)Top Origins Villain"
+	},
+	{"groupId":29179, "category":"Guantes", "rarity":"Evento", "note":"Halloween 2021",
+	    "spanish":"Guantes Origins Villain",
+	    "portuguese":"Luvas Origins Villain",
+	    "english":"(x)Guantes Origins Villain"
+	},
+	{"groupId":29180, "category":"Accesorios manos", "rarity":"Evento", "note":"Halloween 2021",
+	    "spanish":"Espada Origins Villain",
+	    "portuguese":"Espada Origins Villain",
+	    "english":"(x)Espada Origins Villain"
+	},
+	{"groupId":29181, "category":"Zapatos", "rarity":"Evento", "note":"Halloween 2021",
+	    "spanish":"Botas Origins Villain",
+	    "portuguese":"Botas Origins Villain",
+	    "english":"(x)Botas Origins Villain"
+	},
+	{"groupId":29182, "category":"Abrigos", "rarity":"Evento", "note":"Halloween 2021",
+	    "spanish":"Túnica Origins Villain",
+	    "portuguese":"Túnica Origins Villain",
+	    "english":"(x)Túnica Origins Villain"
+	},
+	{"groupId":29183, "category":"Abrigos", "rarity":"Evento", "note":"Halloween 2021",
+	    "spanish":"Capa Origins Villain",
+	    "portuguese":"Capa Origins Villain",
+	    "english":"(x)Capa Origins Villain"
+	},
+	{"groupId":29184, "category":"Accesorios cara", "rarity":"Evento", "note":"Halloween 2021",
+	    "spanish":"Máscara Origins Villain",
+	    "portuguese":"Máscara Origins Villain",
+	    "english":"(x)Máscara Origins Villain"
+	},
+	{"groupId":29185, "category":"Cabello", "rarity":"Evento", "note":"Halloween 2021",
+	    "spanish":"Ashkore",
+	    "portuguese":"Ashkore",
+	    "english":"(x)Ashkore"
+	},
+	{"groupId":29186, "category":"Cabello", "rarity":"Evento", "note":"Halloween 2021",
+	    "spanish":"Loptr",
+	    "portuguese":"Loptr",
+	    "english":"(x)Loptr"
+	},
+	{"groupId":29212, "category":"Pantalones", "rarity":"Evento", "note":"Halloween 2021",
+	    "spanish":"Pantalón Mischievous Trickster",
+	    "portuguese":"Calças Mischievous Trickster",
+	    "english":"(x)Pantalón Mischievous Trickster"
+	},
+	{"groupId":29222, "category":"Partes de arriba", "rarity":"Evento", "note":"Halloween 2021",
+	    "spanish":"Top Mischievous Trickster,",
+	    "portuguese":"Blusa Mischievous Trickster",
+	    "english":"(x)Top Mischievous Trickster,"
+	},
+	{"groupId":29232, "category":"Abrigos", "rarity":"Evento", "note":"Halloween 2021",
+	    "spanish":"Capa Mischievous Trickster",
+	    "portuguese":"Capa Mischievous Trickster",
+	    "english":"(x)Capa Mischievous Trickster"
+	},
+	{"groupId":29242, "category":"Cinturones", "rarity":"Evento", "note":"Halloween 2021",
+	    "spanish":"Cinturón Mischievous Trickster",
+	    "portuguese":"Cinto Mischievous Trickster",
+	    "english":"(x)Cinturón Mischievous Trickster"
+	},
+	{"groupId":29252, "category":"Zapatos", "rarity":"Evento", "note":"Halloween 2021",
+	    "spanish":"Botas Mischievous Trickster",
+	    "portuguese":"Botas Mischievous Trickster",
+	    "english":"(x)Botas Mischievous Trickster"
+	},
+	{"groupId":29262, "category":"Abrigos", "rarity":"Evento", "note":"Halloween 2021",
+	    "spanish":"Abrigo Mischievous Trickster",
+	    "portuguese":"Casaco Mischievous Trickster",
+	    "english":"(x)Abrigo Mischievous Trickster"
+	},
+	{"groupId":29272, "category":"Guantes", "rarity":"Evento", "note":"Halloween 2021",
+	    "spanish":"Guantes Mischievous Trickster",
+	    "portuguese":"Luvas Mischievous Trickster",
+	    "english":"(x)Guantes Mischievous Trickster"
+	},
+	{"groupId":29282, "category":"Sombreros", "rarity":"Evento", "note":"Halloween 2021",
+	    "spanish":"Casco Mischievous Trickster",
+	    "portuguese":"Elmo Mischievous Trickster",
+	    "english":"(x)Casco Mischievous Trickster"
+	},
+	{"groupId":29292, "category":"Accesorios manos", "rarity":"Evento", "note":"Halloween 2021",
+	    "spanish":"Cetro Mischievous Trickster",
+	    "portuguese":"Cetro Mischievous Trickster",
+	    "english":"(x)Cetro Mischievous Trickster"
+	},
+
 	{"groupId":29490, "category":"Abrigos", "rarity":"Raro", "note":"Tienda",
 		"spanish":"Hombreras Ranger of The Forest",
 		"portuguese":"Ombreiras Ranger of The Forest",
