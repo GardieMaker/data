@@ -2171,7 +2171,7 @@
         "png":"d1mljbbc7f2ed5e6542aa989f2dc270cfddbe"
     }},
 
-    {"id":289783521, "alias":"Vivecca Dracul", "featured":false, "type":"guardian", "info":{
+    {"id":289783521, "alias":"Vivecca Dracul", "featured":true, "type":"guardian", "info":{
         "date":"2021/09/08", "name":"Beauty Shiny Lady",
         "code":"1277i16285i17786i17563i5246i9872i22223i17778i24300i7016i19389i25957i6450i25642",
         "png":"d1mlj98f1c7489e2a445c90eba8a43ef1b82b"
