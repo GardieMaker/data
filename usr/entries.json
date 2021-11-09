@@ -1973,7 +1973,7 @@
         "png":"6kfi5d506feaff07b4c9b9e81b9c0a2506bbb"
     }},
 
-    {"id":111512771, "alias":"Nana", "featured":false, "type":"guardian", "info":{
+    {"id":111512771, "alias":"Nana", "featured":true, "type":"guardian", "info":{
         "date":"2021/09/24", "name":"Arcángel",
         "code":"25060i22645i27584i26814i16261i20086i13391i19152i7783i28228i28974i27614i27885i27604i19248i15857i7653i27574i13355i27681i24283i24273i5609i29047i16405i19339",
         "png":"6kfi5d85bb125ea554105a83c244b729fcd27"
