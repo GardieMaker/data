@@ -1,4 +1,100 @@
-[    
+[
+    {"id":105172610, "alias":"Rxgnes05", "featured":false, "type":"guardian", "info":{
+        "date":"2021/11/08", "name":"Lance X Erika",
+        "code":"22645i691i755i27295i4392i5566i23963i18871i23071i27808i19419i6362i26025i29456i25641",
+        "png":"pfdwy91447b79f15146729d20bc37c5c5285a"
+    }},
+
+    {"id":748582140, "alias":"MartaIV", "featured":false, "type":"guardian", "info":{
+        "date":"2021/11/08", "name":"Demon Girl",
+        "code":"21847i28619i21822i21894i22403i26562i25572i24815i24805i29201i19068i28758i26692i3114i5405i5392i28543i25622i16271i21859i20330i16406i15296i28526i28798i24177i19159i25215",
+        "png":"pfdwy855eb34d326145478e6e129468a9244f"
+    }},
+
+    {"id":310028282, "alias":"Sievrie", "featured":false, "type":"guardian", "info":{
+        "date":"2021/11/08", "name":null,
+        "code":"1270i16259i18283i17580i17973i20473i23745i22341i14166i18069i3259i3130i15296i8575i28313",
+        "png":"pfdwy298250dd20a34a498463e76555fc27c7"
+    }},
+
+    {"id":522086030, "alias":"Rxgnes05", "featured":false, "type":"guardian", "info":{
+        "date":"2021/11/08", "name":"Nightmare",
+        "code":"27126i19322i27751i25397i18656i25491i14858i19281i24427i28523i27602i16872i25761i17233i25399i18975i25215",
+        "png":"pfdwyede8815d0a6d40c18ba522fa9add5c5c"
+    }},
+
+    {"id":668497376, "alias":"MartaIV", "featured":false, "type":"guardian", "info":{
+        "date":"2021/11/08", "name":"Your Highness",
+        "code":"1249i5193i16689i7805i29014i14430i29285i29225i29235i29245i6449i29255i29295i6450i6768i9888i27552",
+        "png":"pfdwy56974bca480149bcb36286ec20fbd9fc"
+    }},
+
+    {"id":910280135, "alias":"Soroma", "featured":false, "type":"guardian", "info":{
+        "date":"2021/11/08", "name":"Cieri",
+        "code":"8556i29577i22867i28099i25003i29519i20092i28159i24824i4415i26653i5589i22367i17293i4507i3647i19340",
+        "png":"pfdwyb39282fa3aa94b40acf17eab382b31cc"
+    }},
+
+    {"id":630465453, "alias":"Jarlos", "featured":false, "type":"guardian", "info":{
+        "date":"2021/11/08", "name":"Roxy",
+        "code":"691i5080i22776i5203i29214i25088i26855i3716i21268i26785i25201",
+        "png":"pfdwyfc7b26c8e003400da48d68aa32f2f03d"
+    }},
+
+    {"id":978980899, "alias":"Jarlos", "featured":false, "type":"cosplay", "info":{
+        "date":"2021/11/08", "name":"Jason Todd",
+        "code":"691i29427i29418i22697i19867i21279i9486i23835i27753i5575i29594i27361i25214",
+        "png":"pfdwy4efa359fee9648f7abd0610023c1426f"
+    }},
+
+    {"id":210836203, "alias":"paVUcK", "featured":false, "type":"cosplay", "info":{
+        "date":"2021/11/08", "name":"Fran Bow",
+        "code":"7925i18158i8573i18728i5211i6464i25219i1804i25484i25024i21165i6996",
+        "png":"pfdwybae4786088f044169625f2ce91946828"
+    }},
+
+    {"id":205477011, "alias":"Kara", "featured":false, "type":"guardian", "info":{
+        "date":"2021/11/08", "name":"El Demonio de Mana",
+        "code":"18795i1263i21869i5244i18879i18891i18855i18867i18843i18819i29187i18783i13823i25221",
+        "png":"pfdwyffd809adb4964602bdb2f8184eb05b49"
+    }},
+
+    {"id":875537977, "alias":"La muy, muy amable", "featured":false, "type":"guardian", "info":{
+        "date":"2021/11/08", "name":"Calabaza",
+        "code":"5159i5124i4376i14359i28115i28980i14352i21891i23366i29101i20196i27651i3407i23340i23546i22895i10905i2385i21829i18322i23315i26407i3250i16382i20845i28561i16362i6768",
+        "png":"pfdwy882bb44cb85a45598c710bdf2508c348"
+    }},
+
+    {"id":554830791, "alias":"La muy, muy amable", "featured":false, "type":"cosplay", "info":{
+        "date":"2021/11/08", "name":"Genio",
+        "code":"28945i15726i18162i5073i5559i13129i4133i13961i15857i16514i24578i8964i17910i13823i28509i18787i26738i26751i8421i17941i29520i25190i21632i9383i2334i9087i18212i3227i16284i16280i6768i28797i12150i18200i11849",
+        "png":"pfdwybb733bf420444701a6e0e6692431d5bf"
+    }},
+
+    {"id":141966871, "alias":"ChioRochy", "featured":false, "type":"cosplay", "info":{
+        "date":"2021/11/07", "name":"Sirena Von Boo (Moster High)",
+        "code":"4552i29003i24895i5202i11512i24692i11393i24497i16795i14708i24485i16247i24517i25640",
+        "png":"pfdwy5bfebebf386c420db646f02d9004f720"
+    }},
+
+    {"id":901166777, "alias":"ChioRochy", "featured":false, "type":"guardian", "info":{
+        "date":"2021/11/07", "name":"Nacimiento del Gran Dragón Rojo",
+        "code":"691i28769i27757i17062i323i29020i29223i29178i17387i29182i29098i29263i23840i29289i10290i29299i28235i21059",
+        "png":"pfdwy2387269b78f84e04a0057238a188008b"
+    }},
+
+    {"id":672604121, "alias":"ChioRochy", "featured":false, "type":"guardian", "info":{
+        "date":"2021/11/07", "name":"Violet Dragon Warrior",
+        "code":"1276i5202i27757i25001i22437i29237i25278i17400i29259i24971i19056i24951i22980i26560i29481i2981",
+        "png":"pfdwy9055cf4227e3461184a05fbe9e65888e"
+    }},
+
+    {"id":368118386, "alias":"AdyCeci", "featured":false, "type":"cosplay", "info":{
+        "date":"2021/11/07", "name":"Loki",
+        "code":"691i29212i29222i29262i29232i29282i29252i4370i5554i23899i16232i29292",
+        "png":"pfdwy72cb63c1ddfd4880b8796bfc5c3570b9"
+    }},
+
     {"id":542972876, "alias":"I", "featured":false, "type":"guardian", "info":{
         "date":"2021/11/07", "name":"Ok",
         "code":"1276i18312i12022i23416i28620i24904i4381i19604i3250i22261i1430i8534i5588",
@@ -11,7 +107,7 @@
         "png":"pf9rpc1d0731621bc4f0993b7ff1325d0b89d"
     }},
 
-    {"id":349915673, "alias":"Caroles", "featured":false, "type":"guardian", "info":{
+    {"id":349915673, "alias":"Cah", "featured":false, "type":"guardian", "info":{
         "date":"2021/11/07", "name":"Crystally",
         "code":"16278i12780i10508i27769i17718i12019i21896i23793i5231i27416i16694i19185i12910i22473i27917i17746i27683i26662i26579i24315i20114",
         "png":"pf9rpfbacc4e12997459ea568a12b36221e5f"
@@ -53,19 +149,19 @@
         "png":"pf9rp63a35a75fed548359c3e621c228018ff"
     }},
 
-    {"id":139896867, "alias":"Caroles", "featured":false, "type":"guardian", "info":{
+    {"id":139896867, "alias":"Cah", "featured":false, "type":"guardian", "info":{
         "date":"2021/11/07", "name":"Merily",
         "code":"24683i25865i26330i12619i21813i12547i25963i5232i7786i12232i24490i17814i24314i6450i21770",
         "png":"pf9rp7de6289a743d48e887bf2085469c60e5"
     }},
 
-    {"id":875359030, "alias":"Caroles", "featured":false, "type":"guardian", "info":{
+    {"id":875359030, "alias":"Cah", "featured":false, "type":"guardian", "info":{
         "date":"2021/11/07", "name":"Sweetie",
         "code":"16278i21897i18379i6710i21844i25318i4758i5196i14918i23796i9943i5444i24211i28349i11559i5331i16378i19250i20331i28798i27561i29460i22031",
         "png":"pf9rpf8f058e859734558b6ce731c47dae9fa"
     }},
 
-    {"id":402805562, "alias":"Caroles", "featured":false, "type":"guardian", "info":{
+    {"id":402805562, "alias":"Cah", "featured":false, "type":"guardian", "info":{
         "date":"2021/11/06", "name":"Spirit of Forest",
         "code":"1254i17726i16280i17653i26455i5213i29053i7761i17326i12001i14350i27894i28882i14740i27040i23574i3407i20228i16380i28527i11845i16404i25221",
         "png":"pf9rp8232628835bd429a9404946d68d0c951"
@@ -239,13 +335,13 @@
         "png":"ped8p1a6a55042e914454be3e4bd91b770301"
     }},
 
-    {"id":489465452, "alias":"Caroles", "featured":false, "type":"cosplay", "info":{
+    {"id":489465452, "alias":"Cah", "featured":false, "type":"cosplay", "info":{
         "date":"2021/11/04", "name":"Slenderman",
         "code":"26500i19304i7922i18951i8579i25288i18623i10033i10462i19340",
         "png":"ped8pbfa8f34d85f7418eaa69b1e87b6749e2"
     }},
 
-    {"id":692798024, "alias":"Caroles", "featured":false, "type":"guardian", "info":{
+    {"id":692798024, "alias":"Cah", "featured":false, "type":"guardian", "info":{
         "date":"2021/11/04", "name":null,
         "code":"9302i16285i17568i5214i21815i2449i25008i21849i27635i16276i12267i21861i12099i20324i13329i27557i14197i25235",
         "png":"ped8p219ccf5c081147d2b58dcb6048d16061"
@@ -269,7 +365,7 @@
         "png":"ped8p983f4bb6c4a04a3f987aa4580207d42d"
     }},
 
-    {"id":820515949, "alias":"Caroles", "featured":false, "type":"guardian", "info":{
+    {"id":820515949, "alias":"Cah", "featured":false, "type":"guardian", "info":{
         "date":"2021/11/03", "name":null,
         "code":"18801i24668i14492i24317i11526i19567i14291i4425i22092i5570i28487i24447i15344i24693i25378i16718i12857i5388i10089i26560i25640",
         "png":"ped8pd790aec4d6544a5490b455f5ae5dd15d"
@@ -287,7 +383,7 @@
         "png":"ped8pb9c28c427dda471790f241ee8aac5f7a"
     }},
 
-    {"id":558739824, "alias":"Caroles", "featured":false, "type":"guardian", "info":{
+    {"id":558739824, "alias":"Cah", "featured":false, "type":"guardian", "info":{
         "date":"2021/11/03", "name":null,
         "code":"13626i17801i5409i19492i27925i27990i6449i28010i17681i12143i16694i5248i14329i20070i27017i20223i8661i29125i20046i5728",
         "png":"ped8p98296c9a4dd14e5e9aa69a23f226359f"
@@ -299,7 +395,7 @@
         "png":"ped8p93d7ae02883045bebf0b1573d344c212"
     }},
 
-    {"id":600556639, "alias":"Caroles", "featured":false, "type":"guardian", "info":{
+    {"id":600556639, "alias":"Cah", "featured":false, "type":"guardian", "info":{
         "date":"2021/11/03", "name":null,
         "code":"23224i26658i24256i4758i14467i23423i24462i27304i24814i12135i17859i23349i14478i16270i14112i27560i21058",
         "png":"ped8p8683ef8c96c746078ad844546582a588"
@@ -359,7 +455,7 @@
         "png":"8i523092b4bb9aeda4ddd8d2c7336cb84a54d"
     }},
 
-    {"id":906026588, "alias":"Caroles", "featured":false, "type":"guardian", "info":{
+    {"id":906026588, "alias":"Cah", "featured":false, "type":"guardian", "info":{
         "date":"2021/11/02", "name":null,
         "code":"17799i6261i16286i8905i17560i19609i13633i9372i21104i17306i16888i24205i18987i2244i13671i21116i19353",
         "png":"8i5236c2d87eb53814618a4d949868dd264d4"
@@ -419,7 +515,7 @@
         "png":"kw3m76088330fc54c4126a0b10ade93a1c357"
     }},
 
-    {"id":476258171, "alias":"Caroles", "featured":false, "type":"guardian", "info":{
+    {"id":476258171, "alias":"Cah", "featured":false, "type":"guardian", "info":{
         "date":"2021/11/01", "name":null,
         "code":"11850i1268i14957i5213i28562i1727i17725i9097i18877i4402i17685i16178i27635i16377i14707i2324i17732i25141i7808i28162i20333",
         "png":"kw3m7bbe182a45fb64281b3266f063eaadd77"
