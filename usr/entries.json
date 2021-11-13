@@ -749,7 +749,7 @@
         "png":"kw3m7866402bbbbe648e5ab920738b1f5c728"
     }},
 
-    {"id":912961136, "alias":"Sirenity", "featured":false, "type":"guardian", "info":{
+    {"id":912961136, "alias":"Deluna", "featured":false, "type":"guardian", "info":{
         "date":"2021/10/30", "name":"Angelus",
         "code":"12823i21820i6719i6711i1245i16293i26533i18152i19603i18283i26513i16300i16339i12103i11327i16686i5264i12271i26579i26937i20574i2274i12128i9439i2977i29050i18904i25196",
         "png":"kw3m7ac6c1bf07bea4729bd6182cea001e8b3"
@@ -3341,13 +3341,13 @@
         "png":"l1ct4b8166af6c07a4db1a50c831b0bb9afd5"
     }},
 
-    {"id":139193378, "alias":"Sirenity", "featured":false, "type":"guardian", "info":{
+    {"id":139193378, "alias":"Deluna", "featured":false, "type":"guardian", "info":{
         "date":"2021/08/16", "name":"The Crown Princess of Sea",
         "code":"24674i691i20280i5243i24629i14186i17857i18330i17905i16008i17881i17859i21833i13498i28928i8191i17808i25145i16401i24347",
         "png":"bsnawb59d1b0a704744c0999c65f600fb1928"
     }},
 
-    {"id":675340472, "alias":"Sirenity", "featured":false, "type":"guardian", "info":{
+    {"id":675340472, "alias":"Deluna", "featured":false, "type":"guardian", "info":{
         "date":"2021/08/16", "name":"A Walk With Death",
         "code":"1249i9475i9489i28848i27642i9872i28928i16266i18283i27621i20277i27612i14091i22247i28879i5215i9510i9477i9886i28909i28524i21059",
         "png":"bsnaw0ea76ecb7cd7411aaeda434d0653fe9e"
@@ -3371,7 +3371,7 @@
         "png":"bsnawe6bc6a965b76454c9d82a35e28652903"
     }},
 
-    {"id":210046900, "alias":"Sirenity", "featured":false, "type":"cosplay", "info":{
+    {"id":210046900, "alias":"Deluna", "featured":false, "type":"cosplay", "info":{
         "date":"2021/08/15", "name":"Sukuna",
         "code":"28944i16266i18283i20277i8909i26530i25160i28853i14203i13913i28883i28523i14265i27411i27551",
         "png":"ovj2t67f133d82382459e8cf192370b99357f"
@@ -3407,7 +3407,7 @@
         "png":"ovj2t3acfeaf650ce4ffd9eed029a7ef9196d"
     }},
 
-    {"id":849497368, "alias":"Sirenity", "featured":false, "type":"guardian", "info":{
+    {"id":849497368, "alias":"Deluna", "featured":false, "type":"guardian", "info":{
         "date":"2021/08/15", "name":"Eva",
         "code":"27771i25328i25409i14494i19603i18163i18283i16694i5270i28869i28879i28929i28909i15197i28524i14265i27671i28899i21059",
         "png":"ovj2t0b78b6f0a6494f649798305bb7e0f416"
@@ -4103,7 +4103,7 @@
         "png":"0ua7hac24a3deaff4467886ba5560e80f5e23"
     }},
 
-    {"id":573831749, "alias":"Sirenity", "featured":false, "type":"guardian", "info":{
+    {"id":573831749, "alias":"Deluna", "featured":false, "type":"guardian", "info":{
         "date":"2021/07/14", "name":"Yeona",
         "code":"1246i18155i19601i18280i6449i5243i16687i28092i27926i28112i27986i27889i21596i27879i5648i8312i28053i27859i27869i16377i6450i27849i16796i8020i5728",
         "png":"0ua7hadc40ed45ca441a1ac84dd410bd3500b"
@@ -4211,7 +4211,7 @@
         "png":"oo7c57e95f1a7cc104461b1be3923510e2c87"
     }},
 
-    {"id":344806792, "alias":"Sirenity", "featured":false, "type":"guardian", "info":{
+    {"id":344806792, "alias":"Deluna", "featured":false, "type":"guardian", "info":{
         "date":"2021/07/10", "name":"Delilah",
         "code":"1249i18153i18276i28091i4400i5245i9425i27617i26888i26858i26898i27069i28191i22756i28131i28045i3248i25313i25190i26579i25217",
         "png":"oo7c5f5fdd67be743427db2b0405ff89b292b"
@@ -4325,7 +4325,7 @@
         "png":"om681fe1398c6f56042e5a0c5d89cd015a13c"
     }},
 
-    {"id":645220361, "alias":"Sirenity", "featured":true, "type":"guardian", "info":{
+    {"id":645220361, "alias":"Deluna", "featured":true, "type":"guardian", "info":{
         "date":"2021/07/06", "name":"Polaris",
         "code":"1248i18153i18276i26977i27755i5245i27925i13465i28134i28021i28114i27595i27625i28050i27605i27565i27555i26579i24269i25196",
         "png":"om681b5371b945e9a4eb3922e405584ccbd6b"
@@ -4361,13 +4361,13 @@
         "png":"om6812749a66fbc0840638b4a3d938adda1f0"
     }},
 
-    {"id":100406859, "alias":"Sirenity", "featured":false, "type":"guardian", "info":{
+    {"id":100406859, "alias":"Deluna", "featured":false, "type":"guardian", "info":{
         "date":"2021/07/05", "name":"Selenath",
         "code":"4989i1248i19608i18153i5215i18276i16686i26530i26705i4999i5017i27496i26715i26889i26860i26900i27526i27486i25144i22247i22713i19906i22701i6768i25641",
         "png":"om6811d570b9a28b543fca63f4f14e7198edf"
     }},
 
-    {"id":567726041, "alias":"Sirenity", "featured":false, "type":"guardian", "info":{
+    {"id":567726041, "alias":"Deluna", "featured":false, "type":"guardian", "info":{
         "date":"2021/07/05", "name":"Celenath",
         "code":"4989i1270i18152i26889i18283i4408i26705i5215i4999i5017i26715i26900i26906i24910i27526i10157i6449i28231i28241i27496i25313i24271i2449i6768i25642",
         "png":"om681c29b2122eb864049a02cfd44ce1f21a3"
