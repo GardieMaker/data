@@ -7091,7 +7091,7 @@
         "png":"ahaoad1987d1cfe0c489886bb9f32cef5c2ac"
     }},
 
-    {"id":657928140, "alias":"Kiami", "featured":false, "type":"guardian", "info":{
+    {"id":657928140, "alias":"Kiami", "featured":true, "type":"guardian", "info":{
         "date":"2021/03/26", "name":"Dynamo",
         "code":"21327i19609i6382i22800i26118i26128i5262i2329i24972i10136i4837i15298i11651i12013i25383i24263i20010i22386i25208",
         "png":"ahaoa6d5cb9dd71a74f488d4ed1273f434f8c"
