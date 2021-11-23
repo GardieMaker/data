@@ -3347,7 +3347,7 @@
         "png":"d1mlj6a29d9ac1d8b4c2bb83d601ffc691fc4"
     }},
 
-    {"id":563691849, "alias":"Lady Wolf", "featured":false, "type":"guardian", "info":{
+    {"id":563691849, "alias":"Lady Wolf", "featured":true, "type":"guardian", "info":{
         "date":"2021/09/07", "name":"Ophelia",
         "code":"1271i26520i28619i28941i16266i8575i26510i27737i22624i28973i29045i29008i26855i24941i25308i29026i28512i15659i14265i25196",
         "png":"d1mlj49f8ca2e6b65408cb1980dde1e5bb44a"
