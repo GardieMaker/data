@@ -1799,7 +1799,7 @@
         "png":"m0lkyc877d3cdc30d4b6590e63a89583bf9f8"
     }},
 
-    {"id":406979704, "alias":"Kiarily", "featured":false, "type":"guardian", "info":{
+    {"id":406979704, "alias":"Kiarily", "featured":true, "type":"guardian", "info":{
         "date":"2021/10/27", "name":"Dead Gardienne",
         "code":"1275i15248i5587i4715i2890i704i2775i20114",
         "png":"m0lkyad77428a29ee41be8a62fde7d41b2ae0"
