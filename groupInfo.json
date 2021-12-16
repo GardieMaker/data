@@ -11012,5 +11012,20 @@
 	    "spanish":"Piel Chimeria",
 	    "portuguese":"Pele Chimeria",
 	    "english":"(x)Piel Chimeria"
+	},
+	{"groupId":29731, "category":"coat", "rarity":"Épico", "note":"Exploración",
+		"spanish":"Hombrera tribal",
+		"portuguese":"Ombreira tribal",
+		"english":"(x)Hombrera tribal"
+	},
+	{"groupId":29741, "category":"hat", "rarity":"Raro", "note":"Exploración",
+		"spanish":"Diadema tribal",
+		"portuguese":"Tiara tribal",
+		"english":"(x)Diadema tribal"
+	},
+	{"groupId":29751, "category":"handAccessory", "rarity":"Raro", "note":"Exploración",
+		"spanish":"Bastón linterna",
+		"portuguese":"Bastão lanterna",
+		"english":"(x)Bastón linterna"
 	}
 ]
