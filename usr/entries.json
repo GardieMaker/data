@@ -792,7 +792,7 @@
         "png":"i6he0169fa055d2e145308f3be4cd0a158062"
     }},
 
-    {"id":717215165, "alias":"Clara", "featured":false, "type":"guardian", "info":{
+    {"id":717215165, "alias":"Clara", "featured":true, "type":"guardian", "info":{
         "date":"2021/12/04", "edited":"2021/12/21", "name":"N21",
         "code":"23307i9305i16261i17981i17576i20348i16701i16449i16523i10465i6579i10468i22551i22399i20112i16402i6768i22507",
         "png":"i6he0075cdf6a536d41d5b51557f2a31903a2"
