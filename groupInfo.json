@@ -11027,5 +11027,210 @@
 		"spanish":"Bastón linterna",
 		"portuguese":"Bastão lanterna",
 		"english":"(x)Bastón linterna"
+	},
+	{"groupId":29761, "category":"hat", "rarity":"Evento", "note":"Navidad 2021",
+	    "spanish":"Diadema Jack's Savior",
+	    "portuguese":"Diadema Jack's Savior",
+	    "english":"(x)Diadema Jack's Savior"
+	},
+	{"groupId":29771, "category":"hair", "rarity":"Evento", "note":"Navidad 2021",
+	    "spanish":"Calanthe",
+	    "portuguese":"Calanthe",
+	    "english":"(x)Calanthe"
+	},
+	{"groupId":29798, "category":"handAccessory", "rarity":"Evento", "note":"Navidad 2021",
+	    "spanish":"Alabarda Jack's Savior",
+	    "portuguese":"Alabarda Jack's Savior",
+	    "english":"(x)Alabarda Jack's Savior"
+	},
+	{"groupId":29808, "category":"glove", "rarity":"Evento", "note":"Navidad 2021",
+	    "spanish":"Guantes Jack's Savior",
+	    "portuguese":"Luvas Jack's Savior",
+	    "english":"(x)Guantes Jack's Savior"
+	},
+	{"groupId":29818, "category":"coat", "rarity":"Evento", "note":"Navidad 2021",
+	    "spanish":"Hombreras Jack's Savior",
+	    "portuguese":"Ombreiras Jack's Savior",
+	    "english":"(x)Hombreras Jack's Savior"
+	},
+	{"groupId":29828, "category":"top", "rarity":"Evento", "note":"Navidad 2021",
+	    "spanish":"Peto Jack's Savior",
+	    "portuguese":"Peitilho Jack's Savior",
+	    "english":"(x)Peto Jack's Savior"
+	},
+	{"groupId":29838, "category":"belt", "rarity":"Evento", "note":"Navidad 2021",
+	    "spanish":"Cinturón Jack's Savior",
+	    "portuguese":"Cinto Jack's Savior",
+	    "english":"(x)Cinturón Jack's Savior"
+	},
+	{"groupId":29848, "category":"shoe", "rarity":"Evento", "note":"Navidad 2021",
+	    "spanish":"Grebas Jack's Savior",
+	    "portuguese":"Meia-calça Jack's Savior",
+	    "english":"(x)Grebas Jack's Savior"
+	},
+	{"groupId":29858, "category":"pants", "rarity":"Evento", "note":"Navidad 2021",
+	    "spanish":"Pantalón Jack's Savior",
+	    "portuguese":"Calça Jack's Savior",
+	    "english":"(x)Pantalón Jack's Savior"
+	},
+	{"groupId":29868, "category":"top", "rarity":"Evento", "note":"Navidad 2021",
+	    "spanish":"Camisa Jack's Savior",
+	    "portuguese":"Blusa Jack's Savior",
+	    "english":"(x)Camisa Jack's Savior"
+	},
+	{"groupId":29878, "category":"hat", "rarity":"Evento", "note":"Navidad 2021",
+	    "spanish":"Gorro Delicate Warm",
+	    "portuguese":"(x)Gorro Delicate Warm",
+	    "english":"(x)Gorro Delicate Warm"
+	},
+	{"groupId":29897, "category":"faceAccessory", "rarity":"Evento", "note":"Navidad 2021",
+	    "spanish":"Pendientes Delicate Warm",
+	    "portuguese":"(x)Pendientes Delicate Warm",
+	    "english":"(x)Pendientes Delicate Warm"
+	},
+	{"groupId":29907, "category":"coat", "rarity":"Evento", "note":"Navidad 2021",
+	    "spanish":"Chal Delicate Warm",
+	    "portuguese":"(x)Chal Delicate Warm",
+	    "english":"(x)Chal Delicate Warm"
+	},
+	{"groupId":29917, "category":"belt", "rarity":"Evento", "note":"Navidad 2021",
+	    "spanish":"Cinturón Delicate Warm",
+	    "portuguese":"(x)Cinturón Delicate Warm",
+	    "english":"(x)Cinturón Delicate Warm"
+	},
+	{"groupId":29927, "category":"coat", "rarity":"Evento", "note":"Navidad 2021",
+	    "spanish":"Abrigo Delicate Warm",
+	    "portuguese":"(x)Abrigo Delicate Warm",
+	    "english":"(x)Abrigo Delicate Warm"
+	},
+	{"groupId":29937, "category":"dress", "rarity":"Evento", "note":"Navidad 2021",
+	    "spanish":"Combinación Delicate Warm",
+	    "portuguese":"(x)Combinación Delicate Warm",
+	    "english":"(x)Combinación Delicate Warm"
+	},
+	{"groupId":29947, "category":"dress", "rarity":"Evento", "note":"Navidad 2021",
+	    "spanish":"Vestido Delicate Warm",
+	    "portuguese":"(x)Vestido Delicate Warm",
+	    "english":"(x)Vestido Delicate Warm"
+	},
+	{"groupId":29957, "category":"hair", "rarity":"Evento", "note":"Navidad 2021",
+	    "spanish":"Pavetta",
+	    "portuguese":"Pavetta",
+	    "english":"(x)Pavetta"
+	},
+	{"groupId":29984, "category":"eye", "rarity":"Evento", "note":"Navidad 2021",
+	    "spanish":"Ojos Delicate Warm",
+	    "portuguese":"Olhos Delicate Warm",
+	    "english":"(x)Ojos Delicate Warm"
+	},
+	{"groupId":30042, "category":"shoe", "rarity":"Evento", "note":"Navidad 2021",
+	    "spanish":"Botas Delicate Warm",
+	    "portuguese":"(x)Botas Delicate Warm",
+	    "english":"(x)Botas Delicate Warm"
+	},
+	{"groupId":30052, "category":"hair", "rarity":"Evento", "note":"Navidad 2021",
+	    "spanish":"Saoirse",
+	    "portuguese":"Saoirse",
+	    "english":"(x)Saoirse"
+	},
+	{"groupId":30078, "category":"handAccessory", "rarity":"Evento", "note":"Navidad 2021",
+	    "spanish":"Bolso Cold Explorer",
+	    "portuguese":"(x)Bolso Cold Explorer",
+	    "english":"(x)Bolso Cold Explorer"
+	},
+	{"groupId":30088, "category":"coat", "rarity":"Evento", "note":"Navidad 2021",
+	    "spanish":"Abrigo Cold Explorer",
+	    "portuguese":"(x)Abrigo Cold Explorer",
+	    "english":"(x)Abrigo Cold Explorer"
+	},
+	{"groupId":30098, "category":"belt", "rarity":"Evento", "note":"Navidad 2021",
+	    "spanish":"Cinturón Cold Explorer",
+	    "portuguese":"(x)Cinturón Cold Explorer",
+	    "english":"(x)Cinturón Cold Explorer"
+	},
+	{"groupId":30108, "category":"coat", "rarity":"Evento", "note":"Navidad 2021",
+	    "spanish":"Hombrera Cold Explorer",
+	    "portuguese":"(x)Hombrera Cold Explorer",
+	    "english":"(x)Hombrera Cold Explorer"
+	},
+	{"groupId":30118, "category":"handAccessory", "rarity":"Evento", "note":"Navidad 2021",
+	    "spanish":"Bastón Cold Explorer",
+	    "portuguese":"(x)Bastón Cold Explorer",
+	    "english":"(x)Bastón Cold Explorer"
+	},
+	{"groupId":30128, "category":"shoe", "rarity":"Evento", "note":"Navidad 2021",
+	    "spanish":"Botas Cold Explorer",
+	    "portuguese":"(x)Botas Cold Explorer",
+	    "english":"(x)Botas Cold Explorer"
+	},
+	{"groupId":30138, "category":"glove", "rarity":"Evento", "note":"Navidad 2021",
+	    "spanish":"Guantes Cold Explorer",
+	    "portuguese":"(x)Guantes Cold Explorer",
+	    "english":"(x)Guantes Cold Explorer"
+	},
+	{"groupId":30148, "category":"dress", "rarity":"Evento", "note":"Navidad 2021",
+	    "spanish":"Túnicas Cold Explorer",
+	    "portuguese":"(x)Túnicas Cold Explorer",
+	    "english":"(x)Túnicas Cold Explorer"
+	},
+	{"groupId":30158, "category":"pants", "rarity":"Evento", "note":"Navidad 2021",
+	    "spanish":"Pantalón Cold Explorer",
+	    "portuguese":"(x)Pantalón Cold Explorer",
+	    "english":"(x)Pantalón Cold Explorer"
+	},
+	{"groupId":30168, "category":"hair", "rarity":"Evento", "note":"Navidad 2021",
+	    "spanish":"Darla",
+	    "portuguese":"Darla",
+	    "english":"(x)Darla"
+	},
+	{"groupId":30194, "category":"faceAccessory", "rarity":"Evento", "note":"Navidad 2021",
+	    "spanish":"Orejas Toy Maker",
+	    "portuguese":"Orelhas Toy Maker",
+	    "english":"(x)Orejas Toy Maker"
+	},
+	{"groupId":30204, "category":"glove", "rarity":"Evento", "note":"Navidad 2021",
+	    "spanish":"Guantes Toy Maker",
+	    "portuguese":"Luvas Toy Maker",
+	    "english":"(x)Guantes Toy Maker"
+	},
+	{"groupId":30214, "category":"pants", "rarity":"Evento", "note":"Navidad 2021",
+	    "spanish":"Falda Toy Maker",
+	    "portuguese":"Saia Toy Maker",
+	    "english":"(x)Falda Toy Maker"
+	},
+	{"groupId":30224, "category":"necklace", "rarity":"Evento", "note":"Navidad 2021",
+	    "spanish":"Collar Toy Maker",
+	    "portuguese":"Colar Toy Maker",
+	    "english":"(x)Collar Toy Maker"
+	},
+	{"groupId":30234, "category":"hat", "rarity":"Evento", "note":"Navidad 2021",
+	    "spanish":"Sombrero Toy Maker",
+	    "portuguese":"Chapéu Toy Maker",
+	    "english":"(x)Sombrero Toy Maker"
+	},
+	{"groupId":30244, "category":"top", "rarity":"Evento", "note":"Navidad 2021",
+	    "spanish":"Top Toy Maker",
+	    "portuguese":"Blusa Toy Maker",
+	    "english":"(x)Top Toy Maker"
+	},
+	{"groupId":30254, "category":"shoe", "rarity":"Evento", "note":"Navidad 2021",
+	    "spanish":"Zapatos Toy Maker",
+	    "portuguese":"Sapatos Toy Maker",
+	    "english":"(x)Zapatos Toy Maker"
+	},
+	{"groupId":30264, "category":"sock", "rarity":"Evento", "note":"Navidad 2021",
+	    "spanish":"Medias Toy Maker",
+	    "portuguese":"Meia-Calça Toy Maker",
+	    "english":"(x)Medias Toy Maker"
+	},
+	{"groupId":30274, "category":"skin", "rarity":"Evento", "note":"Navidad 2021",
+	    "spanish":"Piel Toy Maker",
+	    "portuguese":"Pele Toy Maker",
+	    "english":"(x)Piel Toy Maker"
+	},
+	{"groupId":30284, "category":"ambient", "rarity":"Evento", "note":"Navidad 2021",
+	    "spanish":"Oso Toy Maker",
+	    "portuguese":"Urso Toy Maker",
+	    "english":"(x)Oso Toy Maker"
 	}
 ]
