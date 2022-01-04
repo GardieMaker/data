@@ -49,29 +49,92 @@
     {"date":"2021-03-03", "entry":372936002, "alias":"ShiroNeKo-D", "title":"Semana 26"},
     {"date":"2021-02-24", "entry":959713645, "alias":"Aleric", "title":"Semana 25"},
     {"date":"2021-02-17", "entry":980188627, "alias":"MartaIV", "title":"Semana 24"},
-    {"date":"2021-02-10", "entry":591976272, "alias":"Dyus", "title":"Semana 23"},
+
+    {"date":"2021-02-10", "entry":"deleted15", "alias":"Usuario eliminado", "title":"Semana 23", "entryInfo":{
+        "date":"2020/09/29", "type":"guardian", "name":null,
+        "png":"7tprs072acbb23fa748709302520b757b0617",
+        "code":"21844i22645i21891i6711i21856i17767i21823i6716i19738i12271i19522i1249i16282i24831i5581i24666i3640i14348i19566i17857i7791i17173i16987i23510i22677i19980i21578i14457i13372i14378i13646i12610i19740i23119i3341i21626i24905i16233i8354i5413i12596i23521i13584i2977i23579i18296i17737i12607i17300i20331i16377i22475i6768i6655i16341i22386i23100i18904i16405i20333"
+    }},
     {"date":"2021-02-03", "entry":454227602, "alias":"brokenendings", "title":"Semana 22"},
     {"date":"2021-01-27", "entry":186599159, "alias":"ShiroNeKo-D", "title":"Semana 21"},
-    {"date":"2021-01-20", "entry":402400558, "alias":"LiinDor", "title":"Semana 20"},
-    {"date":"2021-01-13", "entry":172012780, "alias":"Bel", "title":"Semana 19"},
+
+    {"date":"2021-01-20", "entry":"deleted14", "alias":"Usuario eliminado", "title":"Semana 20", "entryInfo":{
+        "date":"2020/08/25", "type":"cosplay", "name":null,
+        "png":"7tprs6725b7290ec54ebcab6909bc969fb760",
+        "code":"16278i23241i23265i1249i9558i16511i23289i11520i12160i16462i24617i17312i16381i12064i23403i14334i16987i22623i17316i16402i20333"
+    }},
+    {"date":"2021-01-13", "entry":"deleted13", "alias":"Usuario eliminado", "title":"Semana 19", "entryInfo":{
+        "date":"2020/08/23", "type":"guardian", "name":null,
+        "png":"7tprs8433098e77c043baa64a51ccacdcd007",
+        "code":"21895i8557i13192i16371i18160i16273i23450i18530i20239i23653i23951i13129i14224i16282i7990i6658i16171i21883i6768i19154i20115"
+    }},
     {"date":"2021-01-06", "entry":652995409, "alias":"Chenmi", "title":"Semana 18"},
 
     {"date":"2020-12-23", "entry":449427797, "alias":"Zunay", "title":"Fiestas 2020"},
-    {"date":"2020-12-16", "entry":100847724, "alias":"alejandra16ed", "title":"Semana 17"},
-    {"date":"2020-12-08", "entry":859764693, "alias":"Cristalmye", "title":"Semana 16"},
+
+    {"date":"2020-12-16", "entry":"deleted12", "alias":"Usuario eliminado", "title":"Semana 17", "entryInfo":{
+        "date":"2020/08/25", "type":"guardian", "name":null,
+        "png":"7tprs54fc5109b1914d45a7919385cbef38ab",
+        "code":"12827i16280i24313i20327i17748i21327i3336i16268i24760i24287i4396i5205i17693i24097i13971i19601i20326i23818i24275i16706i20732i21469i20437i2329i23762"
+    }},
+    {"date":"2020-12-08", "entry":"deleted11", "alias":"Usuario eliminado", "title":"Semana 16", "entryInfo":{
+        "date":"2020/10/01", "type":"guardian", "name":null,
+        "png":"7tprs1e2f352ddd374e20be2ed4587691ddc7",
+        "code":"1249i7535i22624i23152i16292i5588i16682i24132i18306i17735i18310i24156i16407i23762"
+    }},
     {"date":"2020-12-02", "entry":821742011, "alias":"Viole", "title":"Semana 15"},
-    {"date":"2020-11-25", "entry":230139648, "alias":"Lovysten", "title":"Semana 14"},
-    {"date":"2020-11-18", "entry":763478772, "alias":"Callysa", "title":"Semana 13"},
-    {"date":"2020-11-11", "entry":603897115, "alias":"Zendary", "title":"Semana 12"},
-    {"date":"2020-11-03", "entry":253153279, "alias":"Zan", "title":"Semana 11"},
-    {"date":"2020-10-28", "entry":106367882, "alias":"Eshima", "title":"Semana 10"},
+    {"date":"2020-11-25", "entry":"deleted10", "alias":"Usuario eliminado", "title":"Semana 14", "entryInfo":{
+        "date":"2020/09/29", "type":"guardian", "name":null,
+        "png":"7tprsdde7e2c42e1f4f88a5f348dc432a5263",
+        "code":"16270i11870i1249i16292i5588i10937i23301i20642i23517i23414i23541i21529i17344i23392i18312i15308i13062i16380i15573i24157i12290i6768i20333"
+    }},
+    {"date":"2020-11-18", "entry":"deleted09", "alias":"Usuario eliminado", "title":"Semana 13", "entryInfo":{
+        "date":"2020/09/02", "type":"guardian", "name":null,
+        "png":"7tprs02b03192e01344ec8f0ba95e06bc6d63",
+        "code":"11845i1249i7782i16495i12208i14453i7935i17865i13596i17939i20650i12357i12043i16725i22635i7904i7814i18397i23105i24314i19528i6450i2446i5729"
+    }},
+    {"date":"2020-11-11", "entry":"deleted08", "alias":"Usuario eliminado", "title":"Semana 12", "entryInfo":{
+        "date":"2020/08/22", "type":"guardian", "name":null,
+        "png":"7tprscc6477ea91c74bf398eaf0f93c3469cf",
+        "code":"7927i6825i19159i13899i9759i9802i9515i12963i4855i8574i19304i8576i14262i4879i4702i15236i14217"
+    }},
+    {"date":"2020-11-03", "entry":"deleted07", "alias":"Usuario eliminado", "title":"Semana 11", "entryInfo":{
+        "date":"2020/09/24", "type":"guardian", "name":null,
+        "png":"7tprs6a01d6bac3514e3bb9bdf6c09adc10a6",
+        "code":"1251i17713i5193i20272i6449i12073i16560i16413i5115i16801i19074i12128i9444i23358i24312i15311"
+    }},
+    {"date":"2020-10-28", "entry":"deleted06", "alias":"Usuario eliminado", "title":"Semana 10", "entryInfo":{
+        "date":"2020/08/26", "type":"guardian", "name":null,
+        "png":"7tprsba0594c1b6f343f7b4ed9776d233dfb6",
+        "code":"24906i7930i21895i14067i5535i16269i8962i5080i8354i16233i20126i21883i6527i5282i16988i12994i10538i16444i16347i24339i17605i2305i21496i12439i17737i15296i2446"
+    }},
     {"date":"2020-10-21", "entry":398310958, "alias":"brokenendings", "title":"Semana 9"},
     {"date":"2020-10-14", "entry":747763013, "alias":"Aradia", "title":"Semana 8"},
-    {"date":"2020-10-07", "entry":583701735, "alias":"NOX91", "title":"Semana 7"},
-    {"date":"2020-09-30", "entry":846389692, "alias":"Darling", "title":"Semana 6"},
-    {"date":"2020-09-23", "entry":215868216, "alias":"Azluka", "title":"Semana 5"},
-    {"date":"2020-09-16", "entry":343369112, "alias":"Zendary", "title":"Semana 4"},
-    {"date":"2020-09-09", "entry":941138936, "alias":"Tanius", "title":"Semana 3"},
+    {"date":"2020-10-07", "entry":"deleted05", "alias":"Usuario eliminado", "title":"Semana 7", "entryInfo":{
+        "date":"2020/08/23", "type":"guardian", "name":null,
+        "png":"7tprs18febd14fa69465ab4f23f6ec51ff1fb",
+        "code":"6711i21895i1249i6254i17713i8908i24905i20247i17685i21879i16437i16365i11869i24734i21820i19152i14064i19338"
+    }},
+    {"date":"2020-09-30", "entry":"deleted04", "alias":"Usuario eliminado", "title":"Semana 6", "entryInfo":{
+        "date":"2020/08/25", "type":"guardian", "name":null,
+        "png":"7tprsc8644bb8b1f743ed81cb4a52adf424a0",
+        "code":"1276i18276i17568i23292i5192i24338i6254i13625i12185i8457i16533i19104i16703i17931i22475i6768i23387i13183i20333"
+    }},
+    {"date":"2020-09-23", "entry":"deleted03", "alias":"Usuario eliminado", "title":"Semana 5", "entryInfo":{
+        "date":"2020/08/30", "type":"guardian", "name":null,
+        "png":"7tprs6b9bfd2da42e4c72ad31f61cbda93ac2",
+        "code":"1249i4389i17980i24604i18064i20244i24204i24216i21881i24680i17909i23762"
+    }},
+    {"date":"2020-09-16", "entry":"deleted02", "alias":"Usuario eliminado", "title":"Semana 4", "entryInfo":{
+        "date":"2020/08/30", "type":"guardian", "name":null,
+        "png":"7tprs03b6c512d52a4e9d98fb1e7f5079621c",
+        "code":"10462i5363i14665i7927i15729i5057i8569i19214i17545i8533i19088i23820i18975i4851i6193i2246i22031"
+    }},
+    {"date":"2020-09-09", "entry":"deleted01", "alias":"Usuario eliminado", "title":"Semana 3", "entryInfo":{
+        "date":"2020-08-24", "type":"guardian", "name":null,
+        "png":"7tprs06ac104e75ef4b48982ddf18c1238937",
+        "code":"21895i22646i16278i9305i13913i16325i10947i5281i11565i21858i17860i23128i22463i22476i14265i20114"
+    }},
     {"date":"2020-09-02", "entry":949853067, "alias":"angye", "title":"Semana 2"},
     {"date":"2020-08-26", "entry":779500883, "alias":"Viole", "title":"Semana 1"},
     {"date":"2020-08-12", "entry":950381059, "alias":"Zunay", "title":"Verano 2020"},
