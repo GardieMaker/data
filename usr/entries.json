@@ -8797,7 +8797,7 @@
         "png":"nylx0ead51021399e47979b6f5cad507b5738"
     }},
 
-    {"id":925641879, "alias":"Aradia", "featured":false, "type":"guardian", "info":{
+    {"id":925641879, "alias":"Aradia", "featured":true, "type":"guardian", "info":{
         "date":"2021/04/26", "name":"Imperial Queen",
         "code":"1251i16265i18281i4415i5242i20132i26210i19829i8303i6104i17353i6093i20610i7942i12180i3721i8534i16786",
         "png":"hi9m05f869d68a2484c12bd69b09876dcc552"
