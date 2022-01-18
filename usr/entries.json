@@ -287,7 +287,7 @@
         "png":"pt5n38b93cb25a2d24edaaf0e5dd6fbe884cc"
     }},
 
-    {"id":878540058, "alias":"RavenNii", "featured":false, "type":"guardian", "info":{
+    {"id":878540058, "alias":"RavenNii", "featured":true, "type":"guardian", "info":{
         "date":"2022/01/10", "name":"Mercury",
         "code":"25586i5678i13657i16366i26193i16291i29848i17882i19567i29828i3205i11632i28751i26850i5249i29764i17590i25202",
         "png":"pt5n31a7f1a9ab884418faad225a84dc69f6b"
