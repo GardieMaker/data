@@ -11080,37 +11080,37 @@
 	},
 	{"groupId":29878, "category":"hat", "rarity":"Evento", "note":"Navidad 2021",
 	    "spanish":"Gorro Delicate Warm",
-	    "portuguese":"(x)Gorro Delicate Warm",
+	    "portuguese":"Boina Delicate Warm",
 	    "english":"(x)Gorro Delicate Warm"
 	},
 	{"groupId":29897, "category":"faceAccessory", "rarity":"Evento", "note":"Navidad 2021",
 	    "spanish":"Pendientes Delicate Warm",
-	    "portuguese":"(x)Pendientes Delicate Warm",
+	    "portuguese":"Brincos Delicate Warm",
 	    "english":"(x)Pendientes Delicate Warm"
 	},
 	{"groupId":29907, "category":"coat", "rarity":"Evento", "note":"Navidad 2021",
 	    "spanish":"Chal Delicate Warm",
-	    "portuguese":"(x)Chal Delicate Warm",
+	    "portuguese":"Xale Delicate Warm",
 	    "english":"(x)Chal Delicate Warm"
 	},
 	{"groupId":29917, "category":"belt", "rarity":"Evento", "note":"Navidad 2021",
 	    "spanish":"Cinturón Delicate Warm",
-	    "portuguese":"(x)Cinturón Delicate Warm",
+	    "portuguese":"Cinto Delicate Warm",
 	    "english":"(x)Cinturón Delicate Warm"
 	},
 	{"groupId":29927, "category":"coat", "rarity":"Evento", "note":"Navidad 2021",
 	    "spanish":"Abrigo Delicate Warm",
-	    "portuguese":"(x)Abrigo Delicate Warm",
+	    "portuguese":"Casaco Delicate Warm",
 	    "english":"(x)Abrigo Delicate Warm"
 	},
 	{"groupId":29937, "category":"dress", "rarity":"Evento", "note":"Navidad 2021",
 	    "spanish":"Combinación Delicate Warm",
-	    "portuguese":"(x)Combinación Delicate Warm",
+	    "portuguese":"Capa Delicate Warm",
 	    "english":"(x)Combinación Delicate Warm"
 	},
 	{"groupId":29947, "category":"dress", "rarity":"Evento", "note":"Navidad 2021",
 	    "spanish":"Vestido Delicate Warm",
-	    "portuguese":"(x)Vestido Delicate Warm",
+	    "portuguese":"Vestido Delicate Warm",
 	    "english":"(x)Vestido Delicate Warm"
 	},
 	{"groupId":29957, "category":"hair", "rarity":"Evento", "note":"Navidad 2021",
@@ -11125,7 +11125,7 @@
 	},
 	{"groupId":30042, "category":"shoe", "rarity":"Evento", "note":"Navidad 2021",
 	    "spanish":"Botas Delicate Warm",
-	    "portuguese":"(x)Botas Delicate Warm",
+	    "portuguese":"Botas Delicate Warm",
 	    "english":"(x)Botas Delicate Warm"
 	},
 	{"groupId":30052, "category":"hair", "rarity":"Evento", "note":"Navidad 2021",
@@ -11135,47 +11135,47 @@
 	},
 	{"groupId":30078, "category":"handAccessory", "rarity":"Evento", "note":"Navidad 2021",
 	    "spanish":"Bolso Cold Explorer",
-	    "portuguese":"(x)Bolso Cold Explorer",
+	    "portuguese":"Bolsa Cold Explorer",
 	    "english":"(x)Bolso Cold Explorer"
 	},
 	{"groupId":30088, "category":"coat", "rarity":"Evento", "note":"Navidad 2021",
 	    "spanish":"Abrigo Cold Explorer",
-	    "portuguese":"(x)Abrigo Cold Explorer",
+	    "portuguese":"Casaco Cold Explorer",
 	    "english":"(x)Abrigo Cold Explorer"
 	},
 	{"groupId":30098, "category":"belt", "rarity":"Evento", "note":"Navidad 2021",
 	    "spanish":"Cinturón Cold Explorer",
-	    "portuguese":"(x)Cinturón Cold Explorer",
+	    "portuguese":"Cinto Cold Explorer",
 	    "english":"(x)Cinturón Cold Explorer"
 	},
 	{"groupId":30108, "category":"coat", "rarity":"Evento", "note":"Navidad 2021",
 	    "spanish":"Hombrera Cold Explorer",
-	    "portuguese":"(x)Hombrera Cold Explorer",
+	    "portuguese":"Ombreira Cold Explorer",
 	    "english":"(x)Hombrera Cold Explorer"
 	},
 	{"groupId":30118, "category":"handAccessory", "rarity":"Evento", "note":"Navidad 2021",
 	    "spanish":"Bastón Cold Explorer",
-	    "portuguese":"(x)Bastón Cold Explorer",
+	    "portuguese":"Bastão Cold Explorer",
 	    "english":"(x)Bastón Cold Explorer"
 	},
 	{"groupId":30128, "category":"shoe", "rarity":"Evento", "note":"Navidad 2021",
 	    "spanish":"Botas Cold Explorer",
-	    "portuguese":"(x)Botas Cold Explorer",
+	    "portuguese":"Botas Cold Explorer",
 	    "english":"(x)Botas Cold Explorer"
 	},
 	{"groupId":30138, "category":"glove", "rarity":"Evento", "note":"Navidad 2021",
 	    "spanish":"Guantes Cold Explorer",
-	    "portuguese":"(x)Guantes Cold Explorer",
+	    "portuguese":"Luvas Cold Explorer",
 	    "english":"(x)Guantes Cold Explorer"
 	},
 	{"groupId":30148, "category":"dress", "rarity":"Evento", "note":"Navidad 2021",
 	    "spanish":"Túnicas Cold Explorer",
-	    "portuguese":"(x)Túnicas Cold Explorer",
+	    "portuguese":"Túnicas Cold Explorer",
 	    "english":"(x)Túnicas Cold Explorer"
 	},
 	{"groupId":30158, "category":"pants", "rarity":"Evento", "note":"Navidad 2021",
 	    "spanish":"Pantalón Cold Explorer",
-	    "portuguese":"(x)Pantalón Cold Explorer",
+	    "portuguese":"Calça Cold Explorer",
 	    "english":"(x)Pantalón Cold Explorer"
 	},
 	{"groupId":30168, "category":"hair", "rarity":"Evento", "note":"Navidad 2021",
@@ -11232,5 +11232,60 @@
 	    "spanish":"Oso Toy Maker",
 	    "portuguese":"Urso Toy Maker",
 	    "english":"(x)Oso Toy Maker"
-	}
+	},
+    {"groupId":30294, "category":"background", "rarity":"Común", "note":"Exploración", 
+        "spanish":"Habitación de adolescente", 
+        "portuguese":"Quarto de adolescente",
+        "english":"(x)Habitación de adolescente"
+    },
+    {"groupId":30295, "category":"background", "rarity":"Común", "note":"Exploración", 
+        "spanish":"Taller Purriry", 
+        "portuguese":"Ateliê Purriry",
+        "english":"(x)Taller Purriry"
+    },
+    {"groupId":30296, "category":"background", "rarity":"Común", "note":"Exploración", 
+        "spanish":"Bosque municipal", 
+        "portuguese":"Floresta Municipal",
+        "english":"(x)Bosque municipal"
+    },
+    {"groupId":30297, "category":"background", "rarity":"Común", "note":"Exploración", 
+        "spanish":"Barrio histórico", 
+        "portuguese":"Bairro Histórico",
+        "english":"(x)Barrio histórico"
+    },
+    {"groupId":30544, "category":"coat", "rarity":"Raro", "note":"Tienda", "especial":"episodios",
+        "spanish":"Chaqueta Casual Urban",
+        "portuguese":"Jaqueta Casual Urban",
+        "english":"(x)Chaqueta Casual Urban"
+    },
+    {"groupId":30554, "category":"top", "rarity":"Raro", "note":"Tienda", "especial":"episodios",
+        "spanish":"Top Casual Urban",
+        "portuguese":"Top Casual Urban",
+        "english":"(x)Top Casual Urban"
+    },
+    {"groupId":30555, "category":"dress", "rarity":"Épico", "note":"Exploración",
+        "spanish":"Uniforme Clerk Novice",
+        "portuguese":"Uniforme Clerk Novice",
+        "english":"(x)Uniforme Clerk Novice"
+    },
+    {"groupId":30574, "category":"dress", "rarity":"Épico", "note":"Exploración",
+        "spanish":"Combinación Clerk Novice",
+        "portuguese":"Macacão Clerk Novice",
+        "english":"(x)Combinación Clerk Novice"
+    },
+    {"groupId":30575, "category":"pants", "rarity":"Raro", "note":"Tienda", "especial":"episodios",
+        "spanish":"Pantalón Casual Urban",
+        "portuguese":"Calça Casual Urban",
+        "english":"(x)Pantalón Casual Urban"
+    },
+    {"groupId":30585, "category":"pants", "rarity":"Épico", "note":"Exploración",
+        "spanish":"Medias Clerk Novice",
+        "portuguese":"Parte de baixo Clerk Novice",
+        "english":"(x)Medias Clerk Novice"
+    },
+    {"groupId":30604, "category":"shoe", "rarity":"Raro", "note":"Tienda", "especial":"episodios",
+        "spanish":"Zapatos Casual Urban",
+        "portuguese":"Sapatos Casual Urban",
+        "english":"(x)Zapatos Casual Urban"
+    }
 ]
