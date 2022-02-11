@@ -11253,6 +11253,106 @@
         "portuguese":"Bairro Histórico",
         "english":"(x)Barrio histórico"
     },
+	{"groupId":30298, "category":"ambient", "rarity":"Evento", "note":"San Valentín 2022",
+	    "spanish":"Trono Succubus Ruler",
+	    "portuguese":"Trono Succubus Ruler",
+	    "english":"(x)Trono Succubus Ruler"
+	},
+	{"groupId":30308, "category":"hat", "rarity":"Evento", "note":"San Valentín 2022",
+	    "spanish":"Cuernos Succubus Ruler",
+	    "portuguese":"Chifres Succubus Ruler",
+	    "english":"(x)Cuernos Succubus Ruler"
+	},
+	{"groupId":30318, "category":"necklace", "rarity":"Evento", "note":"San Valentín 2022",
+	    "spanish":"Collar Succubus Ruler",
+	    "portuguese":"Colar Succubus Ruler",
+	    "english":"(x)Collar Succubus Ruler"
+	},
+	{"groupId":30328, "category":"underwear", "rarity":"Evento", "note":"San Valentín 2022",
+	    "spanish":"Body Succubus Ruler",
+	    "portuguese":"Body Succubus Ruler",
+	    "english":"(x)Body Succubus Ruler"
+	},
+	{"groupId":30338, "category":"coat", "rarity":"Evento", "note":"San Valentín 2022",
+	    "spanish":"Alas Succubus Ruler",
+	    "portuguese":"Asas Succubus Ruler",
+	    "english":"(x)Alas Succubus Ruler"
+	},
+	{"groupId":30348, "category":"pants", "rarity":"Evento", "note":"San Valentín 2022",
+	    "spanish":"Pantalón Succubus Ruler",
+	    "portuguese":"Calça Succubus Ruler",
+	    "english":"(x)Pantalón Succubus Ruler"
+	},
+	{"groupId":30358, "category":"shoe", "rarity":"Evento", "note":"San Valentín 2022",
+	    "spanish":"Botas Succubus Ruler",
+	    "portuguese":"Botas Succubus Ruler",
+	    "english":"(x)Botas Succubus Ruler"
+	},
+	{"groupId":30368, "category":"belt", "rarity":"Evento", "note":"San Valentín 2022",
+	    "spanish":"Cinturón Succubus Ruler",
+	    "portuguese":"Cinto Succubus Ruler",
+	    "english":"(x)Cinturón Succubus Ruler"
+	},
+	{"groupId":30378, "category":"glove", "rarity":"Evento", "note":"San Valentín 2022",
+	    "spanish":"Guantes Succubus Ruler",
+	    "portuguese":"Luvas Succubus Ruler",
+	    "english":"(x)Guantes Succubus Ruler"
+	},
+	{"groupId":30388, "category":"handAccessory", "rarity":"Evento", "note":"San Valentín 2022",
+	    "spanish":"Brazaletes Succubus Ruler",
+	    "portuguese":"Pulseiras Succubus Ruler",
+	    "english":"(x)Brazaletes Succubus Ruler"
+	},
+	{"groupId":30398, "category":"handAccessory", "rarity":"Evento", "note":"San Valentín 2022",
+	    "spanish":"Látigo Succubus Ruler",
+	    "portuguese":"Chicote Succubus Ruler",
+	    "english":"(x)Látigo Succubus Ruler"
+	},
+	{"groupId":30408, "category":"hair", "rarity":"Evento", "note":"San Valentín 2022",
+	    "spanish":"Asmodea",
+	    "portuguese":"Asmodée",
+	    "english":"(x)Asmodea"
+	},
+	{"groupId":30434, "category":"hair", "rarity":"Evento", "note":"San Valentín 2022",
+		"spanish":"Psique",
+		"portuguese":"Psyché",
+		"english":"(x)Psique"
+	},
+	{"groupId":30474, "category":"handAccessory", "rarity":"Evento", "note":"San Valentín",
+	    "spanish":"Pulsera Sensual Night",
+	    "portuguese":"Pulseira Sensual Night",
+	    "english":"(x)Pulsera Sensual Night"
+	},
+	{"groupId":30484, "category":"dress", "rarity":"Evento", "note":"San Valentín",
+	    "spanish":"Salto de cama Sensual Night",
+	    "portuguese":"Négligé Sensual Night",
+	    "english":"(x)Salto de cama Sensual Night"
+	},
+	{"groupId":30494, "category":"top", "rarity":"Evento", "note":"San Valentín 2022",
+		"spanish":"Top Sensual Night",
+		"portuguese":"Top Sensual Night",
+		"english":"(x)Top Sensual Night"
+	},
+	{"groupId":30504, "category":"pants", "rarity":"Evento", "note":"San Valentín 2022",
+		"spanish":"Short Sensual Night",
+		"portuguese":"Short Sensual Night",
+		"english":"(x)Short Sensual Night"
+	},
+	{"groupId":30514, "category":"underwear", "rarity":"Evento", "note":"San Valentín 2022",
+		"spanish":"Ropa interior Sensual Night",
+		"portuguese":"Lingerie Sensual Night",
+		"english":"(x)Ropa interior Sensual Night"
+	},
+	{"groupId":30524, "category":"sock", "rarity":"Evento", "note":"San Valentín",
+	    "spanish":"Medias Sensual Night",
+	    "portuguese":"Meias Sensual Night",
+	    "english":"(x)Medias Sensual Night"
+	},
+	{"groupId":30534, "category":"coat", "rarity":"Evento", "note":"San Valentín 2022",
+		"spanish":"Capa Sensual Night",
+		"portuguese":"Capa Sensual Night",
+		"english":"(x)Capa Sensual Night"
+	},
     {"groupId":30544, "category":"coat", "rarity":"Raro", "note":"Tienda", "especial":"episodios",
         "spanish":"Chaqueta Casual Urban",
         "portuguese":"Jaqueta Casual Urban",
