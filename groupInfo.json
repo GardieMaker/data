@@ -11318,12 +11318,12 @@
 		"portuguese":"Psyché",
 		"english":"(x)Psique"
 	},
-	{"groupId":30474, "category":"handAccessory", "rarity":"Evento", "note":"San Valentín",
+	{"groupId":30474, "category":"handAccessory", "rarity":"Evento", "note":"San Valentín 2022",
 	    "spanish":"Pulsera Sensual Night",
 	    "portuguese":"Pulseira Sensual Night",
 	    "english":"(x)Pulsera Sensual Night"
 	},
-	{"groupId":30484, "category":"dress", "rarity":"Evento", "note":"San Valentín",
+	{"groupId":30484, "category":"dress", "rarity":"Evento", "note":"San Valentín 2022",
 	    "spanish":"Salto de cama Sensual Night",
 	    "portuguese":"Négligé Sensual Night",
 	    "english":"(x)Salto de cama Sensual Night"
@@ -11343,7 +11343,7 @@
 		"portuguese":"Lingerie Sensual Night",
 		"english":"(x)Ropa interior Sensual Night"
 	},
-	{"groupId":30524, "category":"sock", "rarity":"Evento", "note":"San Valentín",
+	{"groupId":30524, "category":"sock", "rarity":"Evento", "note":"San Valentín 2022",
 	    "spanish":"Medias Sensual Night",
 	    "portuguese":"Meias Sensual Night",
 	    "english":"(x)Medias Sensual Night"
