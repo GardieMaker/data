@@ -8599,7 +8599,7 @@
         "png":"3h4k5adfdc8a1b178437a9b10ef8ac0f7024a"
     }},
 
-    {"id":514382236, "alias":"ShiroNeKo-D", "featured":false, "type":"guardian", "info":{
+    {"id":514382236, "alias":"ShiroNeKo-D", "featured":true, "type":"guardian", "info":{
         "date":"2021/07/16", "name":null,
         "code":"27301i1251i18272i16689i27930i23735i13968i14413i10469i13190i17859i22431i23430i15228i21617i5569i20726i18188i8526i22779i6768i19340",
         "png":"3h4k59c0a83408ee74e0888da168cc7c023c9"
