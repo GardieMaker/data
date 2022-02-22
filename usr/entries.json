@@ -1001,7 +1001,7 @@
         "png":"hu1rq9f6440d714534950b6f343a89b1bc275"
     }},
 
-    {"id":434905576, "alias":"Spamton", "featured":false, "type":"guardian", "info":{
+    {"id":434905576, "alias":"Spamton", "featured":true, "type":"guardian", "info":{
         "date":"2022/02/02", "name":null,
         "code":"26494i21354i5365i11868i11867i13190i22677i8220i24807i12200i11869i12188i12236i28286i24979i5618i21058",
         "png":"hu1rq649888d1e10a4090b86667a8fb7d326e"
