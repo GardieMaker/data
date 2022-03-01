@@ -1259,7 +1259,7 @@
         "png":"hu1rq8cb4d915cfed45bdb3209a3c52fa7154"
     }},
 
-    {"id":343052484, "alias":"Eärendil", "featured":false, "type":"guardian", "info":{
+    {"id":343052484, "alias":"Eärendil", "featured":true, "type":"guardian", "info":{
         "date":"2022/02/03", "name":"Virgo spirit",
         "code":"6711i7930i5444i12128i16428i20272i27615i27595i5241i22631i17418i6660i27555i20114",
         "png":"hu1rq864748af4e1541e7a9df0b58ab14ea63"
