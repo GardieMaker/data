@@ -9433,7 +9433,7 @@
         "png":"l1ct4ea1a48cd04c042ac881d575e745e5208"
     }},
 
-    {"id":996937234, "alias":"Lynn", "featured":false, "type":"guardian", "info":{
+    {"id":996937234, "alias":"Lynn", "featured":true, "type":"guardian", "info":{
         "date":"2021/08/21", "name":"Lia",
         "code":"1249i8908i28815i16694i8962i28313i28864i21455i21286i2609i25204",
         "png":"l1ct447f13e5e57ba411e8f995762c98c0aad"
