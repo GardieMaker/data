@@ -6145,7 +6145,7 @@
         "png":"pgoecdeef82343fb7482a80ce40ba95f6914e"
     }},
 
-    {"id":175246151, "alias":"ChioRochy", "featured":false, "type":"guardian", "info":{
+    {"id":175246151, "alias":"ChioRochy", "featured":true, "type":"guardian", "info":{
         "date":"2021/11/15", "name":"Windterly, la mitad reno",
         "code":"6450i26034i26075i17065i17580i6940i19351i6419i8690i16724i8676i23593i16050i25974i20229i2385i15310",
         "png":"pgoec8111747549444ba1abe4cba33717b98f"
