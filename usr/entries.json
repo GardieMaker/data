@@ -8053,7 +8053,7 @@
         "png":"d3jzjf1eebb6c8cc2405c9f63b6ea7f03db86"
     }},
 
-    {"id":135242947, "alias":"Daemonika", "featured":false, "type":"guardian", "info":{
+    {"id":135242947, "alias":"Daemonika", "featured":true, "type":"guardian", "info":{
         "date":"2021/10/13", "name":null,
         "code":"1249i25288i5096i18987i14263i14250i27199i27737i29094i26900i26911i8582i8908i26942i5552i22032",
         "png":"d3jzjce48e014fc1b4ea78bc8748490915fe1"
