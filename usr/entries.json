@@ -329,7 +329,7 @@
         "png":"k3fzs9e94ea7991b14d60ab30ddfa3bc3e0d5"
     }},
 
-    {"id":150859161, "alias":"LanaRM", "featured":false, "type":"guardian", "info":{
+    {"id":150859161, "alias":"LanaRM", "featured":true, "type":"guardian", "info":{
         "date":"2022/04/05", "name":"Pascua <3",
         "code":"16274i21895i24906i1275i13030i5202i29986i7437i11063i28962i13125i28992i30209i12625i15606i21021i29958i28984i29125i20228",
         "png":"k3fzsc88ba7719c944efda205908eb78bef7c"
