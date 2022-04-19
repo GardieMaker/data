@@ -5031,7 +5031,7 @@
         "png":"0snp35c41ca0f30d2458ebec66ca470d55706"
     }},
 
-    {"id":164530707, "alias":"Kiarily", "featured":false, "type":"guardian", "info":{
+    {"id":164530707, "alias":"Kiarily", "featured":true, "type":"guardian", "info":{
         "date":"2021/12/27", "name":"Healing process",
         "code":"23102i1249i12205i7788i5581i20204i28519i27555i27412i25234",
         "png":"0snp3dbb351d4aad0488fa0495e4d280d9353"
