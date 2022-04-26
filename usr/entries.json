@@ -15780,7 +15780,7 @@
         "png":"7tprs567a7b32c1b246cebf6376862113a417"
     }},
 
-    {"id":182676975, "alias":"Chissek", "featured":false, "type":"guardian", "info":{
+    {"id":182676975, "alias":"Chissek", "featured":true, "type":"guardian", "info":{
         "date":"2021/01/24", "name":null,
         "code":"22646i26095i13877i24815i5810i12986i24286i15296i11867i10427i10332i10783i25963i22706i25196",
         "png":"7tprs7e675632449a4cc2b446bc986900ce77"
