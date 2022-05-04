@@ -13666,7 +13666,7 @@
 	    "french":"Lunettes hexagonales",
 	    "english":"(x)Gafas hexagonales"
 	},
-	{"groupId":30624, "category":"pants", "rarity":"Épico", "mark":"none", "note":"Exploración", "tag":"incomplete",
+	{"groupId":30624, "category":"pants", "rarity":"Épico", "mark":"none", "note":"Exploración",
 	    "spanish":"Falda deportiva",
 	    "portuguese":"Saia esportiva",
 	    "french":"Jupe sportive",
@@ -13702,13 +13702,13 @@
 	    "french":"Chapeau à spirales",
 	    "english":"(x)Sombrero de espirales"
 	},
-	{"groupId":30657, "category":"necklace", "rarity":"Legendario", "mark":"none", "note":"Exploración", "tag":"incomplete",
+	{"groupId":30657, "category":"necklace", "rarity":"Legendario", "mark":"none", "note":"Exploración",
 	    "spanish":"Fular de perlas",
 	    "portuguese":"Echarpe de pérolas",
 	    "french":"Foulard à perles",
 	    "english":"(x)Fular de perlas"
 	},
-	{"groupId":30667, "category":"pants", "rarity":"Legendario", "mark":"none", "note":"Exploración", "tag":"incomplete",
+	{"groupId":30667, "category":"pants", "rarity":"Legendario", "mark":"none", "note":"Exploración",
 	    "spanish":"Falda ligera",
 	    "portuguese":"Saia leve",
 	    "french":"Jupe légère",
