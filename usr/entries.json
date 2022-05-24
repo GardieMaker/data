@@ -10596,7 +10596,7 @@
         "png":"ht5we7ca264525c034194af1c44ef6869ee3a"
     }},
 
-    {"id":717599455, "alias":"Nana", "featured":false, "type":"guardian", "info":{
+    {"id":717599455, "alias":"Nana", "featured":true, "type":"guardian", "info":{
         "date":"2021/10/07", "name":"Demonio oni",
         "code":"26492i28404i9797i23771i26562i10321i25461i27808i24432i26547i9510i27474i8925i2239i19088i15394i18916i19402i4533i14064i5629i25217",
         "png":"ht5we107e22f6b46e4149a10ff848f1534182"
