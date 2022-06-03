@@ -14068,5 +14068,61 @@
         "portuguese":"Sala de armazenamento",
         "french":"Salle de stockage",
         "english":"(x)Almacén"
-    }
+    },
+
+	{"groupId":31302, "category":"dress", "rarity":"Épico", "mark":"none", "note":"Exploración",
+		"spanish":"(x)Túnica listrada",
+		"portuguese":"Túnica listrada",
+		"french":"(x)Túnica listrada",
+		"english":"(x)Túnica listrada"
+	},
+
+	{"groupId":31783, "category":"shoe", "rarity":"Común", "mark":"none", "note":"Tienda", "especial":"episodios",
+		"spanish":"Botas Back Home",
+		"portuguese":"Botas Back Home",
+		"french":"(x)Botas Back Home",
+		"english":"(x)Botas Back Home"
+	},
+	{"groupId":31793, "category":"belt", "rarity":"Común", "mark":"none", "note":"Tienda", "especial":"episodios",
+		"spanish":"Cuerda Back Home",
+		"portuguese":"Corda Back Home",
+		"french":"(x)Cuerda Back Home",
+		"english":"(x)Cuerda Back Home"
+	},
+	{"groupId":31803, "category":"top", "rarity":"Común", "mark":"none", "note":"Tienda", "especial":"episodios",
+		"spanish":"Top Back Home",
+		"portuguese":"Top Back Home",
+		"french":"(x)Top Back Home",
+		"english":"(x)Top Back Home"
+	},
+	{"groupId":31813, "category":"handAccessory", "rarity":"Común", "mark":"none", "note":"Tienda", "especial":"episodios",
+		"spanish":"Mangas Back Home",
+		"portuguese":"Mangas Back Home",
+		"french":"(x)Mangas Back Home",
+		"english":"(x)Mangas Back Home"
+	},
+	{"groupId":31823, "category":"handAccessory", "rarity":"Común", "mark":"none", "note":"Tienda", "especial":"episodios",
+		"spanish":"Brazales Back Home",
+		"portuguese":"Braçadeiras Back Home",
+		"french":"(x)Brazales Back Home",
+		"english":"(x)Brazales Back Home"
+	},
+	{"groupId":31833, "category":"sock", "rarity":"Común", "mark":"none", "note":"Tienda", "especial":"episodios",
+		"spanish":"Liga Back Home",
+		"portuguese":"Cinta-liga Back Home",
+		"french":"(x)Liga Back Home",
+		"english":"(x)Liga Back Home"
+	},
+	{"groupId":31843, "category":"belt", "rarity":"Común", "mark":"none", "note":"Tienda", "especial":"episodios",
+		"spanish":"Cinturón Back Home",
+		"portuguese":"Cinto Back Home",
+		"french":"(x)Cinturón Back Home",
+		"english":"(x)Cinturón Back Home"
+	},
+	{"groupId":31853, "category":"pants", "rarity":"Común", "mark":"none", "note":"Tienda", "especial":"episodios",
+		"spanish":"Pantalón Back Home",
+		"portuguese":"Calça Back Home",
+		"french":"(x)Pantalón Back Home",
+		"english":"(x)Pantalón Back Home"
+	}
 ]
