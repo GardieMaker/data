@@ -12096,7 +12096,7 @@
         "png":"d1mlj5a0500bfc68942708cf95e8fb1add39a"
     }},
 
-    {"id":108484551, "alias":"Mizukii", "featured":false, "type":"guardian", "info":{
+    {"id":108484551, "alias":"Mizukii", "featured":true, "type":"guardian", "info":{
         "date":"2021/09/10", "name":"Boda con Ezarel",
         "code":"28544i16407i1249i18282i7656i20241i5241i21582i28885i26728i23423i28572i3248i7934i18386i24167i23582i19340",
         "png":"d1mlj9a4d0c6d3c924c4a84e546a59c9ec607"
