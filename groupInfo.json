@@ -14084,11 +14084,11 @@
 		"english":"(x)Túnica a rayas"
 	},
 
-    {"groupId":31312, "category":"shoe", "rarity":"Épico", "mark":"none", "note":"Exploración", "tag":"incomplete",
-        "spanish":"(x)Bottes cavalières",
+    {"groupId":31312, "category":"shoe", "rarity":"Legendario", "mark":"none", "note":"Exploración", "tag":"incomplete",
+        "spanish":"Botas de montar",
         "portuguese":"(x)Bottes cavalières",
         "french":"Bottes cavalières",
-        "english":"(x)Bottes cavalières"
+        "english":"(x)Botas de montar"
     },
 
 	{"groupId":31783, "category":"shoe", "rarity":"Común", "mark":"none", "note":"Tienda", "especial":"episodios",

@@ -29341,8 +29341,10 @@
 	{"itemId":31302, "groupId":31302, "itemURL":"3f33a59301976b383b25695ad05d330d.png"},
 
 	{"itemId":31304, "groupId":31302, "itemURL":"ef32d14de788975c3685806420f8692e.png"},
+	{"itemId":31305, "groupId":31302, "itemURL":"03e78a9764dddc6bf2b3b93853a12197.png"},
 
     {"itemId":31312, "groupId":31312, "itemURL":"4eaadb414a213cdb61fe9aa25a85cb50.png"},
+	{"itemId":31313, "groupId":31312, "itemURL":"c80d4260a860a758ba263bab690c66dc.png"},
 
 	{"itemId":31783, "groupId":31783, "itemURL":"c8974d6d4c257c61b1e80ab8d9275df2.png", "note":"Episodio 13 (A New Era)"},
 	{"itemId":31784, "groupId":31783, "itemURL":"07ca92d7eea330ea7d2de702de038ab0.png"},
