@@ -14070,21 +14070,21 @@
         "english":"(x)Almacén"
     },
 
-    {"groupId":31292, "category":"hat", "rarity":"Épico", "mark":"none", "note":"Exploración",
+    {"groupId":31292, "category":"hat", "rarity":"Épico", "mark":"none", "note":"Exploración", "tag":"incomplete",
         "spanish":"(x)Béret simple",
-        "portuguese":"(x)Béret simple",
+        "portuguese":"Boina simples",
         "french":"Béret simple",
         "english":"(x)Béret simple"
     },
 
-	{"groupId":31302, "category":"dress", "rarity":"Épico", "mark":"none", "note":"Exploración",
-		"spanish":"(x)Túnica listrada",
+	{"groupId":31302, "category":"dress", "rarity":"Épico", "mark":"none", "note":"Exploración", "tag":"incomplete",
+		"spanish":"Túnica a rayas",
 		"portuguese":"Túnica listrada",
 		"french":"Tunique rayée",
-		"english":"(x)Túnica listrada"
+		"english":"(x)Túnica a rayas"
 	},
 
-    {"groupId":31312, "category":"shoe", "rarity":"Épico", "mark":"none", "note":"Exploración",
+    {"groupId":31312, "category":"shoe", "rarity":"Épico", "mark":"none", "note":"Exploración", "tag":"incomplete",
         "spanish":"(x)Bottes cavalières",
         "portuguese":"(x)Bottes cavalières",
         "french":"Bottes cavalières",
