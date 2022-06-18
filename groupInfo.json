@@ -14070,11 +14070,11 @@
         "english":"(x)Almacén"
     },
 
-    {"groupId":31292, "category":"hat", "rarity":"Épico", "mark":"none", "note":"Exploración", "tag":"incomplete",
-        "spanish":"(x)Béret simple",
+    {"groupId":31292, "category":"hat", "rarity":"Raro", "mark":"none", "note":"Exploración", "tag":"incomplete",
+        "spanish":"Boina simple",
         "portuguese":"Boina simples",
-        "french":"Béret simple",
-        "english":"(x)Béret simple"
+        "french":"Bérêt simple",
+        "english":"(x)Boina simple"
     },
 
 	{"groupId":31302, "category":"dress", "rarity":"Épico", "mark":"none", "note":"Exploración", "tag":"incomplete",
@@ -14086,7 +14086,7 @@
 
     {"groupId":31312, "category":"shoe", "rarity":"Legendario", "mark":"none", "note":"Exploración", "tag":"incomplete",
         "spanish":"Botas de montar",
-        "portuguese":"(x)Bottes cavalières",
+        "portuguese":"Botas cano alto",
         "french":"Bottes cavalières",
         "english":"(x)Botas de montar"
     },
