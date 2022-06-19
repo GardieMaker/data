@@ -29338,19 +29338,26 @@
     {"itemId":31291, "groupId":31291, "itemURL":"7ac2a815a9e0e30a04ce3bd3b5efe7a8.jpg"},
 	{"itemId":31292, "groupId":31292, "itemURL":"1f6b49a5db3637854076f13853752a90.png"},
 	{"itemId":31293, "groupId":31292, "itemURL":"5ca3ac24a9ac6d7e73a87d3670cbb976.png"},
+	{"itemId":31294, "groupId":31292, "itemURL":"a1293c8569f6d38af326fec139769bec.png"},
 
 	{"itemId":31296, "groupId":31292, "itemURL":"eb4180b43add73a4772573b6bef10c82.png"},
+
+	{"itemId":31299, "groupId":31292, "itemURL":"ad4f02797d72deb27799b15ce610bf28.png"},
 
 	{"itemId":31302, "groupId":31302, "itemURL":"3f33a59301976b383b25695ad05d330d.png"},
 	{"itemId":31303, "groupId":31302, "itemURL":"5dd0122b479ce1eb6f2f9d27da0475dd.png"},
 	{"itemId":31304, "groupId":31302, "itemURL":"ef32d14de788975c3685806420f8692e.png"},
 	{"itemId":31305, "groupId":31302, "itemURL":"03e78a9764dddc6bf2b3b93853a12197.png"},
 
+	{"itemId":31308, "groupId":31302, "itemURL":"ab4232b5562983979737541b16583d32.png"},
+
 	{"itemId":31311, "groupId":31302, "itemURL":"cb034a13fb6352c4dd91ea7230015a7d.png"},
     {"itemId":31312, "groupId":31312, "itemURL":"4eaadb414a213cdb61fe9aa25a85cb50.png"},
 	{"itemId":31313, "groupId":31312, "itemURL":"c80d4260a860a758ba263bab690c66dc.png"},
 
 	{"itemId":31316, "groupId":31312, "itemURL":"5832478205cf3bb839bb8331002355c5.png"},
+
+	{"itemId":31318, "groupId":31312, "itemURL":"08671ade04baf4fb7c2cc1edf0523591.png"},
 
 	{"itemId":31783, "groupId":31783, "itemURL":"c8974d6d4c257c61b1e80ab8d9275df2.png", "note":"Episodio 13 (A New Era)"},
 	{"itemId":31784, "groupId":31783, "itemURL":"07ca92d7eea330ea7d2de702de038ab0.png"},
