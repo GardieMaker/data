@@ -15342,7 +15342,7 @@
         "png":"o9x576bb7212a3f834777a52a67652b9483de"
     }},
 
-    {"id":912740002, "alias":"Koemi Mayoko", "featured":false, "type":"guardian", "info":{
+    {"id":912740002, "alias":"Koemi Mayoko", "featured":true, "type":"guardian", "info":{
         "date":"2021/05/27", "name":"Kitty Music Power",
         "code":"13329i691i18158i18274i4402i26979i5242i27079i14709i11614i27059i18537i27019i14621i27409i26662i15300i13344i21759i25206",
         "png":"o9x57b9568228b60f41d2995e55b133d340e0"
