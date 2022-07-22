@@ -1820,7 +1820,7 @@
 		"french":"Hinoto",
 		"english":"Hinoto"
 	},
-	{"groupId":3368,"category":"eye", "rarity":"Raro", "mark":"none", "note":"Exploración", 
+	{"groupId":3368, "category":"eye", "rarity":"Raro", "mark":"none", "note":"Exploración", 
 		"spanish":"Ojos brillantes diferente color",
 		"portuguese":"Shiny Heterocromia",
 		"french":"Shiny Vairons",
@@ -1832,7 +1832,7 @@
 		"french":"Amande",
 		"english":"Almond"
 	},
-	{"groupId":3370,"category":"eye", "rarity":"Raro", "mark":"none", "note":"Exploración", 
+	{"groupId":3370, "category":"eye", "rarity":"Raro", "mark":"none", "note":"Exploración", 
 		"spanish":"Almendrados Heterocromáticos",
 		"portuguese":"Amendoado Heterocromia",
 		"french":"Amande Vairons",
@@ -7835,7 +7835,7 @@
 		"french":"Haut Sweet Shinobi",
 		"english":"Sweet Shinobi Top"
 	},
-	{"groupId":18542, "category":"coat","rarity":"Legendario", "mark":"none", "note":"Exploración", "especial":"sombra", 
+	{"groupId":18542, "category":"coat", "rarity":"Legendario", "mark":"none", "note":"Exploración", "especial":"sombra", 
 		"spanish":"Bufanda Sweet Shinobi",
 		"portuguese":"Echarpe Sweet Shinobi",
 		"french":"Écharpe Sweet Shinobi",
@@ -13057,7 +13057,7 @@
 	    "spanish":"Top Mischievous Trickster",
 	    "portuguese":"Blusa Mischievous Trickster",
 	    "french":"Top Mischievous Trickster",
-	    "english":"(x)Top Mischievous Trickster,"
+	    "english":"(x)Top Mischievous Trickster"
 	},
 	{"groupId":29232, "category":"coat", "rarity":"Evento", "mark":"none", "note":"Halloween 2021",
 	    "spanish":"Capa Mischievous Trickster",
@@ -14380,5 +14380,131 @@
         "portuguese":"Tatuagens dedos Gin",
         "french":"(x)Tatuajes dedos Gin",
         "english":"(x)Tatuajes dedos Gin"
+    },
+    {"groupId":31914, "category":"handAccessory", "rarity":"Evento", "mark":"none", "note":"Verano 2022",
+        "spanish":"Esmalte Swimming in Gold",
+        "portuguese":"Esmalte Swimming in Gold",
+        "french":"Vernis Swimming in Gold",
+        "english":"(x)Esmalte Swimming in Gold"
+    },
+    {"groupId":31924, "category":"shoe", "rarity":"Evento", "mark":"none", "note":"Verano 2022",
+        "spanish":"Sandalia espartana Swimming in Gold",
+        "portuguese":"Sandálias Swimming in Gold",
+        "french":"Spartiates Swimming in Gold",
+        "english":"(x)Sandalia espartana Swimming in Gold"
+    },
+    {"groupId":31934, "category":"belt", "rarity":"Evento", "mark":"none", "note":"Verano 2022",
+        "spanish":"Piercing Swimming in Gold",
+        "portuguese":"Piercing Swimming in Gold",
+        "french":"Piercing Swimming in Gold",
+        "english":"(x)Piercing Swimming in Gold"
+    },
+	{"groupId":31944, "category":"underwear", "rarity":"Evento", "mark":"none", "note":"Verano 2022",
+	    "spanish":"Bañador Swimming in Gold",
+	    "portuguese":"Maiô Swimming in Gold",
+	    "french":"Maillot Swimming in Gold",
+	    "english":"(x)Bañador Swimming in Gold"
+	},
+	{"groupId":31954, "category":"dress", "rarity":"Evento", "mark":"none", "note":"Verano 2022",
+	    "spanish":"Vestido tejido Swimming in Gold",
+	    "portuguese":"Vestido tecido Swimming in Gold",
+	    "french":"Robe tissée Swimming in Gold",
+	    "english":"(x)Vestido tejido Swimming in Gold"
+	},
+	{"groupId":31964, "category":"handAccessory", "rarity":"Evento", "mark":"none", "note":"Verano 2022",
+	    "spanish":"Brazalete Swimming in Gold",
+	    "portuguese":"Pulseira Swimming in Gold",
+	    "french":"Bracelet Swimming in Gold",
+	    "english":"(x)Brazalete Swimming in Gold"
+	},
+	{"groupId":31974, "category":"hair", "rarity":"Evento", "mark":"none", "note":"Verano 2022",
+	    "spanish":"Andrea",
+	    "portuguese":"Andréa",
+	    "french":"Andréa",
+	    "english":"(x)Andrea"
+	},
+    {"groupId":32000, "category":"faceAccessory", "rarity":"Evento", "mark":"none", "note":"Verano 2022",
+        "spanish":"Gafas Swimming in Gold",
+        "portuguese":"Óculos Swimming in Gold",
+        "french":"Lunettes Swimming in Gold",
+        "english":"(x)Gafas Swimming in Gold"
+    },
+    {"groupId":32010, "category":"faceAccessory", "rarity":"Evento", "mark":"none", "note":"Verano 2022",
+        "spanish":"Pendientes Swimming in Gold",
+        "portuguese":"Brincos Swimming in Gold",
+        "french":"Boucles d'oreilles Swimming in Gold",
+        "english":"(x)Pendientes Swimming in Gold"
+    },
+    {"groupId":32020, "category":"belt", "rarity":"Evento", "mark":"none", "note":"Verano 2022",
+        "spanish":"Cinturón Coral Knight",
+        "portuguese":"Cinto Coral Knight",
+        "french":"(x)Cinturón Coral Knight",
+        "english":"(x)Cinturón Coral Knight"
+    },
+    {"groupId":32030, "category":"hat", "rarity":"Evento", "mark":"none", "note":"Verano 2022",
+        "spanish":"Pasador Coral Knight",
+        "portuguese":"Presilha Coral Knight",
+        "french":"(x)Pasador Coral Knight",
+        "english":"(x)Pasador Coral Knight"
+    },
+    {"groupId":32040, "category":"coat", "rarity":"Evento", "mark":"none", "note":"Verano 2022",
+        "spanish":"Hombreras Coral Knight",
+        "portuguese":"Ombreiras Coral Knight",
+        "french":"(x)Hombreras Coral Knight",
+        "english":"(x)Hombreras Coral Knight"
+    },
+    {"groupId":32050, "category":"coat", "rarity":"Evento", "mark":"none", "note":"Verano 2022",
+        "spanish":"Armadura Coral Knight",
+        "portuguese":"Armadura Coral Knight",
+        "french":"(x)Armadura Coral Knight",
+        "english":"(x)Armadura Coral Knight"
+    },
+    {"groupId":32060, "category":"shoe", "rarity":"Evento", "mark":"none", "note":"Verano 2022",
+        "spanish":"Botas Coral Knight",
+        "portuguese":"Botas Coral Knight",
+        "french":"(x)Botas Coral Knight",
+        "english":"(x)Botas Coral Knight"
+    },
+    {"groupId":32070, "category":"pants", "rarity":"Evento", "mark":"none", "note":"Verano 2022",
+        "spanish":"Pantalón Coral Knight",
+        "portuguese":"Calça Coral Knight",
+        "french":"(x)Pantalón Coral Knight",
+        "english":"(x)Pantalón Coral Knight"
+    },
+    {"groupId":32080, "category":"handAccessory", "rarity":"Evento", "mark":"none", "note":"Verano 2022",
+        "spanish":"Lanza Coral Knight",
+        "portuguese":"Lança Coral Knight",
+        "french":"(x)Lanza Coral Knight",
+        "english":"(x)Lanza Coral Knight"
+    },
+    {"groupId":32090, "category":"glove", "rarity":"Evento", "mark":"none", "note":"Verano 2022",
+        "spanish":"Guantes Coral Knight",
+        "portuguese":"Luvas Coral Knight",
+        "french":"(x)Guantes Coral Knight",
+        "english":"(x)Guantes Coral Knight"
+    },
+    {"groupId":32100, "category":"top", "rarity":"Evento", "mark":"none", "note":"Verano 2022",
+        "spanish":"Top Coral Knight",
+        "portuguese":"Top Coral Knight",
+        "french":"(x)Top Coral Knight",
+        "english":"(x)Top Coral Knight"
+    },
+    {"groupId":32110, "category":"coat", "rarity":"Evento", "mark":"none", "note":"Verano 2022",
+        "spanish":"Capa Coral Knight",
+        "portuguese":"Capa Coral Knight",
+        "french":"(x)Capa Coral Knight",
+        "english":"(x)Capa Coral Knight"
+    },
+    {"groupId":32120, "category":"hair", "rarity":"Evento", "mark":"none", "note":"Verano 2022",
+        "spanish":"Pelagie",
+        "portuguese":"Pélagie",
+        "french":"(x)Pelagie",
+        "english":"(x)Pelagie"
+    },
+    {"groupId":32146, "category":"ambient", "rarity":"Evento", "mark":"none", "note":"Verano 2022",
+        "spanish":"Fondo marino Coral Knight",
+        "portuguese":"Fundo do mar Coral Knight",
+        "french":"(x)Fondo marino Coral Knight",
+        "english":"(x)Fondo marino Coral Knight"
     }
 ]
