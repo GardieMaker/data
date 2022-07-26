@@ -7324,7 +7324,7 @@
         "png":"r943t79f971cfc9d345bda75d79a866449aa0"
     }},
 
-    {"id":834820898, "alias":"Sptem", "featured":false, "type":"guardian", "info":{
+    {"id":834820898, "alias":"Sptem", "featured":true, "type":"guardian", "info":{
         "date":"2022/01/26", "name":null,
         "code":"16281i1249i5588i6382i28091i28111i23926i24286i28149i28131i24203i10661i28665i25198",
         "png":"r943ta9653fc352ba4658afa7d786e252596e"
