@@ -17682,7 +17682,7 @@
         "png":"d8pub72a65eab5750431cb9332388e685ed6d"
     }},
 
-    {"id":749533250, "alias":"AdyCeci", "featured":false, "type":"guardian", "info":{
+    {"id":749533250, "alias":"AdyCeci", "featured":true, "type":"guardian", "info":{
         "date":"2021/04/02", "name":null,
         "code":"25063i24361i20410i3432i22426i23337i23911i21606i24805i23663i25426i19148i19265i8573i23178i20331i25144i25072i22461i23352i11629i3647i15235i15246i18795i22033",
         "png":"d8pub34e6495c8cfb466f8ed750441c577ac9"
