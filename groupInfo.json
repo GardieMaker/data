@@ -2825,7 +2825,7 @@
 		"french":"Yeux gelés",
 		"english":"Frozen Eyes"
 	},
-	{"groupId":6371, "category":"eye", "rarity":"Evento", "mark":"none", "note":"Navidad 2015", 
+	{"groupId":6371, "category":"eye", "rarity":"Evento", "mark":"none", "tradable":"Navidad 2015", 
 		"spanish":"Ojos de diamante",
 		"portuguese":"Olhos de Diamante",
 		"french":"Yeux en diamant",
@@ -14381,6 +14381,24 @@
         "french":"(x)Tatuajes dedos Gin",
         "english":"(x)Tatuajes dedos Gin"
     },
+	{"groupId":31893, "category":"dress", "rarity":"Raro", "mark":"none", "note":"Exploración", 
+		"spanish":"Vestido delicado",
+		"portuguese":"Vestido delicado",
+		"french":"Robe délicate",
+		"english":"(x)Vestido delicado"
+	},
+	{"groupId":31903, "category":"sock", "rarity":"Común", "mark":"none", "note":"Exploración",
+		"spanish":"Calcetines delicados",
+		"portuguese":"Meias delicadas",
+		"french":"Chaussettes délicates",
+		"english":"(x)Calcetines delicados"
+	},
+	{"groupId":31913, "category":"handAccessory", "rarity":"Épico", "mark":"none", "note":"Exploración", "tag":"incomplete",
+		"spanish":"Parasol delicado",
+		"portuguese":"Sombrinha delicada",
+		"french":"Ombrelle délicate",
+		"english":"(x)Parasol delicado"
+	},
     {"groupId":31914, "category":"handAccessory", "rarity":"Evento", "mark":"none", "note":"Verano 2022",
         "spanish":"Esmalte Swimming in Gold",
         "portuguese":"Esmalte Swimming in Gold",
