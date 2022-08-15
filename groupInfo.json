@@ -2825,7 +2825,7 @@
 		"french":"Yeux gelés",
 		"english":"Frozen Eyes"
 	},
-	{"groupId":6371, "category":"eye", "rarity":"Evento", "mark":"none", "tradable":"Navidad 2015", 
+	{"groupId":6371, "category":"eye", "rarity":"Evento", "mark":"none", "note":"Navidad 2015", 
 		"spanish":"Ojos de diamante",
 		"portuguese":"Olhos de Diamante",
 		"french":"Yeux en diamant",
