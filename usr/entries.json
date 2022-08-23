@@ -1,4 +1,88 @@
 [
+    {"id":272678358, "alias":"sophia", "type":"guardian", "info":{
+        "date":"2022/08/23", "name":"lilith",
+        "code":"691i31878i22646i7294i5060i31481i19790i31929i28323i17689i20330i17588i25309i19148i18903i22031",
+        "png":"ffbirb994c71a493f4eafb95d9c8cde0ea93a"
+    }},
+
+    {"id":412106602, "alias":"Mxriarty", "type":"guardian", "info":{
+        "date":"2022/08/23", "name":"GreeGarden Queen",
+        "code":"1251i16262i18283i5161i31660i31389i8534i13332i31630i31620i31599i31609i22339i12123i12171i28525i31461i16787",
+        "png":"ffbir20325e5acf1540deb25571f3779d9a65"
+    }},
+
+    {"id":264156773, "alias":"Mxriarty", "type":"guardian", "info":{
+        "date":"2022/08/23", "name":"Wendigo Belial",
+        "code":"2386i9300i13869i23658i21414i16366i323i4855i14392i7433i3407i12790i23409i15874i16462i13467i2253i4957i25214",
+        "png":"ffbir483ea17d8e9f484d9b3012efd29118b4"
+    }},
+
+    {"id":207484006, "alias":"qushikan", "type":"guardian", "info":{
+        "date":"2022/08/22", "name":"Yui",
+        "code":"30280i19603i18283i8294i20273i31919i5236i24951i30203i15760i16828i16221i11651i25479i14083i31334i3806i25210",
+        "png":"ffbir1e03b7fafb964162a2d8f8edcafb6de5"
+    }},
+
+    {"id":978794268, "alias":"Lucyle_lovely", "type":"guardian", "info":{
+        "date":"2022/08/22", "name":"Deusa da floresta",
+        "code":"8457i12793i14489i7766i20084i323i26726i23256i23935i12608i22871i8110i20221i5242i6421i25073i16401i25227",
+        "png":"ffbir4f1e67f5b714442db05c5a4c929cde46"
+    }},
+
+    {"id":425167793, "alias":"Jarlos", "type":"guardian", "info":{
+        "date":"2022/08/22", "name":"Serenity",
+        "code":"18372i11251i8308i691i18273i4396i30810i25396i13607i31646i11432i31505i26470i30839i5192i6178i23352i8342i29764i25955i25207",
+        "png":"ffbire3d920df8c6e4e87933f69df9b8577a9"
+    }},
+
+    {"id":358895078, "alias":"Lucyle_lovely", "type":"guardian", "info":{
+        "date":"2022/08/22", "name":"Carmen",
+        "code":"1276i31386i5215i26450i5110i28094i28796i27889i30840i29731i13612i29520i19878i19902i31450i31435i31328i31288",
+        "png":"ffbirbdfa76f2859548dc9f58752c31bb57e0"
+    }},
+
+    {"id":685260174, "alias":"Mercure", "type":"cosplay", "info":{
+        "date":"2022/08/22", "name":"Representation of Taurus",
+        "code":"13162i1247i15736i5215i16665i28331i17864i18199i17176i26933i11421i31840i31832i15635i1572i14289i13823i22400i18394i14064i17325i3721i16788",
+        "png":"ffbirc6c8045d5f964c0daaa4df83ac94a0ca"
+    }},
+
+    {"id":411931033, "alias":"Agysel", "type":"guardian", "info":{
+        "date":"2022/08/22", "name":null,
+        "code":"25428i21913i6768i7922i9975i18283i31407i31483i18392i8573i1147i28695i11794i26457i27969i26714i28914i21966i31934i13812i29057i21769",
+        "png":"ffbira1ef039ddd6f4deaaefbbf4a707b7399"
+    }},
+
+    {"id":682378275, "alias":"Moonlight", "type":"guardian", "info":{
+        "date":"2022/08/22", "name":"Sapphire Queen",
+        "code":"29049i27298i21895i16276i16367i1249i16317i31915i21879i18158i18394i16405i24157i16261i18283i11868i6579i18859i19825i5193i4391i28045i19781i11594i21820i8962i19837i23094i6768i20115",
+        "png":"ffbirb3527b38a15940238e5fc84deb5924e4"
+    }},
+
+    {"id":280049277, "alias":"Annika_Hope", "type":"cosplay", "info":{
+        "date":"2022/08/22", "name":"Luke Skywalker - Star Wars",
+        "code":"7926i31406i5609i323i1125i29219i29224i21982i27072i1812i22242i21044i31314i31286",
+        "png":"ffbire7dc7fb0291f460e9b54fcf7dbe57478"
+    }},
+
+    {"id":194730734, "alias":"AngelSweet", "type":"cosplay", "info":{
+        "date":"2022/08/22", "name":"Braukwin",
+        "code":"8457i16270i17797i18152i16258i18283i27554i31396i21895i31481i31542i21580i7073i18330i16976i28035i23295i5411i17696i2323i28569i19873i28559i28512i21641i22871i26991i29047i5541i5626i25221",
+        "png":"ffbirded4216892b444e29acba0edef76cd43"
+    }},
+
+    {"id":259929847, "alias":"Afrodita M.", "type":"cosplay", "info":{
+        "date":"2022/08/22", "name":"Athena (Saori kido)",
+        "code":"27410i1251i4394i7283i5213i27564i11378i23161i13355i19740i28149i31555i14213i15569i19338",
+        "png":"ffbir95a2ad93433e4766aba96f6a7a5e0eac"
+    }},
+
+    {"id":793314637, "alias":"Bea", "type":"guardian", "info":{
+        "date":"2022/08/22", "name":null,
+        "code":"1249i31738i20251i5161i4314i2076i31418i31856i31806i32110i32040i31786i31847i22607i31703i29615i21059",
+        "png":"ffbir8b81d82d6b6d42d6a955f77015d933f5"
+    }},
+
     {"id":632327736, "alias":"Mercure", "type":"cosplay", "info":{
         "date":"2022/08/21", "name":"Representation of Sagittarius",
         "code":"30292i7926i15736i5268i10939i29237i19984i17777i28172i29658i16195i23578i21245i25290i31554i24168i18383i6992",
@@ -695,8 +779,8 @@
     }},
 
     {"id":884797835, "alias":"Agysel", "type":"guardian", "info":{
-        "date":"2022/08/02", "name":"Capitana",
-        "code":"32148i25428i6768i7922i31747i11898i9975i31707i10171i28092i11794i27979i21913i31187i18283i31407i31483i18392i8573i21769",
+        "date":"2022/08/02", "edited":"2022/08/22", "name":"Capitana",
+        "code":"32148i25428i6768i7922i31747i11898i9975i31707i10171i28092i11794i27979i21913i31187i18283i31407i31483i18392i8573i24694i13812i21769",
         "png":"i69jdfb6db415f08b4851a1faed437651e8d8"
     }},
 
@@ -5049,22 +5133,10 @@
         "png":"drybaa12ee07defc6405c81a47862a57da5bb"
     }},
 
-    {"id":955593584, "alias":"Deathness", "type":"guardian", "info":{
-        "date":"2022/04/15", "name":"Nadine",
-        "code":"16272i25328i7922i4421i5620i30846i16257i23521i31163i11421i30880i30840i19352i10408i26919i24174i29520i2981",
-        "png":"dryba8f28e1c062d44d1aa7779e0a8bcc7147"
-    }},
-
     {"id":884901110, "alias":"Deathness", "type":"guardian", "info":{
         "date":"2022/04/15", "name":"Agaphe",
         "code":"1253i4391i5588i30804i2249i16728i28469i21596i2250i28449i28489i28429i24946i6768i8534i18200i2996i25210",
         "png":"drybacd0764eed80e4f72b77165f405565615"
-    }},
-
-    {"id":143865607, "alias":"Deathness", "type":"guardian", "info":{
-        "date":"2022/04/15", "name":"Lilibeth",
-        "code":"30303i14272i7921i22235i17705i4403i17981i30343i5406i9519i27561i24910i21859i30388i30323i5364i30403i11490i26562i30308i28796i20704",
-        "png":"drybac76c573564724c2185706feddd52b400"
     }},
 
     {"id":456376919, "alias":"elybel", "type":"guardian", "info":{
