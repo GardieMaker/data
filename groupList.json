@@ -30444,5 +30444,8 @@
     {"itemId":32988, "groupId":27164, "itemURL":"db8b8b06e796f2c2682b4ef986c7889e.png"},
     {"itemId":32989, "groupId":27164, "itemURL":"b5e41cf35bb4d658e082d6008e1d8720.png"},
     {"itemId":32990, "groupId":27164, "itemURL":"739853625825903eaf46ba794a733228.png"},
-    {"itemId":32991, "groupId":27164, "itemURL":"8b48b3418beaaa8b7ccbd12cebd9c8bf.png"}
+    {"itemId":32991, "groupId":27164, "itemURL":"8b48b3418beaaa8b7ccbd12cebd9c8bf.png"},
+
+    {"itemId":32993, "groupId":32993, "itemURL":"b079268c0b66b35bc0dedac4ca389ddc.jpg"},
+    {"itemId":32994, "groupId":32994, "itemURL":"6442e4e35749159d21ef613b4bf10efe.jpg"}
 ]
