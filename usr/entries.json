@@ -1,4 +1,232 @@
 [
+    {"id":286159024, "alias":"Katysa", "type":"guardian", "info":{
+        "date":"2022/10/21", "name":"Payaso del mal",
+        "code":"7922i31473i18155i19159i16259i9753i31988i17561i30264i26757i25466i30576i16272i4602i19135i16115i27274i25420i10580i30244i30224i8588i9830i5303i27088i2831i9515i21063",
+        "png":"rqp9abceb8d00850e4066a14e32c82cd20e06"
+    }},
+
+    {"id":869442776, "alias":"Kaday", "type":"guardian", "info":{
+        "date":"2022/10/21", "name":"No sé pero da miedo xd",
+        "code":"25058i18647i26500i27126i5047i19322i26530i25419i18801i9578i9944i26905i27086i25407i22031",
+        "png":"rqp9a6ffcae103522439b973207c789d31650"
+    }},
+
+    {"id":509420933, "alias":"Kaday", "type":"guardian", "info":{
+        "date":"2022/10/21", "name":"Crystalized green",
+        "code":"26130i21898i24672i24961i28943i15729i18154i26822i24335i10775i32991i11487i2244i23335i25595i18795i3330i26564i26140i4660i15243i28801i21352i8530i32086i23659i18740",
+        "png":"rqp9ae02efdb643fc4491b19998d0c6831f52"
+    }},
+
+    {"id":371919314, "alias":"Annikia", "type":"cosplay", "info":{
+        "date":"2022/10/21", "name":"Nestha Archeron",
+        "code":"1276i17619i19501i17573i31489i18867i23521i17688i27164i22758i27710i8421i21982i11869i23303i30405i22978i23293i6768",
+        "png":"rqp9af516a6df11794d989a3d86c676a81624"
+    }},
+
+    {"id":204797476, "alias":"Phsyche", "type":"cosplay", "info":{
+        "date":"2022/10/20", "name":"Margaery Tyrell",
+        "code":"691i28464i16831i16376i13623i31864i30874i15873i21550i5202i4401i29923i6195i20226i20728i25195",
+        "png":"rqp9ad6313c3e16ab477ab13afb17369d3dbd"
+    }},
+
+    {"id":721249698, "alias":"Kiarily", "type":"guardian", "info":{
+        "date":"2022/10/20", "name":null,
+        "code":"30282i23773i27755i22069i13905i20400i6344i27695i11101i12197i4633i2773i16975i25412i6619i27676i27551",
+        "png":"rqp9a6a1088a6131440b684e6c3f8f04467bb"
+    }},
+
+    {"id":272351001, "alias":"Kyra", "type":"guardian", "info":{
+        "date":"2022/10/20", "name":"Saki (novia)",
+        "code":"20145i11454i6449i1249i31475i789i16365i15890i18998i31919i15902i17692i18280i31411i16502i15878i9382i13583i16353i12256i5242i6450i20115",
+        "png":"rqp9a95a16c7073f54fb8b83cd2f884430159"
+    }},
+
+    {"id":109938066, "alias":"Kyra", "type":"guardian", "info":{
+        "date":"2022/10/20", "name":null,
+        "code":"13164i12054i1249i31479i3113i30808i18280i31403i5262i25388i30348i30378i19875i20395i26510i26520i21836i12367i22605i31915i4630i12282i31329i13589i25207",
+        "png":"rqp9a37abea1b6280495795c5079fd9f9f726"
+    }},
+
+    {"id":815647271, "alias":"Anna", "type":"guardian", "info":{
+        "date":"2022/10/20", "name":"Ghost lights",
+        "code":"21896i5702i17742i29170i21857i4853i23362i31904i31923i24708i16236i26408i9302i16516i24302i18162i14340i9840i16267i18921i31475i19603i10335i16360i13510i29093i28585i16338i16492i32044i20521i13659i25915i7784i31486i11378i27555i2446i19340",
+        "png":"rqp9a30e78a9c1462482286735f00b094b653"
+    }},
+
+    {"id":417324833, "alias":"Kyra", "type":"guardian", "info":{
+        "date":"2022/10/20", "name":null,
+        "code":"1249i13131i24830i5203i31472i16020i14211i28838i27642i28848i4862i28868i28919i28899i28889i28879i28928i28908i32943i18281i31403i31919i32160",
+        "png":"rqp9afe84c9d9c65b4ffda16d55146f05de84"
+    }},
+
+    {"id":575842542, "alias":"Lazzulie", "type":"guardian", "info":{
+        "date":"2022/10/20", "name":"Gardienne des rêves",
+        "code":"17321i26561i26185i16233i13904i26444i27113i19610i18328i18173i14663i23528i30411i27969i18217i24703i31813i31923i32910i30124i29003i17979i32950i25145i24172i24336i8551i30831i31934i13787i31883i14630i32872i28525i21639i25221",
+        "png":"rqp9acc095f7e14ed4bf7972e77d28564d07d"
+    }},
+
+    {"id":289041451, "alias":"Deathness", "type":"guardian", "info":{
+        "date":"2022/10/20", "name":"Connie the Witch",
+        "code":"25589i18534i1280i8457i25361i19125i31657i25371i4400i19322i19199i14416i25399i14265i25629i14227i10052i8586i18740",
+        "png":"rqp9aafaa91e07a274bdeba1457fd92221748"
+    }},
+
+    {"id":853170007, "alias":"elybel", "type":"cosplay", "info":{
+        "date":"2022/10/20", "name":"merida",
+        "code":"1276i7806i18703i5567i29570i27529i29551i31843i31222i5628i30064i3534",
+        "png":"rqp9a9d9a0a1a07a24b7e83ee3d59e7794344"
+    }},
+
+    {"id":738570568, "alias":"elybel", "type":"cosplay", "info":{
+        "date":"2022/10/20", "name":"Mulan",
+        "code":"17879i691i31471i9647i25150i13476i29534i23653i15879i32020i13357i2326i28231i2324i16786",
+        "png":"rqp9ac8448073290c412683b245c27540672c"
+    }},
+
+    {"id":584931193, "alias":"Phsyche", "type":"cosplay", "info":{
+        "date":"2022/10/20", "name":"Melisandre",
+        "code":"28769i7922i32887i31748i27622i31521i22223i32927i18272i17562i21605i31481i30880i19238i29516i14270i21617i28796i19340",
+        "png":"rqp9a40c9e813999149b7ac52bbcb729ef9da"
+    }},
+
+    {"id":204170196, "alias":"florcept", "type":"guardian", "info":{
+        "date":"2022/10/20", "name":null,
+        "code":"27126i5047i5391i25419i14217",
+        "png":"rqp9a070949f9e387479faa3d55cc39e3f9f9"
+    }},
+
+    {"id":582155396, "alias":"vivian264", "type":"guardian", "info":{
+        "date":"2022/10/20", "name":"Jack",
+        "code":"9305i24804i22064i4611i21117i25066i14266i16274i5552i14216",
+        "png":"rqp9a2e4491b511894a89a8b8d115549e1bc4"
+    }},
+
+    {"id":558694978, "alias":"Kiarily", "type":"guardian", "info":{
+        "date":"2022/10/19", "name":null,
+        "code":"1269i19280i13428i7935i12065i24712i31541i910i7778i26748i6911i25481i9457i11028i32156",
+        "png":"rqp9a87e333466a09416ca900d0915c00d9e5"
+    }},
+
+    {"id":745031166, "alias":"Kiarily", "type":"guardian", "info":{
+        "date":"2022/10/19", "name":null,
+        "code":"24676i25429i5377i3716i5196i18716i21293i25888i17157i13414i10341i14216",
+        "png":"rqp9aece81053301d4ce5b175004dd14003f3"
+    }},
+
+    {"id":361025079, "alias":"Kiarily", "type":"guardian", "info":{
+        "date":"2022/10/19", "name":null,
+        "code":"24906i23224i10377i17784i31724i27620i3211i9771i5611i21504i16055i19668i15356i10461",
+        "png":"rqp9aec974e2d4bc34fd189459025bcb89de2"
+    }},
+
+    {"id":214488962, "alias":"YeseAl", "type":"guardian", "info":{
+        "date":"2022/10/19", "name":"Brujita Pink",
+        "code":"691i18277i31396i5193i18800i323i11546i7279i13128i29241i31528i17613i16270i19103i14413i24944i8545i32871i25963i27570i10048",
+        "png":"rqp9a9dfea656c5f4473cbd487d1ed2e6f677"
+    }},
+
+    {"id":372354001, "alias":"Alessana", "type":"guardian", "info":{
+        "date":"2022/10/19", "name":null,
+        "code":"1276i18158i18283i15595i22865i30927i31895i32020i23593i15665i15581i29885i27759i15417i31489i11025i28429i15641i18392i28799i15310",
+        "png":"rqp9aa359156365c543c6a6d3e6ac44e90103"
+    }},
+
+    {"id":293408075, "alias":"Deathness", "type":"guardian", "info":{
+        "date":"2022/10/19", "name":"Nebula",
+        "code":"27414i17766i17417i17782i16195i24251i21878i5231i24167i17949i32159",
+        "png":"rqp9acd11c0f4b56144979e6425ffbefb3464"
+    }},
+
+    {"id":159765743, "alias":"Deathness", "type":"guardian", "info":{
+        "date":"2022/10/19", "name":"Gretah",
+        "code":"19275i23215i28932i28942i31957i26717i26548i18531i24811i23279i4036i32157",
+        "png":"rqp9a6c7e50a6cc1f4ae28f325eaee1fcc6a1"
+    }},
+
+    {"id":488204322, "alias":"Deathness", "type":"guardian", "info":{
+        "date":"2022/10/19", "name":"Jendayi",
+        "code":"23304i7921i25683i31383i7294i28343i5560i8210i14064i32167i31919i13812i28323i31934i27554i2287i6768i32863i32156",
+        "png":"rqp9a3c9a1e876c2b48ad883c56b4f58a953f"
+    }},
+
+    {"id":275254875, "alias":"elybel", "type":"guardian", "info":{
+        "date":"2022/10/19", "name":"Esme",
+        "code":"1272i20354i18854i28904i1408i30846i15629i19084i28141i18236i4371i5203i24910i22378i22386i25203",
+        "png":"rqp9a42dde5b3daf24ea1a0c8a7aa675733f4"
+    }},
+
+    {"id":916711091, "alias":"Kaday", "type":"guardian", "info":{
+        "date":"2022/10/19", "name":null,
+        "code":"16270i691i24906i18154i16258i19601i21868i5233i6363i24900i27575i30903i2249i19558i31108i19515i14064i12611i12139i24292i30344i28562i21529i8026i17415i27301i21058",
+        "png":"rqp9aa58722b566e547399f56bad926238d73"
+    }},
+
+    {"id":698674930, "alias":"Lazzulie", "type":"guardian", "info":{
+        "date":"2022/10/18", "name":"Ruborée",
+        "code":"30279i28869i16261i22679i14291i24826i32874i30505i31949i32853i32847i31916i18283i31888i24811i31407i22697i30833i27642i32083i30389i32916i9514i30313i29769i25141i30202i7805i31936i15225i32163",
+        "png":"rqp9a181c2974546645c98a1b218f50388f87"
+    }},
+
+    {"id":289965288, "alias":"vivian264", "type":"guardian", "info":{
+        "date":"2022/10/18", "name":"bet",
+        "code":"1276i16266i18276i16525i7805i16506i31411i31332i8534i5588i14293i3309i23775i4579i24634i31521i16278i25211",
+        "png":"rqp9afd018576e0424c15a3cc35593cad1f7d"
+    }},
+
+    {"id":397640471, "alias":"Anna", "type":"guardian", "info":{
+        "date":"2022/10/18", "name":"Rising Demon",
+        "code":"4957i30347i14665i26436i9284i1263i31480i18162i19605i16266i18283i21859i18716i17708i14314i10334i9830i18975i27928i27622i26566i11632i16296i24811i32909i15296i17585i14369i13586i14243i22033",
+        "png":"rqp9af67ca9711f76444d8680582fc0cc0200"
+    }},
+
+    {"id":955219534, "alias":"Kyra", "type":"guardian", "info":{
+        "date":"2022/10/18", "name":null,
+        "code":"22646i14268i30310i1249i24827i31472i14211i31648i14274i10469i25397i14273i14665i24285i32943i18281i14270i10662i28164i31386i30413i5364i14269i28848i27642i19878i30399i6566i13183i5284i26662i28758i25069i28798i32162",
+        "png":"rqp9a62849c60c3674defb4250a2ea67cc3ec"
+    }},
+
+    {"id":284342166, "alias":"Anna", "type":"guardian", "info":{
+        "date":"2022/10/18", "name":"Fallen Angel",
+        "code":"25436i6268i22646i26465i5303i31476i18272i9830i19178i6277i21871i8909i30403i32916i10436i5110i21059",
+        "png":"rqp9a73ae4cce6ce54835b672b7190def99c3"
+    }},
+
+    {"id":274523931, "alias":"Deathness", "type":"guardian", "info":{
+        "date":"2022/10/18", "name":"Akila",
+        "code":"8210i15309i7927i31471i16282i18283i31411i27922i14196i5236i11867i31919i20129i20117i32863i6768i27554i2448i27574i25138i32158",
+        "png":"rqp9a798ce47788624acfb63f399ef04e8f7c"
+    }},
+
+    {"id":792092841, "alias":"Deathness", "type":"guardian", "info":{
+        "date":"2022/10/18", "name":"Lessie",
+        "code":"19282i26027i19300i16271i14266i1258i5280i4993i5024i5015i14655i22235i5006i5060i14265i28796i19159i9830i26911i24686i25399i32160",
+        "png":"rqp9ae33ed29dd7d14e658d7ce1ec736c7b21"
+    }},
+
+    {"id":632080313, "alias":"Brenn", "type":"guardian", "info":{
+        "date":"2022/10/18", "name":"Gaia's Chosen",
+        "code":"29702i28863i31359i26905i31473i26834i30203i23126i30889i5161i19340",
+        "png":"rqp9ad171df51b0614bae9b463e2cbd5c9e38"
+    }},
+
+    {"id":673684508, "alias":"Alessana", "type":"guardian", "info":{
+        "date":"2022/10/18", "name":null,
+        "code":"21354i1276i32168i25667i13913i32218i32208i31793i13937i16267i18283i13953i13966i13941i32872i32178i31404i23653i32922i25066i22363i6189i27555i2446i32157",
+        "png":"rqp9a966e5eebba5544f99402addab15cdc48"
+    }},
+
+    {"id":760431801, "alias":"elybel", "type":"guardian", "info":{
+        "date":"2022/10/18", "name":"Rapunzel",
+        "code":"1253i26451i27384i30249i31472i30269i27755i23380i23841i28380i12888i17062i20333",
+        "png":"rqp9a4603b0e755fb445c978e19eb3857ce14"
+    }},
+
+    {"id":787777522, "alias":"elybel", "type":"guardian", "info":{
+        "date":"2022/10/18", "name":"Bella",
+        "code":"691i7938i31661i27042i23681i30828i18308i5626i8680i8017i8638i31390i5242i22533i8652i2981",
+        "png":"rqp9a2a9ca56780454e23a0bb8f0db4357661"
+    }},
+
     {"id":324114285, "alias":"ValentinaFB", "type":"guardian", "info":{
         "date":"2022/10/17", "name":"Flor Da Noite",
         "code":"18368i1279i32860i24831i26116i14359i13904i17759i8609i18155i23944i8526i7766i5266i790i7743i8964i25227",
@@ -3918,8 +4146,8 @@
     }},
 
     {"id":222541025, "alias":"Phsyche", "type":"cosplay", "info":{
-        "date":"2022/08/07", "name":"Mel Medarda",
-        "code":"7920i9843i16259i17412i18283i16666i24336i28266i5246i18963i31929i31659i18865i31737i29140i22347i12419i30389i28122i31587i25246",
+        "date":"2022/08/07", "edited":"2022/10/20", "name":"Mel Medarda",
+        "code":"7920i9843i16259i17412i18283i31382i24336i28266i5206i18963i31929i31659i18865i31737i29140i22347i12419i30389i28122i31587i25246",
         "png":"2n9qi9f5b416e72064ffa9af015f18f5fc9a6"
     }},
 
@@ -8194,7 +8422,7 @@
         "png":"drybabe11154ffef24f3db72ce4f36ee5e8d3"
     }},
 
-    {"id":245307439, "alias":"Gabi Games", "type":"guardian", "info":{
+    {"id":245307439, "alias":"Kitty Cat", "type":"guardian", "info":{
         "date":"2022/04/18", "name":null,
         "code":"25419i28943i11059i26855i8564i29088i5072i31142i4646i14270i28758i28798i30403i25215",
         "png":"drybaec25d004b3c7469282c39d146f428462"
@@ -11775,7 +12003,7 @@
         "png":"r943t22793b23d93a4bfa894b970bb005502b"
     }},
 
-    {"id":147532006, "alias":"Gabi Games", "type":"guardian", "info":{
+    {"id":147532006, "alias":"Kitty Cat", "type":"guardian", "info":{
         "date":"2022/01/25", "name":"Kittymeria",
         "code":"23302i29705i2113i5243i28579i16008i26726i27025i16380i27554i6768i30120i25216",
         "png":"r943te49c1a9c64d345cc96506fe17a8fc189"
@@ -15959,7 +16187,7 @@
         "png":"jcqcx44bc21721a664e4a8e019333f8b73940"
     }},
 
-    {"id":410036271, "alias":"Gabi Games", "type":"guardian", "info":{
+    {"id":410036271, "alias":"Kitty Cat", "type":"guardian", "info":{
         "date":"2021/11/03", "name":"Not love",
         "code":"1263i5057i9752i8534i29299i19148i2014i18611i29094i19250i26946i4678i20113",
         "png":"jcqcx2c063e4b33ba42d4a5bd0bc7cfbf8ac9"
@@ -16115,13 +16343,13 @@
         "png":"jcqcx4b3aa965c8674143a3a0d1d4c8c48325"
     }},
 
-    {"id":303911490, "alias":"Gabi Games", "type":"guardian", "info":{
+    {"id":303911490, "alias":"Kitty Cat", "type":"guardian", "info":{
         "date":"2021/10/31", "name":"Acuata",
         "code":"26491i5060i28288i9752i23511i28883i27611i27411i23762",
         "png":"jcqcxc9d29a620500433b91c25c468347aec0"
     }},
 
-    {"id":877615106, "alias":"Gabi Games", "type":"guardian", "info":{
+    {"id":877615106, "alias":"Kitty Cat", "type":"guardian", "info":{
         "date":"2021/10/31", "name":"Kira",
         "code":"29172i1262i21875i25097i28263i18534i5588i8797i26180i16430i3407i16274i10460",
         "png":"jcqcx6373c3d7e6154c01b031eff59d61a940"
@@ -16278,8 +16506,8 @@
     }},
 
     {"id":406979704, "alias":"Kiarily", "type":"guardian", "info":{
-        "date":"2021/10/27", "name":"Dead Gardienne",
-        "code":"1275i15248i5587i4715i2890i704i2775i20114",
+        "date":"2021/10/27", "edited":"2022/10/19", "name":"Dead Gardienne",
+        "code":"1275i15248i5587i2890i4715i704i2775i20114",
         "png":"jcqcxd633e903abbe4963a2444a2f21df7f7a"
     }},
 
@@ -19817,7 +20045,7 @@
         "png":"f8bgl2da819324bbb4bff86ff70df80836345"
     }},
 
-    {"id":827833315, "alias":"Gabi Games", "type":"guardian", "info":{
+    {"id":827833315, "alias":"Kitty Cat", "type":"guardian", "info":{
         "date":"2021/07/02", "name":"Faery Gabi",
         "code":"691i18158i21094i16233i12793i12780i12815i18350i8534i2113i5243i13062i17384i16257i16758i9893i21058",
         "png":"f8bglb09bc0f3937a49b39808f19ca92eb01f"
@@ -21017,7 +21245,7 @@
         "png":"r73fqc09a2f8347ba41ff8ee9fcdcfd4fecde"
     }},
 
-    {"id":444501803, "alias":"Gabi Games", "type":"guardian", "info":{
+    {"id":444501803, "alias":"Kitty Cat", "type":"guardian", "info":{
         "date":"2021/05/27", "name":"Gabi Gatichu",
         "code":"691i5099i26985i8906i27058i27036i21148i26968i27078i22533i27025i27415i21058",
         "png":"r73fqc8ee54b2827448e890cfc135b4ad9793"
@@ -21209,7 +21437,7 @@
         "png":"r73fq37e8cb280a2f4a62af31d44918dc8802"
     }},
 
-    {"id":811681587, "alias":"Gabi Games", "type":"guardian", "info":{
+    {"id":811681587, "alias":"Kitty Cat", "type":"guardian", "info":{
         "date":"2021/05/11", "name":"Malvavisco",
         "code":"6711i4989i11846i1268i2103i5203i18051i13119i10171i12910i11870i12881i11594i17810i2980", 
         "png":"r73fq437a15af66c841298bfa15540a769eb9"
@@ -21425,7 +21653,7 @@
         "png":"r73fqf651041047da480c91ac59750b81e995"
     }},
 
-    {"id":216939957, "alias":"Gabi Games", "type":"guardian", "info":{
+    {"id":216939957, "alias":"Kitty Cat", "type":"guardian", "info":{
         "date":"2021/04/23", "name":"Gabriela",
         "code":"23302i691i10954i20301i8893i5203i8534i23260i20228i6768i5626i20333",
         "png":"r73fqb2591ebf15b244b7bae61fb603852ecb"
@@ -21695,7 +21923,7 @@
         "png":"r73fq7d441a3d59bc4b0e972bcc16a8d38ca5"
     }},
 
-    {"id":957635219, "alias":"Gabi Games", "type":"guardian", "info":{
+    {"id":957635219, "alias":"Kitty Cat", "type":"guardian", "info":{
         "date":"2021/04/06", "name":"Laura",
         "code":"23308i691i4390i25160i5161i8534i25105i26175i18308i24377i18392i10460",
         "png":"r73fq2d9b2e515dd7416e93da91a7a365ff79"
@@ -22613,7 +22841,7 @@
         "png":"d8pub27ea41a5d5df4b31aea32a219d25f375"
     }},
 
-    {"id":972790166, "alias":"Gabi Games", "type":"guardian", "info":{
+    {"id":972790166, "alias":"Kitty Cat", "type":"guardian", "info":{
         "date":"2021/03/13", "name":null,
         "code":"1246i21868i8368i25733i5581i8534i26183i19583i18311i20228i6134i24315i19152i19353",
         "png":"d8pub741a7251a4a744dfb4413828042239b0"
@@ -23028,13 +23256,13 @@
         "png":"d8pub1d789417386c42f8b9ab0a02df5abf4c"
     }},
 
-    {"id":621078471, "alias":"Gabi Games", "type":"guardian", "info":{
+    {"id":621078471, "alias":"Kitty Cat", "type":"guardian", "info":{
         "date":"2021/02/21", "name": "Lia",
         "code":"23302i691i17570i17807i5242i8534i8368i8659i16425i16341i8891i8457i6583i20333",
         "png":"d8pubc2f8551a636b4ff99e5e44ad60be70c9"
     }},
 
-    {"id":177209760, "alias":"Gabi Games", "type":"guardian", "info":{
+    {"id":177209760, "alias":"Kitty Cat", "type":"guardian", "info":{
         "date":"2021/02/21", "name": "Katia",
         "code":"22225i691i17551i22275i5588i8534i19882i11417i19821i6557i8687i6583i16341i20333",
         "png":"d8pub0bdc0bd54caf46c98be64491875b1c79"
