@@ -1,4 +1,94 @@
 [
+    {"id":164946120, "alias":"Zerark", "type":"guardian", "info":{
+        "date":"2022/11/21", "name":null,
+        "code":"1276i18158i18276i26642i31383i7749i6672i6462i26243i8533i31900i26967i27057i16111i22508",
+        "png":"3rssq29e94fd121e74f0982334b53debbdec6"
+    }},
+
+    {"id":841120706, "alias":"Mxriarty", "type":"guardian", "info":{
+        "date":"2022/11/21", "name":"meltdowns",
+        "code":"27771i4669i22448i16259i18283i25882i4408i5261i23403i30828i17881i12197i12074i12193i32447i26946i27671i6190i26919i29141i31288",
+        "png":"3rssqb968e03e4e1f46dd8430b366c14fef4e"
+    }},
+
+    {"id":792321382, "alias":"Roseatte", "type":"guardian", "info":{
+        "date":"2022/11/21", "name":"Ninfa",
+        "code":"21895i28890i1249i18158i18272i27756i31481i16327i14112i28004i28014i27974i18330i28930i7017i27994i3250i15299i4861i28569i16347i16270i16401i16282i25196",
+        "png":"3rssqc733d11747be4b5993484fddd9867097"
+    }},
+
+    {"id":928388134, "alias":"Jarlos", "type":"guardian", "info":{
+        "date":"2022/11/21", "name":"red warrior",
+        "code":"22651i27698i27622i6146i691i16233i32597i12136i32905i28908i30323i18283i31406i5195i22525i32947i19338",
+        "png":"3rssq6f12438da580480da889b5db0651a4b1"
+    }},
+
+    {"id":505605985, "alias":"Spamton", "type":"guardian", "info":{
+        "date":"2022/11/21", "name":"Natal",
+        "code":"7930i6461i10925i11080i6050i16124i5681i15432i5655i22824i6410i6449i11107i15508i16115i20112i25783i25864i6450i10572i22509",
+        "png":"3rssqc38268d699d8460da496012ae5cd458a"
+    }},
+
+    {"id":343793625, "alias":"Spamton", "type":"guardian", "info":{
+        "date":"2022/11/21", "name":null,
+        "code":"21529i11246i7930i4597i25876i13142i31402i15943i27733i12085i12141i12176i8605i2250i32967i5588i23334i13420i10396i27914i3532",
+        "png":"3rssq7ae34ca1d27348028cab394ffff17ed5"
+    }},
+
+    {"id":112175973, "alias":"Deathness", "type":"cosplay", "info":{
+        "date":"2022/11/20", "name":"Diana (Caverna do Dragão)",
+        "code":"7921i31414i5236i32290i29655i30133i32086i28407i25142i27554i32158",
+        "png":"3rssq2f48bf8c23e045c496ea669a7453d174"
+    }},
+
+    {"id":237757459, "alias":"Deathness", "type":"cosplay", "info":{
+        "date":"2022/11/20", "name":"Sheila (Caverna do Dragão)",
+        "code":"1253i31141i2365i7805i31383i5233i31898i29843i22008i2977i27554i6993",
+        "png":"3rssq08ee61743854400ab7d54a5a6f8319f7"
+    }},
+
+    {"id":214223155, "alias":"Deathness", "type":"cosplay", "info":{
+        "date":"2022/11/20", "name":"Velma Dinkley",
+        "code":"1254i31900i14058i31642i7805i31411i5232i3298i946i23387i25194",
+        "png":"3rssqaa0a0701a7e94c9fb421bcba02479cf8"
+    }},
+
+    {"id":730457334, "alias":"Deathness", "type":"cosplay", "info":{
+        "date":"2022/11/20", "name":"Daphne Blake",
+        "code":"27414i30298i1248i19497i22228i11425i4400i30659i31345i5233i31269",
+        "png":"3rssq3d9511cd9f3444f286ef42b0ead548be"
+    }},
+
+    {"id":903672464, "alias":"Deathness", "type":"cosplay", "info":{
+        "date":"2022/11/20", "name":"She-ra",
+        "code":"1253i31748i20163i32504i13140i31402i21084i5235i6433i22665i27681i28512i31288",
+        "png":"3rssq2986fd067a6f4bb0872537c8e226acb8"
+    }},
+
+    {"id":131552262, "alias":"Deathness", "type":"cosplay", "info":{
+        "date":"2022/11/20", "name":"Princesa de Fogo (Hora de Aventura)",
+        "code":"21891i28766i25578i7828i31388i5590i25580i23162i20019i28796i25620i21059",
+        "png":"3rssq2b15dc5af0f44fd2b18ac18499737357"
+    }},
+
+    {"id":773205313, "alias":"Deathness", "type":"cosplay", "info":{
+        "date":"2022/11/20", "name":"Princesa Caroço (Hora de Aventura)",
+        "code":"23305i24906i32346i32253i31488i31378i31665i31358i20013i32994",
+        "png":"3rssqf5de9ca24aa247b9bb04601326b39ed2"
+    }},
+
+    {"id":766077466, "alias":"Deathness", "type":"cosplay", "info":{
+        "date":"2022/11/20", "name":"Princesa Jujuba (Hora de Aventura)",
+        "code":"17925i24749i30866i32908i32625i31411i31488i29769i23749i11297i19342",
+        "png":"3rssq0dca79e7837d4953aa6b0d9dca618409"
+    }},
+
+    {"id":440795266, "alias":"Beatryn", "type":"guardian", "info":{
+        "date":"2022/11/20", "name":"nevasc",
+        "code":"691i5082i5398i5281i10962i19195i29126i28000i19391i28914i31928i28741i25140i18392i22605i20365i20699i31847i6449i6450i4766",
+        "png":"3rssq7fa0f09ba3a74fb6b8747624a4cae5f7"
+    }},
+
     {"id":170353643, "alias":"elybel", "type":"guardian", "info":{
         "date":"2022/11/20", "name":"Manna",
         "code":"25065i24372i30027i10236i23463i5702i32620i32610i32640i19567i12167i13409i11432i16280i24321i31487i32163",
@@ -84,8 +174,8 @@
     }},
 
     {"id":502785895, "alias":"Mxriarty", "type":"guardian", "info":{
-        "date":"2022/11/19", "name":"Faery Rainbow",
-        "code":"21895i16270i24906i1249i3620i12073i16263i11846i27753i5161i20155i6942i13599i12076i13066i21060i31448i20578i11467i25207",
+        "date":"2022/11/19", "edited":"2022/11/21", "name":"Faery Rainbow",
+        "code":"21895i16270i24906i1249i3620i12073i16263i11846i16365i27753i5161i20155i6942i13599i12076i13066i21060i31448i20578i11467i20114",
         "png":"1quj17db92ada68e148c19b534cfe4e497b8f"
     }},
 
