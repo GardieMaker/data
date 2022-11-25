@@ -14937,5 +14937,78 @@
         "portuguese":"Pequenas dunas",
         "french":"(x)Dunas pequeñas",
         "english":"(x)Dunas pequeñas"
+    },
+
+    {"groupId":33579, "category":"ambient", "rarity":"Evento", "mark":"premium", "note":"Black Friday 2022",
+        "spanish":"Aura Dragoness Heir",
+        "portuguese":"(x)Aura Dragoness Heir",
+        "french":"(x)Aura Dragoness Heir",
+        "english":"(x)Aura Dragoness Heir"
+    },
+    {"groupId":33589, "category":"belt", "rarity":"Evento", "mark":"premium", "note":"Black Friday 2022",
+        "spanish":"Cola Dragoness Heir",
+        "portuguese":"(x)Cola Dragoness Heir",
+        "french":"(x)Cola Dragoness Heir",
+        "english":"(x)Cola Dragoness Heir"
+    },
+    {"groupId":33599, "category":"coat", "rarity":"Evento", "mark":"premium", "note":"Black Friday 2022",
+        "spanish":"Alas Dragoness Heir",
+        "portuguese":"(x)Alas Dragoness Heir",
+        "french":"(x)Alas Dragoness Heir",
+        "english":"(x)Alas Dragoness Heir"
+    },
+    {"groupId":33609, "category":"skin", "rarity":"Evento", "mark":"premium", "note":"Black Friday 2022",
+        "spanish":"Piel Dragoness Heir",
+        "portuguese":"(x)Piel Dragoness Heir",
+        "french":"(x)Piel Dragoness Heir",
+        "english":"(x)Piel Dragoness Heir"
+    },
+    {"groupId":33659, "category":"hair", "rarity":"Evento", "mark":"premium", "note":"Black Friday 2022",
+        "spanish":"Thia",
+        "portuguese":"(x)Thia",
+        "french":"(x)Thia",
+        "english":"(x)Thia"
+    },
+    {"groupId":33685, "category":"hat", "rarity":"Evento", "mark":"premium", "note":"Black Friday 2022",
+        "spanish":"Cuernos Dragoness Heir",
+        "portuguese":"(x)Cuernos Dragoness Heir",
+        "french":"(x)Cuernos Dragoness Heir",
+        "english":"(x)Cuernos Dragoness Heir"
+    },
+    {"groupId":33695, "category":"pants", "rarity":"Evento", "mark":"premium", "note":"Black Friday 2022",
+        "spanish":"Pantalones Dragoness Heir",
+        "portuguese":"(x)Pantalones Dragoness Heir",
+        "french":"(x)Pantalones Dragoness Heir",
+        "english":"(x)Pantalones Dragoness Heir"
+    },
+    {"groupId":33705, "category":"belt", "rarity":"Evento", "mark":"premium", "note":"Black Friday 2022",
+        "spanish":"Cinturón Dragoness Heir",
+        "portuguese":"(x)Cinturón Dragoness Heir",
+        "french":"(x)Cinturón Dragoness Heir",
+        "english":"(x)Cinturón Dragoness Heir"
+    },
+    {"groupId":33715, "category":"top", "rarity":"Evento", "mark":"premium", "note":"Black Friday 2022",
+        "spanish":"Top Dragoness Heir",
+        "portuguese":"(x)Top Dragoness Heir",
+        "french":"(x)Top Dragoness Heir",
+        "english":"(x)Top Dragoness Heir"
+    },
+    {"groupId":33725, "category":"handAccessory", "rarity":"Evento", "mark":"premium", "note":"Black Friday 2022",
+        "spanish":"Hojas Dragoness Heir",
+        "portuguese":"(x)Hojas Dragoness Heir",
+        "french":"(x)Hojas Dragoness Heir",
+        "english":"(x)Hojas Dragoness Heir"
+    },
+    {"groupId":33735, "category":"glove", "rarity":"Evento", "mark":"premium", "note":"Black Friday 2022",
+        "spanish":"Guantes Dragoness Heir",
+        "portuguese":"(x)Guantes Dragoness Heir",
+        "french":"(x)Guantes Dragoness Heir",
+        "english":"(x)Guantes Dragoness Heir"
+    },
+    {"groupId":33745, "category":"coat", "rarity":"Evento", "mark":"premium", "note":"Black Friday 2022",
+        "spanish":"Hombreras Dragoness Heir",
+        "portuguese":"(x)Hombreras Dragoness Heir",
+        "french":"(x)Hombreras Dragoness Heir",
+        "english":"(x)Hombreras Dragoness Heir"
     }
 ]
