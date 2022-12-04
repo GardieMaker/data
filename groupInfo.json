@@ -14907,7 +14907,24 @@
         "french":"(x)Flor Death Faery",
         "english":"(x)Flor Death Faery"
     },
-
+	{"groupId":32722, "category":"pants", "rarity":"Épico", "mark":"tradable", "note":"Exploración",
+		"spanish":"Pantalón Desert Princess",
+		"portuguese":"Saruel Desert Princess",
+		"french":"Sarouel Desert Princess",
+		"english":"(x)Pantalón Desert Princess"
+	},
+	{"groupId":32732, "category":"coat", "rarity":"Épico", "mark":"tradable", "note":"Exploración", "tag":"incomplete",
+		"spanish":"Estola Desert Princess",
+		"portuguese":"Véu Desert Princess",
+		"french":"Etole Desert Princess",
+		"english":"(x)Estola Desert Princess"
+	},
+	{"groupId":32742, "category":"shoe", "rarity":"Épico", "mark":"tradable", "note":"Exploración",
+		"spanish":"Pantuflas Desert Princess",
+		"portuguese":"Babuche Desert Princess",
+		"french":"Babouches Desert Princess",
+		"english":"(x)Pantuflas Desert Princess"
+	},
 	{"groupId":32843, "category":"coat", "rarity":"Épico", "mark":"tradable", "note":"Exploración",
 		"spanish":"Capa arenosa",
 		"portuguese":"Capa de areia",
