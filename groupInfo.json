@@ -14925,6 +14925,24 @@
 		"french":"Babouches Desert Princess",
 		"english":"(x)Pantuflas Desert Princess"
 	},
+	{"groupId":32781, "category":"dress", "rarity":"Épico", "mark":"tradable", "note":"Exploración",
+		"spanish":"Vestido Galdoiris",
+		"portuguese":"Vestido Galdoiris",
+		"french":"Robe Galdoiris",
+		"english":"(x)Vestido Galdoiris"
+	},
+	{"groupId":32791, "category":"hat", "rarity":"Épico", "mark":"tradable", "note":"Exploración", "tag":"incomplete",
+		"spanish":"Diadema Galdoiris",
+		"portuguese":"Diadema Galdoiris",
+		"french":"Diadème Galdoiris",
+		"english":"(x)Diadema Galdoiris"
+	},
+	{"groupId":32801, "category":"handAccessory", "rarity":"Épico", "mark":"tradable", "note":"Exploración", "tag":"incomplete",
+		"spanish":"Mangas Galdoiris",
+		"portuguese":"(x)Mangas Galdoiris",
+		"french":"Manches Galdoiris",
+		"english":"(x)Mangas Galdoiris"
+	},
 	{"groupId":32843, "category":"coat", "rarity":"Épico", "mark":"tradable", "note":"Exploración",
 		"spanish":"Capa arenosa",
 		"portuguese":"Capa de areia",
@@ -15054,6 +15072,60 @@
         "english":"(x)Maggy *"
     },
 
+	{"groupId":33270, "category":"shoe", "rarity":"Común", "mark":"none", "note":"Tienda", "especial":"episodios",
+		"spanish":"Zapatos de Hermana por un Día",
+		"portuguese":"Sandálias Sister for a Day",
+		"french":"(x)Zapatos de Hermana por un Día",
+		"english":"(x)Zapatos de Hermana por un Día"
+	},
+	{"groupId":33280, "category":"handAccessory", "rarity":"Común", "mark":"none", "note":"Tienda", "especial":"episodios",
+		"spanish":"Ramo de Hermana por un Día",
+		"portuguese":"Buquê Sister for a Day",
+		"french":"(x)Ramo de Hermana por un Día",
+		"english":"(x)Ramo de Hermana por un Día"
+	},
+	{"groupId":33290, "category":"handAccessory", "rarity":"Común", "mark":"none", "note":"Tienda", "especial":"episodios",
+		"spanish":"Pulsera Hermana por un día",
+		"portuguese":"Pulseira Sister for a Day",
+		"french":"(x)Pulsera Hermana por un día",
+		"english":"(x)Pulsera Hermana por un día"
+	},
+	{"groupId":33300, "category":"handAccessory", "rarity":"Común", "mark":"none", "note":"Tienda", "especial":"episodios",
+		"spanish":"Brazalete Hermana por un día",
+		"portuguese":"Bracelete Sister for a Day",
+		"french":"(x)Brazalete Hermana por un día",
+		"english":"(x)Brazalete Hermana por un día"
+	},
+	{"groupId":33310, "category":"dress", "rarity":"Común", "mark":"none", "note":"Tienda", "especial":"episodios",
+		"spanish":"Vestido de Hermana por un Día",
+		"portuguese":"Vestido Sister for a Day",
+		"french":"(x)Vestido de Hermana por un Día",
+		"english":"(x)Vestido de Hermana por un Día"
+	},
+	{"groupId":33320, "category":"background", "rarity":"Común", "mark":"none", "note":"Tienda",
+		"spanish":"Madriguera de Boda",
+		"portuguese":"(x)Madriguera de Boda",
+		"french":"(x)Madriguera de Boda",
+		"english":"(x)Madriguera de Boda"
+	},
+	{"groupId":33321, "category":"background", "rarity":"Común", "mark":"none", "note":"Tienda",
+		"spanish":"Madriguera de Boda",
+		"portuguese":"(x)Madriguera de Boda",
+		"french":"(x)Madriguera de Boda",
+		"english":"(x)Madriguera de Boda"
+	},
+	{"groupId":33322, "category":"background", "rarity":"Común", "mark":"none", "note":"Tienda",
+		"spanish":"Madriguera de Boda Arrasada",
+		"portuguese":"(x)Madriguera de Boda Arrasada",
+		"french":"(x)Madriguera de Boda Arrasada",
+		"english":"(x)Madriguera de Boda Arrasada"
+	},
+	{"groupId":33323, "category":"background", "rarity":"Común", "mark":"none", "note":"Tienda",
+		"spanish":"Madriguera de Boda Arrasada",
+		"portuguese":"(x)Madriguera de Boda Arrasada",
+		"french":"(x)Madriguera de Boda Arrasada",
+		"english":"(x)Madriguera de Boda Arrasada"
+	},
 	{"groupId":33324, "category":"coat", "rarity":"Evento", "mark":"tradable", "note":"Navidad 2022",
 	    "spanish":"Capa Frosted Whisper",
 	    "portuguese":"Capa Frosted Whisper",
