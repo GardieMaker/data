@@ -1,4 +1,58 @@
 [
+    {"id":421726566, "alias":"vivian264", "type":"cosplay", "info":{
+        "date":"2023/01/31", "name":"princesa jujuba",
+        "code":"24369i31411i33270i28120i32625i23495i5241i29769i23438i28528i11297i19342",
+        "png":"1sd0y06419f03f99748a8b25ecfad9aa3d008"
+    }},
+
+    {"id":705658578, "alias":"Arius", "type":"guardian", "info":{
+        "date":"2023/01/31", "name":"Arius",
+        "code":"12402i1249i18278i16676i8533i5446i27165i23403i23541i23958i24340i24167i19559i7302i16341i6768i15299i2256",
+        "png":"1sd0y395ac04639b04a71a2635bce1bdbb427"
+    }},
+
+    {"id":635222231, "alias":"Amaterasu", "type":"guardian", "info":{
+        "date":"2023/01/31", "name":null,
+        "code":"27415i20610i7921i18153i31882i33270i31914i32782i19610i18283i32802i32911i4378i31481i33169i32946i32975i15857i32920i21484i32863i33321",
+        "png":"1sd0y2329bb010ab74ea3a6251d0953f82fd8"
+    }},
+
+    {"id":391048360, "alias":"Kyra", "type":"guardian", "info":{
+        "date":"2023/01/31", "name":"Wendigo",
+        "code":"16276i32340i33370i33324i26843i5815i31550i32367i6449i23148i27615i33315i32357i33390i28896i33400i15858i15846i15834i33410i24335i24160i28802i6450i27553",
+        "png":"1sd0y1193742206194757948b17d0cd23e04e"
+    }},
+
+    {"id":665421237, "alias":"Adhara Lupin", "type":"cosplay", "info":{
+        "date":"2023/01/30", "name":"Na'vi (Avatar/ Minha versão)",
+        "code":"32682i2446i28531i12624i26961i27751i5194i32471i13131i24830i28570i14657i32591i28885i32292i23570i24449i27469i29116i27172i28519i25221",
+        "png":"1sd0y9a4b646d4f8643049cd90e0c18983a95"
+    }},
+
+    {"id":440578309, "alias":"Aster", "type":"guardian", "info":{
+        "date":"2023/01/30", "name":"Pura escarlate",
+        "code":"27681i16514i7920i31542i24831i12004i5083i23660i24288i24723i27624i29837i31612i29924i27170i15838i8526i28521i16402i33320",
+        "png":"1sd0y386aeb506e8c4d059eea5a5720f2684e"
+    }},
+
+    {"id":678555365, "alias":"Erviely", "type":"guardian", "info":{
+        "date":"2023/01/29", "name":null,
+        "code":"691i20220i31481i323i25926i12599i28573i23522i21834i24948i33402i33415i24167i25140i32394i32993",
+        "png":"1sd0y52fc4d0be427490299ee60ae03d2b414"
+    }},
+
+    {"id":117956719, "alias":"For Leiftan", "type":"guardian", "info":{
+        "date":"2023/01/29", "name":"...",
+        "code":"19236i691i20238i18875i5231i24173i8134i28288i32205i24443i29734i27895i7700i7620i27076i26726i32913i9098i15308i4512i18401i7810i25642",
+        "png":"1sd0ye74c1277569048068a8398f5aa62ce2f"
+    }},
+
+    {"id":148840376, "alias":"vivian264", "type":"guardian", "info":{
+        "date":"2023/01/29", "name":"fox",
+        "code":"1276i16265i5001i4400i31636i15308i33079i19911i31481i16910i31522i3247i28030i6768i30296",
+        "png":"1sd0yb0a6cba1013b4d9487f4b805bc4cb8ff"
+    }},
+
     {"id":113838521, "alias":"Bia", "type":"guardian", "info":{
         "date":"2023/01/29", "name":"Bia",
         "code":"1276i31659i5192i31379i20887i31911i30132i30839i25096i28984i31745i32632i16512i32162",
