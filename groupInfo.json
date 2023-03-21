@@ -3319,7 +3319,7 @@
 		"english":"Chocolate Bunny Sweets"
 	},
 	{"groupId":7625, "category":"handAccessory", "rarity":"Evento", "mark":"tradable", "note":"Pascua 2016", 
-		"spanish":"Managas Chocolate Bunny",
+		"spanish":"Mangas Chocolate Bunny *",
 		"portuguese":"Mangas Chocolate Bunny",
 		"french":"Manches Chocolate Bunny",
 		"english":"Chocolate Bunny Sleeves"
@@ -11547,7 +11547,7 @@
 		"english":"Adella"
 	},
 	{"groupId":26377, "category":"handAccessory", "rarity":"Evento", "mark":"tradable", "note":"Halloween 2020", 
-		"spanish":"Tinta Skel Mermaid",
+		"spanish":"Ancla Skel Mermaid *",
 		"portuguese":"Âncora Skel Mermaid",
 		"french":"Ancre Skel Mermaid",
 		"english":"Skel Mermaid Anchor"
