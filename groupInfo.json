@@ -14907,6 +14907,12 @@
         "french":"Fleur Death Faery",
         "english":"(x)Flor Death Faery"
     },
+	{"groupId":32697, "category":"hair", "rarity":"Épico", "mark":"tradable", "note":"Exploración",
+		"spanish":"Yasmyn",
+		"portuguese":"Yasmyn",
+		"french":"Yasmyn",
+		"english":"(x)Yasmyn"
+	},
 	{"groupId":32722, "category":"pants", "rarity":"Épico", "mark":"tradable", "note":"Exploración",
 		"spanish":"Pantalón Desert Princess",
 		"portuguese":"Saruel Desert Princess",
@@ -14924,6 +14930,18 @@
 		"portuguese":"Babuche Desert Princess",
 		"french":"Babouches Desert Princess",
 		"english":"(x)Pantuflas Desert Princess"
+	},
+	{"groupId":32761, "category":"top", "rarity":"Épico", "mark":"tradable", "note":"Exploración",
+		"spanish":"Top Desert Princess",
+		"portuguese":"Top Desert Princess",
+		"french":"Top Desert Princess",
+		"english":"(x)Top Desert Princess"
+	},
+	{"groupId":32771, "category":"faceAccessory", "rarity":"Épico", "mark":"tradable", "note":"Exploración",
+		"spanish":"Joyas Desert Princess",
+		"portuguese":"Joias Desert Princess",
+		"french":"Bijoux Desert Princess",
+		"english":"(x)Joyas Desert Princess"
 	},
 	{"groupId":32781, "category":"dress", "rarity":"Épico", "mark":"tradable", "note":"Exploración",
 		"spanish":"Vestido Galdoiris",
