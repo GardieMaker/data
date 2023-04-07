@@ -15571,5 +15571,131 @@
         "portuguese":"Presilhas Seductive Charmer",
         "french":"Barettes Seductive Charmer",
         "english":"(x)Prendedores Seductive Charmer"
-    }
+    },
+	{"groupId":34219, "category":"faceAccessory", "rarity":"Evento", "mark":"premium", "note":"Pascua 2023",
+		"spanish":"Cicatriz Wolf Slayer",
+		"portuguese":"Cicatriz Wolf Slayer",
+		"french":"(x)Cicatriz Wolf Slayer",
+		"english":"(x)Cicatriz Wolf Slayer"
+	},
+	{"groupId":34229, "category":"handAccessory", "rarity":"Evento", "mark":"premium", "note":"Pascua 2023",
+		"spanish":"Arma Wolf Slayer",
+		"portuguese":"Arma Wolf Slayer",
+		"french":"(x)Arma Wolf Slayer",
+		"english":"(x)Arma Wolf Slayer"
+	},
+	{"groupId":34239, "category":"hair", "rarity":"Evento", "mark":"premium", "note":"Pascua 2023",
+		"spanish":"Ruby",
+		"portuguese":"Ruby",
+		"french":"(x)Ruby",
+		"english":"(x)Ruby"
+	},
+	{"groupId":34265, "category":"underwear", "rarity":"Evento", "mark":"premium", "note":"Pascua 2023",
+		"spanish":"Body Wolf Slayer",
+		"portuguese":"Body Wolf Slayer",
+		"french":"(x)Body Wolf Slayer",
+		"english":"(x)Body Wolf Slayer"
+	},
+	{"groupId":34275, "category":"coat", "rarity":"Evento", "mark":"premium", "note":"Pascua 2023",
+		"spanish":"Capa Wolf Slayer",
+		"portuguese":"Capa Wolf Slayer",
+		"french":"(x)Capa Wolf Slayer",
+		"english":"(x)Capa Wolf Slayer"
+	},
+	{"groupId":34285, "category":"pants", "rarity":"Evento", "mark":"premium", "note":"Pascua 2023",
+		"spanish":"Pantalones Wolf Slayer",
+		"portuguese":"Calça Wolf Slayer",
+		"french":"(x)Pantalones Wolf Slayer",
+		"english":"(x)Pantalones Wolf Slayer"
+	},
+	{"groupId":34295, "category":"top", "rarity":"Evento", "mark":"premium", "note":"Pascua 2023",
+		"spanish":"Corsé Wolf Slayer",
+		"portuguese":"Espartilho Wolf Slayer",
+		"french":"(x)Corsé Wolf Slayer",
+		"english":"(x)Corsé Wolf Slayer"
+	},
+	{"groupId":34305, "category":"glove", "rarity":"Evento", "mark":"premium", "note":"Pascua 2023",
+		"spanish":"Manoplas Wolf Slayer",
+		"portuguese":"Luvas Wolf Slayer",
+		"french":"(x)Manoplas Wolf Slayer",
+		"english":"(x)Manoplas Wolf Slayer"
+	},
+	{"groupId":34315, "category":"coat", "rarity":"Evento", "mark":"premium", "note":"Pascua 2023",
+		"spanish":"Hombrera Wolf Slayer",
+		"portuguese":"Ombreiras Wolf Slayer",
+		"french":"(x)Hombrera Wolf Slayer",
+		"english":"(x)Hombrera Wolf Slayer"
+	},
+	{"groupId":34325, "category":"shoe", "rarity":"Evento", "mark":"premium", "note":"Pascua 2023",
+		"spanish":"Botas altas Wolf Slayer",
+		"portuguese":"Botas cano alto Wolf Slayer",
+		"french":"(x)Botas altas Wolf Slayer",
+		"english":"(x)Botas altas Wolf Slayer"
+	},
+	{"groupId":34335, "category":"belt", "rarity":"Evento", "mark":"premium", "note":"Pascua 2023",
+		"spanish":"Faja de cintura Wolf Slayer",
+		"portuguese":"Corset Wolf Slayer",
+		"french":"(x)Faja de cintura Wolf Slayer",
+		"english":"(x)Faja de cintura Wolf Slayer"
+	},
+	{"groupId":34345, "category":"belt", "rarity":"Evento", "mark":"premium", "note":"Pascua 2023",
+		"spanish":"Cinturón Wolf Slayer",
+		"portuguese":"Cinto Wolf Slayer",
+		"french":"(x)Cinturón Wolf Slayer",
+		"english":"(x)Cinturón Wolf Slayer"
+	},
+	{"groupId":34355, "category":"hair", "rarity":"Evento", "mark":"tradable", "note":"Pascua 2023",
+		"spanish":"Melina",
+		"portuguese":"Melina",
+		"french":"Mélina",
+		"english":"(x)Melina"
+	},
+	{"groupId":34381, "category":"coat", "rarity":"Evento", "mark":"tradable", "note":"Pascua 2023",
+		"spanish":"Cola Sexy Fantasy",
+		"portuguese":"Cauda Sexy Fantasy",
+		"french":"Traîne Sexy Fantasy",
+		"english":"(x)Cola Sexy Fantasy"
+	},
+	{"groupId":34391, "category":"sock", "rarity":"Evento", "mark":"tradable", "note":"Pascua 2023",
+		"spanish":"Medias Sexy Fantasy",
+		"portuguese":"Meia-calça Sexy Fantasy",
+		"french":"Bas Sexy Fantasy",
+		"english":"(x)Medias Sexy Fantasy"
+	},
+	{"groupId":34401, "category":"shoe", "rarity":"Evento", "mark":"tradable", "note":"Pascua 2023",
+		"spanish":"Botines Sexy Fantasy",
+		"portuguese":"Botas Sexy Fantasy",
+		"french":"Bottines Sexy Fantasy",
+		"english":"(x)Botines Sexy Fantasy"
+	},
+	{"groupId":34411, "category":"underwear", "rarity":"Evento", "mark":"tradable", "note":"Pascua 2023",
+		"spanish":"Body Sexy Fantasy",
+		"portuguese":"Body Sexy Fantasy",
+		"french":"Body Sexy Fantasy",
+		"english":"(x)Body Sexy Fantasy"
+	},
+	{"groupId":34421, "category":"glove", "rarity":"Evento", "mark":"tradable", "note":"Pascua 2023",
+		"spanish":"Guantes Sexy Fantasy",
+		"portuguese":"Luvas Sexy Fantasy",
+		"french":"Gants Sexy Fantasy",
+		"english":"(x)Guantes Sexy Fantasy"
+	},
+	{"groupId":34431, "category":"belt", "rarity":"Evento", "mark":"tradable", "note":"Pascua 2023",
+		"spanish":"Corsé Sexy Fantasy",
+		"portuguese":"Espartilho Sexy Fantasy",
+		"french":"Corset Sexy Fantasy",
+		"english":"(x)Corsé Sexy Fantasy"
+	},
+	{"groupId":34441, "category":"necklace", "rarity":"Evento", "mark":"tradable", "note":"Pascua 2023",
+		"spanish":"Lazo Sexy Fantasy",
+		"portuguese":"Laço Sexy Fantasy",
+		"french":"Nœud Sexy Fantasy",
+		"english":"(x)Lazo Sexy Fantasy"
+	},
+	{"groupId":34451, "category":"hat", "rarity":"Evento", "mark":"tradable", "note":"Pascua 2023",
+		"spanish":"Orejas Sexy Fantasy",
+		"portuguese":"Orelhas Sexy Fantasy",
+		"french":"Oreilles Sexy Fantasy",
+		"english":"(x)Orejas Sexy Fantasy"
+	}
 ]
