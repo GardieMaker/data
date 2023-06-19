@@ -1,4 +1,148 @@
 [
+    {"id":854272163, "alias":"Deathness", "type":"guardian", "info":{
+        "date":"2023/06/19", "name":"Victoria",
+        "code":"19281i26937i1258i5303i34219i4421i24814i26856i32463i21364i31312i934i2448i22032",
+        "png":"os4k7ed2ed906785b4068b45e38adbe90354e"
+    }},
+
+    {"id":134561052, "alias":"Deathness", "type":"guardian", "info":{
+        "date":"2023/06/19", "name":"Mathilde",
+        "code":"8457i28623i32575i28948i32854i32585i32998i29153i878i29006i23653i30886i33761i33806i25215",
+        "png":"os4k7cc2e8510f91c4f83bc73f3bf98d22fd8"
+    }},
+
+    {"id":126045449, "alias":"Deathness", "type":"guardian", "info":{
+        "date":"2023/06/19", "name":"Idol",
+        "code":"27770i27414i1248i17576i7177i31482i34302i33872i21145i23353i33846i32625i25240",
+        "png":"os4k7281b821546b3477fa317e47dad1bcb3b"
+    }},
+
+    {"id":697982652, "alias":"Deathness", "type":"guardian", "info":{
+        "date":"2023/06/19", "name":"Mai Ling",
+        "code":"32347i4758i882i31662i17975i33122i24693i25419i25399i32571i22031",
+        "png":"os4k7c03eadeb4a74417aa846dfeaf146f357"
+    }},
+
+    {"id":812756533, "alias":"Brain Miam Miam", "type":"guardian", "info":{
+        "date":"2023/06/18", "name":"Daemon Priestess",
+        "code":"21844i33861i22646i33686i1276i13913i13135i31919i18283i4400i23660i34118i13918i9420i16389i18974i12801i12074i14224i18870i20118i26481i29520i11594i9448i18813i3251i25141i2274i4436",
+        "png":"os4k7293d546029ce4da7a8669a5ab3c94844"
+    }},
+
+    {"id":357337111, "alias":"Mahanie", "type":"guardian", "info":{
+        "date":"2023/06/16", "name":"dragon queen",
+        "code":"33656i31473i32224i9603i8907i30414i33608i33598i32788i24943i32764i33410i30316i32915i33400i32774i8418i29116i32958i2791i15663",
+        "png":"os4k72fe4f1bb393042d0b53b3b103b382895"
+    }},
+
+    {"id":765647860, "alias":"Brain Miam Miam", "type":"guardian", "info":{
+        "date":"2023/06/15", "name":"Jules Wedding",
+        "code":"28518i1276i31919i18283i34143i4400i13668i23660i34118i25139i32598i29095i12074i18851i34183i34173i15864i33755i32449i16403i33321",
+        "png":"os4k7604eeec53fc54ca5917b54da0ee1e131"
+    }},
+
+    {"id":333984346, "alias":"Kaday", "type":"cosplay", "info":{
+        "date":"2023/06/15", "name":"The creature (Portals: Melanie Martinez)",
+        "code":"26031i21895i17925i31875i18158i15433i24581i10971i3529i6256i11516i5196i6274i24621i32405i2119i28524i6265i28620i16234i3580i25828i32295i34033i17326i8927i6768i13183i15299i28048i15225i10457",
+        "png":"os4k795226791b5fc41eabc9bf7a516fd1617"
+    }},
+
+    {"id":446418036, "alias":"Kaday", "type":"guardian", "info":{
+        "date":"2023/06/15", "name":"Envidia",
+        "code":"21894i14227i25419i26810i34144i10032i18163i15168i16667i33936i26536i31003i11794i24937i33276i19148i24686i20574i10459",
+        "png":"os4k73989e6bb760c4af9a8e7050b48eabc87"
+    }},
+
+    {"id":356453848, "alias":"Derya", "type":"guardian", "info":{
+        "date":"2023/06/14", "name":"Derya #25",
+        "code":"7922i16266i4396i5195i8569i13384i23535i28748i9518i28726i29180i23652i7825i31284",
+        "png":"os4k708347bc1cd5a49ec9d405004233935fb"
+    }},
+
+    {"id":998528146, "alias":"Derya", "type":"guardian", "info":{
+        "date":"2023/06/14", "name":"Derya #24",
+        "code":"7922i30394i18367i31617i4809i13069i18283i16266i5199i31888i14265i4865i31740i29002i26198i31551i25206",
+        "png":"os4k77b2864ecfb764bcf9fab95f53d0c1895"
+    }},
+
+    {"id":734597992, "alias":"Derya", "type":"guardian", "info":{
+        "date":"2023/06/14", "name":"Derya #23",
+        "code":"30263i26808i6464i26447i19337i25499i9517i8569i5303i30213i22840i25449i9515i27086i23650i31269",
+        "png":"os4k74332d3a263d14d81904bb89018bd2998"
+    }},
+
+    {"id":555580570, "alias":"Derya", "type":"guardian", "info":{
+        "date":"2023/06/14", "name":"Derya #22",
+        "code":"9305i30273i9517i32589i31878i32619i18349i32609i33849i33829i30213i13135i16266i33819i8573i18283i29002i33799i21116i30473i25918i5199i30203i2246i33763i9516i4764",
+        "png":"os4k7661e982816684d1fb92b1cdaa3d1c6bb"
+    }},
+
+    {"id":927785019, "alias":"Derya", "type":"guardian", "info":{
+        "date":"2023/06/14", "name":"Derya #21",
+        "code":"25328i11472i28979i9305i19099i4855i33745i11583i9514i14742i25366i11528i32909i18870i30880i31888i16266i9830i18283i29002i5195i33685i26198i10334i25210",
+        "png":"os4k7be4264e2fdd74a32987c99eed1887f87"
+    }},
+
+    {"id":607805113, "alias":"Derya", "type":"guardian", "info":{
+        "date":"2023/06/14", "name":"Derya #20",
+        "code":"7922i32511i27381i2372i17715i17409i32501i16269i31475i29003i31483i23842i9888i27357i28625i14801i13194i30730i14867i31284",
+        "png":"os4k7f5cf55fdf14b46e1b2e3504be9f9755f"
+    }},
+
+    {"id":280638467, "alias":"Derya", "type":"guardian", "info":{
+        "date":"2023/06/14", "name":"Derya #19",
+        "code":"16276i17895i23209i7922i13910i13136i33379i12008i19609i24905i5161i4395i31921i27157i13758i30896i29761i3249i31924i22618i28045i23956i12135i28560i28570i12596i24904i28522i22640i17293i30942i20333",
+        "png":"os4k75696846dc23d40c9a906aeb2501d3b98"
+    }},
+
+    {"id":938327275, "alias":"Derya", "type":"guardian", "info":{
+        "date":"2023/06/14", "name":null,
+        "code":"7922i6405i11683i11694i33425i33548i5632i33467i9364i33488i22859i33519i6044i6648i6325i10466i10467i16111i11649i5195i27428",
+        "png":"os4k767cb05ca4f9041f9aa4b45671082f9bc"
+    }},
+
+    {"id":638144804, "alias":"Derya", "type":"guardian", "info":{
+        "date":"2023/06/14", "name":null,
+        "code":"7922i31416i32609i30594i5199i18273i22341i4400i31445i27810i33904i33298i14265i30613i31284",
+        "png":"os4k75cd89da323624100951d8f74e46a7917"
+    }},
+
+    {"id":444431985, "alias":"Derya", "type":"cosplay", "info":{
+        "date":"2023/06/14", "name":"Edward Scissorhands",
+        "code":"9300i5276i19152i8573i4399i14251i14249i18987i21756i8579i8582i14250i5545i14676i4690i4678i22238i21116i31284",
+        "png":"os4k77286cb61a9ff41c9bb1b0b88ddd1d0f5"
+    }},
+
+    {"id":728708295, "alias":"Derya", "type":"cosplay", "info":{
+        "date":"2023/06/14", "name":"Persephone (Lore Olympus)",
+        "code":"8927i25702i23234i19068i24369i4659i16266i28113i30883i24749i29008i5193i16341i23329i20232i7934i16377i19250i12086i28522i19056i17298i2977i30863i2449i33801i22033",
+        "png":"os4k7ff8247b62dbc4b3ea4b0a3dee4c12df3"
+    }},
+
+    {"id":794634382, "alias":"Derya", "type":"cosplay", "info":{
+        "date":"2023/06/14", "name":"Persephone (Lore Olympus)",
+        "code":"25702i19068i24369i4659i16266i28113i30883i24749i29008i5193i23329i19250i12086i19056i22033",
+        "png":"os4k78766de61fe2e40758fbb97d8c617dcbf"
+    }},
+
+    {"id":692813786, "alias":"Derya", "type":"guardian", "info":{
+        "date":"2023/06/14", "name":"Derya #18",
+        "code":"19071i27581i9305i16429i31888i27571i33391i16266i32909i4396i7661i5195i32945i18310i20570i15296i20114",
+        "png":"os4k7271fcd6878cb4eddac6c4d1858dfd933"
+    }},
+
+    {"id":562853319, "alias":"Derya", "type":"guardian", "info":{
+        "date":"2023/06/14", "name":"Derya #17",
+        "code":"14531i7810i24172i13129i31473i16268i5194i24825i18283i29003i28811i30394i17941i17870i33397i12862i15301i28045i22356i11469i29761i20114",
+        "png":"os4k7681c4841536a410f8ad626b94cf2b0ae"
+    }},
+
+    {"id":167842807, "alias":"Derya", "type":"guardian", "info":{
+        "date":"2023/06/14", "name":"Derya #16",
+        "code":"26509i9305i16268i13914i18283i14203i29003i27928i31920i9103i28845i4649i28835i28915i28925i27607i28885i28875i5199i26565i22397i28047i29293i25215",
+        "png":"os4k74fb117910c404307800625907424936c"
+    }},
+
     {"id":837933113, "alias":"Kyra", "type":"guardian", "info":{
         "date":"2023/06/13", "name":"Primavera",
         "code":"28615i23208i11473i1249i31475i19778i31381i5243i18329i11768i34215i20228i16374i29139i33270i30826i23375i32595i17895i20233i17688i18847i12084i11594i23438i28559i28569i10437i12475i11869i31915i33901i28045i8457i21058",
