@@ -7667,7 +7667,7 @@
 		"french":"Bracelet de jambe Eagles Pride",
 		"english":"Eagles Pride Leg Band"
 	},
-	{"groupId":18248, "category":"shoe", "rarity":"Legendario", "mark":"none", "note":"Tienda Antigua", "especial":"antique",
+	{"groupId":18248, "category":"shoe", "rarity":"Legendario", "mark":"tradable", "note":"Exploración",
 		"spanish":"(x)Eagles Pride Shoes",
 		"portuguese":"Sapatos Eagles pride",
 		"french":"Chaussures Eagles Pride",
@@ -14961,6 +14961,36 @@
 		"french":"Manches Galdoiris",
 		"english":"(x)Mangas Galdoiris"
 	},
+	{"groupId":32811, "category":"coat", "rarity":"Raro", "mark":"tradable", "note":"Exploración",
+		"spanish":"Chal Wild Sand",
+		"portuguese":"Xale Wild Sand",
+		"french":"Châle Wild Sand",
+		"english":"(x)Chal Wild Sand"
+	},
+	{"groupId":32821, "category":"belt", "rarity":"Raro", "mark":"tradable", "note":"Exploración",
+		"spanish":"Cinturón Wild Sand",
+		"portuguese":"Cinto Wild Sand",
+		"french":"Ceinture Wild Sand",
+		"english":"(x)Cinturón Wild Sand"
+	},
+	{"groupId":32831, "category":"skin", "rarity":"Raro", "mark":"tradable", "note":"Exploración",
+		"spanish":"Piel Wild Sand",
+		"portuguese":"Pele Wild Sand",
+		"french":"Peau Wild Sand",
+		"english":"(x)Piel Wild Sand"
+	},
+	{"groupId":32841, "category":"background", "rarity":"Común", "mark":"none", "note":"Tienda",
+		"spanish":"Falla linde del bosque",
+		"portuguese":"(x)Falla linde del bosque",
+		"french":"(x)Falla linde del bosque",
+		"english":"(x)Falla linde del bosque"
+	},
+	{"groupId":32842, "category":"background", "rarity":"Común", "mark":"none", "note":"Tienda",
+		"spanish":"Falla exterior del C.G",
+		"portuguese":"(x)Falla exterior del C.G",
+		"french":"(x)Falla exterior del C.G",
+		"english":"(x)Falla exterior del C.G"
+	},
 	{"groupId":32843, "category":"coat", "rarity":"Épico", "mark":"tradable", "note":"Exploración",
 		"spanish":"Capa arenosa",
 		"portuguese":"Capa de areia",
@@ -14978,6 +15008,12 @@
 		"portuguese":"Magia de areia",
 		"french":"Magie sablée",
 		"english":"(x)Magia arenosa"
+	},
+	{"groupId":32992, "category":"background", "rarity":"Común", "mark":"none", "note":"Tienda",
+		"spanish":"Bosque municipal vallado",
+		"portuguese":"(x)Bosque municipal vallado",
+		"french":"(x)Bosque municipal vallado",
+		"english":"(x)Bosque municipal vallado"
 	},
     {"groupId":32993, "category":"background", "rarity":"Común", "mark":"none", "note":"Tienda",
         "spanish":"Dunas pequeñas",
@@ -15697,5 +15733,60 @@
 		"portuguese":"Orelhas Sexy Fantasy",
 		"french":"Oreilles Sexy Fantasy",
 		"english":"(x)Orejas Sexy Fantasy"
+	},
+
+	{"groupId":34461, "category":"coat", "rarity":"Legendario", "mark":"none", "note":"Tienda", "especial":"episodios",
+		"spanish":"Alas The Messenger",
+		"portuguese":"(x)Alas The Messenger",
+		"french":"(x)Alas The Messenger",
+		"english":"(x)Alas The Messenger"
+	},
+	{"groupId":34471, "category":"pants", "rarity":"Legendario", "mark":"none", "note":"Tienda", "especial":"episodios",
+		"spanish":"Pantalones The Messenger",
+		"portuguese":"(x)Pantalones The Messenger",
+		"french":"(x)Pantalones The Messenger",
+		"english":"(x)Pantalones The Messenger"
+	},
+	{"groupId":34481, "category":"shoe", "rarity":"Legendario", "mark":"none", "note":"Tienda", "especial":"episodios",
+		"spanish":"Botas altas The Messenger",
+		"portuguese":"(x)Botas altas The Messenger",
+		"french":"(x)Botas altas The Messenger",
+		"english":"(x)Botas altas The Messenger"
+	},
+	{"groupId":34491, "category":"top", "rarity":"Legendario", "mark":"none", "note":"Tienda", "especial":"episodios",
+		"spanish":"Top The Messenger",
+		"portuguese":"(x)Top The Messenger",
+		"french":"(x)Top The Messenger",
+		"english":"(x)Top The Messenger"
+	},
+	{"groupId":34501, "category":"coat", "rarity":"Legendario", "mark":"none", "note":"Tienda", "especial":"episodios",
+		"spanish":"Túnica The Messenger",
+		"portuguese":"(x)Túnica The Messenger",
+		"french":"(x)Túnica The Messenger",
+		"english":"(x)Túnica The Messenger"
+	},
+	{"groupId":34511, "category":"coat", "rarity":"Legendario", "mark":"none", "note":"Tienda", "especial":"episodios",
+		"spanish":"Armadura The Messenger",
+		"portuguese":"(x)Armadura The Messenger",
+		"french":"(x)Armadura The Messenger",
+		"english":"(x)Armadura The Messenger"
+	},
+	{"groupId":34521, "category":"coat", "rarity":"Legendario", "mark":"none", "note":"Tienda", "especial":"episodios",
+		"spanish":"Foulard The Messenger",
+		"portuguese":"(x)Foulard The Messenger",
+		"french":"(x)Foulard The Messenger",
+		"english":"(x)Foulard The Messenger"
+	},
+	{"groupId":34531, "category":"hat", "rarity":"Legendario", "mark":"none", "note":"Tienda", "especial":"episodios",
+		"spanish":"Joya The Messenger",
+		"portuguese":"(x)Joya The Messenger",
+		"french":"(x)Joya The Messenger",
+		"english":"(x)Joya The Messenger"
+	},
+	{"groupId":34541, "category":"background", "rarity":"Común", "mark":"none", "note":"Tienda",
+		"spanish":"Falla exterior del C.G",
+		"portuguese":"(x)Falla exterior del C.G",
+		"french":"(x)Falla exterior del C.G",
+		"english":"(x)Falla exterior del C.G"
 	}
 ]
