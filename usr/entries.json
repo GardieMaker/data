@@ -1,4 +1,40 @@
 [
+    {"id":988564024, "alias":"Jarlos", "type":"cosplay", "info":{
+        "date":"2023/06/20", "name":"Aldrif Odinsdottir (Angela)",
+        "code":"24223i691i14191i2726i27072i18283i21868i23023i34020i9289i28191i31012i31701i30896i24589i5215i32163",
+        "png":"sqfjz71fbbd74bdd64ebca35189521ef76b0f"
+    }},
+
+    {"id":549399677, "alias":"Jarlos", "type":"guardian", "info":{
+        "date":"2023/06/20", "name":"Lilac",
+        "code":"32682i32835i33352i34160i18283i6379i13756i31481i33911i34192i26570i23762",
+        "png":"sqfjzbda4127ad86248c1be4328e6e9f3afe3"
+    }},
+
+    {"id":968698571, "alias":"Kotleta", "type":"guardian", "info":{
+        "date":"2023/06/20", "name":null,
+        "code":"26499i30331i23274i5250i28780i28447i27246i2310i31870i28739i28487i28380i27364i28390i28721i31284",
+        "png":"sqfjzf0f812de69b8465497a9b0115b152712"
+    }},
+
+    {"id":870389931, "alias":"Mxriarty", "type":"guardian", "info":{
+        "date":"2023/06/20", "name":"Hermes",
+        "code":"21896i34465i7926i34412i34485i34505i29520i11594i16260i18283i34495i24172i4392i5243i19185i6656i24155i33151i34541",
+        "png":"sqfjz14a151a566fa4c84ba6dca8d57f0dfe6"
+    }},
+
+    {"id":324769207, "alias":"elybel", "type":"guardian", "info":{
+        "date":"2023/06/20", "name":"Elybel",
+        "code":"7926i34487i32786i34497i17705i34507i32735i15725i31483i32410i34537i33160i9516i6992",
+        "png":"sqfjz63da48d444224de9ad525b330839c3fe"
+    }},
+
+    {"id":905174522, "alias":"Abbywiwi", "type":"guardian", "info":{
+        "date":"2023/06/20", "name":"Awakening godness",
+        "code":"16278i9300i21883i23260i16661i13621i22807i5161i9840i24269i11586i16401i21058",
+        "png":"sqfjzadde090d914b49fdb68c97d7ba5f1be0"
+    }},
+
     {"id":854272163, "alias":"Deathness", "type":"guardian", "info":{
         "date":"2023/06/19", "name":"Victoria",
         "code":"19281i26937i1258i5303i34219i4421i24814i26856i32463i21364i31312i934i2448i22032",
