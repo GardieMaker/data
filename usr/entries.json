@@ -1,4 +1,123 @@
 [
+    {"id":948626499, "alias":"Jarlos", "type":"guardian", "info":{
+        "date":"2023/07/03", "name":"Eowyn",
+        "code":"691i32602i34290i34350i34310i30323i31762i34521i2386i34320i18283i4379i23663i31737i8581i27164i33726i4437",
+        "png":"fnf8y48af706e4b84407f83bffaedfeba4be5"
+    }},
+
+    {"id":518184317, "alias":"Jarlos", "type":"guardian", "info":{
+        "date":"2023/07/03", "name":"Targar",
+        "code":"28525i33862i34169i691i18272i31408i30806i34166i34041i32788i5195i33906i34093i33320",
+        "png":"fnf8yf5469402044f442583e653a5df477b78"
+    }},
+
+    {"id":375881748, "alias":"MsBambi", "type":"guardian", "info":{
+        "date":"2023/07/03", "name":"Christmas Witch",
+        "code":"20053i6612i30277i6449i10770i24159i18153i31471i6380i9830i7805i5195i33006i6535i27612i33116i6106i16330i14386i33051i6219i14269i16295i19689i23816i33068i30197i33447i11089i3309i33061i25070i6450i5799",
+        "png":"fnf8y413747e8d9f44205b3ae5303aa108f73"
+    }},
+
+    {"id":597405137, "alias":"MsBambi", "type":"guardian", "info":{
+        "date":"2023/07/03", "name":"Valentine's Day",
+        "code":"31531i16514i16381i8652i26814i30542i18158i16265i4377i5192i18392i33906i26692i34100i33755i34040i34149i20132i34020i34159i29088i34178i30880i14224i33887i33973i12443i34090i16345i33911i33290i16402i25962i25210",
+        "png":"fnf8yd45fab3e965f4cc1a3964bf34f2b14ae"
+    }},
+
+    {"id":262531800, "alias":"Gio", "type":"guardian", "info":{
+        "date":"2023/07/03", "name":"Cupidominhajude",
+        "code":"34461i26812i12014i26686i23659i20220i34391i25001i34189i26855i32602i1947i16425i33977i26948i16401i16270i5728",
+        "png":"fnf8ye9ed6656b537449ea87a962ec156fc51"
+    }},
+
+    {"id":389355280, "alias":"Moon Nabi", "type":"guardian", "info":{
+        "date":"2023/07/03", "name":"Deusa lua",
+        "code":"26185i32224i34465i31393i34231i24900i28570i33974i9475i26475i34319i5194i32952i27969i11489i24176i34532i28762i16159i28102i28884i28804i33323",
+        "png":"fnf8y8566e18be37f45b6a84599d0dd3d1d5f"
+    }},
+
+    {"id":283911998, "alias":"Zizuzz", "type":"guardian", "info":{
+        "date":"2023/07/02", "name":"senhorita bruxa do mar",
+        "code":"17963i24825i13131i14197i29984i5266i24163i10959i15113i31365i17024i28487i18853i3531i20835i18324i24271i7871i3722i3071i20427i27163i25640",
+        "png":"fnf8y196e6f4276434a2aada825e446c7a1a7"
+    }},
+
+    {"id":168829097, "alias":"Derya", "type":"guardian", "info":{
+        "date":"2023/07/01", "name":"Derya #26",
+        "code":"23234i6969i19069i4976i23210i26734i33409i16377i9305i14206i31475i16262i4395i9998i11558i23344i21884i17177i32588i20801i13673i11549i5412i4856i13585i25880i26688i30194i7661i9494i7748i29137i23745i11469i5551i23709i17293i12596i23530i12607i15303i28522i4435",
+        "png":"fnf8y0418d014cff247208fc8eff9e827da5a"
+    }},
+
+    {"id":898695326, "alias":"Sangho", "type":"guardian", "info":{
+        "date":"2023/07/01", "name":"Lu Qi",
+        "code":"21337i32862i16269i18152i4396i23663i30721i34491i28862i23802i34187i29657i31857i31835i30846i34347i23842i29520i20387i2316i33291i31919i32920i28045i20844i33565i31737i24155i28577",
+        "png":"fnf8ybe2afdde87f14a23b8b084b14ab3b3b7"
+    }},
+
+    {"id":981014148, "alias":"Genesis", "type":"cosplay", "info":{
+        "date":"2023/07/01", "name":"Arpista de Orquesta",
+        "code":"16273i27554i18873i1249i28460i30001i5212i29012i29872i32786i12209i8003i33914i4579i13333i25198",
+        "png":"fnf8y6fd4e59f3dfa46229938da5a91f4ab60"
+    }},
+
+    {"id":327271384, "alias":"Alessana", "type":"guardian", "info":{
+        "date":"2023/06/30", "name":null,
+        "code":"16275i28797i1268i33093i26131i32642i33336i33113i18871i34501i15869i15845i33958i33155i15821i8905i6768i31286",
+        "png":"fnf8yac1cb9aa9921460790835e3e1b444631"
+    }},
+
+    {"id":788785105, "alias":"Alessana", "type":"guardian", "info":{
+        "date":"2023/06/30", "name":null,
+        "code":"25060i34465i16365i17798i12139i12043i14317i17707i32811i30846i18272i12271i32821i24142i6655i31481i20273i16171i17737i27167i24167i15857i18904i6768i25233",
+        "png":"fnf8y00c4ec85c84647329a8664f220711fb6"
+    }},
+
+    {"id":321944719, "alias":"Alessana", "type":"guardian", "info":{
+        "date":"2023/06/30", "name":null,
+        "code":"33586i1276i28442i32079i34513i24952i24932i34523i24972i19752i24942i26876i24056i24982i8909i32163",
+        "png":"fnf8ya43e1e4b964545c4962c3f0de09ee7e6"
+    }},
+
+    {"id":657033266, "alias":"Brain Miam Miam", "type":"guardian", "info":{
+        "date":"2023/06/29", "name":"Prophet Daemon - Jules",
+        "code":"33686i34467i1276i21625i18283i31919i23660i19806i4400i34118i13918i19345i18867i19350i25071i30982i19349i29137i20114",
+        "png":"fnf8yf09b873b216c4a84a12ea8abe9d832ed"
+    }},
+
+    {"id":907200339, "alias":"hana", "type":"guardian", "info":{
+        "date":"2023/06/28", "name":"Ghost lala",
+        "code":"7922i32855i18731i33339i5198i19522i16437i12986i33961i33755i30829i29050",
+        "png":"fnf8ycc2ae623b0f34a0696f7af73178287c5"
+    }},
+
+    {"id":688292270, "alias":"Kotleta", "type":"guardian", "info":{
+        "date":"2023/06/28", "name":null,
+        "code":"1279i2250i18701i26999i8964i5214i14075i28180i29659i29647i29550i22375i25070i25234",
+        "png":"fnf8yde58ade583e44a9f80286bb6fea8e453"
+    }},
+
+    {"id":740473846, "alias":"Moonlight", "type":"guardian", "info":{
+        "date":"2023/06/28", "name":"Underworld Angel",
+        "code":"16271i16406i22646i1249i7805i31471i16266i34219i18283i5195i16682i31657i31919i19705i29862i29852i29842i34120i32521i32531i31208i24176i33452i22609i10332i31184i6768i24981i26946i22033",
+        "png":"fnf8y6344496ec8b84442b0fac00121fb664e"
+    }},
+
+    {"id":210078402, "alias":"Adhara Lupin", "type":"guardian", "info":{
+        "date":"2023/06/28", "name":"Sahara",
+        "code":"26961i16284i14552i27751i8907i26455i14034i33706i32275i22030i22236i24834i2609i29564i16858i9085i30982i27172i14657",
+        "png":"fnf8y81f826345c3f45deacb6bce3b185bb44"
+    }},
+
+    {"id":556610770, "alias":"nirvasan", "type":"guardian", "info":{
+        "date":"2023/06/28", "name":"Shadow bat",
+        "code":"8556i18276i5245i16670i8924i8579i33904i14262i32963i22605i19202i29454i18537i33686i14289i14211i25640",
+        "png":"fnf8y40c994913994447dbd93194d57e870c9"
+    }},
+
+    {"id":597955519, "alias":"Genesis", "type":"guardian", "info":{
+        "date":"2023/06/28", "name":"Musical Fantasma de la Opera",
+        "code":"25419i16280i27557i1249i10227i29002i33849i31481i30687i29871i30544i30635i34442i29600i21352i6768i32163",
+        "png":"fnf8y79d6fc6d8b2844d5a1db99f5d1fcda26"
+    }},
 
     {"id":642222989, "alias":"MartaIV44", "type":"guardian", "info":{
         "date":"2023/06/27", "name":"Golden Witch",
