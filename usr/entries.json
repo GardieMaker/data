@@ -1,4 +1,202 @@
 [
+    {"id":442903917, "alias":"Kyra", "type":"guardian", "info":{
+        "date":"2023/07/25", "name":"Diamante azul",
+        "code":"21892i16276i23173i26165i12230i11454i26569i23149i5677i25577i13138i23197i17715i14038i31545i23161i23185i11379i31475i16264i13717i28757i6396i5558i11502i11469i11558i11862i16159i24335i24313i24160i29920i16284i8322i8342i33903i28054i30861i28803i26175i23762",
+        "png":"lvf7jb0ed4fe7f08a4a6889324627472ccb98"
+    }},
+
+    {"id":861712166, "alias":"MartaIV44", "type":"guardian", "info":{
+        "date":"2023/07/25", "name":"Flowers on Me",
+        "code":"23314i23291i691i16673i5243i31914i34003i33838i19115i30857i21095i20183i31443i23325i16405i3533",
+        "png":"lvf7jacc37c4376494d53bdf97c00393550f7"
+    }},
+
+    {"id":486788811, "alias":"Spamton", "type":"guardian", "info":{
+        "date":"2023/07/25", "name":null,
+        "code":"1249i31471i33277i34139i32954i34389i33001i34503i32673i5100i5242i33448i30403i3532",
+        "png":"lvf7j86aaa446a50f4625901a8fbc25606db3"
+    }},
+
+    {"id":897329899, "alias":"MikoAmo", "type":"guardian", "info":{
+        "date":"2023/07/25", "name":"Miko",
+        "code":"25318i33374i32857i5193i27753i17689i26865i26880i9428i18963i25419i34119i18939i14260i9456i32649i19314i19068i6998",
+        "png":"lvf7jae3f6e1f6d50482ba1dd057cdf791ee7"
+    }},
+
+    {"id":532601150, "alias":"Lazzulie", "type":"cosplay", "info":{
+        "date":"2023/07/25", "name":"Athéna",
+        "code":"17793i19607i18283i33661i20272i23659i12876i13192i15881i32020i29837i17616i28198i28258i28248i17587i33911i20113",
+        "png":"lvf7jf6ffd3fc63f44346930a2792c74090b9"
+    }},
+
+    {"id":526588727, "alias":"MartaIV44", "type":"guardian", "info":{
+        "date":"2023/07/24", "name":"Musician",
+        "code":"691i31481i16673i10638i17638i17627i22534i3458i17605i16786",
+        "png":"lvf7jda24edb3d69348e59d063fa6ff0be367"
+    }},
+
+    {"id":418311753, "alias":"MartaIV44", "type":"guardian", "info":{
+        "date":"2023/07/24", "name":"Marta in Blue Dress",
+        "code":"17895i25065i21896i691i18280i20280i23653i18380i31915i16276i16421i13183i18394i16293i14342i20302i2270i16385i16411i2417",
+        "png":"lvf7j127c143b4c35490b9cc375fe1d620ce1"
+    }},
+
+    {"id":315103167, "alias":"bwlona", "type":"guardian", "info":{
+        "date":"2023/07/24", "name":"Naoko.",
+        "code":"1250i18276i16673i5215i27934i19868i12485i12509i11780i11783i32176i18550i29755i30119i12498i8552i29056i25215",
+        "png":"lvf7je98196867bd7424ea1fdb5accf7f69b5"
+    }},
+
+    {"id":233798268, "alias":"Spamton", "type":"guardian", "info":{
+        "date":"2023/07/24", "name":null,
+        "code":"22644i1249i33874i18158i31471i33004i29002i28979i34507i19199i32369i33983i30860i14343i33454i33963i5195i31523i16354i26947i3543",
+        "png":"lvf7j73a5f6626add45319ea0693f47c1f458"
+    }},
+
+    {"id":602340212, "alias":"Lazzulie", "type":"cosplay", "info":{
+        "date":"2023/07/24", "name":"Pearl (SU)",
+        "code":"1277i20015i5834i22959i5241i11554i29830i26119i23810i32088i25795i14063i18256i3541",
+        "png":"lvf7j610dd20141a245c180e42960c6f9e4d3"
+    }},
+
+    {"id":941919288, "alias":"Kyra", "type":"guardian", "info":{
+        "date":"2023/07/24", "name":"Diamante amarillo",
+        "code":"16273i21891i26166i32704i14814i6314i27575i12238i27623i25578i8834i26449i31472i23180i32799i10333i18823i15833i6553i27751i17968i8546i24336i24161i11868i10660i15857i33373i28848i15304i31914i32789i12081i13190i11594i32907i11869i13173i11524i28561i13183i32923i23094i14112i28804i26578i30982i29047i23762",
+        "png":"lvf7j110637465b88412293b877804b3d0fd8"
+    }},
+
+    {"id":831274134, "alias":"Zizuzz", "type":"guardian", "info":{
+        "date":"2023/07/23", "name":"Sacerdotisa dragrão",
+        "code":"33613i5073i8909i29616i9704i18530i16317i13186i28884i18917i11892i7810i25620i31227i32156",
+        "png":"lvf7j3309c289bc3244bda1fe73ed0d14c894"
+    }},
+
+    {"id":831470818, "alias":"Vaxey", "type":"guardian", "info":{
+        "date":"2023/07/23", "name":"Sun card from the game card \"Tarot\"",
+        "code":"32412i21895i23151i23414i23180i17800i31489i31873i31892i15835i27579i31924i18380i27604i23421i14326i27624i29520i28012i22871i17759i27594i27584i16282i28519i25962",
+        "png":"lvf7j80dbd631da9a4c5290041289f5a46a79"
+    }},
+
+    {"id":423138664, "alias":"Derya", "type":"cosplay", "info":{
+        "date":"2023/07/23", "name":"Tecna (Winx Club)",
+        "code":"23218i27412i28692i1252i17725i19500i4394i5213i31629i15534i30351i3108i12032i12212i16293i32068i30839i30384i25073i20960i24266i15243i31291",
+        "png":"lvf7j931918a1126b433ab17d8a584f8a6fe2"
+    }},
+
+    {"id":984644655, "alias":"Witch", "type":"guardian", "info":{
+        "date":"2023/07/23", "name":"Witch",
+        "code":"1245i323i5246i2092i33337i23835i23167i22340i15594i29760i29146i10462i25206",
+        "png":"lvf7j886b0421818247cb8d9ecd0c6af7fce7"
+    }},
+
+    {"id":349890615, "alias":"Kyra", "type":"guardian", "info":{
+        "date":"2023/07/22", "name":"Diamante rosa",
+        "code":"11470i16270i21893i15844i5672i17878i17687i11870i25573i31541i16319i16243i4864i10773i13910i10960i24832i32951i31875i31885i5083i13128i11484i7664i11858i16340i16722i31921i11863i11862i11861i11455i5243i18244i24157i33162i11860i18846i32924i18220i11577i11563i11516i33908i28799i24311i16401i16292i21640i13413i13468i23762",
+        "png":"lvf7jd82e21ea7319418baaf11a6145a10d2d"
+    }},
+
+    {"id":720074962, "alias":"Cariba323", "type":"guardian", "info":{
+        "date":"2023/07/22", "name":"Camilly Fairy",
+        "code":"23302i1270i13191i28617i13106i5066i5193i16556i16233i2084i20154i12793i18347i29231i23545i32763i23932i32815i28559i33967i13823i13187i16171i16380i8658i33911i30856i23301i23581i16909i23521i18380i20233i28569i33957i14064i12826i28526i33321",
+        "png":"lvf7j14baaa75a3d246428463929e42a0a666"
+    }},
+
+    {"id":940982330, "alias":"Alessana", "type":"guardian", "info":{
+        "date":"2023/07/21", "name":null,
+        "code":"19274i4957i10213i26110i31403i5631i23448i7854i28210i32622i32632i7891i23653i20231i33801i32841",
+        "png":"lvf7j76db1c311fb6445184588f9bbbb16404"
+    }},
+
+    {"id":556291038, "alias":"Galetizinha💗", "type":"guardian", "info":{
+        "date":"2023/07/21", "name":"Forma 2",
+        "code":"26499i5283i29011i19200i17629i26894i32900i33412i30194i5728",
+        "png":"lvf7jaba08f72cf3b44a79d04cacf3713f067"
+    }},
+
+    {"id":983564879, "alias":"MsBambi", "type":"guardian", "info":{
+        "date":"2023/07/20", "name":"Flower Witch",
+        "code":"24361i24161i31471i18160i16261i7805i18712i5553i26694i26684i16277i12827i25364i11249i27162i23233i17876i23257i18355i3118i16404i16391i29148i25912i17021i17010i32401i26041i12442i33918i3784i34085i20725i16347i14424i17335i1432i15569i2324i2924i2680i23988i15298i25221",
+        "png":"lvf7j2ea61327f4be42b198b2cbeeac0027f2"
+    }},
+
+    {"id":574719133, "alias":"MsBambi", "type":"guardian", "info":{
+        "date":"2023/07/20", "name":"Swamp Witch",
+        "code":"26808i32224i18163i31474i18283i13872i19322i32234i16279i3068i31229i9991i10324i6451i7732i18922i17324i20230i22375i14844i16386i16350i13004i23747i18392i7805i15812i16862i6485i24426i6501i7712i3035i10297i32300i25406i5337i25290i2826i15301i2609i10047i25215",
+        "png":"lvf7j83f8c4cdc7324ad0b29aae8b170ccdb8"
+    }},
+
+    {"id":513934062, "alias":"Derya", "type":"cosplay", "info":{
+        "date":"2023/07/20", "name":"Tecna (Winx Club)",
+        "code":"1252i4394i20960i5243i3187i30630i15380i23844i31318i25209",
+        "png":"lvf7j36d906dbd84d41d7aa39183aba979bb8"
+    }},
+
+    {"id":234763116, "alias":"Derya", "type":"cosplay", "info":{
+        "date":"2023/07/20", "name":"Flora (Winx Club)",
+        "code":"4646i7927i4372i21409i5242i13064i14063i16990i21147i14170i6574i30474i25209",
+        "png":"lvf7j7798a84ed768436abcdd6be126a2de9c"
+    }},
+
+    {"id":415026485, "alias":"Derya", "type":"cosplay", "info":{
+        "date":"2023/07/20", "name":"Flora (Winx Club)",
+        "code":"1460i7927i4372i21409i5242i14466i12059i3131i3078i31599i25209",
+        "png":"lvf7jc0849729654b4b13a3a9fc033cc43f6c"
+    }},
+
+    {"id":302779505, "alias":"Doctty", "type":"guardian", "info":{
+        "date":"2023/07/20", "name":"confeiteira",
+        "code":"16270i12931i24369i31411i34383i31024i16904i34413i7564i7576i7610i28506i31087i31113i10580i8962i19342",
+        "png":"lvf7j5a544216f40746508596e14b6c07dfe5"
+    }},
+
+    {"id":638936871, "alias":"Doctty", "type":"guardian", "info":{
+        "date":"2023/07/20", "name":"Voddooo",
+        "code":"25438i14858i9753i18153i16259i5052i9830i31857i34509i21352i23845i8925i26707i22682i29180i5190i6996",
+        "png":"lvf7jb6c0b5daf9cf484d891c427e41d162b5"
+    }},
+
+    {"id":319127771, "alias":"Doctty", "type":"guardian", "info":{
+        "date":"2023/07/20", "name":"Fenix negra",
+        "code":"691i8578i21874i5211i7291i27737i14251i14262i8581i27707i25071i33322",
+        "png":"lvf7j9306af693c874947ab311a6699c8c0f9"
+    }},
+
+    {"id":789445988, "alias":"Kyra", "type":"guardian", "info":{
+        "date":"2023/07/19", "name":"Santa profeta",
+        "code":"29055i33100i32810i32946i1249i33364i27969i31923i33384i33271i28045i32919i9439i32790i28132i32811i33404i31475i33164i5242i28894i28908i15857i15833i29761i32800i31403i28522i28803i34541",
+        "png":"lvf7j3583e610939d484f96184054d47a3da2"
+    }},
+
+    {"id":556961082, "alias":"Derya", "type":"cosplay", "info":{
+        "date":"2023/07/19", "name":"Stella (Winx Club)",
+        "code":"12053i16986i7926i4403i13156i11967i14463i2989i6163i5242i7750i25209",
+        "png":"lvf7je8d8f8d20e9b4d6893fb95c309a0c2c7"
+    }},
+
+    {"id":364653826, "alias":"BYSB36927", "type":"cosplay", "info":{
+        "date":"2023/07/19", "name":null,
+        "code":"7926i18155i8905i4390i999i6449i6865i31014i22438i18657i6769i9966i2856i15298i6450i2446i27549",
+        "png":"lvf7j4291fce4efe541139618d6ac2689bb19"
+    }},
+
+    {"id":962081222, "alias":"Annika_Hope", "type":"guardian", "info":{
+        "date":"2023/07/19", "name":"Aurora - Goddess of Life",
+        "code":"16273i13629i17800i31472i33973i17784i32231i17412i21877i27410i5559i17326i17685i27635i24827i33864i8457i32916i34505i29105i21891i13137i16282i28562i24261i17859i28152i34525i25074i33804i6424i25922i28764i7934i29142i29520i24173i18161i32863i28521i27554i23094i25234",
+        "png":"lvf7j84cb9749bbc3498596b72428c3320ca9"
+    }},
+
+    {"id":124284704, "alias":"Annika_Hope", "type":"guardian", "info":{
+        "date":"2023/07/19", "name":"Nyx - Goddess of Death",
+        "code":"17793i25420i17711i21899i32369i33862i31879i32959i34174i26453i4855i34497i29663i14262i33271i32569i24905i32930i26855i32912i31476i33401i18283i8573i18716i29289i31481i24119i24161i32119i34527i19250i32945i29765i33411i9590i24177i28798i22464i14216",
+        "png":"lvf7jf5c41f97640e422aba3f4b3f04918cce"
+    }},
+
+    {"id":943521911, "alias":"Alessana", "type":"guardian", "info":{
+        "date":"2023/07/19", "name":null,
+        "code":"28768i27407i21327i34293i28777i34118i34519i28797i28787i25631i27357i27387i28757i25612i25602i28625i34529i34539i31490i33559i34347i31288",
+        "png":"lvf7jaf0141b6ad1d43c3b655aef03b5df2de"
+    }},
+
     {"id":416790191, "alias":"Derya", "type":"cosplay", "info":{
         "date":"2023/07/18", "name":"Bloom (Winx Club)",
         "code":"20004i16984i1249i4394i5242i7953i2554i30692i18116i23964i25209",
@@ -990,8 +1188,8 @@
     }},
 
     {"id":321817599, "alias":"Kyra", "type":"guardian", "info":{
-        "date":"2023/06/07", "name":"Hada de fuego",
-        "code":"23211i691i31471i32710i31873i28615i4375i25292i5593i33812i33277i25397i11869i11868i28838i31916i21841i28908i28889i28879i31883i23303i13183i25069i12286i22607i28796i21059",
+        "date":"2023/06/07", "edited":"2023/07/22", "name":"Hada de fuego",
+        "code":"23211i25570i31471i32710i31873i28615i4375i25292i5593i33812i33277i25397i11869i11868i28838i31916i21841i28908i28889i28879i31883i23303i13183i25069i12286i22607i28796i21059",
         "png":"spx0c42ac4352a012446e92c7f0c6fe87ac33"
     }},
 
