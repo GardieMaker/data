@@ -15788,5 +15788,226 @@
 		"portuguese":"(x)Falla exterior del C.G",
 		"french":"(x)Falla exterior del C.G",
 		"english":"(x)Falla exterior del C.G"
+	},
+
+	{"groupId":34542, "category":"sock", "rarity":"Evento", "mark":"none", "note":"Música 2023",
+	    "spanish":"Medias Contralto",
+	    "portuguese":"Meia-calça Contralto",
+	    "french":"Bas Contralto",
+	    "english":"(x)Medias Contralto"
+	},
+	{"groupId":34552, "category":"shoe", "rarity":"Evento", "mark":"none", "note":"Música 2023",
+	    "spanish":"Zapatos Contralto",
+	    "portuguese":"Sapatos Contralto",
+	    "french":"Chaussures Contralto",
+	    "english":"(x)Zapatos Contralto"
+	},
+	{"groupId":34562, "category":"handAccessory", "rarity":"Evento", "mark":"none", "note":"Música 2023",
+	    "spanish":"Mangas Contralto",
+	    "portuguese":"Mangas Contralto",
+	    "french":"Manches Contralto",
+	    "english":"(x)Mangas Contralto"
+	},
+	{"groupId":34572, "category":"dress", "rarity":"Evento", "mark":"none", "note":"Música 2023",
+	    "spanish":"Vestido Contralto",
+	    "portuguese":"Vestido Contralto",
+	    "french":"Robe Contralto",
+	    "english":"(x)Vestido Contralto"
+	},
+	{"groupId":34582, "category":"belt", "rarity":"Evento", "mark":"none", "note":"Música 2023",
+	    "spanish":"Cinturón Contralto",
+	    "portuguese":"Cinto Contralto",
+	    "french":"Ceinture Contralto",
+	    "english":"(x)Cinturón Contralto"
+	},
+	{"groupId":34592, "category":"necklace", "rarity":"Evento", "mark":"none", "note":"Música 2023",
+	    "spanish":"Collar Contralto",
+	    "portuguese":"Colar Contralto",
+	    "french":"Collier Contralto",
+	    "english":"(x)Collar Contralto"
+	},
+	{"groupId":34602, "category":"handAccessory", "rarity":"Evento", "mark":"none", "note":"Música 2023",
+	    "spanish":"Violín Contralto",
+	    "portuguese":"Violino Contralto",
+	    "french":"Violon Contralto",
+	    "english":"(x)Violín Contralto"
+	},
+	{"groupId":34612, "category":"hair", "rarity":"Evento", "mark":"none", "note":"Música 2023",
+	    "spanish":"Ludwina",
+	    "portuguese":"Ludwina",
+	    "french":"Ludwina",
+	    "english":"(x)Ludwina"
+	},
+
+	{"groupId":34638, "category":"faceAccessory", "rarity":"Evento", "mark":"tradable", "note":"Música 2023",
+	    "spanish":"Gafas Soprano",
+	    "portuguese":"Óculos Soprano",
+	    "french":"Lunettes Soprano",
+	    "english":"(x)Gafas Soprano"
+	},
+	{"groupId":34648, "category":"hair", "rarity":"Evento", "mark":"tradable", "note":"Música 2023",
+	    "spanish":"Carmen",
+	    "portuguese":"Carmen",
+	    "french":"Carmen",
+	    "english":"(x)Carmen"
+	},
+	{"groupId":34674, "category":"shoe", "rarity":"Evento", "mark":"tradable", "note":"Música 2023",
+	    "spanish":"Botas Soprano",
+	    "portuguese":"Botas Soprano",
+	    "french":"Bottes Soprano",
+	    "english":"(x)Botas Soprano"
+	},
+	{"groupId":34684, "category":"glove", "rarity":"Evento", "mark":"tradable", "note":"Música 2023",
+	    "spanish":"Guantes Soprano",
+	    "portuguese":"Luvas Soprano",
+	    "french":"Gants Soprano",
+	    "english":"(x)Guantes Soprano"
+	},
+	{"groupId":34694, "category":"dress", "rarity":"Evento", "mark":"tradable", "note":"Música 2023",
+	    "spanish":"Vestido Soprano",
+	    "portuguese":"Vestido Soprano",
+	    "french":"Robe Soprano",
+	    "english":"(x)Vestido Soprano"
+	},
+	{"groupId":34704, "category":"faceAccessory", "rarity":"Evento", "mark":"tradable", "note":"Música 2023",
+	    "spanish":"Pendientes Soprano",
+	    "portuguese":"Brincos Soprano",
+	    "french":"Boucles d'oreilles Soprano",
+	    "english":"(x)Pendientes Soprano"
+	},
+	{"groupId":34714, "category":"handAccessory", "rarity":"Evento", "mark":"tradable", "note":"Música 2023",
+	    "spanish":"Guitarra Soprano",
+	    "portuguese":"Violão Soprano",
+	    "french":"Guitare Soprano",
+	    "english":"(x)Guitarra Soprano"
+	},
+	{"groupId":34724, "category":"necklace", "rarity":"Evento", "mark":"tradable", "note":"Música 2023",
+	    "spanish":"Collar Soprano",
+	    "portuguese":"Collar Soprano",
+	    "french":"Collier Soprano",
+	    "english":"(x)Collar Soprano"
+	},
+
+	{"groupId":34734, "category":"tatoo", "rarity":"Evento", "mark":"tradable", "note":"Música 2023",
+	    "spanish":"Tatuajes Arpegia",
+	    "portuguese":"Tatuagens Arpegia",
+	    "french":"Tatouages Arpegia",
+	    "english":"(x)Tatuajes Arpegia"
+	},
+	{"groupId":34744, "category":"shoe", "rarity":"Evento", "mark":"tradable", "note":"Música 2023",
+	    "spanish":"Zapatos Arpegia",
+	    "portuguese":"Sapatos Arpegia",
+	    "french":"Chaussures Arpegia",
+	    "english":"(x)Zapatos Arpegia"
+	},
+	{"groupId":34754, "category":"sock", "rarity":"Evento", "mark":"tradable", "note":"Música 2023",
+	    "spanish":"Joyas para piernas Arpegia",
+	    "portuguese":"Joias Perna Arpegia",
+	    "french":"Bijoux Jambes Arpegia",
+	    "english":"(x)Joyas para piernas Arpegia"
+	},
+	{"groupId":34764, "category":"underwear", "rarity":"Evento", "mark":"tradable", "note":"Música 2023",
+	    "spanish":"Body Arpegia",
+	    "portuguese":"Body Arpegia",
+	    "french":"Body Arpegia",
+	    "english":"(x)Body Arpegia"
+	},
+	{"groupId":34774, "category":"handAccessory", "rarity":"Evento", "mark":"tradable", "note":"Música 2023",
+	    "spanish":"Anillos Arpegia",
+	    "portuguese":"Anéis Arpegia",
+	    "french":"Bagues Arpegia",
+	    "english":"(x)Anillos Arpegia"
+	},
+	{"groupId":34784, "category":"dress", "rarity":"Evento", "mark":"tradable", "note":"Música 2023",
+	    "spanish":"Velo Arpegia",
+	    "portuguese":"Véu Arpegia",
+	    "french":"Voile Arpegia",
+	    "english":"(x)Velo Arpegia"
+	},
+	{"groupId":34794, "category":"hair", "rarity":"Evento", "mark":"tradable", "note":"Música 2023",
+	    "spanish":"Allegra",
+	    "portuguese":"Allegra",
+	    "french":"Allegra",
+	    "english":"(x)Allegra"
+	},
+	{"groupId":34820,"category":"handAccessory", "rarity":"Evento", "mark":"tradable", "note":"Música 2023",
+		"spanish":"Pulseras Arpegia",
+		"portuguese":"Pulseiras Arpegia",
+		"french":"Bracelets Arpegia",
+		"english":"(x)Pulseras Arpegia"
+	},
+	{"groupId":34830, "category":"handAccessory", "rarity":"Evento", "mark":"tradable", "note":"Música 2023",
+	    "spanish":"Instrumento Arpegia",
+	    "portuguese":"Instrumento Arpegia",
+	    "french":"Instrument Arpegia",
+	    "english":"(x)Instrumento Arpegia"
+	},
+
+	{"groupId":34840, "category":"hair", "rarity":"Evento", "mark":"premium", "note":"Música 2023",
+	    "spanish":"Roxane",
+	    "portuguese":"(x)Roxane",
+	    "french":"(x)Roxane",
+	    "english":"(x)Roxane"
+	},
+	{"groupId":34866, "category":"shoe", "rarity":"Evento", "mark":"premium", "note":"Música 2023",
+	    "spanish":"Zapatos Cacophony",
+	    "portuguese":"(x)Zapatos Cacophony",
+	    "french":"(x)Zapatos Cacophony",
+	    "english":"(x)Zapatos Cacophony"
+	},
+	{"groupId":34876, "category":"sock", "rarity":"Evento", "mark":"premium", "note":"Música 2023",
+	    "spanish":"Perneras Cacophony",
+	    "portuguese":"(x)Perneras Cacophony",
+	    "french":"(x)Perneras Cacophony",
+	    "english":"(x)Perneras Cacophony"
+	},
+	{"groupId":34886, "category":"faceAccessory", "rarity":"Evento", "mark":"premium", "note":"Música 2023",
+	    "spanish":"Joyas faciales Cacophony",
+	    "portuguese":"(x)Joyas faciales Cacophony",
+	    "french":"(x)Joyas faciales Cacophony",
+	    "english":"(x)Joyas faciales Cacophony"
+	},
+	{"groupId":34896, "category":"handAccessory", "rarity":"Evento", "mark":"premium", "note":"Música 2023",
+	    "spanish":"Joyas Cacophony",
+	    "portuguese":"(x)Joyas Cacophony",
+	    "french":"(x)Joyas Cacophony",
+	    "english":"(x)Joyas Cacophony"
+	},
+	{"groupId":34906, "category":"underwear", "rarity":"Evento", "mark":"premium", "note":"Música 2023",
+	    "spanish":"Body Cacophony",
+	    "portuguese":"(x)Body Cacophony",
+	    "french":"(x)Body Cacophony",
+	    "english":"(x)Body Cacophony"
+	},
+	{"groupId":34916, "category":"faceAccessory", "rarity":"Evento", "mark":"premium", "note":"Música 2023",
+	    "spanish":"Pendientes Cacophony",
+	    "portuguese":"(x)Pendientes Cacophony",
+	    "french":"(x)Pendientes Cacophony",
+	    "english":"(x)Pendientes Cacophony"
+	},
+	{"groupId":34926, "category":"coat", "rarity":"Evento", "mark":"premium", "note":"Música 2023",
+	    "spanish":"Perlas Cacophony",
+	    "portuguese":"(x)Perlas Cacophony",
+	    "french":"(x)Perlas Cacophony",
+	    "english":"(x)Perlas Cacophony"
+	},
+	{"groupId":34936, "category":"belt", "rarity":"Evento", "mark":"premium", "note":"Música 2023",
+	    "spanish":"Cinturón Cacophony",
+	    "portuguese":"(x)Cinturón Cacophony",
+	    "french":"(x)Cinturón Cacophony",
+	    "english":"(x)Cinturón Cacophony"
+	},
+	{"groupId":34946, "category":"necklace", "rarity":"Evento", "mark":"premium", "note":"Música 2023",
+	    "spanish":"Collares Cacophony",
+	    "portuguese":"(x)Collares Cacophony",
+	    "french":"(x)Collares Cacophony",
+	    "english":"(x)Collares Cacophony"
+	},
+	{"groupId":34956, "category":"hat", "rarity":"Evento", "mark":"premium", "note":"Música 2023",
+	    "spanish":"Diadema Cacophony",
+	    "portuguese":"(x)Diadema Cacophony",
+	    "french":"(x)Diadema Cacophony",
+	    "english":"(x)Diadema Cacophony"
 	}
+
 ]
