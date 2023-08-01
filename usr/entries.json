@@ -1,4 +1,304 @@
 [
+    {"id":500430677, "alias":"Astra", "type":"cosplay", "info":{
+        "date":"2023/08/01", "name":"Granmamare (Ponyo's Mother)",
+        "code":"691i21895i18277i27940i4375i19827i19880i6156i12076i6090i24679i23701i27473i3251i5242i21770",
+        "png":"swwfyfe79d5b9a50d48d69036686e915f0e48"
+    }},
+
+    {"id":798446359, "alias":"Kyra", "type":"guardian", "info":{
+        "date":"2023/08/01", "name":"Elemento de tierra",
+        "code":"1271i31474i13825i13868i29655i23835i28171i27608i34345i34750i27638i28211i34780i31985i17978i2384i16787",
+        "png":"swwfy85dba1130a63426098fc000afb873b00"
+    }},
+
+    {"id":533663391, "alias":"Kyra", "type":"guardian", "info":{
+        "date":"2023/08/01", "name":"Elemento de fuego",
+        "code":"33094i14211i9448i34926i34401i15833i18164i26937i32943i1266i34896i34887i34735i34855i34765i18188i34775i34745i5245i34755i34821i31386i32776i9378i6768i28796i5107i34936i34956i21059",
+        "png":"swwfy4d41b0c934604f2e8034e34c61c7d929"
+    }},
+
+    {"id":626331819, "alias":"MartaIV44", "type":"guardian", "info":{
+        "date":"2023/08/01", "name":null,
+        "code":"13329i3513i31489i24833i31475i31414i12004i17754i12128i17857i34795i9888i24579i16346i24675i21770",
+        "png":"swwfyeaf8ba204e7e43a4bbf7d84eee9735a6"
+    }},
+
+    {"id":789261213, "alias":"MartaIV44", "type":"guardian", "info":{
+        "date":"2023/08/01", "name":"Rain of Flowers",
+        "code":"23306i691i31489i34074i7794i34593i34613i27164i33970i23366i31929i34576i31797i16405i34916i20333",
+        "png":"swwfyaae226b58b9d4a4ab0d13f9227f193df"
+    }},
+
+    {"id":748258956, "alias":"MartaIV44", "type":"guardian", "info":{
+        "date":"2023/08/01", "name":null,
+        "code":"691i16267i33330i31489i16673i34649i34769i31923i34744i34789i34825i33416i8534i25221",
+        "png":"swwfy17e9f2c405fd4fb786e6c89768133279"
+    }},
+
+    {"id":232937914, "alias":"Beliart", "type":"guardian", "info":{
+        "date":"2023/08/01", "name":null,
+        "code":"7927i16375i34896i26532i34936i17759i18153i22347i16673i16008i27643i34177i14341i5195i33413i14066i32993",
+        "png":"swwfycee1a11fed144a7ebbd91496067e9c18"
+    }},
+
+    {"id":407723071, "alias":"Magaby27", "type":"guardian", "info":{
+        "date":"2023/08/01", "name":"Princess Ximena",
+        "code":"24369i2105i5201i5673i26434i33597i29731i24619i12183i16445i30982i9098i13824i14333i12078i28012i20643i29761i19813i30896i24631i10458",
+        "png":"swwfyd704fa4042e44e4aab23fdd280dd6e9f"
+    }},
+
+    {"id":839777189, "alias":"Mangleecupcake", "type":"guardian", "info":{
+        "date":"2023/07/31", "name":null,
+        "code":"33640i29011i31488i11992i26450i33687i30507i23697i33364i34339i28834i28574i28132i12256i21208i17737i28524",
+        "png":"swwfy9d2ab96bea6e425aad5f322a05c6909f"
+    }},
+
+    {"id":395544547, "alias":"Mangleecupcake", "type":"guardian", "info":{
+        "date":"2023/07/31", "name":null,
+        "code":"27761i31543i27731i21891i16273i34792i24802i31482i26786i29761i20014i30942i30900i30388i23094",
+        "png":"swwfy6c1fe16d63ec4e9896c3c47d11d83ae5"
+    }},
+
+    {"id":167144388, "alias":"MartaIV44", "type":"guardian", "info":{
+        "date":"2023/07/31", "name":null,
+        "code":"691i31489i16673i18883i8210i16833i13182i28887i34639i22759i8014i34779i3539",
+        "png":"swwfy567d35110fa14c1c8f0a7a4b2c2252d0"
+    }},
+
+    {"id":512556003, "alias":"MartaIV44", "type":"guardian", "info":{
+        "date":"2023/07/31", "name":"Bunny of Winter",
+        "code":"691i7805i31489i18279i4403i26115i17293i6449i19635i34452i19962i7633i13089i11554i11503i12885i19997i12821i11845",
+        "png":"swwfye3de6e765e69498e9b283377d99bfc98"
+    }},
+
+    {"id":992539196, "alias":"Kyra", "type":"guardian", "info":{
+        "date":"2023/07/31", "name":"Thiti",
+        "code":"16273i21357i21891i6711i11868i1254i31915i32919i13183i31472i14917i11869i9975i34764i30804i5370i34820i24825i34774i34887i34758i34744i34734i30312i31403i34784i5593i22607i12286i28803i32842",
+        "png":"swwfy848c2ebd9d40442eb355ddfc0ba083fd"
+    }},
+
+    {"id":333143640, "alias":"Jarlos", "type":"guardian", "info":{
+        "date":"2023/07/31", "name":"tenebris venefica",
+        "code":"18534i691i17463i19223i34737i34890i34678i34688i34930i34728i18283i6379i8908i34960i32945i32822i10033i25071i22033",
+        "png":"swwfy15fc268c32c6402f8bd83df4269ada50"
+    }},
+
+    {"id":222013005, "alias":"Kotleta", "type":"guardian", "info":{
+        "date":"2023/07/31", "name":null,
+        "code":"28950i18281i29003i31487i32801i33381i27168i34695i28809i24171i14074i34956i34936i24766i34946i32163",
+        "png":"swwfy628feeab9fbf4f468c459a7e8bd0419d"
+    }},
+
+    {"id":501191311, "alias":"Crystalllllll", "type":"guardian", "info":{
+        "date":"2023/07/31", "name":"Diva",
+        "code":"7922i16686i31826i20380i8533i19439i30829i30879i22340i25926",
+        "png":"swwfy491f14c8a61f4413bc510e60271c7904"
+    }},
+
+    {"id":666725409, "alias":"Magaby27", "type":"guardian", "info":{
+        "date":"2023/07/31", "name":"Princess Magaby",
+        "code":"691i4369i23943i5588i21073i7296i6167i6231i29095i30879i33122i22386i30616i27565i21206i2349i3098i29520i17759i9087i34346i6553i25246",
+        "png":"swwfy73a833ff281d499a8060a5c7f1400643"
+    }},
+
+    {"id":891912318, "alias":"SEILA", "type":"guardian", "info":{
+        "date":"2023/07/31", "name":"Queen crystal",
+        "code":"23213i16275i24311i26570i24301i34521i1249i31475i20267i13329i23095i31481i28459i29087i34795i33380i34764i32788i24287i34829i34783i32917i33964i28143i34610i10337i23762",
+        "png":"swwfy6e61e9a145724579bcf9baf4609c2e1a"
+    }},
+
+    {"id":909835647, "alias":"Erivana", "type":"guardian", "info":{
+        "date":"2023/07/30", "name":null,
+        "code":"7928i34735i32231i31402i34809i34821i34703i34936i34915i5235i34905i33411i32864i33321",
+        "png":"swwfy715347dfda0c4787b5df6074b6ea39ed"
+    }},
+
+    {"id":265343153, "alias":"Erivana", "type":"cosplay", "info":{
+        "date":"2023/07/30", "name":null,
+        "code":"21895i23312i32330i28944i5241i16668i16012i18236i30846i13466i14114i21860i30388i28908i15302i14166i7678i17859i28924i20141i11869i28762i19233i33414i25233",
+        "png":"swwfy983df75cfa504a2c9b061bea56243ca2"
+    }},
+
+    {"id":508575019, "alias":"Erivana", "type":"guardian", "info":{
+        "date":"2023/07/30", "name":null,
+        "code":"14272i29626i26566i7928i5268i16260i18283i20268i33435i33877i34194i34144i31163i23840i32981i31588i29114i15296i20223i17755i33321",
+        "png":"swwfy9f473d113dfc431b81a8e66ed0d95e83"
+    }},
+
+    {"id":364678859, "alias":"Deathness", "type":"guardian", "info":{
+        "date":"2023/07/30", "name":"Jess, the Witch",
+        "code":"25058i1254i22646i34219i18283i4425i14665i31483i34737i11868i14265i34694i31919i33819i10462i29296i26946i32415i25217",
+        "png":"swwfy1e997e4cc6cf4a76883cc0811ad4c664"
+    }},
+
+    {"id":111122279, "alias":"brokenendings", "type":"guardian", "info":{
+        "date":"2023/07/30", "name":"Din's Fire",
+        "code":"21891i32836i34821i34936i27594i34956i16273i14201i31482i29004i14337i30394i24257i31877i31883i33301i33291i28150i28804i27563i26578i5102i32950i29142i34887i32159",
+        "png":"swwfy0ef88d305ccc4667a45df583a9a6ad4e"
+    }},
+
+    {"id":251098429, "alias":"brokenendings", "type":"cosplay", "info":{
+        "date":"2023/07/29", "name":"Garnet",
+        "code":"17921i31979i11673i27114i15730i26442i17973i30378i16269i9833i14823i27486i1751i22655i15340i15566i19684i12865i6869i15263i29247i2707i28626i29516i18850i22866i20609i21361i30684i7839i25288i31824i6584i33914i11583i25233",
+        "png":"swwfye2096684ffb240ecbe2bbf0cd404b02e"
+    }},
+
+    {"id":212297119, "alias":"Charllie", "type":"cosplay", "info":{
+        "date":"2023/07/29", "name":"Draculaura~",
+        "code":"1277i9831i18272i24820i16691i8509i9517i20365i14346i8432i7391i34592i8954i8926i1843i5626i6996",
+        "png":"swwfy8933ec47e8024697bacba8937d2aa187"
+    }},
+
+    {"id":663696352, "alias":"Magicaiya", "type":"guardian", "info":{
+        "date":"2023/07/29", "name":"Fada da Floresta",
+        "code":"8457i12780i21895i7030i16517i1268i28582i23260i30004i31479i18152i18274i16258i22478i9832i31481i16377i33764i23325i23248i7348i21644i33810i25217",
+        "png":"swwfy7add30d6b37d49eeae277b5f4ee2da76"
+    }},
+
+    {"id":476592131, "alias":"Jarlos", "type":"guardian", "info":{
+        "date":"2023/07/29", "name":"Mazzu",
+        "code":"7927i34544i34696i18166i31638i18283i16681i34801i31628i34936i34824i5195i34528i8526i19338",
+        "png":"swwfy7a052be63fb8464680ab6ed80cb723c5"
+    }},
+
+    {"id":488094335, "alias":"Jarlos", "type":"guardian", "info":{
+        "date":"2023/07/29", "name":"Khaleesi",
+        "code":"34468i34169i691i34765i34896i33927i34785i33911i18283i4369i31450i34100i31481i5117i6768i32163",
+        "png":"swwfy7e9accfe2bad4edf8daf60c1d8495643"
+    }},
+
+    {"id":148622636, "alias":"brokenendings", "type":"cosplay", "info":{
+        "date":"2023/07/29", "name":"Tamara (Jewel Riders)",
+        "code":"12290i7926i2571i10238i22380i15734i27109i18276i20234i1756i24583i5202i19501i22728i14221i12308i33305i27843i30564i14118i15397i13353i12292i16445i3109i23395i6178i9360i15409i13674i24268i19807i17595i23670i28449i32019i34837i13338i32841",
+        "png":"swwfy91256b4df74d409ea9a807621ba20876"
+    }},
+
+    {"id":744381849, "alias":"Magicaiya", "type":"guardian", "info":{
+        "date":"2023/07/29", "name":"Gatito Sorrateiro",
+        "code":"26958i31012i34926i19443i18380i34936i6967i34956i4758i18161i9833i18272i16261i34887i8904i27262i20947i22607i16245i18392i14074i7805i26978",
+        "png":"swwfy36c3217da033452483b24692147d49bb"
+    }},
+
+    {"id":663864395, "alias":"florcept", "type":"guardian", "info":{
+        "date":"2023/07/29", "name":null,
+        "code":"1276i7805i18153i34853i18283i16670i5264i31922i31878i33879i23843i34887i34700i31913i34570i8084i33475i12286i31298i18968i34936i8751i13183i18789i30297",
+        "png":"swwfy02f71009fc174148b5465940ecb96877"
+    }},
+
+    {"id":739197865, "alias":"Chissek", "type":"guardian", "info":{
+        "date":"2023/07/29", "name":null,
+        "code":"17797i30827i31873i32919i34734i34887i18160i26454i16260i27759i23653i12122i34123i34917i28852i32829i34942i14350i31605i34947i33410i28901i8962i34820i34774i13173i12176i32160",
+        "png":"swwfy2073e1979f2d46379735c09001314733"
+    }},
+
+    {"id":489510402, "alias":"florcept", "type":"guardian", "info":{
+        "date":"2023/07/28", "name":null,
+        "code":"32148i22184i34179i24826i18701i18212i31489i34122i21841i34936i9893i25962i30388i24582i34956i34778i18919i29051i23094i4431",
+        "png":"swwfya0aed65fd97145eebdcabb75368d610b"
+    }},
+
+    {"id":416256622, "alias":"brokenendings", "type":"cosplay", "info":{
+        "date":"2023/07/28", "name":"Princess Gwenevere (Jewel Riders)",
+        "code":"21891i11069i18458i18574i14804i16468i8129i5243i8265i13174i24285i23970i10911i27848i4804i33753i13119i16440i12027i19741i19248i13610i6591i19497i11584i6198i23236i15411i12046i12881i29461i6159i22378i19814i27107i9832i15734i18839i17602i18283i17570i1754i29281i28140i2338i27554i2260",
+        "png":"swwfy8b51e9f1ed004d24bbecc9c7e7b1f31f"
+    }},
+
+    {"id":153147661, "alias":"Brain Miam Miam", "type":"guardian", "info":{
+        "date":"2023/07/28", "name":"Divine Daemon - Jules",
+        "code":"34467i1276i31919i33686i18283i4400i32853i32794i27641i34118i8389i18874i34945i34703i23660i34925i34713i20114",
+        "png":"swwfy63bc7cd05eba4348a6706992366dcada"
+    }},
+
+    {"id":268053534, "alias":"Lazzulie", "type":"cosplay", "info":{
+        "date":"2023/07/28", "name":"Aphrodite",
+        "code":"17929i14224i30846i16282i31883i16317i24350i33967i23528i34736i18278i16686i34786i16648i34916i17980i23301i29142i27554i24347",
+        "png":"swwfy02635660c2f544f386ef9b44252d2b72"
+    }},
+
+    {"id":834990251, "alias":"MsBambi", "type":"guardian", "info":{
+        "date":"2023/07/28", "name":"Muse",
+        "code":"8013i8210i16279i27767i28121i14082i27730i14709i26694i34692i34682i34789i34953i34963i4370i15734i19152i18160i31472i16265i19611i9834i18283i5276i21352i34739i34886i34796i24336i17337i31587i34927i34779i16405i19339",
+        "png":"swwfy96d9ba5d9f194f0491d4e4cc3009357b"
+    }},
+
+    {"id":859355623, "alias":"brokenendings", "type":"cosplay", "info":{
+        "date":"2023/07/28", "name":"Fallon (Jewel Riders)",
+        "code":"29055i18570i9292i18170i7929i5206i8265i17244i28514i1185i27291i22382i17599i19809i27110i18283i9600i1754i29237i22445i15380i30557i13605i12225i19249i29658i17610i12296i13652i23429i31318i29569i28212i2338i19340",
+        "png":"swwfyabb4ed553d7441949569749796d752eb"
+    }},
+
+    {"id":183413166, "alias":"JujuSakirishima", "type":"guardian", "info":{
+        "date":"2023/07/27", "name":null,
+        "code":"33639i34027i33365i33385i32229i34154i34144i33395i34164i33686i32069i32822i32360i31437i2443i23655",
+        "png":"swwfyd3b504b7d7314281aebc375555a92741"
+    }},
+
+    {"id":147739170, "alias":"Beliart", "type":"guardian", "info":{
+        "date":"2023/07/27", "name":null,
+        "code":"7922i34418i34147i28804i16263i18161i29984i20467i33826i33108i30842i31489i6684i34197i2324i30388i33304i25217",
+        "png":"swwfy8974f728057c4e448777192bf1071683"
+    }},
+
+    {"id":423186939, "alias":"Annika_Hope", "type":"guardian", "info":{
+        "date":"2023/07/27", "name":"Rei Hélio - Pai de Aurora e Nyx",
+        "code":"21900i27584i28766i21820i17800i10777i27574i34476i31733i26453i27410i34289i34506i30380i34051i34495i28228i29837i24050i19687i24098i24086i18711i5211i29598i34523i24171i28796i27564i14214i27563i20333",
+        "png":"swwfya98b345f87ce43c1adeac3ef74997db4"
+    }},
+
+    {"id":108475843, "alias":"Chissek", "type":"guardian", "info":{
+        "date":"2023/07/27", "name":null,
+        "code":"17797i16259i32231i26893i5088i31483i26452i8820i29780i14662i14265i8962i24071i34492i34512i24047i8740i33321",
+        "png":"swwfy15c6b08ac4504adc97294d53e3046e42"
+    }},
+
+    {"id":909658130, "alias":"Chissek", "type":"guardian", "info":{
+        "date":"2023/07/27", "name":null,
+        "code":"17797i16259i32231i5088i31483i26452i33276i34497i30809i14662i34320i33318i34507i33143i14265i30988i8962i22397i32944i33321",
+        "png":"swwfy72b61cb08d804b65a9612ca6368bd254"
+    }},
+
+    {"id":362469321, "alias":"Vhallalah", "type":"cosplay", "info":{
+        "date":"2023/07/27", "name":null,
+        "code":"21891i7930i18272i31402i31488i21811i28149i29139i34093i16273i17594i16892i31619i13355i13186i28241i27554i6768",
+        "png":"swwfy0f494ca418af4b378be48ea5946b9d50"
+    }},
+
+    {"id":596433213, "alias":"MsBambi", "type":"guardian", "info":{
+        "date":"2023/07/26", "name":"Princess",
+        "code":"6450i33363i7930i5675i33112i27614i30880i27976i11474i33094i9837i18274i19604i7769i31489i33411i22677i13646i4461i33128i33401i6579i33171i19671i7942i15835i32950i29138i19841i15857i2986i2985i22968i33148i20114",
+        "png":"swwfy9d26fa56e3ac40829a1d24c176b3cd38"
+    }},
+
+    {"id":211829353, "alias":"Beliart", "type":"guardian", "info":{
+        "date":"2023/07/26", "name":null,
+        "code":"34461i1252i18156i27979i16692i34163i27166i34269i33077i28884i17781i32821i5195i25136i34187i15302i11581i18979i29050i25642",
+        "png":"swwfycf9a686ccdcc4c49a94f10faed67037f"
+    }},
+
+    {"id":241041752, "alias":"Annika_Hope", "type":"guardian", "info":{
+        "date":"2023/07/26", "name":"Universo - Mãe de Aurora e Nyx ",
+        "code":"21901i27296i25634i17401i17417i16428i16238i13132i31876i17707i17420i33336i21872i5250i16282i32605i29087i16334i17422i31886i26181i11467i24167i24341i26570i25075i23762",
+        "png":"swwfy8560857d52b4437e8fe95d506307b41e"
+    }},
+
+    {"id":733526249, "alias":"Zizuzz", "type":"guardian", "info":{
+        "date":"2023/07/26", "name":"Deusa primordial das profundezas",
+        "code":"21831i24522i7760i18029i31484i16284i24638i16863i28479i24674i13755i25915i32919i4432",
+        "png":"swwfyc152361161014a3e8758a4e06b4b6d38"
+    }},
+
+    {"id":152547863, "alias":"Zizuzz", "type":"guardian", "info":{
+        "date":"2023/07/26", "name":"Nomade do deserto",
+        "code":"26497i21357i5272i14549i24807i17907i34234i16555i24336i18919i30834i28918i13968i32731i20149i29516i32310i31222i32290i32305i31969i8210i21982i32158",
+        "png":"swwfy25c4b0d776f246f4a56d36636c78bd92"
+    }},
+
+    {"id":736991020, "alias":"Zizuzz", "type":"guardian", "info":{
+        "date":"2023/07/26", "name":"Senhorita coelho",
+        "code":"12290i16270i33861i31261i30484i31360i16904i18272i30040i31156i19606i18398i12716i29145i2625i23739i23301i27630i31809i28050i2977i34189i33801i22968i23553i6996",
+        "png":"swwfy2a429d514bfa48b9880e2d0c30622379"
+    }},
+
     {"id":442903917, "alias":"Kyra", "type":"guardian", "info":{
         "date":"2023/07/25", "name":"Diamante azul",
         "code":"21892i16276i23173i26165i12230i11454i26569i23149i5677i25577i13138i23197i17715i14038i31545i23161i23185i11379i31475i16264i13717i28757i6396i5558i11502i11469i11558i11862i16159i24335i24313i24160i29920i16284i8322i8342i33903i28054i30861i28803i26175i23762",
@@ -34411,8 +34711,8 @@
     }},
 
     {"id":456985064, "alias":"brokenendings", "type":"guardian", "info":{
-        "date":"2021/02/06", "name": null,
-        "code":"15498i15253i25983i20496i19894i6290i10694i16805i21343i14249i9717i25085i2242i25289i26003i10298i15768i18222i6129i14289i10811i18320i24958i4961i19756i26447i5277i22697i2628i19246i4638i5381i23549i22676i19690i5020i10755i13890i20699i14176i13132i14116i23934i15354i12508i17648i6311i15399i17612i21577i16145i10712i6456i26063i12234i7748i6977i13671i22014i8926i23329i20719i7386i16342i25992i15804i13942i19122i1764i7710i13469i18915i17314i19340",
+        "date":"2021/02/06", "edited":"2023/07/30", "name": null,
+        "code":"15498i15253i6290i21343i14249i9717i2242i25289i26003i10298i15768i18222i14289i10811i18320i24958i19756i26447i5277i22697i19246i4638i5381i22676i19690i5020i10755i13890i20699i14176i13132i14116i23934i15354i17648i6311i15399i17612i21577i16145i10712i6456i26063i7748i6977i13671i8926i20719i7386i16342i25992i15804i13942i1764i7710i18915i17318i19340",
         "png":"q9dx24969d79702d340cba6defb1c3aad6df1"
     }},
 
