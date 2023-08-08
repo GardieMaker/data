@@ -1,4 +1,310 @@
 [
+    {"id":969457242, "alias":"Dovah", "type":"guardian", "info":{
+        "date":"2023/08/08", "name":"Amara, The Fearless",
+        "code":"1254i18157i34265i18277i16666i8908i18392i34890i14091i32254i33960i21904i21170i12054i27536i28853i32218i22019i32867i6768i21769",
+        "png":"il8ow3d32582b198d4edeaf3dbe47f9f92fca"
+    }},
+
+    {"id":669012689, "alias":"Magaby27", "type":"cosplay", "info":{
+        "date":"2023/08/08", "name":"Merlina® / Wednesday® Addams",
+        "code":"25419i10462i1253i4400i5262i30516i8411i23844i30673i20765i25488i31303i17805i23784i8573i20887i31913i23393i25208",
+        "png":"il8owe9e9c8d1e5564264bc6f92ab93846472"
+    }},
+
+    {"id":774848577, "alias":"Magaby27", "type":"cosplay", "info":{
+        "date":"2023/08/08", "name":"Gwynevere (Dark Souls)",
+        "code":"691i4398i5588i8168i15847i33100i26457i12419i32952i33364i30388i15809i1727i31813i34173i34525i32821i16437i1993i20141i5295i6768i27554i4765",
+        "png":"il8ow1822b9b60bca426798290ebd33ab3776"
+    }},
+
+    {"id":372297678, "alias":"Magaby27", "type":"cosplay", "info":{
+        "date":"2023/08/08", "name":"Princess Elise (Sonic the Hedgehog (2006)",
+        "code":"691i4395i5242i2596i33854i31869i19850i11417i18118i8279i16389i3748i34269i25885i31606i12184i34183i2274i29144i18904i25227",
+        "png":"il8ow8dcaa8d7229d4ae9b82539ec2ff3d11c"
+    }},
+
+    {"id":376673536, "alias":"Magaby27", "type":"cosplay", "info":{
+        "date":"2023/08/08", "name":"The Doll (Bloodborne)",
+        "code":"26814i16266i27754i8573i5262i10363i30243i34115i1396i25293i32108i32187i25250i11406i21291i30671i34295i6606i25482i21122i2927i21992i22032",
+        "png":"il8owdb23ad7197304029b7c87f3ca5b59cdc"
+    }},
+
+    {"id":790292587, "alias":"MsBambi", "type":"guardian", "info":{
+        "date":"2023/08/07", "name":"Guardian of Hell",
+        "code":"21882i25061i22643i34467i28769i27621i16272i25582i27116i6725i18903i28804i28943i21871i5276i10961i32599i25622i31546i26148i18832i15729i9831i32649i12268i17918i24670i25358i17705i34735i34653i34785i8151i34930i14708i5377i31592i20719i34895i18915i20114",
+        "png":"il8ow98842ddbc6ea4066bb8dacaa611b52dd"
+    }},
+
+    {"id":962884824, "alias":"MsBambi", "type":"guardian", "info":{
+        "date":"2023/08/07", "name":"Guardian of Paradise",
+        "code":"21879i25065i25588i34465i27585i6711i16276i11845i18904i28804i21844i17881i6719i30281i21868i31486i29057i26153i15734i31472i6369i32648i25628i32598i20121i34651i31545i26704i33967i33404i34929i34788i34738i5384i10468i12271i29139i2274i24336i31594i33961i29050i12110i34834i20114",
+        "png":"il8ow9211b8a84e794f67a73cb0626ea6bcfe"
+    }},
+
+    {"id":965043812, "alias":"Kyra", "type":"guardian", "info":{
+        "date":"2023/08/07", "name":"Demon King's consort",
+        "code":"22645i16369i33600i34866i1249i34734i31475i34886i7664i10333i34956i14269i31403i5242i17691i34765i34936i34876i34755i34896i34821i31587i23303i34916i34745i28869i11869i34775i14268i32163",
+        "png":"il8ow2fabd7b967814d9a8b71baf126ab75fc"
+    }},
+
+    {"id":763857964, "alias":"Magaby27", "type":"cosplay", "info":{
+        "date":"2023/08/07", "name":"Midna (The Legend of Zelda: Twilight Princess)",
+        "code":"17919i31478i20252i5611i26885i17709i31750i13172i13907i29114i24773i25869i13471i3669i13480i25175i25236i28516i3241i13753i10461",
+        "png":"il8ow69d79ed4861e45f3abbca45680aac379"
+    }},
+
+    {"id":123790357, "alias":"Magaby27", "type":"guardian", "info":{
+        "date":"2023/08/07", "name":"Azrael the Archangel of Death",
+        "code":"21895i34461i1249i4392i5609i31750i31929i19889i22557i29274i29114i25170i8576i8801i15822i32567i2446i25208",
+        "png":"il8ow267b37eb7d544b45a78b03d79c7ac19e"
+    }},
+
+    {"id":793134061, "alias":"Magaby27", "type":"cosplay", "info":{
+        "date":"2023/08/06", "name":"Great Fairy (The Legend of Zelda)",
+        "code":"7931i17980i31479i16258i3369i989i33476i31921i15296i12038i16240i6266i5411i14297i26686i16318i31881i6276i11522i5340i18332i28519i2446i22881i4762",
+        "png":"il8ow1c8317df6273494799cd6f79427b75f5"
+    }},
+
+    {"id":200185835, "alias":"Jarlos", "type":"guardian", "info":{
+        "date":"2023/08/06", "name":"Esmel Pat Austin",
+        "code":"33996i691i33866i34898i30542i34162i34751i34577i31471i31383i5195i34249i32915i34961i33320",
+        "png":"il8owa116256854094bb6b3f7f60002685ab8"
+    }},
+
+    {"id":389857848, "alias":"Magaby27", "type":"guardian", "info":{
+        "date":"2023/08/06", "name":"Freyja",
+        "code":"691i4392i5243i22398i21895i27197i34748i19824i32790i20129i30904i19817i27554i25240",
+        "png":"il8owe9a11160249b499392def2b70612ff8f"
+    }},
+
+    {"id":454823710, "alias":"MartaIV44", "type":"guardian", "info":{
+        "date":"2023/08/06", "name":"Pirate Syren",
+        "code":"17955i18162i5201i18729i24825i14727i15336i24696i25569i19148i16516i25305i12006i25956i24578i21053i27557i24335i4435",
+        "png":"il8ow94afbde0f1284c6391543d5916f03c5d"
+    }},
+
+    {"id":258193129, "alias":"MartaIV44", "type":"guardian", "info":{
+        "date":"2023/08/06", "name":"Stolen Music",
+        "code":"27776i691i31489i31414i4849i16277i13183i9893i34696i18847i23489i12850i23775i19668i3465i27676i10459",
+        "png":"il8owc2717a46d3744f30960f49f6a4345482"
+    }},
+
+    {"id":468471882, "alias":"Luzya Rohel", "type":"guardian", "info":{
+        "date":"2023/08/06", "name":"Dance of roses",
+        "code":"1276i26649i18718i30388i8905i24823i26450i28914i32404i34208i28343i28889i28050i33271i25210",
+        "png":"il8ow177cc155fd794200b0bd977fbcd32835"
+    }},
+
+    {"id":333018641, "alias":"Brain Miam Miam", "type":"guardian", "info":{
+        "date":"2023/08/05", "name":"Ezarel Crush",
+        "code":"28177i1249i31919i16671i5195i20442i34285i13206i23799i25133i32608i34440i33812i6983",
+        "png":"il8owb2ff1c28ce244c56bacc4a2a4365fe29"
+    }},
+
+    {"id":311187333, "alias":"Magaby27", "type":"cosplay", "info":{
+        "date":"2023/08/05", "name":"Sansa Stark (Game of Thrones)",
+        "code":"1249i7805i5213i4395i6449i29234i19971i33025i20347i8579i33121i18963i1543i22629i27513i25176i6558i6450i5728",
+        "png":"il8owc482ae4e20f24669b85d6e012466670e"
+    }},
+
+    {"id":265127552, "alias":"Magaby27", "type":"cosplay", "info":{
+        "date":"2023/08/05", "name":"Shahra (Sonic and the Secret Rings)",
+        "code":"7927i6405i5603i17783i33675i8958i31557i33270i28447i16278i19442i12609i2731i13175i21527i10803i6345i31746i13737i22975i33959i32868i32993",
+        "png":"il8owb40739517e9f4c1caeddc501ccfc434b"
+    }},
+
+    {"id":135092430, "alias":"Magaby27", "type":"cosplay", "info":{
+        "date":"2023/08/05", "name":"Dark Queen (Sonic and the Black Knight)",
+        "code":"25063i1278i5609i8443i17555i9885i1778i26225i27960i28509i7290i32986i15635i18952i34049i22968i6116i30249i30102i18928i15523i15253i25138i25427i25068i5106i33804i32163",
+        "png":"il8ow30d11795708b4a0cbb48ddd7ca61132c"
+    }},
+
+    {"id":180864502, "alias":"Magaby27", "type":"cosplay", "info":{
+        "date":"2023/08/04", "name":"Merlina (Sonic and the Black Knight)",
+        "code":"691i5588i17572i9885i22968i1778i26227i27960i15629i33804i6122i30249i3328i2704i34345i15530i33182i27164i3251i33957i25382i25220",
+        "png":"il8owf19de1bbe7684698b2d3dd1a3e93340d"
+    }},
+
+    {"id":276220774, "alias":"Magaby27", "type":"cosplay", "info":{
+        "date":"2023/08/04", "name":"Daenarys Targaryen (Game of Thrones)",
+        "code":"33579i691i5213i33068i4388i31314i19136i19889i31208i18611i34315i32115i28796i20115",
+        "png":"il8owd523435b5fae4490801f13d2a063c3cd"
+    }},
+
+    {"id":733520538, "alias":"Jarlos", "type":"cosplay", "info":{
+        "date":"2023/08/04", "name":"Ada Wong",
+        "code":"7926i10796i22238i34703i34034i4400i5242i28291i21322i13812i18310i22032",
+        "png":"il8ow48006da6b0e94d3796bec072c349bbb1"
+    }},
+
+    {"id":207847055, "alias":"Kyra", "type":"guardian", "info":{
+        "date":"2023/08/04", "name":"Reina dragón",
+        "code":"14911i26569i30314i33687i10368i10474i9804i19093i9300i34842i33601i33591i34876i31472i34866i34736i34886i34759i34896i9433i31883i34775i34745i34768i4758i5245i34936i34825i7941i34956i33154i10430i11869i33962i28796i32162",
+        "png":"il8ow12c6b2eb393d476ea8afce390593448c"
+    }},
+
+    {"id":646970743, "alias":"Jarlos", "type":"cosplay", "info":{
+        "date":"2023/08/04", "name":"silver swan (DC) ",
+        "code":"22645i691i34421i8579i26911i18626i34900i18546i13651i31320i14599i18163i27759i5199i31445i31270",
+        "png":"il8ow286cb8dbeebb4090865086046a8713cb"
+    }},
+
+    {"id":759198434, "alias":"Magaby27", "type":"cosplay", "info":{
+        "date":"2023/08/04", "name":"Undyne (Undertale)",
+        "code":"24365i18272i9611i19337i1887i26426i14091i12295i20346i29501i32085i22002i11074i23840i23762",
+        "png":"il8owdb677c449c584d2e83fd883476084adc"
+    }},
+
+    {"id":371806993, "alias":"Magaby27", "type":"cosplay", "info":{
+        "date":"2023/08/04", "name":"Juno (Assassin's Creed)",
+        "code":"8557i31406i5216i13905i6101i13358i11594i17859i19740i1185i31216i5295i9283i29287i25138i8333i32952i27409i31286",
+        "png":"il8ow96cf3f7055274f7282445e5e88de05bb"
+    }},
+
+    {"id":832645773, "alias":"Annika_Hope", "type":"cosplay", "info":{
+        "date":"2023/08/04", "name":"Mara Jade Skywalker - Star Wars",
+        "code":"691i12214i31657i14753i21364i29259i18963i2243i31381i31481i31458i31677i19877i13812i21213i31287",
+        "png":"il8owea2c3dcc01c244658acf318b30594225"
+    }},
+
+    {"id":471162350, "alias":"Annika_Hope", "type":"cosplay", "info":{
+        "date":"2023/08/04", "name":"Luke Skywalker - Star Wars",
+        "code":"691i7791i27416i26450i18498i19729i16278i21998i31314i8579i31750i5261i7863i2726i21036i24314i32161",
+        "png":"il8ow50cbbf351cd54a03a130dcbef00e4d9b"
+    }},
+
+    {"id":999966555, "alias":"Magaby27", "type":"cosplay", "info":{
+        "date":"2023/08/04", "name":"Fire Keeper (Dark Souls III)",
+        "code":"19304i1249i5053i5560i2998i33073i29234i19971i32957i22685i9969i25290i32786i31657i6138i18963i10432i5384i7737i6583i29114i32649i18163i18834i28796i14217",
+        "png":"il8owbbe84ea92e2740b3bdbe4ba5d330dab4"
+    }},
+
+    {"id":892881232, "alias":"Astra", "type":"cosplay", "info":{
+        "date":"2023/08/04", "name":"Cinnamoroll (Sanrio)",
+        "code":"7930i18280i11983i20272i30527i34542i34552i5603i1734i30497i23698i13067i28711i10471i23537i23952i31596i25196",
+        "png":"il8ow286de47eb98d4855886c1d305c292bc2"
+    }},
+
+    {"id":536639556, "alias":"Astra", "type":"cosplay", "info":{
+        "date":"2023/08/04", "name":"Keroppi (Sanrio)",
+        "code":"1270i10974i6028i12385i3182i31729i18279i31310i6404i30615i5245i10488i34593i32749i23777i16917i23745i21058",
+        "png":"il8ow43c5b47ceaf3435b9a181bad34243c4c"
+    }},
+
+    {"id":181053832, "alias":"Astra", "type":"cosplay", "info":{
+        "date":"2023/08/04", "name":"Hello Kitty (Sanrio)",
+        "code":"1252i18272i16666i5242i6461i6028i6050i21099i28020i23538i30706i11105i5724i3532",
+        "png":"il8ow41cf8ce74a5a436bac88e73347631de4"
+    }},
+
+    {"id":264569620, "alias":"Astra", "type":"cosplay", "info":{
+        "date":"2023/08/04", "name":"Pompompurin (Sanrio)",
+        "code":"7926i20277i13050i31424i5242i14400i30560i14148i33871i20785i27182i31295i5720i13071i14212i30294",
+        "png":"il8ow0a6329e47375428b8387b8cc7726ebc7"
+    }},
+
+    {"id":697014216, "alias":"Magaby27", "type":"cosplay", "info":{
+        "date":"2023/08/03", "name":"Gwyndolin (Dark Souls)",
+        "code":"25060i33100i5442i1249i29984i5609i10035i19506i34005i10213i9963i20140i18963i28112i34173i6134i3571i19740i31207i21635i32811i19865i19761i10231i27574i19668i18831i8878i27554i25210",
+        "png":"il8ow3dbc77e02ad14f39a1a6c16c1380e87e"
+    }},
+
+    {"id":954092592, "alias":"Derya", "type":"cosplay", "info":{
+        "date":"2023/08/03", "name":"Jibaro",
+        "code":"7922i34936i15734i5151i16240i33967i17870i22689i34876i34906i28016i30393i22677i34896i11867i16719i14702i34926i22665i8537i17933i11869i34946i28922i33401i32921i33907i16261i31471i18283i34886i5269i31404i6264i14064i32776i29897i28842i11565i33381i18819i30711i32950i33417i34956i26407i33158i29761i3251i30846i18236i23531i34866i2986i2985i26483i4436",
+        "png":"il8ow5e64df916f1d42dab0b0c96a06594f09"
+    }},
+
+    {"id":923638649, "alias":"Derya", "type":"guardian", "info":{
+        "date":"2023/08/03", "name":null,
+        "code":"33324i33410i9305i34743i34888i34773i33380i34753i34763i34783i17572i28656i34829i33390i33400i34839i5194i32994",
+        "png":"il8ow0100a9e077bb49c985570705efa8041e"
+    }},
+
+    {"id":134110196, "alias":"Magaby27", "type":"guardian", "info":{
+        "date":"2023/08/03", "name":"Emma the Fairy Adventure",
+        "code":"21902i28618i691i2090i5588i966i1431i8534i26662i2323i21621i30996i33835i20417i20973i23849i17019i14121i10916i26861i34306i21213i34345i8457i4513i29049i25220",
+        "png":"il8ow8d10468f1b0c4ef2ba41768891971221"
+    }},
+
+    {"id":113541198, "alias":"Zerark", "type":"guardian", "info":{
+        "date":"2023/08/03", "name":null,
+        "code":"27556i27409i23854i7926i17175i31547i34764i28802i13486i16268i21759i31480i16901i31490i18283i20271i34803i31595i25206",
+        "png":"il8ow647b5c6d774949d2a3dd55a0d5f4fe54"
+    }},
+
+    {"id":407851356, "alias":"Zerark", "type":"cosplay", "info":{
+        "date":"2023/08/03", "name":"Jibaro",
+        "code":"27761i16268i18272i31481i34876i34866i18443i34896i34906i34936i34946i34916i34956i34926i34886i18735i32776i6987",
+        "png":"il8ow3d64f9b9214942ef892ca4f8b99048f6"
+    }},
+
+    {"id":468494002, "alias":"Zerark", "type":"cosplay", "info":{
+        "date":"2023/08/03", "name":"Iemanjá",
+        "code":"21896i7923i20280i29579i23360i34754i24638i24674i34793i17978i28413i33410i6554i28802i24348",
+        "png":"il8owc301e3504d4c4d7b8ba4ccccd59c11f9"
+    }},
+
+    {"id":686630407, "alias":"florcept", "type":"guardian", "info":{
+        "date":"2023/08/03", "name":null,
+        "code":"25419i23948i16366i7922i9842i31473i34747i34219i19889i18611i34564i24815i18716i31450i32976i10426i22607i32912i15296i4865i31913i22032",
+        "png":"il8ow9e78b95f3f4542ffbff2b3f53e4d9530"
+    }},
+
+    {"id":346143856, "alias":"Analy", "type":"guardian", "info":{
+        "date":"2023/08/03", "name":"Doll White",
+        "code":"1267i18282i5269i6399i34163i16987i33895i33821i23355i34081i33915i29958i26662i16401i27428",
+        "png":"il8ow7b91b0aad1b2408d8fb1667e62c2e197"
+    }},
+
+    {"id":745170292, "alias":"florcept", "type":"guardian", "info":{
+        "date":"2023/08/03", "name":null,
+        "code":"7923i34892i24825i34734i34672i34774i24638i21833i34784i5206i4390i24959i24578i30118i28902i24674i24347",
+        "png":"il8owa74894f9a074471ba4aa9d11ea473a94"
+    }},
+
+    {"id":132060401, "alias":"Larimar", "type":"guardian", "info":{
+        "date":"2023/08/02", "name":"Bailarina ",
+        "code":"21363i13331i7929i17706i18277i33362i16258i4391i5195i28850i13927i22355i31921i34891i34124i33402i14707i15845i34964i32993",
+        "png":"il8owd7c4587f032744099440287af595dd3c"
+    }},
+
+    {"id":480757803, "alias":"florcept", "type":"guardian", "info":{
+        "date":"2023/08/02", "name":null,
+        "code":"7921i18153i34896i24167i18272i30811i23299i23232i34578i34588i23296i23554i31397i5205i34963i33469i20728i16344i23593i6768i16401i12826i17759i20333",
+        "png":"il8owaa5101d24d6c4c6e92af76bcd268d662"
+    }},
+
+    {"id":426395745, "alias":"Nalyce", "type":"cosplay", "info":{
+        "date":"2023/08/02", "name":"Gerudo Link",
+        "code":"691i28467i7682i28912i18255i25141i10469i3251i26998i8534i5301i28896i20268i18236i15428i17859i23298i8877i2254",
+        "png":"il8ow1f06dd626f5e4f8a8302b336dfbf8dc0"
+    }},
+
+    {"id":785689628, "alias":"Astra", "type":"guardian", "info":{
+        "date":"2023/08/02", "name":null,
+        "code":"26073i26442i2113i5216i34851i25968i30996i34296i29510i2240i32110i34179i32290i25314i32320i34886i29654i6503i20394i1433i2384i12828i2977i2636i25220",
+        "png":"il8owcf9ee4b02c9f4bb68d71d18397d65b8c"
+    }},
+
+    {"id":526459851, "alias":"Lazzulie", "type":"cosplay", "info":{
+        "date":"2023/08/02", "name":"Kurloz Makara",
+        "code":"5159i26448i18283i18163i31473i8573i21878i26568i20482i15205i29559i29549i30565i32312i32841",
+        "png":"il8owc93b58639d5d41b2b81e488177595947"
+    }},
+
+    {"id":745267282, "alias":"Lazzulie", "type":"cosplay", "info":{
+        "date":"2023/08/02", "name":"Héra",
+        "code":"33328i17800i31542i18162i19607i5092i25596i10424i15998i30388i31924i21844i21856i11594i19668i23654i24336i16245i27565i29050i31914i34748i32163",
+        "png":"il8owbd9ffa421622445a908138e92dc3a9f2"
+    }},
+
+    {"id":749762393, "alias":"Brain Miam Miam", "type":"guardian", "info":{
+        "date":"2023/08/02", "name":"Reincarnation of the Oracle",
+        "code":"21896i33581i27407i30537i21825i12103i6719i26499i21844i16437i29011i26569i12271i3238i34929i29735i28751i18391i31486i28762i34763i2446i30847i23523i21856i28803i26579i25208",
+        "png":"il8ow7de0030119744a12880787eeaf768ad2"
+    }},
+
     {"id":500430677, "alias":"Astra", "type":"cosplay", "info":{
         "date":"2023/08/01", "name":"Granmamare (Ponyo's Mother)",
         "code":"691i21895i18277i27940i4375i19827i19880i6156i12076i6090i24679i23701i27473i3251i5242i21770",
@@ -42,8 +348,8 @@
     }},
 
     {"id":407723071, "alias":"Magaby27", "type":"guardian", "info":{
-        "date":"2023/08/01", "name":"Princess Ximena",
-        "code":"24369i2105i5201i5673i26434i33597i29731i24619i12183i16445i30982i9098i13824i14333i12078i28012i20643i29761i19813i30896i24631i10458",
+        "date":"2023/08/01", "edited":"2023/08/04", "name":"Ceremonial Princess Ximena",
+        "code":"24369i2477i5201i5673i33597i24619i12183i16445i24631i34927i30982i9098i13824i28569i14333i12078i28012i20643i26434i29761i19813i30896i30942i10458",
         "png":"swwfyd704fa4042e44e4aab23fdd280dd6e9f"
     }},
 
