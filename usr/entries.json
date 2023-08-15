@@ -1,4 +1,196 @@
 [
+    {"id":215172514, "alias":"Z3ndaya ", "type":"guardian", "info":{
+        "date":"2023/08/14", "name":"Z3ndaya ",
+        "code":"30278i23653i20236i18308i16344i34465i23958i24172i21083i24323i16233i27974i31885i2257",
+        "png":"7jpq66515d2e1f1ca4ad3b5565afeef2c1bac"
+    }},
+
+    {"id":938319974, "alias":"Anna", "type":"guardian", "info":{
+        "date":"2023/08/14", "name":null,
+        "code":"28157i1254i17907i16267i18280i18154i7788i19610i33754i13138i30896i34794i27166i5609i33373i12816i31914i18533i7810i13736i18380i11594i33893i19077i34917i34820i34779i18531i6768i25212",
+        "png":"7jpq6fabe2158fd5e40389b2e4b01a7b193c6"
+    }},
+
+    {"id":193146541, "alias":"BYSB36927", "type":"cosplay", "info":{
+        "date":"2023/08/14", "name":"Hatsune Miku",
+        "code":"29743i691i31915i323i13908i5554i2479i3338i7169i4655i28700i17175i23542i28913i20364i4616i33819i29828i22918i22605i27409i24348",
+        "png":"7jpq60274021d916d4e5ea3c2728e9cfcc414"
+    }},
+
+    {"id":672598887, "alias":"Fruity_nightmare", "type":"guardian", "info":{
+        "date":"2023/08/14", "name":"Chic Prophet",
+        "code":"31537i17797i25001i16703i26885i11500i16391i29114i4385i29591i5193i9517i8962i33386i34694i32735i31588i23330i10657i12111i4579i25196",
+        "png":"7jpq61f1c052d862c4f3f8cc913e96b66b550"
+    }},
+
+    {"id":145268228, "alias":"Fruity_nightmare", "type":"guardian", "info":{
+        "date":"2023/08/14", "name":"Bride in the Ocean",
+        "code":"29050i24840i21596i24663i16389i30487i4368i34163i32433i7934i31486i16377i16353i16341i29139i18330i25139i23588i23762",
+        "png":"7jpq6e9bbecb0b1eb4f0d9ee5c9b72360b8da"
+    }},
+
+    {"id":268650462, "alias":"Zerark", "type":"guardian", "info":{
+        "date":"2023/08/13", "name":null,
+        "code":"7931i31916i34745i16260i18276i20238i30811i15883i34503i7994i23653i34956i33906i28520i25198",
+        "png":"7jpq688b3efba32e846c7aab60cbd99ee576c"
+    }},
+
+    {"id":654847176, "alias":"Zerark", "type":"guardian", "info":{
+        "date":"2023/08/13", "name":null,
+        "code":"23939i7921i31915i19611i18153i34847i18280i23663i16661i31896i31368i25439i20813i32771i34606i30297",
+        "png":"7jpq6066828ed695049b48e32583f6e34d0ef"
+    }},
+
+    {"id":791288113, "alias":"florcept", "type":"guardian", "info":{
+        "date":"2023/08/13", "name":null,
+        "code":"1256i34886i34906i34846i7791i31924i32776i9420i34936i31916i34946i9448i12259i27681i31481i34775i33148i6419i28798i32161",
+        "png":"7jpq699f3b01ad76f40b9a7ef004db325e384"
+    }},
+
+    {"id":695968979, "alias":"haru", "type":"guardian", "info":{
+        "date":"2023/08/13", "name":"haru",
+        "code":"24367i34814i4412i5220i28871i12877i28891i32563i11583i23731i19148i25198",
+        "png":"7jpq6b1f5a7a91fe14d298c1b1b74b60cd591"
+    }},
+
+    {"id":917387315, "alias":"Jarlos", "type":"guardian", "info":{
+        "date":"2023/08/13", "name":"miss scarlet",
+        "code":"1248i27754i34012i19757i33361i33001i31203i12131i18961i16402i5202i34896i34946i27957i34875i32900i20333",
+        "png":"7jpq6a69218fe995a4c0d8603aa0dcf96133d"
+    }},
+
+    {"id":988303054, "alias":"Fruity_nightmare", "type":"guardian", "info":{
+        "date":"2023/08/12", "name":"Cupid's Ambassador",
+        "code":"1254i34465i16401i27660i30972i34145i11552i34564i31657i33872i34392i4373i12059i28016i18847i34544i34340i31489i23580i18904i12881i20005i25198",
+        "png":"7jpq6767228dbe9e944be839283b646cfd83e"
+    }},
+
+    {"id":938370219, "alias":"elybel", "type":"guardian", "info":{
+        "date":"2023/08/12", "name":"Elybel",
+        "code":"7926i31657i34649i34930i26875i25888i26885i31378i26895i34940i34950i34960i34214i31483i32163",
+        "png":"7jpq6250a6132afd94865ad6148fcf0b2ee7d"
+    }},
+
+    {"id":165831092, "alias":"Milly0o8 ", "type":"cosplay", "info":{
+        "date":"2023/08/12", "name":null,
+        "code":"7294i28944i8924i5284i5100i5450i9719i14754i9358i17311i20699i14211i10462i32162",
+        "png":"7jpq6bfee12b6c4b241709cb913fae3da5f1d"
+    }},
+
+    {"id":435467433, "alias":"brokenendings", "type":"cosplay", "info":{
+        "date":"2023/08/11", "name":"Lady Kale (Jewel Riders)",
+        "code":"26960i11525i21992i9095i34528i22677i23204i10804i33579i32125i24060i23353i24783i24193i16455i3757i31478i18915i18283i31395i19251i15207i15837i21446i15549i22691i23429i10644i15411i4771i23328i2781i8157i6188i15296i8178i8023i23103i9899i33958i18333i22031",
+        "png":"7jpq60de1373b4c61415c8b700fb87912c703"
+    }},
+
+    {"id":707344750, "alias":"Jana", "type":"cosplay", "info":{
+        "date":"2023/08/11", "name":"miiko",
+        "code":"34108i1249i6395i5161i23468i34270i3716i15597i13327i13203i3193i3341i12456i1496i12426i31800i16885i15663i2417",
+        "png":"7jpq693e6bbac15764dd29265668b357b90b2"
+    }},
+
+    {"id":365026712, "alias":"florcept", "type":"guardian", "info":{
+        "date":"2023/08/11", "name":null,
+        "code":"21335i17907i18158i16268i34927i24825i22956i31489i34887i34803i8150i24615i17847i30507i24578i12547i27164i31915i8181i7826i28911i34758i28570i31934i3541",
+        "png":"7jpq60d854adf9d4a404dbcc57c97adee762c"
+    }},
+
+    {"id":762440608, "alias":"florcept", "type":"guardian", "info":{
+        "date":"2023/08/11", "name":null,
+        "code":"7928i33046i31869i16262i30573i18276i6373i5205i11107i30176i31916i32970i20718i6449i6696i33006i25845i7805i6561i3309i6665i6450i25783i22507",
+        "png":"7jpq678912a5b745840ada24219b587d94b83"
+    }},
+
+    {"id":844914179, "alias":"Jarlos", "type":"cosplay", "info":{
+        "date":"2023/08/11", "name":"Rosemon",
+        "code":"1248i4770i29883i19757i11672i33001i18997i31747i31021i33862i18961i8414i8927i16402i24268i5202i20333",
+        "png":"7jpq6795a119f49184ff09dd2b0699d361553"
+    }},
+
+    {"id":357574994, "alias":"florcept", "type":"guardian", "info":{
+        "date":"2023/08/11", "name":null,
+        "code":"11559i18379i7922i18163i18283i34900i18735i34737i5276i28811i30203i33960i14068i22621i14203i28863i30496i22238i28853i28883i28103i22341i34960i31919i28523i34638i34537i25217",
+        "png":"7jpq6197e6a818c0b49dab9f1efb1f70f5cb3"
+    }},
+
+    {"id":206401452, "alias":"florcept", "type":"guardian", "info":{
+        "date":"2023/08/10", "name":null,
+        "code":"23023i7926i18158i18276i34226i4425i5554i21095i23745i32979i22616i6020i8389i28343i25789i31312i23605i33289i30103i33531i6985",
+        "png":"7jpq6b1efe76e16da499fadac33c72b54bca9"
+    }},
+
+    {"id":128174411, "alias":"Annika_Hope", "type":"cosplay", "info":{
+        "date":"2023/08/10", "name":"Lynn na Guarda Obsidiana",
+        "code":"14211i691i29224i34493i18610i18546i24091i26450i34477i29828i24987i19720i18548i18545i19684i22673i19080i34890i34219i31382i2510i5560i29799i22709i25207",
+        "png":"7jpq61f25ab4911354a138571eee26a1f2dc8"
+    }},
+
+    {"id":722560253, "alias":"BOB64", "type":"guardian", "info":{
+        "date":"2023/08/10", "name":"Bob",
+        "code":"7921i2079i30575i30606i30564i25313i30547i5587i2100i25026",
+        "png":"7jpq6c7a7905d26d94d3986f9123035abe9f5"
+    }},
+
+    {"id":216621203, "alias":"Annika_Hope", "type":"cosplay", "info":{
+        "date":"2023/08/10", "name":"Lynn na Guarda Absinto",
+        "code":"16278i691i31382i26450i30285i2566i26862i18316i17212i34494i28336i32606i23593i20364i16523i23296i20233i20817i31482i20388i14210i21218i25126i21491i23293i18531i25211",
+        "png":"7jpq66515f091e49b4ba998c4319c333fe866"
+    }},
+
+    {"id":728380978, "alias":"Derya", "type":"guardian", "info":{
+        "date":"2023/08/10", "name":"Derya #30",
+        "code":"26173i10772i6449i9305i17725i23526i17174i13673i5412i11564i9402i14113i10962i12050i11518i28580i33390i28550i17939i13138i11456i4396i7661i11377i11558i17301i11469i13585i15303i5551i5654i25642",
+        "png":"7jpq64cb84e8229d747ffbda397ea1eeabc52"
+    }},
+
+    {"id":761023594, "alias":"Zizuzz", "type":"guardian", "info":{
+        "date":"2023/08/09", "name":"Sereia musicista",
+        "code":"32146i17811i30534i22176i5236i18282i16266i24805i13132i29685i12004i7813i28045i24627i22921i22038i16752i16717i8019i34592i16741i21770",
+        "png":"7jpq64c025d93c90b465282b70e6e92263d32"
+    }},
+
+    {"id":626672718, "alias":"Derya", "type":"guardian", "info":{
+        "date":"2023/08/09", "name":"Derya #29",
+        "code":"24662i26426i28546i17745i4560i14201i30394i24614i24271i29523i26481i31915i28045i22356i26406i16266i18272i5195i17575i11469i21528i3249i26662i24698i25955i24674i22146i4435",
+        "png":"7jpq6cc68547f07df4397acb64f7b3ef9a5dc"
+    }},
+
+    {"id":911428608, "alias":"florcept", "type":"guardian", "info":{
+        "date":"2023/08/09", "name":null,
+        "code":"7926i18158i18276i34226i4425i5554i23533i29225i32648i34339i10227i33166i23745i32979i31911i31320i34594i25210",
+        "png":"7jpq670df4367b93a420fa1fdd4856680c255"
+    }},
+
+    {"id":612540343, "alias":"Brain Miam Miam", "type":"guardian", "info":{
+        "date":"2023/08/09", "name":"Ananké (OC)",
+        "code":"1249i13813i18212i31919i19347i21455i16671i5195i10265i23510i15871i21982i18188i20442i25074i10570i23303i29047i20114",
+        "png":"7jpq67c43fb736ec34cceae1d2b6f8b7c7ebe"
+    }},
+
+    {"id":773320945, "alias":"Annika_Hope", "type":"cosplay", "info":{
+        "date":"2023/08/09", "name":"Lynn na guarda da sombra",
+        "code":"8576i691i31382i26450i29224i34310i2510i5261i18987i18623i29234i32059i32119i25236i32552i31314i34527i21316i31284",
+        "png":"7jpq66ab80c323c53440ba9a11e76b783899e"
+    }},
+
+    {"id":306975120, "alias":"Annika_Hope", "type":"cosplay", "info":{
+        "date":"2023/08/09", "name":"Lynn em Eldarya",
+        "code":"691i16266i9768i26450i28317i2566i22341i5232i30564i29521i28741i30544i14139i15418i31300i3259i2446i25955i29048i28047i13235i17809i3536",
+        "png":"7jpq68753165434724f1891a827352dcd1391"
+    }},
+
+    {"id":567794838, "alias":"Annika_Hope", "type":"cosplay", "info":{
+        "date":"2023/08/09", "name":"Dumbledore - Harry Potter",
+        "code":"691i19828i12029i7791i1786i16013i19889i33133i5231i22449i10888i13589i31293i22779i29841i29511i22031",
+        "png":"7jpq62a933471a3154fd7b1aa636d203856fb"
+    }},
+
+    {"id":574277499, "alias":"Derya", "type":"guardian", "info":{
+        "date":"2023/08/09", "name":"Derya #28",
+        "code":"29050i31629i4851i31649i9305i31878i31888i27171i16266i18283i31483i17561i34653i5405i2148i25826i13467i33904i13412i9849i14742i30880i32909i11651i34703i29842i29521i23431i34713i15296i29757i2246i32161",
+        "png":"7jpq6346c50a079ff4d8cbde250d292cc154d"
+    }},
+
     {"id":969457242, "alias":"Dovah", "type":"guardian", "info":{
         "date":"2023/08/08", "name":"Amara, The Fearless",
         "code":"1254i18157i34265i18277i16666i8908i18392i34890i14091i32254i33960i21904i21170i12054i27536i28853i32218i22019i32867i6768i21769",
@@ -6,8 +198,8 @@
     }},
 
     {"id":669012689, "alias":"Magaby27", "type":"cosplay", "info":{
-        "date":"2023/08/08", "name":"Merlina® / Wednesday® Addams",
-        "code":"25419i10462i1253i4400i5262i30516i8411i23844i30673i20765i25488i31303i17805i23784i8573i20887i31913i23393i25208",
+        "date":"2023/08/08", "edited":"2023/08/09", "name":"Merlina/Wednesday Addams",
+        "code":"10462i1253i4400i5262i30516i8411i23844i30673i20765i25488i31303i17805i23784i8573i20887i31913i23393i25208",
         "png":"il8owe9e9c8d1e5564264bc6f92ab93846472"
     }},
 
@@ -18,8 +210,8 @@
     }},
 
     {"id":372297678, "alias":"Magaby27", "type":"cosplay", "info":{
-        "date":"2023/08/08", "name":"Princess Elise (Sonic the Hedgehog (2006)",
-        "code":"691i4395i5242i2596i33854i31869i19850i11417i18118i8279i16389i3748i34269i25885i31606i12184i34183i2274i29144i18904i25227",
+        "date":"2023/08/08", "edited":"2023/08/09", "name":"Princess Elise (Sonic the Hedgehog (2006)",
+        "code":"1251i4395i5242i2596i33854i31869i19850i11417i18118i8279i16389i3748i34269i25885i31606i12184i34183i2274i29144i18904i25227",
         "png":"il8ow8dcaa8d7229d4ae9b82539ec2ff3d11c"
     }},
 
@@ -72,8 +264,8 @@
     }},
 
     {"id":389857848, "alias":"Magaby27", "type":"guardian", "info":{
-        "date":"2023/08/06", "name":"Freyja",
-        "code":"691i4392i5243i22398i21895i27197i34748i19824i32790i20129i30904i19817i27554i25240",
+        "date":"2023/08/06", "edited":"2023/08/09", "name":"Freyja (Norse Goddess)",
+        "code":"691i4392i5243i21895i27197i34748i32790i20129i6102i19824i30904i19817i10396i28009i27554i25240",
         "png":"il8owe9a11160249b499392def2b70612ff8f"
     }},
 
@@ -156,8 +348,8 @@
     }},
 
     {"id":371806993, "alias":"Magaby27", "type":"cosplay", "info":{
-        "date":"2023/08/04", "name":"Juno (Assassin's Creed)",
-        "code":"8557i31406i5216i13905i6101i13358i11594i17859i19740i1185i31216i5295i9283i29287i25138i8333i32952i27409i31286",
+        "date":"2023/08/04", "edited":"2023/08/09", "name":"Juno (Assassin's Creed)",
+        "code":"8557i20273i5216i10772i1727i31516i6101i13358i18843i17859i19740i1185i31216i9283i29287i5295i25138i8333i27409i31286",
         "png":"il8ow96cf3f7055274f7282445e5e88de05bb"
     }},
 
