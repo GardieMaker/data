@@ -1,4 +1,82 @@
 [
+    {"id":743310192, "alias":"Lazzulie", "type":"guardian", "info":{
+        "date":"2023/09/26", "name":"Bluette",
+        "code":"23308i28616i16516i25410i7930i31520i34542i16243i23513i19516i30836i19081i16389i23356i23344i4864i34562i18282i23653i33912i20272i19607i33170i8342i16349i20232i7806i29137i12596i34552i21060i25227",
+        "png":"rhhtw2e8d40e25b9b490baf26a359900a17e7"
+    }},
+
+    {"id":360854634, "alias":"Jarlos", "type":"guardian", "info":{
+        "date":"2023/09/26", "name":"Draara",
+        "code":"21895i21820i33364i32954i7927i34898i34269i34950i34382i34878i19577i17644i31221i26901i18283i31406i31481i32322i18914i32415i6717i19761i18839i25207",
+        "png":"rhhtw84d2bc4c2cc84aaaa937f87e1dad3d09"
+    }},
+
+    {"id":653812904, "alias":"elybel", "type":"guardian", "info":{
+        "date":"2023/09/26", "name":"Lima",
+        "code":"32330i34840i14494i34927i32827i34937i18709i34947i23653i32164i32156",
+        "png":"rhhtwf7cf97b098fe43e1be5559a5444e15c7"
+    }},
+
+    {"id":927724943, "alias":"Jarlos", "type":"cosplay", "info":{
+        "date":"2023/09/24", "name":"Ahri kda",
+        "code":"34104i691i24827i33839i33859i28028i12290i18283i27750i34121i28000i6234i31638i18310i23653i28908i6769i25208",
+        "png":"rhhtw824584f0aafd415195e868eb5876b2f9"
+    }},
+
+    {"id":905603786, "alias":"elybel", "type":"guardian", "info":{
+        "date":"2023/09/24", "name":"Elybel",
+        "code":"28153i7926i23203i31473i31378i18047i10222i27621i23262i12221i31489i23179i32157",
+        "png":"rhhtw4e08084fa4e9486bac8736648c484702"
+    }},
+
+    {"id":954157288, "alias":"Annika_Hope", "type":"cosplay", "info":{
+        "date":"2023/09/23", "name":"Abeloth - Star Wars",
+        "code":"17963i25069i32412i5057i9944i19333i15244i23762",
+        "png":"rhhtw8fff5a58939d4264ac65d6992a2a581e"
+    }},
+
+    {"id":190971737, "alias":"Annika_Hope", "type":"cosplay", "info":{
+        "date":"2023/09/23", "name":"The Daughter - Star Wars",
+        "code":"24906i16273i21895i19093i1778i33278i5144i8557i29291i31382i27946i29585i8704i28343i14763i1575i25373i28009i31481i8333i32943i25142i34087i23303i28804i27410i21060i25234",
+        "png":"rhhtw68a65735cc1f48f28e4a68a281705f76"
+    }},
+
+    {"id":205042208, "alias":"Jarlos", "type":"guardian", "info":{
+        "date":"2023/09/22", "name":"Nyszita Shanxoc",
+        "code":"33589i33599i33611i33373i34896i34735i34876i18283i21820i6374i18064i28928i26914i5195i24960i18381i30399i32823i28796i19340",
+        "png":"rhhtw5128c9d72d89409d857562cac8aa6c94"
+    }},
+
+    {"id":886793979, "alias":"Zizuzz", "type":"guardian", "info":{
+        "date":"2023/09/21", "name":"Sereia royal-gramma",
+        "code":"3499i18152i18283i5051i5559i24584i24336i12393i3525i28208i28468i24751i28515i20585i25955i28491i30858i29048i23582i23353i4433",
+        "png":"rhhtw2dcc7024003e4344bad76ea78567e9dd"
+    }},
+
+    {"id":944416294, "alias":"Jarlos", "type":"guardian", "info":{
+        "date":"2023/09/21", "name":"Hiems Alba Kitsune",
+        "code":"20046i6449i34107i7927i30829i34005i34763i34172i32958i34898i32598i27998i13609i16267i18283i6400i5192i11502i34203i33444i32949i25642",
+        "png":"rhhtw31bebbe5d2134a898856b4a54116b403"
+    }},
+
+    {"id":141037156, "alias":"Zizuzz", "type":"guardian", "info":{
+        "date":"2023/09/21", "name":"Querida fujitiva das foças oceanicas",
+        "code":"26285i34889i18163i17975i18282i23276i26433i27175i6768i32605i25895i26401i24635i10541i22357i18793i16855i4435",
+        "png":"rhhtw2b129043868e4afaa9228b116d783abb"
+    }},
+
+    {"id":833327829, "alias":"LesAlya", "type":"guardian", "info":{
+        "date":"2023/09/20", "name":null,
+        "code":"691i31657i32403i34391i30506i34787i10941i5281i8534i16658i34064i24775i33960i34094i5626i26946i4764",
+        "png":"rhhtw090b3a6ba2cc41f2862d6988476ebf9f"
+    }},
+
+    {"id":511656031, "alias":"Zizuzz", "type":"guardian", "info":{
+        "date":"2023/09/20", "name":"Senhora bruxa do mar corrompida pelas trevas",
+        "code":"17963i18162i25427i5266i18280i30025i7812i13135i26435i14291i31878i24267i12616i24486i4851i13124i19190i6279i22326i2881i12529i27069i14340i18306i20835i26573i25640",
+        "png":"rhhtw27ab5d9886b2445abcc8ad0cb2b859c5"
+    }},
+
     {"id":890608532, "alias":"annjichury ", "type":"cosplay", "info":{
         "date":"2023/09/19", "name":"Mima",
         "code":"7925i5213i16692i323i942i7473i1778i5716i30839i20158i31602i3097i32695i31270",
