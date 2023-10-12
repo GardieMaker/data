@@ -31250,10 +31250,11 @@
 	{"itemId":33242, "groupId":33240, "itemURL":"4318f7fa388361e900b0ace1562d363e.png"},
 
 	{"itemId":33245, "groupId":33240, "itemURL":"ff05c41d71a80ed2c9aaaf2ba663dae8.png"},
-
+	{"itemId":33246, "groupId":33240, "itemURL":"7fa55c60a764c2c6087469a9d6daa007.png"},
 	{"itemId":33247, "groupId":33240, "itemURL":"64ffc3da1326b035da4045e49569883b.png"},
 	{"itemId":33248, "groupId":33240, "itemURL":"75a0e5e54dc893ae095a1d88bf3ec951.png"},
 
+	{"itemId":33250, "groupId":33250, "itemURL":"50348dcbc1ff0257a9f2c0e1f96c50c9.png"},
 	{"itemId":33251, "groupId":33250, "itemURL":"a4f57741ae3b9c7522b0dc0f76f22ed0.png"},
 	{"itemId":33252, "groupId":33250, "itemURL":"3b27c447f064799c7bf3f8f6af06c9ae.png"},
 
@@ -31263,7 +31264,16 @@
 	{"itemId":33257, "groupId":33250, "itemURL":"4aa931e73519f08191dd3150c56879bf.png"},
 
 	{"itemId":33259, "groupId":33250, "itemURL":"5b83aed39339bc4b5bd1070c04a6c5f2.png"},
-
+	{"itemId":33260, "groupId":33260, "itemURL":"ccc28c167ce347826ea10c05527aeb01.png"},
+	{"itemId":33261, "groupId":33260, "itemURL":"c832aa3dfbabeb3cb906eb557bc71b1c.png"},
+	{"itemId":33262, "groupId":33260, "itemURL":"89745ec11fa4f1e2e6370c3caa2f5c58.png"},
+	{"itemId":33263, "groupId":33260, "itemURL":"f97619144a90ea6b44b97e2dd0d4eaa5.png"},
+	{"itemId":33264, "groupId":33260, "itemURL":"e35d0113c30b3a369291c0375d9dac1c.png"},
+	{"itemId":33265, "groupId":33260, "itemURL":"edb0fd1e9cf489977eb1e3eb16687960.png"},
+	{"itemId":33266, "groupId":33260, "itemURL":"af4c0e3bffb3bb3dfbe8071064a741a0.png"},
+	{"itemId":33267, "groupId":33260, "itemURL":"d65637ef7b450339a15d85c66a87b3c1.png"},
+	{"itemId":33268, "groupId":33260, "itemURL":"3c813fbb8cf124946bec2ff18d497637.png"},
+	{"itemId":33269, "groupId":33260, "itemURL":"b28a7817ccd3323077f3d0aaf027e271.png"},
 	{"itemId":33270, "groupId":33270, "itemURL":"e605e79e2a67fce26da42c8fc44c403e.png", "note":"Episodio 17 (A New Era)"},
 	{"itemId":33271, "groupId":33270, "itemURL":"7f398b9ee30fa99a0af04b7c22343a83.png"},
 	{"itemId":33272, "groupId":33270, "itemURL":"28f70ef6ddea1edc6732568f7bd6ef5b.png"},
@@ -32958,5 +32968,5 @@
 	{"itemId":34963, "groupId":34956, "itemURL":"d53aec33b0b766b37b4dbf2f626085f1.png"},
 	{"itemId":34964, "groupId":34956, "itemURL":"9fe36f184af574b56efe60454917f5fd.png"},
 	{"itemId":34965, "groupId":34956, "itemURL":"399d1ee4a128ebf74b836101bd511927.png"},
-	{"itemId":34960, "groupId":34956, "itemURL":"eb072d9187d0d4d01e2cdf068bdfdcd6.png"}	
+	{"itemId":34960, "groupId":34956, "itemURL":"eb072d9187d0d4d01e2cdf068bdfdcd6.png"}
 ]

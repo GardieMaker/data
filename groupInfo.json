@@ -15143,7 +15143,12 @@
 		"french":"Bandelettes Misleaded Chantress",
 		"english":"(x)Tiras Misleaded Chantress"
 	},
-
+	{"groupId":33260, "category":"dress", "rarity":"Legendario", "mark":"tradable", "note":"Exploración",
+		"spanish":"Vestido Misleaded Chantress",
+		"portuguese":"Vestido Misleaded Chantress",
+		"french":"Robe Misleaded Chantress",
+		"english":"(x)Vestido Misleaded Chantress"
+	},
 	{"groupId":33270, "category":"shoe", "rarity":"Común", "mark":"none", "note":"Tienda", "especial":"episodios",
 		"spanish":"Zapatos de Hermana por un Día",
 		"portuguese":"Sandálias Sister for a Day",
