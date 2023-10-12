@@ -31051,7 +31051,7 @@
 	{"itemId":32992, "groupId":32992, "itemURL":"44b2cfa380ba427e43fa75e55152bcda.jpg"},
     {"itemId":32993, "groupId":32993, "itemURL":"b079268c0b66b35bc0dedac4ca389ddc.jpg"},
     {"itemId":32994, "groupId":32994, "itemURL":"6442e4e35749159d21ef613b4bf10efe.jpg"},
-
+	{"itemId":32995, "groupId":32995, "itemURL":"160f67a4c5b6a318a151fa4f19c55edc.jpg"},
 	{"itemId":32996, "groupId":32996, "itemURL":"d67720f4f96a7da288034ae1db0e6408.png"},
 	{"itemId":32997, "groupId":32996, "itemURL":"6f45e969580be5ad61f2217be1e11502.png"},
 	{"itemId":32998, "groupId":32996, "itemURL":"dc654f74c19e46256ef4848199c723d8.png"},
@@ -31244,6 +31244,24 @@
     {"itemId":33187, "groupId":33164, "itemURL":"1a187163c77776e1dd168c3864d57f2c.png"},
     {"itemId":33188, "groupId":33164, "itemURL":"ba2478771abcea3df4a72e09c80c0168.png"},
     {"itemId":33189, "groupId":33164, "itemURL":"29ea76ebc55e60e644508128f11823b6.png"},
+
+	{"itemId":33240, "groupId":33240, "itemURL":"1d2c02521d6bc731f32474798186db4f.png"},
+	{"itemId":33241, "groupId":33240, "itemURL":"10c7458cb680b7a341c708c1e7459601.png"},
+	{"itemId":33242, "groupId":33240, "itemURL":"4318f7fa388361e900b0ace1562d363e.png"},
+
+	{"itemId":33245, "groupId":33240, "itemURL":"ff05c41d71a80ed2c9aaaf2ba663dae8.png"},
+
+	{"itemId":33247, "groupId":33240, "itemURL":"64ffc3da1326b035da4045e49569883b.png"},
+
+	{"itemId":33251, "groupId":33250, "itemURL":"a4f57741ae3b9c7522b0dc0f76f22ed0.png"},
+	{"itemId":33252, "groupId":33250, "itemURL":"3b27c447f064799c7bf3f8f6af06c9ae.png"},
+
+	{"itemId":33254, "groupId":33250, "itemURL":"3673785e367a9c031165e6070edc2e5e.png"},
+	{"itemId":33255, "groupId":33250, "itemURL":"f6332ee8d17ef1a118d2310e0204b537.png"},
+	{"itemId":33256, "groupId":33250, "itemURL":"cad990f82a5172e1be5d927d9102180e.png"},
+	{"itemId":33257, "groupId":33250, "itemURL":"4aa931e73519f08191dd3150c56879bf.png"},
+
+	{"itemId":33259, "groupId":33250, "itemURL":"5b83aed39339bc4b5bd1070c04a6c5f2.png"},
 
 	{"itemId":33270, "groupId":33270, "itemURL":"e605e79e2a67fce26da42c8fc44c403e.png", "note":"Episodio 17 (A New Era)"},
 	{"itemId":33271, "groupId":33270, "itemURL":"7f398b9ee30fa99a0af04b7c22343a83.png"},

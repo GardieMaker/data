@@ -15027,7 +15027,12 @@
         "french":"(x)Dunas pequeñas",
         "english":"(x)Dunas pequeñas"
     },
-
+	{"groupId":32995, "category":"background", "rarity":"Común", "mark":"none", "note":"Tienda",
+		"spanish":"Pueblo de los feéricos",
+		"portuguese":"(x)Pueblo de los feéricos",
+		"french":"(x)Pueblo de los feéricos",
+		"english":"(x)Pueblo de los feéricos"
+	},
     {"groupId":32996, "category":"underwear", "rarity":"Evento", "mark":"none", "note":"Navidad 2022",
         "spanish":"Body Christmas Witch",
         "portuguese":"Body Christmas Witch",
@@ -15125,6 +15130,19 @@
         "french":"Maggy",
         "english":"(x)Maggy *"
     },
+
+	{"groupId":33240, "category":"faceAccessory", "rarity":"Legendario", "mark":"tradable", "note":"Exploración", "tag":"incomplete",
+		"spanish":"Máscara Misleaded Chantress",
+		"portuguese":"Máscara Misleaded Chantress",
+		"french":"Masque Misleaded Chantress",
+		"english":"(x)Máscara Misleaded Chantress"
+	},
+	{"groupId":33250, "category":"sock", "rarity":"Legendario", "mark":"tradable", "note":"Exploración", "tag":"incomplete",
+		"spanish":"Tiras Misleaded Chantress",
+		"portuguese":"Fitas Misleaded Chantress",
+		"french":"Bandelettes Misleaded Chantress",
+		"english":"(x)Tiras Misleaded Chantress"
+	},
 
 	{"groupId":33270, "category":"shoe", "rarity":"Común", "mark":"none", "note":"Tienda", "especial":"episodios",
 		"spanish":"Zapatos de Hermana por un Día",
@@ -16009,5 +16027,4 @@
 	    "french":"(x)Diadema Cacophony",
 	    "english":"(x)Diadema Cacophony"
 	}
-
 ]
