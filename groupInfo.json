@@ -16031,5 +16031,55 @@
 	    "portuguese":"Adorno Cacophony",
 	    "french":"Bandeau Cacophony",
 	    "english":"(x)Diadema Cacophony"
+	},
+
+
+	{"groupId":"U1000", "category":"ambient", "rarity":"unofficial", "mark":"none", "note":"@Siatris",
+	    "spanish":"Hilos de marioneta",
+	    "portuguese":"Cordas de marionete",
+	    "french":"Cordes de marionnettes",
+	    "english":"(x)Hilos de marioneta"
+	},
+	{"groupId":"U1002", "category":"hair", "rarity":"unofficial", "mark":"none", "note":"@Siatris",
+	    "spanish":"Oiran",
+	    "portuguese":"Oiran",
+	    "french":"Oiran",
+	    "english":"Oiran"
+	},
+	{"groupId":"U1006", "category":"faceAccessory", "rarity":"unofficial", "mark":"none", "note":"@Siatris",
+	    "spanish":"Máscara Umbra-Kwami",
+	    "portuguese":"Máscara Umbra-Kwami",
+	    "french":"Masque Umbra-Kwami",
+	    "english":"(x)Máscara Umbra-Kwami"
+	},
+	{"groupId":"U1013", "category":"faceAccessory", "rarity":"unofficial", "mark":"none", "note":"@Siatris",
+	    "spanish":"Máscara Hannya",
+	    "portuguese":"Máscara Hannya",
+	    "french":"Masque Hannya",
+	    "english":"(x)Máscara Hannya"
+	},
+	{"groupId":"U1023", "category":"eye", "rarity":"unofficial", "mark":"none", "note":"@Siatris",
+	    "spanish":"Ojos de araña",
+	    "portuguese":"Olhos de aranha",
+	    "french":"Yeux d'araignée",
+	    "english":"(x)Ojos de araña"
+	},
+	{"groupId":"U1039", "category":"eye", "rarity":"unofficial", "mark":"none", "note":"@Siatris",
+	    "spanish":"Ojos de abeja",
+	    "portuguese":"Olhos de abelha",
+	    "french":"Yeux d'abeille",
+	    "english":"(x)Ojos de abeja"
+	},
+	{"groupId":"U1055", "category":"coat", "rarity":"unofficial", "mark":"none", "note":"@Siatris",
+	    "spanish":"Alas de Elfaria",
+	    "portuguese":"Asas de Elfaria",
+	    "french":"Ailes d'Elfaria",
+	    "english":"(x)Alas de Elfaria"
+	},
+	{"groupId":"U1073", "category":"eye", "rarity":"unofficial", "mark":"none", "note":"@Siatris",
+	    "spanish":"Ojos de pulpo",
+	    "portuguese":"Olhos de polvo",
+	    "french":"Yeux de poulpe",
+	    "english":"(x)Ojos de pulpo"
 	}
 ]
