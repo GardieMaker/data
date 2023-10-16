@@ -15131,7 +15131,7 @@
         "english":"(x)Maggy *"
     },
 
-	{"groupId":33240, "category":"faceAccessory", "rarity":"Legendario", "mark":"tradable", "note":"Exploración", "tag":"incomplete",
+	{"groupId":33240, "category":"faceAccessory", "rarity":"Legendario", "mark":"tradable", "note":"Exploración",
 		"spanish":"Máscara Misleaded Chantress",
 		"portuguese":"Máscara Misleaded Chantress",
 		"french":"Masque Misleaded Chantress",
@@ -16081,5 +16081,83 @@
 	    "portuguese":"Olhos de polvo",
 	    "french":"Yeux de poulpe",
 	    "english":"(x)Ojos de pulpo"
+	},
+	{"groupId":"U1089", "category":"mouth", "rarity":"unofficial", "mark":"none", "note":"@Siatris",
+	    "spanish":"Boca de araña",
+	    "portuguese":"Boca de aranha",
+	    "french":"Bouche d'araignée",
+	    "english":"(x)Boca de araña"
+	},
+	{"groupId":"U1090", "category":"dress", "rarity":"unofficial", "mark":"none", "note":"@Loksenna",
+	    "spanish":"Vestido Strawberry",
+	    "portuguese":"Vestido Strawberry",
+	    "french":"Robe Strawberry",
+	    "english":"(x)Vestido Strawberry"
+	},
+	{"groupId":"U1092", "category":"dress", "rarity":"unofficial", "mark":"none", "note":"@Loksenna",
+	    "spanish":"Vestido corto Strawberry",
+	    "portuguese":"Vestido curto Strawberry",
+	    "french":"Robe courte Strawberry",
+	    "english":"(x)Vestido corto Strawberry"
+	},
+	{"groupId":"U1094", "category":"dress", "rarity":"unofficial", "mark":"none", "note":"@Loksenna",
+	    "spanish":"Combinación Oriental Death",
+	    "portuguese":"Macacão Oriental Death",
+	    "french":"Combi Oriental Death",
+	    "english":"(x)Combinación Oriental Death"
+	},
+	{"groupId":"U1095", "category":"belt", "rarity":"unofficial", "mark":"none", "note":"@Loksenna",
+	    "spanish":"Cinturón Oriental Death",
+	    "portuguese":"Cinto Oriental Death",
+	    "french":"Sangles Oriental Death",
+	    "english":"(x)Cinturón Oriental Death"
+	},
+	{"groupId":"U1096", "category":"faceAccessory", "rarity":"unofficial", "mark":"none", "note":"@Loksenna",
+	    "spanish":"Orejas de elfo",
+	    "portuguese":"Orelhas de elfo",
+	    "french":"Oreilles d'elfe",
+	    "english":"(x)Orejas de elfo"
+	},
+	{"groupId":"U1099", "category":"underwear", "rarity":"unofficial", "mark":"none", "note":"@Loksenna",
+	    "spanish":"Ropa interior floral",
+	    "portuguese":"Roupa íntima floral",
+	    "french":"Sous-vêtements fleuri",
+	    "english":"(x)Ropa interior floral"
+	},
+	{"groupId":"U1100", "category":"dress", "rarity":"unofficial", "mark":"none", "note":"@Loksenna",
+	    "spanish":"Vestido Enchanting Christmas",
+	    "portuguese":"Vestido Enchanting Christmas",
+	    "french":"Robe Enchanting Christmas",
+	    "english":"(x)Vestido Enchanting Christmas"
+	},
+	{"groupId":"U1101", "category":"handAccessory", "rarity":"unofficial", "mark":"none", "note":"@Loksenna",
+	    "spanish":"Lira",
+	    "portuguese":"Lira",
+	    "french":"Lyre",
+	    "english":"(x)Lira"
+	},
+	{"groupId":"U1102", "category":"dress", "rarity":"unofficial", "mark":"none", "note":"@Loksenna",
+	    "spanish":"Kimono Sakura",
+	    "portuguese":"Kimono Sakura",
+	    "french":"Kimono Sakura",
+	    "english":"(x)Kimono Sakura"
+	},
+	{"groupId":"U1104", "category":"underwear", "rarity":"unofficial", "mark":"none", "note":"@Loksenna",
+	    "spanish":"Body Black Laced",
+	    "portuguese":"Body Black Laced",
+	    "french":"Body Black Laced",
+	    "english":"(x)Body Black Laced"
+	},
+	{"groupId":"U1105", "category":"glove", "rarity":"unofficial", "mark":"none", "note":"@Loksenna",
+	    "spanish":"Guantes Black Laced",
+	    "portuguese":"Luvas Black Laced",
+	    "french":"Gants Black Laced",
+	    "english":"(x)Guantes Black Laced"
+	},
+	{"groupId":"U1106", "category":"hat", "rarity":"unofficial", "mark":"none", "note":"@Loksenna",
+	    "spanish":"Corona Black Laced",
+	    "portuguese":"Coroa Black Laced",
+	    "french":"Couronne Black Laced",
+	    "english":"(x)Corona Black Laced"
 	}
 ]
