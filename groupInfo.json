@@ -16159,5 +16159,120 @@
 	    "portuguese":"Coroa Black Laced",
 	    "french":"Couronne Black Laced",
 	    "english":"(x)Corona Black Laced"
+	},
+	{"groupId":"U1107", "category":"dress", "rarity":"unofficial", "mark":"none", "note":"@MunayArt",
+		"spanish":"Vestido Josephine",
+		"portuguese":"Vestido Josephine",
+		"french":"Robe Josephine",
+		"english":"(x)Vestido Josephine"
+	},
+	{"groupId":"U1112", "category":"belt", "rarity":"unofficial", "mark":"none", "note":"@MunayArt",
+		"spanish":"Cola Eywa",
+		"portuguese":"Rabo Eywa",
+		"french":"Queue Eywa",
+		"english":"(x)Cola Eywa"
+	},
+	{"groupId":"U1116", "category":"shoe", "rarity":"unofficial", "mark":"none", "note":"@Kyanne",
+		"spanish":"Zapatos Love's A Bouquet",
+		"portuguese":"Sapatos Love's A Bouquet",
+		"french":"Chaussures Love's A Bouquet",
+		"english":"(x)Zapatos Love's A Bouquet"
+	},
+	{"groupId":"U1126", "category":"dress", "rarity":"unofficial", "mark":"none", "note":"@Kyanne",
+		"spanish":"Vestido Love's A Bouquet",
+		"portuguese":"Vestido Love's A Bouquet",
+		"french":"Robe Love's A Bouquet",
+		"english":"(x)Vestido Love's A Bouquet"
+	},
+	{"groupId":"U1136", "category":"dress", "rarity":"unofficial", "mark":"none", "note":"@MunayArt",
+		"spanish":"Vestido Ghost",
+		"portuguese":"Vestido Ghost",
+		"french":"Robe Ghost",
+		"english":"(x)Vestido Ghost"
+	},
+	{"groupId":"U1138", "category":"hair", "rarity":"unofficial", "mark":"none", "note":"@MunayArt",
+		"spanish":"Amor",
+		"portuguese":"Amor",
+		"french":"Amor",
+		"english":"Amor"
+	},
+	{"groupId":"U1140", "category":"hair", "rarity":"unofficial", "mark":"none", "note":"@MunayArt",
+		"spanish":"Cristine",
+		"portuguese":"Cristine",
+		"french":"Cristine",
+		"english":"Cristine"
+	},
+	{"groupId":"U1142", "category":"hair", "rarity":"unofficial", "mark":"none", "note":"@MunayArt",
+		"spanish":"H2O",
+		"portuguese":"H2O",
+		"french":"H2O",
+		"english":"H2O"
+	},
+	{"groupId":"U1143", "category":"hair", "rarity":"unofficial", "mark":"none", "note":"@MunayArt",
+		"spanish":"Marceline",
+		"portuguese":"Marceline",
+		"french":"Marceline",
+		"english":"Marceline"
+	},
+	{"groupId":"U1145", "category":"hair", "rarity":"unofficial", "mark":"none", "note":"@MunayArt",
+		"spanish":"Shyra",
+		"portuguese":"Shyra",
+		"french":"Shyra",
+		"english":"Shyra"
+	},
+	{"groupId":"U1147", "category":"hair", "rarity":"unofficial", "mark":"none", "note":"@MunayArt",
+		"spanish":"Venus",
+		"portuguese":"Venus",
+		"french":"Venus",
+		"english":"Venus"
+	},
+
+	{"groupId":"U1149", "category":"faceAccessory", "rarity":"unofficial", "mark":"none", "note":"@TejonEnCalcetas",
+		"spanish":"Delineador Thea",
+		"portuguese":"Delineador Thea",
+		"french":"Eye-liner Thea",
+		"english":"(x)Delineador Thea"
+	},
+	{"groupId":"U1153", "category":"faceAccessory", "rarity":"unofficial", "mark":"none", "note":"@TejonEnCalcetas", 
+		"spanish":"Iluminador Thea",
+		"portuguese":"Iluminador Thea",
+		"french":"Enlumineur Thea",
+		"english":"(x)Iluminador Thea"
+	},
+	{"groupId":"U1155", "category":"faceAccessory", "rarity":"unofficial", "mark":"none", "note":"@TejonEnCalcetas", 
+		"spanish":"Pestañas Thea",
+		"portuguese":"Cílios Thea",
+		"french":"Cils Thea",
+		"english":"(x)Pestañas Thea"
+	},
+	{"groupId":"U1157", "category":"faceAccessory", "rarity":"unofficial", "mark":"none", "note":"@TejonEnCalcetas", 
+		"spanish":"Rubor Thea",
+		"portuguese":"Blush Thea",
+		"french":"Blush Thea",
+		"english":"(x)Rubor Thea"
+	},
+	{"groupId":"U1159", "category":"faceAccessory", "rarity":"unofficial", "mark":"none", "note":"@TejonEnCalcetas", 
+		"spanish":"Broche fresa",
+		"portuguese":"Presilha morango",
+		"french":"Barrette fraise",
+		"english":"(x)Broche fresa"
+	},
+	{"groupId":"U1160", "category":"dress", "rarity":"unofficial", "mark":"none", "note":"@TejonEnCalcetas", 
+		"spanish":"Vestido Declan",
+		"portuguese":"Vestido Declan",
+		"french":"Robe Declan",
+		"english":"(x)Vestido Declan"
+	},
+	{"groupId":"U1163", "category":"dress", "rarity":"unofficial", "mark":"none", "note":"@TejonEnCalcetas", 
+		"spanish":"Vestido Neran",
+		"portuguese":"Vestido Neran",
+		"french":"Robe Neran",
+		"english":"(x)Vestido Neran"
+	},
+	{"groupId":"U1166", "category":"top", "rarity":"unofficial", "mark":"none", "note":"@TejonEnCalcetas", 
+		"spanish":"Top Corvina",
+		"portuguese":"Top Corvina",
+		"french":"Top Corvina",
+		"english":"(x)Top Corvina"
 	}
 ]
