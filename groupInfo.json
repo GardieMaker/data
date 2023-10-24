@@ -16274,5 +16274,59 @@
 		"portuguese":"Top Corvina",
 		"french":"Top Corvina",
 		"english":"(x)Top Corvina"
+	},
+	{"groupId":"U1168", "category":"faceAccessory", "rarity":"unofficial", "mark":"none", "note":"@Kory", 
+		"spanish":"Cabeza Pumpkin Night",
+		"portuguese":"Cabeça Pumpkin Night",
+		"french":"Tête Pumpkin Night",
+		"english":"(x)Cabeza Pumpkin Night"
+	},
+	{"groupId":"U1170", "category":"coat", "rarity":"unofficial", "mark":"none", "note":"@Kory", 
+		"spanish":"Hombreras Moon Feathers",
+		"portuguese":"Ombreiras Moon Feathers",
+		"french":"Épaulières Moon Feathers",
+		"english":"(x)Hombreras Moon Feathers"
+	},
+	{"groupId":"U1175", "category":"skin", "rarity":"unofficial", "mark":"none", "note":"@Aline", 
+		"spanish":"Piel imperfecta",
+		"portuguese":"Pele imperfeita",
+		"french":"Peau imparfaite",
+		"english":"(x)Piel imperfecta"
+	},
+	{"groupId":"U1183", "category":"hair", "rarity":"unofficial", "mark":"none", "note":"@Metztli", 
+		"spanish":"Natsu",
+		"portuguese":"Natsu",
+		"french":"Natsu",
+		"english":"(x)Natsu"
+	},
+	{"groupId":"U1195", "category":"hair", "rarity":"unofficial", "mark":"none", "note":"@Kory", 
+		"spanish":"Naytili",
+		"portuguese":"Naytili",
+		"french":"Naytili",
+		"english":"(x)Naytili"
+	},
+	{"groupId":"U1201", "category":"handAccessory", "rarity":"unofficial", "mark":"none", "note":"@Kory", 
+		"spanish":"Cetro Poisonous Gems",
+		"portuguese":"Cetro Poisonous Gems",
+		"french":"Sceptre Poisonous Gems",
+		"english":"(x)Cetro Poisonous Gems"
+	},
+	{"groupId":"U1204", "category":"tatoo", "rarity":"unofficial", "mark":"none", "note":"@Kory", 
+		"spanish":"Blood",
+		"portuguese":"Blood",
+		"french":"Blood",
+		"english":"(x)Blood"
+	},
+	{"groupId":"U1205", "category":"coat", "rarity":"unofficial", "mark":"none", "note":"@Siatris", 
+		"spanish":"Patas de araña",
+		"portuguese":"Pernas de aranha",
+		"french":"Pattes d'araignée",
+		"english":"(x)Patas de araña"
+	},
+	{"groupId":"U1227", "category":"tatoo", "rarity":"unofficial", "mark":"none", "note":"@Siatris", 
+		"spanish":"Tercer ojo",
+		"portuguese":"Terceiro olho",
+		"french":"Troisième œil",
+		"english":"(x)Tercer ojo"
 	}
 ]
