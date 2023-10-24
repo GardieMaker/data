@@ -1,4 +1,292 @@
 [
+    {"id":906446512, "alias":"Jarlos", "type":"guardian", "info":{
+        "date":"2023/10/24", "name":"Ungoliant",
+        "code":"U1205i14211i7928iU1025i10774iU1089i27810i14555i8528i32823i31760i18575i14252i25399i22031",
+        "png":"cxstra81a09df3967460e835fb467c32dde69"
+    }},
+
+    {"id":470802013, "alias":"Phsyche", "type":"cosplay", "info":{
+        "date":"2023/10/24", "name":"Marceline",
+        "code":"13338i23944i9297i12097i6023i2204i7758i25762i34716i31312i7935i3543",
+        "png":"cxstrf29ab653f18c40cc9d970110d5b36934"
+    }},
+
+    {"id":603156016, "alias":"Bugambilia", "type":"guardian", "info":{
+        "date":"2023/10/24", "name":"exploradora",
+        "code":"10227i1249i16262i31401i31489iU1150iU1153i14308i7805i34494i29250i31179i29260i26635i14846i8962i25216",
+        "png":"cxstr168b968da0ee4dd3a39247b4f8ceb050"
+    }},
+
+    {"id":917893798, "alias":"Bugambilia", "type":"guardian", "info":{
+        "date":"2023/10/24", "name":"funeral de leifatan",
+        "code":"1249i16266i8573i31401i31481i33101iU1105iU1116iU1150iU1153i7805i19153iU1104iU1109iU1145iU1106i25216",
+        "png":"cxstr81edf78408b54e79b121ef8f92dd8427"
+    }},
+
+    {"id":827600100, "alias":"Bugambilia", "type":"guardian", "info":{
+        "date":"2023/10/24", "name":"graduacion",
+        "code":"1249i16266iU1158i31401i31481iU1147iU1150iU1153i7805iU1129iU1119i22386i31270",
+        "png":"cxstrd5866f50be82448a972f1ff86c8b8e8d"
+    }},
+
+    {"id":406548105, "alias":"Bugambilia", "type":"guardian", "info":{
+        "date":"2023/10/24", "name":"baile de mascaras",
+        "code":"U1069i1249iU1124i16262iU1157i31401i31481iU1150iU1011iU1143iU1154i8962i7805iU1164iU1101i23334i10429iU1106",
+        "png":"cxstr11884eecd9ad419ea0d7d3249605d100"
+    }},
+
+    {"id":960914025, "alias":"florcept", "type":"guardian", "info":{
+        "date":"2023/10/24", "name":null,
+        "code":"27414i691i16263iU1147iU1157iU1151iU1084iU1156iU1153i31922i34544i19852i23663iU1109i8412i32627i33902i33446i15859i10427i16359i6768i25202",
+        "png":"cxstrfa2da86df1ca49129a9173d12581a246"
+    }},
+
+    {"id":304399387, "alias":"BastEl", "type":"guardian", "info":{
+        "date":"2023/10/24", "name":"BastEl",
+        "code":"1249i24903i5242i3369i16266i15997i17718i6528i31964i1728i12607i4579i13183i21484i32910i15308i18314i8335i18174i11440i25207",
+        "png":"cxstr2c18a14d6bd24220ba72a3f89b6e71e2"
+    }},
+
+    {"id":185840306, "alias":"Aykoishere", "type":"guardian", "info":{
+        "date":"2023/10/24", "name":"Jouli",
+        "code":"24370i30835i32728i28864i29520i29102i24826iU1158iU1027i31489i34887i16052i29300i32863i33322",
+        "png":"cxstreeaa8a237d4541ef88ba0d34267ad8a6"
+    }},
+
+    {"id":277628154, "alias":"MartaIV44", "type":"guardian", "info":{
+        "date":"2023/10/23", "name":"Moon Demon",
+        "code":"25063i30341i26194i5588i34736i16269iU1151i16288i16676i24167i24140i31915i14611i32783i34822i34501i34521i23762",
+        "png":"cxstr375f7b7a89ad483fa1c01898076ea397"
+    }},
+
+    {"id":987974008, "alias":"Visenya", "type":"guardian", "info":{
+        "date":"2023/10/23", "name":"rhae",
+        "code":"7927i14299i17580i23981i28470i26198i31883i10966i31481i23559i23409i29520i31916i31813i25383i27549",
+        "png":"cxstrfc230cb5bfaa45a8b42c43decededc8d"
+    }},
+
+    {"id":624175220, "alias":"Calêmera", "type":"guardian", "info":{
+        "date":"2023/10/23", "name":"Calêmera",
+        "code":"28768i33619i29003iU1157i21892iU1153iU1155i33687i16280iU1151i33601i31537i30846i33591i32598i32786i32930i33748i19088i22677i31447i31482i29731i30199i29293iU1106i28797i15297i28131i26483i22033",
+        "png":"cxstr9cc5e8a1711f45aa87f1b2fa687b30b4"
+    }},
+
+    {"id":834377102, "alias":"Jarlos", "type":"guardian", "info":{
+        "date":"2023/10/23", "name":"Stine Roseheart",
+        "code":"7921i31380i19246iU1155i26936i33425i34279i33859i34299iU1167i33706i4754i21293i32566i19340",
+        "png":"cxstr087cd65a43164ba1bd297add81b2c1d1"
+    }},
+
+    {"id":763065081, "alias":"Nurbanu_25", "type":"guardian", "info":{
+        "date":"2023/10/23", "name":null,
+        "code":"6719i691i13670i34465iU1107i32058i19086i27754i21100i5213i34929i8348i25215",
+        "png":"cxstrdbb4c91aa37b40a8889ef6ab128845e3"
+    }},
+
+    {"id":248483684, "alias":"Reshey", "type":"guardian", "info":{
+        "date":"2023/10/23", "name":"Reshey",
+        "code":"1246iU1152i30815i18283i3369i31916i5245i31657iU1155iU1093iU1117i33801i22338i31437i27554i30297",
+        "png":"cxstr68228d764e2049beb3625c2fb6fc6496"
+    }},
+
+    {"id":979437703, "alias":"Phsyche", "type":"guardian", "info":{
+        "date":"2023/10/23", "name":"Njeri",
+        "code":"7921iU1140iU1074i31481i15544i15567i15511i34440i22918i31313iU1155i32176i10461",
+        "png":"cxstr2d0bbd20ce8046649fb02443a903b49d"
+    }},
+
+    {"id":792524161, "alias":"Violet", "type":"guardian", "info":{
+        "date":"2023/10/22", "name":null,
+        "code":"8556i8913i4423i18804i19290i18283i19190iU1118i4878i9088i25143i22032",
+        "png":"cxstr2c5aefdfaf5f49b098a8b1bb4f31c031"
+    }},
+
+    {"id":939479527, "alias":"Doctty", "type":"guardian", "info":{
+        "date":"2023/10/22", "name":null,
+        "code":"691i8533i10951i8558i323i20406i29655i28333i20973i28373i8925i25270i25290i8926i22780i15309i2254",
+        "png":"cxstr963df7487922469e86c0bc6df28da065"
+    }},
+
+    {"id":673975618, "alias":"Doctty", "type":"guardian", "info":{
+        "date":"2023/10/22", "name":"Batty",
+        "code":"16271i691i8909i8573i5093i5363i14264i14263i6496i6504i23856i23820i6520i10462i8443i23899i8534i22031",
+        "png":"cxstr79b4b63342c448efb6abbb6046820fb2"
+    }},
+
+    {"id":966424024, "alias":"Jarlos", "type":"guardian", "info":{
+        "date":"2023/10/22", "name":"Aeng'elf",
+        "code":"34461i27584i691iU1151iU1147i25139i34050iU1161i20238iU1155i31481i34004i11416i17697i27164i10436i14211i23364i14114i27996i16403i20333",
+        "png":"cxstr9004eeb21e114487a58a63a7f6c886b8"
+    }},
+
+    {"id":858044452, "alias":"Vaxey", "type":"guardian", "info":{
+        "date":"2023/10/22", "name":"Muerte",
+        "code":"26025i19298i26145i9304i33366i32875i25395i8574i34529i25464i24041i32306i34353i29002i5217i14853i8926i27174i32566",
+        "png":"cxstr658094b3b82243478be514f72b08a328"
+    }},
+
+    {"id":461084629, "alias":"Spamton", "type":"guardian", "info":{
+        "date":"2023/10/22", "name":null,
+        "code":"10462iU1000i25409iU1116i19498i9305i8573i34044iU1156iU1073iU1152iU1147i19148i32363i34544i8954i19256iU1106i34745iU1163i19100iU1166i23331i5268i6676i14216",
+        "png":"cxstra52ace5ff5474e67937b32ec02ae2c63"
+    }},
+
+    {"id":720721410, "alias":"Spamton", "type":"guardian", "info":{
+        "date":"2023/10/22", "name":null,
+        "code":"28574i22645i28564i7930i22627i5609i19226iU1076i13413iU1155i33861i12025i18535i12049i16403i28762i19340",
+        "png":"cxstr35f84b65c39b46a1ae1873e8dc9d49cc"
+    }},
+
+    {"id":849712269, "alias":"Blanshe", "type":"guardian", "info":{
+        "date":"2023/10/22", "name":"Blanshe",
+        "code":"17797i33121i32580i27611i32629i31393i32609iU1143i31489i34604i31919i33323",
+        "png":"cxstr9fccc2d62f5e48a9b70175b723a958f0"
+    }},
+
+    {"id":845667750, "alias":"Zerark", "type":"guardian", "info":{
+        "date":"2023/10/21", "name":null,
+        "code":"21894i26936i25686i14200i17708i16266i24811i29002iU1151i34845i26536i27748i34945i19256i34890i5110i28798i32162",
+        "png":"cxstrf370f0c998b14783976f0125dcfcac78"
+    }},
+
+    {"id":709415288, "alias":"MartaIV44", "type":"guardian", "info":{
+        "date":"2023/10/21", "name":"Sexy Lady",
+        "code":"691i31481i18272i26871i16673i31916iU1126iU1116iU1153i34599i33164i30294",
+        "png":"cxstr63041d659d164a9cab47b6e1b3a61eb8"
+    }},
+
+    {"id":992191698, "alias":"Kiarily", "type":"guardian", "info":{
+        "date":"2023/10/21", "name":null,
+        "code":"17965i2121i11756i16030i14339i7935i34101i32842",
+        "png":"cxstr6ee771beccd44a9fa2ac81e918ec6447"
+    }},
+
+    {"id":112955637, "alias":"Doctty", "type":"guardian", "info":{
+        "date":"2023/10/21", "name":"QueenB",
+        "code":"12623i691i31386i5199i32853i28716i28686i28472i28442i14233i30609i2451i28982i29038i23094i2254",
+        "png":"cxstr1139744e3eef4648a997a56646f3b0be"
+    }},
+
+    {"id":562791077, "alias":"Jarlos", "type":"guardian", "info":{
+        "date":"2023/10/20", "name":"Núbia",
+        "code":"7927i8210i7250i32953i32378i5147i34896i33268i26818i5215i3215i12132i9384i33247i30846i33258i8737i32863i32158",
+        "png":"cxstrec2a4219451f469b82f9e0326e951364"
+    }},
+
+    {"id":932879607, "alias":"MartaIV44", "type":"guardian", "info":{
+        "date":"2023/10/20", "name":null,
+        "code":"5114i1273i5235i19148i31473i18160i16260i18283i18728i32882i28460i22679i19881i16500i24932i34304i31919i31617i24972i12218i29924i32963i34890i22403i19075i24316i28796i25394",
+        "png":"cxstr8a6833317c394815a25dbb2caddb9222"
+    }},
+
+    {"id":265198676, "alias":"Rosse nye", "type":"guardian", "info":{
+        "date":"2023/10/20", "name":null,
+        "code":"7924iU1081i31481i12560i34868i33366i30874i32322i32771i34173",
+        "png":"cxstr7f7da116f55a4ca99a6def257962e87a"
+    }},
+
+    {"id":426031944, "alias":"Aicila_Lai", "type":"guardian", "info":{
+        "date":"2023/10/20", "name":"Fila",
+        "code":"34381i27131i31546iU1105i34747i26860i18861i34354i23771i25507i34219i32416i27101i34933i28798i32160",
+        "png":"cxstr1cd110095f8b42d4bc3718036bd3d61d"
+    }},
+
+    {"id":710233823, "alias":"Jarlos", "type":"guardian", "info":{
+        "date":"2023/10/20", "name":"Mildred Winter",
+        "code":"7927i5118i32599i27990i18283i34898iU1030i27938i21601i31198i17612i33998i31483i34144iU1106i32373i33920i27103i19060i32162",
+        "png":"cxstr46b2c948801b480c819bf6e3f7879ce1"
+    }},
+
+    {"id":353628708, "alias":"Deathness", "type":"guardian", "info":{
+        "date":"2023/10/20", "name":"Glenda",
+        "code":"27770i7927iU1104i18283iU1105iU1087i31481i30804i11868iU1106i32822i28796i26947i32776i28893i34194i34735i33321",
+        "png":"cxstr682091a65b294dc88a02d918c4e2d74a"
+    }},
+
+    {"id":542392139, "alias":"Deathness", "type":"guardian", "info":{
+        "date":"2023/10/19", "name":"Moira",
+        "code":"33585i32138i14489i34944i34914i33241i32353i28233i34934i32994",
+        "png":"cxstraef5e021a5df466bbb9e7738796c8c63"
+    }},
+
+    {"id":481486374, "alias":"Deathness", "type":"guardian", "info":{
+        "date":"2023/10/19", "name":"Nagire",
+        "code":"23232i24906i33328i23302i1245i18283i4400i5609iU1102iU1002i34551i8457i23665i32916i34741i20333",
+        "png":"cxstr1ced96bd66de4b069f15cbd4b8836434"
+    }},
+
+    {"id":875199407, "alias":"florcept", "type":"guardian", "info":{
+        "date":"2023/10/19", "name":null,
+        "code":"16475i7929i31916i16523i33886i34575i34187i16260i18153i8766i18276i31481i5100i34239i28512i27169i12151i4763",
+        "png":"cxstr5b7df5ddc3bc47ea8c179f0c3c75623f"
+    }},
+
+    {"id":974485288, "alias":"Jarlos", "type":"guardian", "info":{
+        "date":"2023/10/19", "name":"Loghana",
+        "code":"17962i31238i27990i18283iU1088i24176i28608i31198i17612i31483i34731i19352iU1106i32373i22461i24676i32162",
+        "png":"cxstre4d3c2fae5f54eff8a92e4bab3170a5d"
+    }},
+
+    {"id":170151670, "alias":"Kyra", "type":"guardian", "info":{
+        "date":"2023/10/19", "name":"Diosa serpiente",
+        "code":"32374i21891i21820i14496i34896i32821i32394i32811i33154i11869i33240i19336i34779i32156",
+        "png":"cxstr8b9cab8d8d47436ba5a11b7f7733c153"
+    }},
+
+    {"id":210360456, "alias":"Erya", "type":"cosplay", "info":{
+        "date":"2023/10/19", "name":"Lady Loki",
+        "code":"691i18283i31756i9600i8908i17608i10179i9395i1989i10732i23066i12044i17859i14147i32320i16232i29290i9440i15297i29520i31843i28045i23096i16240i28211",
+        "png":"cxstrccefa8dc16d04475bf768ad0a8ce38c0"
+    }},
+
+    {"id":294088810, "alias":"Rosse nye", "type":"guardian", "info":{
+        "date":"2023/10/19", "name":null,
+        "code":"1249iU1078i31481i20296i21444i12613i27635i33830i34566i30326i34959",
+        "png":"cxstr63d938b0036c4f34b5425972ffa9c653"
+    }},
+
+    {"id":842908249, "alias":"Zerark", "type":"guardian", "info":{
+        "date":"2023/10/19", "name":null,
+        "code":"U1071i16972i26563i28951i19603iU1053i28953i7250i17974i31087i5348i28523i19340",
+        "png":"cxstrb2a181b2dc3f4f72b129e5fca56d0432"
+    }},
+
+    {"id":381296048, "alias":"Zerark", "type":"guardian", "info":{
+        "date":"2023/10/19", "name":null,
+        "code":"23942i7924i31917i34854i34038iU1090i20252i31481i33901i34088i25234",
+        "png":"cxstrd3fab3a1f7d34662b4c85f6ee71c1714"
+    }},
+
+    {"id":584233630, "alias":"Manga", "type":"guardian", "info":{
+        "date":"2023/10/18", "name":"Sefarina a guardiã do deserto",
+        "code":"4672i23292i32595i29241iU1102i25273i31676iU1075i5161iU1106i32993",
+        "png":"cxstrb04510b926104321a2e2a8c38443fc66"
+    }},
+
+    {"id":378210850, "alias":"Manga", "type":"guardian", "info":{
+        "date":"2023/10/18", "name":"Elfa",
+        "code":"17797i33342i23258iU1096iU1076i5161i18835i19312i26662iU1101i30388i16787",
+        "png":"cxstr9a29ad2a865d47e1b5de25df9807dc1d"
+    }},
+
+    {"id":259254493, "alias":"MartaIV44", "type":"guardian", "info":{
+        "date":"2023/10/18", "name":null,
+        "code":"13330i691i5195i16697i31648iU1100i34821i16475i31916i34409i33911i23303i33932i14885iU1000i30295",
+        "png":"cxstr493e38f9c60f4c69aab6f2f472b1ec23"
+    }},
+
+    {"id":261257148, "alias":"Jarlos", "type":"guardian", "info":{
+        "date":"2023/10/18", "name":"Dark blue moth",
+        "code":"U1070i7927i34381i17722i25222i34896i32629i17656i32649i18283iU1046i10426i28751i5245i15842i28520i8625i25221",
+        "png":"cxstrd4efe4d6d6b445be9a531835c8d0ce4e"
+    }},
+
+    {"id":311216689, "alias":"Kyra", "type":"guardian", "info":{
+        "date":"2023/10/18", "name":"Yokai",
+        "code":"16511i25409i32347i34896i7940i31476i18278iU1002i5047i19333i12315i18819i33907i15857i34775i33963i34916i34834i25215",
+        "png":"cxstrf36b0dcb6152424c82bf6ca7ec4bcc2a"
+    }},
+
     {"id":704612721, "alias":"MartaIV44", "type":"guardian", "info":{
         "date":"2023/10/17", "name":null,
         "code":"16271i1275i31489i16269i19148i18283i16673i17175i4585i4607i34795i32627i33966i4629i15306i34746i32587i34833i15226i14217",
@@ -4620,7 +4908,7 @@
         "png":"imu0a265a3b79b193482cb72b6f8c51ae822c"
     }},
 
-    {"id":660054217, "alias":"Ayko", "type":"guardian", "info":{
+    {"id":660054217, "alias":"Aykoishere", "type":"guardian", "info":{
         "date":"2023/04/07", "name":null,
         "code":"691i34411i27758i32127i34400i34449i34430i34440i34401i34460i31481i34080i30295",
         "png":"imu0a954bf8969eef421f8689c946d860a1b3"
@@ -7890,7 +8178,7 @@
         "png":"56udcdfaccd70ed034b6c9b0e7326b9fddb6a"
     }},
 
-    {"id":287537194, "alias":"LaraMM", "type":"guardian", "info":{
+    {"id":287537194, "alias":"Aicila_Lai", "type":"guardian", "info":{
         "date":"2023/01/27", "name":null,
         "code":"33643i13867i16323i26858i8908i26056i28726i22235i14323i25255i28882i28235i4683i9514i32163",
         "png":"56udc0e48e2a711da4aaaaeef9c58716dc159"
@@ -9750,7 +10038,7 @@
         "png":"e0gouc559ecf335414e87864a854f8a2b25d3"
     }},
 
-    {"id":391159118, "alias":"vivi_", "type":"guardian", "info":{
+    {"id":391159118, "alias":"Violet", "type":"guardian", "info":{
         "date":"2022/12/20", "name":"alvira.",
         "code":"1273i17975i23451i18716i28726i4602i2364i4646i13194i15296i18784i8573i25399i14216",
         "png":"50fs80577f856a09648af9468acb7062040d0"
