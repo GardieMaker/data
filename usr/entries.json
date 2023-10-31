@@ -1,4 +1,208 @@
 [
+    {"id":557785963, "alias":"Godiee", "type":"cosplay", "info":{
+        "date":"2023/10/30", "name":"Elsa maléfique",
+        "code":"6450i21882i6449i21354i33360i6767i26575i5670i6396i5284i11565i11579i33390i33172i23172i15298i14239i4855i11432",
+        "png":"9hfbuda134c43586146f5bd99c824043b28b3"
+    }},
+
+    {"id":229524856, "alias":"Deathness", "type":"guardian", "info":{
+        "date":"2023/10/30", "name":"Muriel",
+        "code":"U1545iU1577iU1137i25327iU1023iU1381i30804iU1601iU1613iU1566i5235iU1405iU1335i22031",
+        "png":"9hfbu7ff4410c1bc1409c8a2ae933a4311dde"
+    }},
+
+    {"id":742694361, "alias":"Kyra", "type":"guardian", "info":{
+        "date":"2023/10/30", "name":"Slayer ivy",
+        "code":"12790iU1497i19969i23220i31474iU1039iU1144iU1521iU1533iU1509i7941i24822i18985i6983",
+        "png":"9hfbucb683aa3110640c0a8e9be60b0c1f95e"
+    }},
+
+    {"id":554296971, "alias":"Roseatte", "type":"guardian", "info":{
+        "date":"2023/10/30", "name":"Roseatte - Love Kitsune",
+        "code":"34104i1249i18158i31481i34129i18272i4387i6843i23557i16233i23521i14172i31916i16742i16257i11869i11867i7872i14074i15296i34200i34195i33963i33907i23545i23581i33867i34090i34100i16293i21363i16401i12823i6988",
+        "png":"9hfbua47808c9444e445c8dbde0a12336b610"
+    }},
+
+    {"id":664296781, "alias":"Jarlos", "type":"guardian", "info":{
+        "date":"2023/10/30", "name":"Thessalia Bellus",
+        "code":"U1578i32371i691i34429i18283i34169i27754iU1143i31521iU1602iU1243iU1276i32919i5284i13612i4869iU1448i25394",
+        "png":"9hfbu98b1cb0fd25640669dd41406ad0a527b"
+    }},
+
+    {"id":646591334, "alias":"Roseatte", "type":"guardian", "info":{
+        "date":"2023/10/29", "name":"Roseatte - Bloody Bride",
+        "code":"23232i5292i19274i10336i4959i1249i26440i32363i32448i18153i19148i9635i5316i31461i26686i8574i19335i4691i4679i5328i5352i25215",
+        "png":"9hfbu0b2963c38ac8422f89a15e4a0f9c43e0"
+    }},
+
+    {"id":879964101, "alias":"Bugambilia", "type":"guardian", "info":{
+        "date":"2023/10/29", "name":null,
+        "code":"32347iU1589iU1577iU1601iU1204iU1633iU1650iU1369iU1613iU1039iU1296iU1638iU1089i19340",
+        "png":"9hfbueebf111f88514f0ea5e451e00534b732"
+    }},
+
+    {"id":468277930, "alias":"Kyra", "type":"guardian", "info":{
+        "date":"2023/10/29", "name":"La Parca",
+        "code":"32411i5159i19322iU1545i32369i19877i32571iU1601i32639iU1613i5047i20115",
+        "png":"9hfbu7adf642dcc41463faa13c7251b57cd47"
+    }},
+
+    {"id":907740951, "alias":"MartaIV44", "type":"guardian", "info":{
+        "date":"2023/10/29", "name":"Marta Fiesta Música",
+        "code":"691i31484i27757i31630i17705i27958i13414i28167i31660i31420i24307i31643i34578i28008i13558i13664i13589i21584i24342i31558i24266i24145i31594i31322i23762",
+        "png":"9hfbu2bce3e99f57443c49de1c443d822f08f"
+    }},
+
+    {"id":633988881, "alias":"MartaIV44", "type":"guardian", "info":{
+        "date":"2023/10/29", "name":"Marta Pascua",
+        "code":"691i7794i7541i12848i20713i23970i34440i12698i17162i12998i16907i12976i23653i20717i23843i27299i20701",
+        "png":"9hfbuaea09fd5422a482fbceb48746f5a77ca"
+    }},
+
+    {"id":936675413, "alias":"MartaIV44", "type":"guardian", "info":{
+        "date":"2023/10/29", "name":"Marta San Valentín",
+        "code":"23324i12073i691i16266i30536i20280i6841i26695i30526i23526i12134i33839i23377i12077i12186i16489i20302i16271i16477i16342i20331i16378i16406i5199i20333",
+        "png":"9hfbued29583f9f044da592024b11e6ab03e1"
+    }},
+
+    {"id":485183028, "alias":"Ivoryne", "type":"guardian", "info":{
+        "date":"2023/10/29", "name":"Ivoryne, Merciless",
+        "code":"7922i26870i21868i28057i18548i27740i18545i26890i26906i8546i27720i13183i2800i14289i8954i14265i27690i26937i27680i16293i31286",
+        "png":"9hfbu44eaff79227d48e18403d3bf8de51b57"
+    }},
+
+    {"id":478327383, "alias":"Ivoryne", "type":"guardian", "info":{
+        "date":"2023/10/29", "name":"Ivoryne, Shadow Harpy",
+        "code":"18947i7922i26457i5378i9944i32353i9701i32412i18153i16266i5057i18995i9716i22242i5543i18288i5184i18935i9952i18985i18911i18806i5110i14909i22031",
+        "png":"9hfbu7c674ef2442b42cd9e9fc6d1f5e95ae6"
+    }},
+
+    {"id":418885061, "alias":"Roseatte", "type":"guardian", "info":{
+        "date":"2023/10/29", "name":"Roseatte - Phantom Hunter",
+        "code":"25062i1249i32232i27736i31481i18722i4887i32482i27686i32548i24690i32528i10799i34881i32508i32568i33251i32560i8962i25215",
+        "png":"9hfbu73d386dc806d4859a55273bb0661c9ec"
+    }},
+
+    {"id":189403059, "alias":"Jarlos", "type":"guardian", "info":{
+        "date":"2023/10/29", "name":"Karmay",
+        "code":"8457i34465i7927iU1242iU1158i34896i34155i34143iU1625iU1247iU1151iU1319iU1153iU1644i31481iU1302i28519i32950i21058",
+        "png":"9hfbu7bf5bd89cbbd4289b6871792e0d83f49"
+    }},
+
+    {"id":101823446, "alias":"Annika_Hope", "type":"guardian", "info":{
+        "date":"2023/10/29", "name":"Duende Corrompida",
+        "code":"23849i1251i19159i15795i26722i9953i23813i8272i6449i20084i20581i5716i4855i29180i9716i18498i5632i32965iU1204i9759iU1156i9778iU1152i10574i22507",
+        "png":"9hfbu1342a7f81cba40dc858a4ca75a38e10e"
+    }},
+
+    {"id":268631737, "alias":"Rossy nye", "type":"guardian", "info":{
+        "date":"2023/10/28", "name":null,
+        "code":"U1181iU1151iU1081iU1156i31481iU1135iU1154iU1167i29017i34869i31628",
+        "png":"9hfbuda02747771cd430494b3ed58a9bd74c2"
+    }},
+
+    {"id":620310150, "alias":"Jarlos", "type":"guardian", "info":{
+        "date":"2023/10/28", "name":"Delfim",
+        "code":"12776iU1107i691i21576i29087i34170i30839i17733iU1158iU1151i4375iU1155i14112i5195i21637i23145iU1118i34210i28527i25205",
+        "png":"9hfbueb98576b894d4078a38caaf3ef06c9e7"
+    }},
+
+    {"id":394513730, "alias":"Zerark", "type":"guardian", "info":{
+        "date":"2023/10/28", "name":"Space groove",
+        "code":"13339i27556i27412i26490i31517i32906i19603i17947i26545iU1151i17977i1114i29011i18826i34777i32994",
+        "png":"9hfbu0fb8b7bcc5ef4582966a9c0bc245c669"
+    }},
+
+    {"id":154616139, "alias":"Zerark", "type":"guardian", "info":{
+        "date":"2023/10/28", "name":null,
+        "code":"7927i31919i34225i13880i34487i24814i33425i19889i34507i26885i33726i33323",
+        "png":"9hfbu209ea8d7a2e540cf9c5089ded0d15572"
+    }},
+
+    {"id":549870314, "alias":"nini", "type":"guardian", "info":{
+        "date":"2023/10/28", "name":"mystic",
+        "code":"27584iU1176i26450i9976i17981i26853i34012i30846i34745i31533i31727i33821i34194i23962i7938iU1153iU1156",
+        "png":"9hfbu7e3a0bcada7646e3a09cc4bfbcebac73"
+    }},
+
+    {"id":396401596, "alias":"Beliart", "type":"guardian", "info":{
+        "date":"2023/10/27", "name":null,
+        "code":"7921i18790i34896i16233i18892i14785i27632i14269iU1138iU1229i20241i15168iU1149iU1155i7990i32160",
+        "png":"9hfbu59abe7f09d00454cb31d48aea0bd8e63"
+    }},
+
+    {"id":129081175, "alias":"sea", "type":"guardian", "info":{
+        "date":"2023/10/27", "name":"Maory",
+        "code":"U1205iU1175iU1148iU1227iU1104iU1161iU1106iU1105i18152iU1073i4646i31481i23521i31814i34063iU1156i33323",
+        "png":"9hfbua8329d101dac4d23bdc6d403cfe7d8ea"
+    }},
+
+    {"id":549275073, "alias":"Zerark", "type":"guardian", "info":{
+        "date":"2023/10/27", "name":null,
+        "code":"10462i7931i20396i16266iU1149i20277iU1154iU1186i21352i23660i33859i21443i14257i21293i14265i14217",
+        "png":"9hfbub5eca2c611ab4b9ab4d77f04e8d0a881"
+    }},
+
+    {"id":459126014, "alias":"Afrodita M.", "type":"cosplay", "info":{
+        "date":"2023/10/27", "name":"Puppet (FNAF)",
+        "code":"1257i5202i29009i19155i10974i28288i33839i8254i15542i6053i6464i34421i31426i25210",
+        "png":"9hfbuc6f16429da2541e3991fc324541f1b81"
+    }},
+
+    {"id":365420605, "alias":"Jarlos", "type":"cosplay", "info":{
+        "date":"2023/10/27", "name":"Perona (One Piece)",
+        "code":"25428i691i29225i33036i2091i6464i34080i23638i21147i7313i33983i5215i13412i34445i25203",
+        "png":"9hfbu8419b598f2574261996b8555689b9a4a"
+    }},
+
+    {"id":638814022, "alias":"Jarlos", "type":"cosplay", "info":{
+        "date":"2023/10/27", "name":"Senna",
+        "code":"25419i7928i34234i18963i4369i11218i34279i21998i33110i31627i6356i14179i34349i5216i25221",
+        "png":"9hfbu7f5ba3017e0541f9b4897110774e0c3a"
+    }},
+
+    {"id":647128063, "alias":"Jarlos", "type":"guardian", "info":{
+        "date":"2023/10/26", "name":"Lodroma Black",
+        "code":"10462i32465i7928i25222i4403iU1151i33025i29541i33746i3446i25288i34527i17335i5246i6436i25394",
+        "png":"9hfbu9c7c93e0a19248268a7b76c20d13c2cb"
+    }},
+
+    {"id":647987173, "alias":"Doctty", "type":"guardian", "info":{
+        "date":"2023/10/25", "name":"Butterfly Effect",
+        "code":"24361i5194i32075i32105i32055i32065i32095i28777i20109i2449i23322i19339",
+        "png":"9hfbud60e2c26926a4d4bb032f685e96b893b"
+    }},
+
+    {"id":895847985, "alias":"Jarlos", "type":"guardian", "info":{
+        "date":"2023/10/25", "name":"Nerís Armanci",
+        "code":"691i32117i34477i32561i20247iU1151iU1143iU1167i31228i26900i32069i5195i17339i34184i15315i32037i31288",
+        "png":"9hfbu82e5c2f57eee4d2586cbb8e1df35eb02"
+    }},
+
+    {"id":833262240, "alias":"Karite", "type":"guardian", "info":{
+        "date":"2023/10/25", "name":null,
+        "code":"34467i33614iU1204i32353i34507i25506iU1140i18987i33133i32330i25394",
+        "png":"9hfbu02cc09f9d3824edbaa9b22dc8ba31933"
+    }},
+
+    {"id":605274627, "alias":"Aradia", "type":"cosplay", "info":{
+        "date":"2023/10/25", "name":"Arataki Itto",
+        "code":"7930iU1151i10779i26457i17708i19440i23560i33141i8561i9622i5566i13762i29180i34115i27611i14270i33685i31919i29560i13194i16786",
+        "png":"9hfbuab0b62d39f494d50afda9c38a0a94e7b"
+    }},
+
+    {"id":353889213, "alias":"Zunay", "type":"guardian", "info":{
+        "date":"2023/10/24", "name":"Happy B̵̡̭͔̞̝̙͍̺̂͊̈ḻ̴̢̫̖͎̦̘̬̽̎͜ö̵͍̖̃́͑̏̈̉͛͝o̶̫̅̇̆̽̈́͌ḑ̴̢̣͖͉̭̓͑͝y̷̡̢͈̙͎͈̬̼͔͂̑̽̅͘ Meal",
+        "code":"34107i24682i1249i10966i12007i18158i24827i7296i18986i15296i28343i18716i28323iU1324i5284iU1204i27185i34203i5303iU1335i28798i30296",
+        "png":"9hfbu573e2a5f27734f7e822b9d9a3b4d395c"
+    }},
+
+    {"id":219851212, "alias":"Zunay", "type":"guardian", "info":{
+        "date":"2023/10/24", "name":"Controlled Awakening",
+        "code":"27770i21882i34107i24646i1249i10966i12007i31476i18153i24827i18806i31659i18986i15296i34219i8588i5052i24815i28343i31546i8562i8573i19159i32412i24682i24694i34203i6250i5303i33254i28798i27670i22032",
+        "png":"9hfbu7f63099953064636bef09366f8d6c4f7"
+    }},
+
     {"id":906446512, "alias":"Jarlos", "type":"guardian", "info":{
         "date":"2023/10/24", "name":"Ungoliant",
         "code":"U1205i14211i7928iU1025i10774iU1089i27810i14555i8528i32823i31760i18575i14252i25399i22031",
@@ -179,7 +383,7 @@
         "png":"cxstr8a6833317c394815a25dbb2caddb9222"
     }},
 
-    {"id":265198676, "alias":"Rosse nye", "type":"guardian", "info":{
+    {"id":265198676, "alias":"Rossy nye", "type":"guardian", "info":{
         "date":"2023/10/20", "name":null,
         "code":"7924iU1081i31481i12560i34868i33366i30874i32322i32771i34173",
         "png":"cxstr7f7da116f55a4ca99a6def257962e87a"
@@ -239,7 +443,7 @@
         "png":"cxstrccefa8dc16d04475bf768ad0a8ce38c0"
     }},
 
-    {"id":294088810, "alias":"Rosse nye", "type":"guardian", "info":{
+    {"id":294088810, "alias":"Rossy nye", "type":"guardian", "info":{
         "date":"2023/10/19", "name":null,
         "code":"1249iU1078i31481i20296i21444i12613i27635i33830i34566i30326i34959",
         "png":"cxstr63d938b0036c4f34b5425972ffa9c653"
@@ -5592,7 +5796,7 @@
         "png":"rv6063394bf03f61946dc8dd32e82217688c2"
     }},
 
-    {"id":815587185, "alias":"Rosse nye", "type":"guardian", "info":{
+    {"id":815587185, "alias":"Rossy nye", "type":"guardian", "info":{
         "date":"2023/03/25", "name":"Rainha dos vampiros",
         "code":"1247i31481i27754i30809i31748i24288i17678i21826i24177i20717i27408i32162",
         "png":"rv606e429ffcc097b4020a3cc81a766b13377"
@@ -5676,7 +5880,7 @@
         "png":"rv606f3062833c9d6492e90d4d6008911d6fd"
     }},
 
-    {"id":138809574, "alias":"Rosse nye", "type":"cosplay", "info":{
+    {"id":138809574, "alias":"Rossy nye", "type":"cosplay", "info":{
         "date":"2023/03/23", "name":"Senhorita miau",
         "code":"34111i1261i31383i8908i32923i16322i19635i31166i27624i28963i34207",
         "png":"rv606e4c8092072324a50b7f683c6d1996317"
@@ -5916,13 +6120,13 @@
         "png":"4s0pc4f3326a74db443f28c86c3e20f2f9fda"
     }},
 
-    {"id":424189673, "alias":"Rosse nye", "type":"guardian", "info":{
+    {"id":424189673, "alias":"Rossy nye", "type":"guardian", "info":{
         "date":"2023/03/17", "name":"Lá noche",
         "code":"32344i29002i19322i32415i10321i10298i22404i26007i26562i10288i10462i18801i25419",
         "png":"4s0pc9fce70a7fd364047b59ae1b92051e8cf"
     }},
 
-    {"id":888904614, "alias":"Rosse nye", "type":"guardian", "info":{
+    {"id":888904614, "alias":"Rossy nye", "type":"guardian", "info":{
         "date":"2023/03/17", "name":"Qeen diabolik",
         "code":"1246i32649i27754i31481i19214i31627i29017i30308i12807i14263i33924i32571i17945i32943i14272i28796i22031",
         "png":"4s0pc3e024e1bd692492da057f7106eb83e10"
@@ -6018,7 +6222,7 @@
         "png":"sf4rq204f85d3403e479f80a28297ef18e637"
     }},
 
-    {"id":512795439, "alias":"Rosse nye", "type":"guardian", "info":{
+    {"id":512795439, "alias":"Rossy nye", "type":"guardian", "info":{
         "date":"2023/03/13", "name":"Rainha elfa",
         "code":"1247i31390i31481i33374i33386i30807i32788i27166i30195i24175i12805i23202i32736i27567i27683i27407",
         "png":"sf4rqa01e7b861930419eba5e058b77f7a8cf"
