@@ -16804,7 +16804,7 @@
 		"french":"Masque Succubus",
 		"english":"(x)Máscara Succubus"
 	},
-	{"groupId":"U1775", "category":"hair", "rarity":"unofficial", "mark":"none", "note":"@Fairy",
+	{"groupId":"U1775", "category":"hair", "rarity":"unofficial", "mark":"none", "note":"@Fairy", "display":"none",
 		"spanish":"Satsuki",
 		"portuguese":"Satsuki",
 		"french":"Satsuki",
@@ -16828,7 +16828,7 @@
 		"french":"Chaussures Ethereal Paradise",
 		"english":"(x)Sandalias Ethereal Paradise"
 	},
-	{"groupId":"U1821", "category":"hair", "rarity":"unofficial", "mark":"none", "note":"@Fairy",
+	{"groupId":"U1821", "category":"hair", "rarity":"unofficial", "mark":"none", "note":"@Fairy", "display":"none",
 		"spanish":"Alysia",
 		"portuguese":"Alysia",
 		"french":"Alysia",
@@ -16840,7 +16840,7 @@
 		"french":"Diadème Ethereal Paradise",
 		"english":"(x)Diadema Ethereal Paradise"
 	},
-	{"groupId":"U1849", "category":"hair", "rarity":"unofficial", "mark":"none", "note":"@Fairy",
+	{"groupId":"U1849", "category":"hair", "rarity":"unofficial", "mark":"none", "note":"@Fairy", "display":"none",
 		"spanish":"Zehra",
 		"portuguese":"Zehra",
 		"french":"Zehra",
