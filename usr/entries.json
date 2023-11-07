@@ -1307,12 +1307,6 @@
         "png":"i0i9wd3c30115d74742feb982e370932914cb"
     }},
 
-    {"id":709491751, "alias":"Brain Miam Miam", "type":"guardian", "info":{
-        "date":"2023/09/03", "name":"Défi \"Coupe Idol\"",
-        "code":"16279i25870i33604i7175i1265i18533i34484i34913i34935i22689i32739i33750i29005i19756i23177i21829i28761i26564i27685i19064i29290i24811",
-        "png":"i0i9web568bdb803846ab850dfb615f05439f"
-    }},
-
     {"id":515292381, "alias":"Náh", "type":"cosplay", "info":{
         "date":"2023/09/03", "name":null,
         "code":"26807i26454i14262i17789i8908i16674i19009i13385i33169i4646i32552i21149i32465i2246i28798",
@@ -2100,12 +2094,6 @@
         "png":"7jpq670df4367b93a420fa1fdd4856680c255"
     }},
 
-    {"id":612540343, "alias":"Brain Miam Miam", "type":"guardian", "info":{
-        "date":"2023/08/09", "name":"Ananké (OC)",
-        "code":"1249i13813i18212i31919i19347i21455i16671i5195i10265i23510i15871i21982i18188i20442i25074i10570i23303i29047i20114",
-        "png":"7jpq67c43fb736ec34cceae1d2b6f8b7c7ebe"
-    }},
-
     {"id":773320945, "alias":"Annika_Hope", "type":"cosplay", "info":{
         "date":"2023/08/09", "name":"Lynn na guarda da sombra",
         "code":"8576i691i31382i26450i29224i34310i2510i5261i18987i18623i29234i32059i32119i25236i32552i31314i34527i21316i31284",
@@ -2224,12 +2212,6 @@
         "date":"2023/08/06", "name":"Dance of roses",
         "code":"1276i26649i18718i30388i8905i24823i26450i28914i32404i34208i28343i28889i28050i33271i25210",
         "png":"il8ow177cc155fd794200b0bd977fbcd32835"
-    }},
-
-    {"id":333018641, "alias":"Brain Miam Miam", "type":"guardian", "info":{
-        "date":"2023/08/05", "name":"Ezarel Crush",
-        "code":"28177i1249i31919i16671i5195i20442i34285i13206i23799i25133i32608i34440i33812i6983",
-        "png":"il8owb2ff1c28ce244c56bacc4a2a4365fe29"
     }},
 
     {"id":311187333, "alias":"Magaby27", "type":"cosplay", "info":{
@@ -2428,12 +2410,6 @@
         "date":"2023/08/02", "name":"Héra",
         "code":"33328i17800i31542i18162i19607i5092i25596i10424i15998i30388i31924i21844i21856i11594i19668i23654i24336i16245i27565i29050i31914i34748i32163",
         "png":"il8owbd9ffa421622445a908138e92dc3a9f2"
-    }},
-
-    {"id":749762393, "alias":"Brain Miam Miam", "type":"guardian", "info":{
-        "date":"2023/08/02", "name":"Reincarnation of the Oracle",
-        "code":"21896i33581i27407i30537i21825i12103i6719i26499i21844i16437i29011i26569i12271i3238i34929i29735i28751i18391i31486i28762i34763i2446i30847i23523i21856i28803i26579i25208",
-        "png":"il8ow7de0030119744a12880787eeaf768ad2"
     }},
 
     {"id":500430677, "alias":"Astra", "type":"cosplay", "info":{
@@ -2638,12 +2614,6 @@
         "date":"2023/07/28", "name":"Princess Gwenevere (Jewel Riders)",
         "code":"21891i11069i18458i18574i14804i16468i8129i5243i8265i13174i24285i23970i10911i27848i4804i33753i13119i16440i12027i19741i19248i13610i6591i19497i11584i6198i23236i15411i12046i12881i29461i6159i22378i19814i27107i9832i15734i18839i17602i18283i17570i1754i29281i28140i2338i27554i2260",
         "png":"swwfy8b51e9f1ed004d24bbecc9c7e7b1f31f"
-    }},
-
-    {"id":153147661, "alias":"Brain Miam Miam", "type":"guardian", "info":{
-        "date":"2023/07/28", "name":"Divine Daemon - Jules",
-        "code":"34467i1276i31919i33686i18283i4400i32853i32794i27641i34118i8389i18874i34945i34703i23660i34925i34713i20114",
-        "png":"swwfy63bc7cd05eba4348a6706992366dcada"
     }},
 
     {"id":268053534, "alias":"Lazzulie", "type":"cosplay", "info":{
@@ -3210,12 +3180,6 @@
         "png":"n0q2xa310dd8b5b64409faeecb1261a0c7f50"
     }},
 
-    {"id":736307375, "alias":"Brain Miam Miam", "type":"guardian", "info":{
-        "date":"2023/07/08", "name":"Défi - Journée piscine",
-        "code":"23948i1249i31919i32853i13913i33819i18283i4400i30516i12807i23660i23426i26477i26481i33169i8085i32918i8170i27554i33300i24347",
-        "png":"n0q2x8fb47de77551400689b5d4960ae80a9f"
-    }},
-
     {"id":749980088, "alias":"Jarlos", "type":"guardian", "info":{
         "date":"2023/07/08", "name":"Inti",
         "code":"34463i23444i34173i7927i34149i16704i32952i34179i32811i34004i30846i16233i16402i32821i28016i18283i6401i31481i8839i27576i12133i20333",
@@ -3414,12 +3378,6 @@
         "png":"fnf8ya43e1e4b964545c4962c3f0de09ee7e6"
     }},
 
-    {"id":657033266, "alias":"Brain Miam Miam", "type":"guardian", "info":{
-        "date":"2023/06/29", "name":"Prophet Daemon - Jules",
-        "code":"33686i34467i1276i21625i18283i31919i23660i19806i4400i34118i13918i19345i18867i19350i25071i30982i19349i29137i20114",
-        "png":"fnf8yf09b873b216c4a84a12ea8abe9d832ed"
-    }},
-
     {"id":907200339, "alias":"hana", "type":"guardian", "info":{
         "date":"2023/06/28", "name":"Ghost lala",
         "code":"7922i32855i18731i33339i5198i19522i16437i12986i33961i33755i30829i29050",
@@ -3508,12 +3466,6 @@
         "date":"2023/06/25", "name":"Evelin D´Wlíndy (New Daemon Form)",
         "code":"691i34467i8009i22437i10316i22449i22425i9510i8680i15202i26817i21773i8652i6994",
         "png":"ocnkc0461f232381f4cfeb095e08842419882"
-    }},
-
-    {"id":995454833, "alias":"Brain Miam Miam", "type":"guardian", "info":{
-        "date":"2023/06/23", "name":"Défi 15 items",
-        "code":"30282i31914i21626i27932i33821i34505i31607i27720i34431i34495i27751i23654i18188i28509i8080i28762i33320",
-        "png":"ocnkc100f0d7b62bb4c23801bfc65292d7e6a"
     }},
 
     {"id":997647074, "alias":"Orismiava", "type":"guardian", "info":{
@@ -3660,22 +3612,10 @@
         "png":"os4k7c03eadeb4a74417aa846dfeaf146f357"
     }},
 
-    {"id":812756533, "alias":"Brain Miam Miam", "type":"guardian", "info":{
-        "date":"2023/06/18", "name":"Daemon Priestess",
-        "code":"21844i33861i22646i33686i1276i13913i13135i31919i18283i4400i23660i34118i13918i9420i16389i18974i12801i12074i14224i18870i20118i26481i29520i11594i9448i18813i3251i25141i2274i4436",
-        "png":"os4k7293d546029ce4da7a8669a5ab3c94844"
-    }},
-
     {"id":357337111, "alias":"Mahanie", "type":"guardian", "info":{
         "date":"2023/06/16", "name":"dragon queen",
         "code":"33656i31473i32224i9603i8907i30414i33608i33598i32788i24943i32764i33410i30316i32915i33400i32774i8418i29116i32958i2791i15663",
         "png":"os4k72fe4f1bb393042d0b53b3b103b382895"
-    }},
-
-    {"id":765647860, "alias":"Brain Miam Miam", "type":"guardian", "info":{
-        "date":"2023/06/15", "name":"Jules Wedding",
-        "code":"28518i1276i31919i18283i34143i4400i13668i23660i34118i25139i32598i29095i12074i18851i34183i34173i15864i33755i32449i16403i33321",
-        "png":"os4k7604eeec53fc54ca5917b54da0ee1e131"
     }},
 
     {"id":333984346, "alias":"Kaday", "type":"cosplay", "info":{
@@ -4242,12 +4182,6 @@
         "png":"32sdwb451a60804bd488ba735ebbe5785003f"
     }},
 
-    {"id":675175203, "alias":"Brain Miam Miam", "type":"guardian", "info":{
-        "date":"2023/05/17", "name":"Witch Warrior",
-        "code":"20002i1249i18283i31919i4400i23660i34118i22868i31884i25071i6841i9101i15240i19238i28313i23299i23346i32029i8582i10496i14116i16787",
-        "png":"32sdw9a603d36367a40dab941fc713e8ee746"
-    }},
-
     {"id":291844971, "alias":"Lexy Games", "type":"cosplay", "info":{
         "date":"2023/05/16", "name":"Monika DDLC",
         "code":"11173i19608i1251i18278i22752i34412i27059i23538i28455i34449i17051i31384i1807i30636i5588i20803i16910i27964i30294",
@@ -4278,22 +4212,10 @@
         "png":"32sdw16d48942937b4cfa8545092888a5d0cd"
     }},
 
-    {"id":524471891, "alias":"Brain Miam Miam", "type":"guardian", "info":{
-        "date":"2023/05/15", "name":"Djinn Princess",
-        "code":"21352i16271i32344i32991i18735i21209i34118i31832i31483i29735i29104i19238i15876i15712i8582i3106i28833i28843i23844i3244i32162",
-        "png":"32sdwe7c64978f0a6427cb6b0774fa0becce2"
-    }},
-
     {"id":879978288, "alias":"Derya", "type":"guardian", "info":{
         "date":"2023/05/15", "name":null,
         "code":"21443i7922i31407i34391i34422i34360i21515i21431i34431i22238i25447i33111i21213i13811i31489i34074i34441i22393i25206",
         "png":"32sdw48af93cbd32945c1a961ae4e2364c446"
-    }},
-
-    {"id":927924815, "alias":"Brain Miam Miam", "type":"guardian", "info":{
-        "date":"2023/05/15", "name":"Witch Princess",
-        "code":"1249i18283i31919i33004i29104i23660i4400i8416i21209i31832i34118i32552i15876i15712i8582i28833i3106i28843i23844i25071i18195i19238i3244",
-        "png":"atxbea70776e18a5c48e895543a1d49d958c6"
     }},
 
     {"id":201264916, "alias":"Dovah", "type":"guardian", "info":{
@@ -5958,18 +5880,6 @@
         "png":"rv6061262ec9417c04d0994ceee970e73b5c1"
     }},
 
-    {"id":710602082, "alias":"Brain Miam Miam", "type":"guardian", "info":{
-        "date":"2023/03/21", "name":"Koharu - Obsidian Kitsune",
-        "code":"34105i1248i13825i18710i20163i31166i32634i1555i7149i34201i8905i1373i5360i12369i1366i14265i5107i5545i2257",
-        "png":"mbn3jd6e8fd174ed5407d87d38ac2e5e899ce"
-    }},
-
-    {"id":465355594, "alias":"Brain Miam Miam", "type":"guardian", "info":{
-        "date":"2023/03/21", "name":"Jules - Daemon's Red Feather",
-        "code":"20002i1276i18283i23660i4400i31832i31919i34118i18235i32552i12295i33839i18963i7301i7954i29214i15308i8582i14270i25205",
-        "png":"mbn3j68a75ae8a2994b4dbce2fdd2533d5e69"
-    }},
-
     {"id":128332363, "alias":"Derya", "type":"guardian", "info":{
         "date":"2023/03/21", "name":null,
         "code":"33100i25409i32440i9305i19159i31476i16266i18283i29002i9477i32363i17181i9489i9475i32374i11417i32384i32404i7661i31481i32450i9494i9496i22031",
@@ -7464,12 +7374,6 @@
         "png":"bu2yk4bc255e70df542c98b4a5e2c2a14929f"
     }},
 
-    {"id":182754656, "alias":"Brain Miam Miam", "type":"guardian", "info":{
-        "date":"2023/02/16", "name":"Witch Friend",
-        "code":"7930i31919i23660i16262i18283i27755i34118i18623i13677i25071i18963i17270i27737i18987i23437i27998i31327i22238i18195i25215",
-        "png":"bu2yk0b0c3db9c58c414b8bcf2f85f48304b3"
-    }},
-
     {"id":891131974, "alias":"Mahanie", "type":"cosplay", "info":{
         "date":"2023/02/16", "name":"Sun Wukong (Monkey King)",
         "code":"1262i5221i27750i33776i11683i15427i26985i9394i32210i18596i14323i29278i7990i8780i32158",
@@ -8670,12 +8574,6 @@
         "png":"89g9q9cd85a8faccc4ca1b3a4630f279c7a6a"
     }},
 
-    {"id":229239180, "alias":"Brain Miam Miam", "type":"cosplay", "info":{
-        "date":"2023/01/22", "name":"Morpheus - Sandman",
-        "code":"25419i7922i4400i23660i28291i27122i23094i25310i32162",
-        "png":"89g9q1f079e0281ba477eb785d8d6d2013ea4"
-    }},
-
     {"id":904352550, "alias":"yokko", "type":"guardian", "info":{
         "date":"2023/01/21", "name":null,
         "code":"16275i33580i32571i22331i27581i27591i12275i30276i31745i29094i33359i23176i32523i12128i32628i22687i33004i32730i18157i33385i9340i21856i28103i29011i31483i27727i31359i22675i24941i33405i33480i6660i26563i28527i29633i26942i28893i27712i13345i12857i12769i8869i32866i27561i26573i12822i25217",
@@ -8760,12 +8658,6 @@
         "png":"89g9q9f69d0cfbc8f45bbb34e68867d984f74"
     }},
 
-    {"id":814852116, "alias":"Brain Miam Miam", "type":"guardian", "info":{
-        "date":"2023/01/19", "name":"Daemon Jules - Human Outfit",
-        "code":"1276i22646i31919i30516i23844i31416i30594i23660i15308i4400i22635i22602i31884i3308i30645",
-        "png":"89g9qad7678c3338f423d941c735f87fa2a1b"
-    }},
-
     {"id":308894985, "alias":"MartaIV44", "type":"guardian", "info":{
         "date":"2023/01/19", "name":"Angel Slayer",
         "code":"18939i23032i7922i5196i16269i20235i26118i3432i25236i22403i25288i8584i12005i24991i25419i15315i25208",
@@ -8788,12 +8680,6 @@
         "date":"2023/01/19", "name":"Chamán",
         "code":"23948i691i31481i16266i19148i31414i23488i11869i22437i22449i20330i19056i22425i22386i19080i32161",
         "png":"89g9qfbe667bc6687462d85001ecdcfc16fd5"
-    }},
-
-    {"id":718053169, "alias":"Brain Miam Miam", "type":"guardian", "info":{
-        "date":"2023/01/19", "name":"Jules Human Outfit",
-        "code":"1276i31919i30516i23844i31416i30594i23660i15308i4400i22635i22602i31884i30645",
-        "png":"89g9q547769269df948f1a82dc3dd52050c06"
     }},
 
     {"id":305494909, "alias":"MartaIV44", "type":"guardian", "info":{
@@ -8932,12 +8818,6 @@
         "date":"2023/01/17", "name":"Ground Zero",
         "code":"1254i16259i18283i4396i5609i8389i16780i26881i3354i28373i25215",
         "png":"s6478c9c826c9c36544cca63b3ea584a7ee50"
-    }},
-
-    {"id":603244206, "alias":"Brain Miam Miam", "type":"guardian", "info":{
-        "date":"2023/01/17", "name":"Jules - Winter Suit",
-        "code":"6449i1276i4400i23660i33489i20002i17208i19705i33509i33519i22246i6123i15308i8800i22602i28721i6450i25642",
-        "png":"s647841965b5770034ea7badd096dfdde0816"
     }},
 
     {"id":903611987, "alias":"Mxriarty", "type":"guardian", "info":{
@@ -9126,12 +9006,6 @@
         "png":"s6478bf5e9299be7449edb000e1c7b71e2309"
     }},
 
-    {"id":705819565, "alias":"Brain Miam Miam", "type":"guardian", "info":{
-        "date":"2023/01/15", "name":"Adventurous Oneiroi",
-        "code":"21352i1273i16273i18963i2337i8065i23856i11092i18188i28794i33489i13192i23660i8213i27750i8253i33425i17302i23094i20115",
-        "png":"s6478d67c06f9d1e24061809c7288c1b3e026"
-    }},
-
     {"id":352070670, "alias":"Deathness", "type":"guardian", "info":{
         "date":"2023/01/15", "name":"Kuca",
         "code":"25361i32843i33631i33593i27750i5553i24254i26717i10052i33750i29296i13664i10459",
@@ -9184,12 +9058,6 @@
         "date":"2023/01/15", "name":"Desert Knight",
         "code":"19274i16273i21891i21663i7927i5192i10240i15733i31472i16261i16676i11868i8549i17659i17172i17916i23855i17649i16395i16507i23819i11866i12138i12161i20587i15300i17594i18851i17535i20721i17309i12220i17868i16887i20221i16383i17319i16282i16405i32993",
         "png":"s64787d6629e87d5b49458deec73000c33480"
-    }},
-
-    {"id":188399818, "alias":"Brain Miam Miam", "type":"guardian", "info":{
-        "date":"2023/01/14", "name":"The Last Van Helsing",
-        "code":"29264i1276i4400i23660i33489i20002i19705i18987i32552i22238i29224i8560i18963i14270i15308i8582i22602i32323i3536",
-        "png":"7yqvr1494f1e7b7f94b1c9925d1b8802555fd"
     }},
 
     {"id":455802814, "alias":"Mariie;♡", "type":"guardian", "info":{
@@ -9288,12 +9156,6 @@
         "png":"7yqvre4fa97e69f584cccb0ab20ea22534522"
     }},
 
-    {"id":798746191, "alias":"Brain Miam Miam", "type":"guardian", "info":{
-        "date":"2023/01/12", "name":"Working Oneiroi (Greek Mythology)",
-        "code":"21352i16273i1273i14196i20118i28142i31832i33489i8213i18188i13742i8253i2337i29004i23660i33425i32863i19340",
-        "png":"7yqvr7848b84f04934c2783c8d863b2569cf8"
-    }},
-
     {"id":317285271, "alias":"vivian264", "type":"guardian", "info":{
         "date":"2023/01/12", "name":"fadinha",
         "code":"27165i28616i7922i33341i31403i5161i10000i23373i23424i23577i31525i27555i28520i6768i21058",
@@ -9316,12 +9178,6 @@
         "date":"2023/01/12", "name":null,
         "code":"7926i26202i30839i33565i15541i11609i29858i13236i23653i20280i21769",
         "png":"7yqvr9f6cdbb3689f4431ad08472f03520c59"
-    }},
-
-    {"id":743582282, "alias":"Brain Miam Miam", "type":"guardian", "info":{
-        "date":"2023/01/11", "name":"Oneiroi (Greek Mythology)",
-        "code":"21352i16273i1273i33489i30526i20118i8279i18963i2337i8213i13742i8253i18188i20091i17302i30846i4378i23094i23660i33425i25202",
-        "png":"7yqvrd37124198a0f49debadf2fcddfc33fda"
     }},
 
     {"id":608433535, "alias":"Alessana", "type":"guardian", "info":{
@@ -9352,12 +9208,6 @@
         "date":"2023/01/10", "name":"Beetlejuice",
         "code":"8556i23832i23844i31303i28741i18163i19327i13899i24005i27092",
         "png":"7yqvr86b9e22522f94c169a4bea51594f3550"
-    }},
-
-    {"id":248031799, "alias":"Brain Miam Miam", "type":"guardian", "info":{
-        "date":"2023/01/09", "name":"Oneiroi",
-        "code":"1274i9886i13813i31832i8213i33489i13742i14270i8253i30388i17781i32629i4378i13183i33425i23660i18188i22238i19352",
-        "png":"ez5us08396792fdd6434aa2b47a5eda558a5a"
     }},
 
     {"id":438713307, "alias":"alpacalypse", "type":"guardian", "info":{
@@ -17820,24 +17670,6 @@
         "png":"2n9qi222fa7429f014c7aae94df6e58422bdb"
     }},
 
-    {"id":211370705, "alias":"Brain Miam Miam", "type":"guardian", "info":{
-        "date":"2022/08/07", "name":"Miserible Koharu",
-        "code":"17806i691i5235i9617i4714i25737i17804i15302i31288",
-        "png":"2n9qifeb8829d467347faba5a5e882b0ed079"
-    }},
-
-    {"id":302184788, "alias":"Brain Miam Miam", "type":"guardian", "info":{
-        "date":"2022/08/07", "name":"Koharu Hanabi (without Tail)",
-        "code":"691i7935i17391i25260i9617i16399i28323i26896i23123i17804i25830i20418i25211",
-        "png":"2n9qi8a34825f76ce401884db86f0bbdeb140"
-    }},
-
-    {"id":567421390, "alias":"Brain Miam Miam", "type":"guardian", "info":{
-        "date":"2022/08/07", "name":"Koharu Hanabi",
-        "code":"17806i691i7935i17391i25260i9617i16399i28323i26896i23123i17804i25830i20418i25211",
-        "png":"2n9qi94fb62b7bc234cb1a06b84fe455238c5"
-    }},
-
     {"id":222541025, "alias":"Phsyche", "type":"cosplay", "info":{
         "date":"2022/08/07", "edited":"2022/10/20", "name":"Mel Medarda",
         "code":"7920i9843i16259i17412i18283i31382i24336i28266i5206i18963i31929i31659i18865i31737i29140i22347i12419i30389i28122i31587i25246",
@@ -17854,12 +17686,6 @@
         "date":"2022/08/07", "name":"Tinkerbell",
         "code":"691i17572i5205i28585i12639i8534i18255i6156i28618i12819i6768i30296",
         "png":"2n9qid528d463518647dc8719e18522d22a34"
-    }},
-    {"id":174756326, "alias":"Brain Miam Miam", "type":"cosplay", "info":{
-        "date":"2022/08/06", "name":"Scylla (Scylla and Charybde) - Greek Mythology",
-        "code":"17961i26480i8924i26470i14270i24823i18849i24822i29005i25288i29521i24937i8572i27687i15181i14067i24692i4435",
-        "png":"2n9qi39bd49d418bd4a74b865ba922c89f050"
-    }},
 
     {"id":949338481, "alias":"ChioRochy", "type":"guardian", "info":{
         "date":"2022/08/06", "name":"Hada de Invierno",
@@ -17997,12 +17823,6 @@
         "date":"2022/08/02", "name":"Rafaela Dragon.",
         "code":"1276i12720i26841i24823i323i5219i14251i13384i13172i14246i22495i25309i24961i13164i14250i13166i25419i13170i3545",
         "png":"i69jdf5a8a3ce923d4428ba8e2e7816e90505"
-    }},
-
-    {"id":521115282, "alias":"Brain Miam Miam", "type":"guardian", "info":{
-        "date":"2022/08/02", "name":"Jules - Shadow Guard Uniform",
-        "code":"1276i31919i18272i23660i16694i25309i25150i29104i4837i29214i22238i26895i11862i3532",
-        "png":"i69jd99ec4ece57ba453baef1610e95587533"
     }},
 
     {"id":603968105, "alias":"Mel", "type":"guardian", "info":{
@@ -18545,28 +18365,10 @@
         "png":"rcezbe357c587878b4914929c9c0be523b359"
     }},
 
-    {"id":960438175, "alias":"Brain Miam Miam", "type":"guardian", "info":{
-        "date":"2022/07/20", "name":"Jules - Divine Daemon Form",
-        "code":"16271i1276i5391i21846i21858i22646i5215i29008i5405i5377i14908i25150i25071i12857i12769i15240i26570i6998",
-        "png":"rcezb5bb79ee410cf421dbdd03eed638126d0"
-    }},
-
     {"id":625915901, "alias":"Daki", "type":"guardian", "info":{
         "date":"2022/07/20", "name":null,
         "code":"1266i29004i17974i30333i30066i30343i30313i30323i30353i30363i30373i30389i28798i25214",
         "png":"rcezbe7cc25fd557446a5a45610e5fbd7018f"
-    }},
-
-    {"id":240450598, "alias":"Brain Miam Miam", "type":"guardian", "info":{
-        "date":"2022/07/20", "name":"Sexy Jules",
-        "code":"22495i1276i14067i20346i23660i18272i30526i16694i22397i22238i19816i12290i25150i25309i21116i22290i5626i18219i6768i2981",
-        "png":"rcezbd5c01f3db7694d58bbfe9e63318c02bb"
-    }},
-
-    {"id":496126203, "alias":"Brain Miam Miam", "type":"guardian", "info":{
-        "date":"2022/07/20", "name":"Jules Prom Dress 1",
-        "code":"13333i1276i14196i16259i29731i21669i16694i23660i31617i11594i29924i18188i31738i18212i31337i31328i31883i25208",
-        "png":"rcezb3d91424df2344d26b80676338e6243f2"
     }},
 
     {"id":993106525, "alias":"elybel", "type":"guardian", "info":{
@@ -18621,12 +18423,6 @@
         "date":"2022/07/18", "name":"HOUUCHI_ZHICHAN",
         "code":"691i27754i31486i31659i27926i31853i31826i31783i31803i31747i31727i29802i29521i25136i25066i24174i23326i23349i17805i3227i25208",
         "png":"8un6s865fee4dfc89483b8ece28dd3cc46037"
-    }},
-
-    {"id":760016071, "alias":"Brain Miam Miam", "type":"guardian", "info":{
-        "date":"2022/07/18", "name":"Human Civilian Jules",
-        "code":"1276i18272i5245i16694i30615i25150i31303i1776i30680i25309i11862i31888i30297",
-        "png":"8un6sca9d2c4bca184ecca1922c1e650aa0b5"
     }},
 
     {"id":871131645, "alias":"Treissy", "type":"guardian", "info":{
