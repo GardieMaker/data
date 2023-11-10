@@ -17109,5 +17109,65 @@
 		"portuguese":"Véu The Forgotten Elf Queen",
 		"french":"Voile The Forgotten Elf Queen",
 		"english":"(x)Velo The Forgotten Elf Queen"
+	},
+	{"groupId":"U2105", "category":"ambient", "rarity":"unofficial", "mark":"none", "note":"@Kyanne",
+		"spanish":"Setas gigantes Fairytale Lady",
+		"portuguese":"Cogumelos gigantes Fairytale Lady",
+		"french":"Champignons géants Fairytale Lady",
+		"english":"(x)Setas gigantes Fairytale Lady"
+	},
+	{"groupId":"U2124", "category":"tatoo", "rarity":"unofficial", "mark":"none", "note":"@Kyanne",
+		"spanish":"Grietas Fairytale Lady",
+		"portuguese":"Rachaduras Fairytale Lady",
+		"french":"Fissures Fairytale Lady",
+		"english":"(x)Grietas Fairytale Lady"
+	},
+	{"groupId":"U2144", "category":"shoe", "rarity":"unofficial", "mark":"none", "note":"@Kyanne",
+		"spanish":"Zapatos Fairytale Lady",
+		"portuguese":"Sapatos Fairytale Lady",
+		"french":"Chaussures Fairytale Lady",
+		"english":"(x)Zapatos Fairytale Lady"
+	},
+	{"groupId":"U2160", "category":"sock", "rarity":"unofficial", "mark":"none", "note":"@Kyanne",
+		"spanish":"Medias Fairytale Lady",
+		"portuguese":"Meia-calça Fairytale Lady",
+		"french":"Bas Fairytale Lady",
+		"english":"(x)Medias Fairytale Lady"
+	},
+	{"groupId":"U2177", "category":"pants", "rarity":"unofficial", "mark":"none", "note":"@Kyanne",
+		"spanish":"Falda Fairytale Lady",
+		"portuguese":"Saia Fairytale Lady",
+		"french":"Jupe Fairytale Lady",
+		"english":"(x)Falda Fairytale Lady"
+	},
+	{"groupId":"U2191", "category":"top", "rarity":"unofficial", "mark":"none", "note":"@Kyanne",
+		"spanish":"Top Fairytale Lady",
+		"portuguese":"Top Fairytale Lady",
+		"french":"Top Fairytale Lady",
+		"english":"(x)Top Fairytale Lady"
+	},
+	{"groupId":"U2211", "category":"necklace", "rarity":"unofficial", "mark":"none", "note":"@Kyanne",
+		"spanish":"Cristales flotantes Fairytale Lady",
+		"portuguese":"Cristais flutuantes Fairytale Lady",
+		"french":"Cristaux flottants Fairytale Lady",
+		"english":"(x)Cristales flotantes Fairytale Lady"
+	},
+	{"groupId":"U2231", "category":"hair", "rarity":"unofficial", "mark":"none", "note":"@Kyanne",
+		"spanish":"Poppy",
+		"portuguese":"Poppy",
+		"french":"Poppy",
+		"english":"(x)Poppy"
+	},
+	{"groupId":"U2251", "category":"hat", "rarity":"unofficial", "mark":"none", "note":"@Kyanne",
+		"spanish":"Corona Fairytale Lady",
+		"portuguese":"Coroa Fairytale Lady",
+		"french":"Couronne Fairytale Lady",
+		"english":"(x)Corona Fairytale Lady"
+	},
+	{"groupId":"U2269", "category":"top", "rarity":"unofficial", "mark":"none", "note":"@LadyWeirdo",
+		"spanish":"Top Bloody Magician",
+		"portuguese":"Top Bloody Magician",
+		"french":"Haut Bloody Magician",
+		"english":"(x)Haut Bloody Magician"
 	}
 ]
