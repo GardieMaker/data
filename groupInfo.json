@@ -17619,5 +17619,164 @@
 		"portuguese":"Spider House",
 		"french":"Spider House",
 		"english":"(x)Spider House"
+	},
+
+
+
+	{"groupId":"U3060", "category":"hair", "rarity":"unofficial", "mark":"none", "note":"@Kory",
+		"spanish":"Bella",
+		"portuguese":"Bella",
+		"french":"Bella",
+		"english":"(x)Bella"
+	},
+	{"groupId":"U3086", "category":"hair", "rarity":"unofficial", "mark":"none", "note":"@Kory",
+		"spanish":"Amelia",
+		"portuguese":"Amelia",
+		"french":"Amelia",
+		"english":"(x)Amelia"
+	},
+	{"groupId":"U3111", "category":"hair", "rarity":"unofficial", "mark":"none", "note":"@Kory",
+		"spanish":"Matilde",
+		"portuguese":"Matilde",
+		"french":"Matilde",
+		"english":"(x)Matilde"
+	},
+	{"groupId":"U3136", "category":"hair", "rarity":"unofficial", "mark":"none", "note":"@Kory",
+		"spanish":"Sophia",
+		"portuguese":"Sophia",
+		"french":"Sophia",
+		"english":"(x)Sophia"
+	},
+	{"groupId":"U3162", "category":"coat", "rarity":"unofficial", "mark":"none", "note":"@TejonEnCalcetas",
+		"spanish":"Abrigo Gothique",
+		"portuguese":"Casaco Gothique",
+		"french":"Manteau Gothique",
+		"english":"(x)Abrigo Gothique"
+	},
+	{"groupId":"U3172", "category":"hair", "rarity":"unofficial", "mark":"none", "note":"@TejonEnCalcetas",
+		"spanish":"Sienna",
+		"portuguese":"Sienna",
+		"french":"Sienna",
+		"english":"(x)Sienna"
+	},
+	{"groupId":"U3197", "category":"coat", "rarity":"unofficial", "mark":"none", "note":"@TejonEnCalcetas",
+		"spanish":"Chaqueta Casual Army",
+		"portuguese":"Jaqueta Casual Army",
+		"french":"Veste Casual Army",
+		"english":"(x)Chaqueta Casual Army"
+	},
+	{"groupId":"U3199", "category":"top", "rarity":"unofficial", "mark":"none", "note":"@TejonEnCalcetas",
+		"spanish":"Top Silent Mermaid",
+		"portuguese":"Top Silent Mermaid",
+		"french":"Top Silent Mermaid",
+		"english":"(x)Top Silent Mermaid"
+	},
+	{"groupId":"U3206", "category":"faceAccessory", "rarity":"unofficial", "mark":"none", "note":"@TejonEnCalcetas",
+		"spanish":"Gafas Silent Mermaid",
+		"portuguese":"Óculos Silent Mermaid",
+		"french":"Lunettes Silent Mermaid",
+		"english":"(x)Gafas Silent Mermaid"
+	},
+	{"groupId":"U3207", "category":"pants", "rarity":"unofficial", "mark":"none", "note":"@TejonEnCalcetas",
+		"spanish":"Short con correas",
+		"portuguese":"Short com alças",
+		"french":"Short à bretelles",
+		"english":"(x)Short con correas"
+	},
+	{"groupId":"U3212", "category":"top", "rarity":"unofficial", "mark":"none", "note":"@TejonEnCalcetas",
+		"spanish":"Chaqueta Capitana Comics",
+		"portuguese":"Jaqueta Capitana Comics",
+		"french":"Veste Capitana Comics",
+		"english":"(x)Chaqueta Capitana Comics"
+	},
+	{"groupId":"U3216", "category":"tatoo", "rarity":"unofficial", "mark":"none", "note":"@TejonEnCalcetas",
+		"spanish":"Tatuaje Clave de Sol",
+		"portuguese":"Tatuagem Chave de Sol",
+		"french":"Tatouage Clé de Sol",
+		"english":"(x)Tatuaje Clave de Sol"
+	},
+	{"groupId":"U3225", "category":"pants", "rarity":"unofficial", "mark":"none", "note":"@TejonEnCalcetas",
+		"spanish":"Falda Kraken Reporter",
+		"portuguese":"Saia Kraken Reporter",
+		"french":"Jupe Kraken Reporter",
+		"english":"(x)Falda Kraken Reporter"
+	},
+	{"groupId":"U3226", "category":"pants", "rarity":"unofficial", "mark":"none", "note":"@TejonEnCalcetas",
+		"spanish":"Top Perfect Time",
+		"portuguese":"Top Perfect Time",
+		"french":"Top Perfect Time",
+		"english":"(x)Top Perfect Time"
+	},
+	{"groupId":"U3234", "category":"tatoo", "rarity":"unofficial", "mark":"none", "note":"@TejonEnCalcetas",
+		"spanish":"Tatuaje Dream Catcher",
+		"portuguese":"Tatuagem Dream Catcher",
+		"french":"Tatouage Dream Catcher",
+		"english":"(x)Tatuaje Dream Catcher"
+	},
+	{"groupId":"U3240", "category":"tatoo", "rarity":"unofficial", "mark":"none", "note":"@TejonEnCalcetas",
+		"spanish":"Tatuaje Lover Skull",
+		"portuguese":"Tatuagem Lover Skull",
+		"french":"Tatouage Lover Skull",
+		"english":"(x)Tatuaje Lover Skull"
+	},
+	{"groupId":"U3245", "category":"hair", "rarity":"unofficial", "mark":"none", "note":"@TejonEnCalcetas",
+		"spanish":"Jessie",
+		"portuguese":"Jessie",
+		"french":"Jessie",
+		"english":"(x)Jessie"
+	},
+	{"groupId":"U3271", "category":"pants", "rarity":"unofficial", "mark":"none", "note":"@evvie",
+		"spanish":"Falda Damask Doll",
+		"portuguese":"Saia Damask Doll",
+		"french":"Jupe Damask Doll",
+		"english":"(x)Falda Damask Doll"
+	},
+	{"groupId":"U3281", "category":"top", "rarity":"unofficial", "mark":"none", "note":"@evvie",
+		"spanish":"Top Damask Doll",
+		"portuguese":"Top Damask Doll",
+		"french":"Top Damask Doll",
+		"english":"(x)Top Damask Doll"
+	},
+	{"groupId":"U3291", "category":"shoe", "rarity":"unofficial", "mark":"none", "note":"@evvie",
+		"spanish":"Zapatos Flourish",
+		"portuguese":"Sapatos Flourish",
+		"french":"Chaussures Flourish",
+		"english":"(x)Zapatos Flourish"
+	},
+	{"groupId":"U3302", "category":"dress", "rarity":"unofficial", "mark":"none", "note":"@evvie",
+		"spanish":"Vestido Flourish",
+		"portuguese":"Vestido Flourish",
+		"french":"Robe Flourish",
+		"english":"(x)Vestido Flourish"
+	},
+	{"groupId":"U3313", "category":"necklace", "rarity":"unofficial", "mark":"none", "note":"@evvie",
+		"spanish":"Collar Flourish",
+		"portuguese":"Colar Flourish",
+		"french":"Collier Flourish",
+		"english":"(x)Collar Flourish"
+	},
+	{"groupId":"U3324", "category":"hair", "rarity":"unofficial", "mark":"none", "note":"@evvie",
+		"spanish":"Evie",
+		"portuguese":"Evie",
+		"french":"Evie",
+		"english":"(x)Evie"
+	},
+	{"groupId":"U3350", "category":"skin", "rarity":"unofficial", "mark":"none", "note":"@evvie",
+		"spanish":"Piel Inhuman",
+		"portuguese":"Pele Inhuman",
+		"french":"Peau Inhuman",
+		"english":"(x)Piel Inhuman"
+	},
+	{"groupId":"U3356", "category":"faceAccessory", "rarity":"unofficial", "mark":"none", "note":"@evvie",
+		"spanish":"Orejas Inhuman",
+		"portuguese":"Orelhas Inhuman",
+		"french":"Oreilles Inhuman",
+		"english":"(x)Orejas Inhuman"
+	},
+	{"groupId":"U3362", "category":"dress", "rarity":"unofficial", "mark":"none", "note":"@evvie",
+		"spanish":"Vestido Sophisticated Elf",
+		"portuguese":"Vestido Sophisticated Elf",
+		"french":"Robe Sophisticated Elf",
+		"english":"(x)Sophisticated Elf"
 	}
 ]
